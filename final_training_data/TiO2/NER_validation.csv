@@ -1,0 +1,395 @@
+jsonl_data,label
+"{'data': 'Item | Standard | Standard | Result <header> <> <Item> <Item> | <> <Standard> <> | <> <Standard> <> | <> <Result> <> </header>', 'label': []}",header
+"{'data': 'pH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8.0', 'label': [[145, 148, 'mean']]}",pH
+"{'data': 'Specific gravity [ g/cm 3 ] | 4.0', 'label': [[19, 25, 'unit'], [30, 33, 'mean']]}",Density
+"{'data': 'PH值 | 7.2', 'label': [[6, 9, 'mean']]}",pH
+"{'data': 'Specific Gravity | 4.0 <header> <Property> | <R - 706 > </header>', 'label': [[19, 22, 'mean']]}",Density
+"{'data': 'Surface treatment | aluminium and silicon compounds', 'label': []}",Inorganic surface treatment
+"{'data': 'pH | 7 - 8', 'label': [[5, 6, 'min'], [9, 10, 'max']]}",pH
+"{'data': 'Specific gravity | 4.04 g/cm 3 | 4.04 g/cm 3 <header> <TiO 2 content> | < 93 % > | < 93 % > </header>', 'label': [[19, 23, 'mean'], [24, 30, 'unit'], [33, 37, 'mean'], [38, 44, 'unit']]}",Density
+"{'data': 'Average specific density ( kg/m 3 ) | 3800', 'label': [[0, 7, 'measuring_condition'], [27, 33, 'unit'], [38, 42, 'mean']]}",Density
+"{'data': 'pH | 7 - 8', 'label': [[5, 6, 'min'], [9, 10, 'max']]}",pH
+"{'data': 'Oil absorption ( av. ) | 33 lb./ 100 1 b. ( 330 g/kg )', 'label': [[17, 20, 'measuring_condition'], [25, 27, 'mean'], [28, 41, 'unit'], [44, 47, 'mean'], [48, 52, 'unit']]}",Oil Absorption
+"{'data': 'Typical | • TiO 2 content: | 95 % <header> <Description:> | <multipurpose chloride - process pigment designed give outstanding combination of dispersion, opacity, gloss and durability in a wide range of coating applications.> | <multipurpose chloride - process pigment designed give outstanding combination of dispersion, opacity, gloss and durability in a wide range of coating applications.> </header>', 'label': [[29, 31, 'mean'], [32, 33, 'unit']]}",TiO2 content
+"{'data': 'Inorganic coating Organic treatment Crystal size [ μm ] Specific gravity [ g/cm 3 ] Loss at 105 °C ( 1 ) [ % ] Bulk density ( tamped ) ( 2 ) [ g/cm 3 ] Oil absorption ( 3 ) [ cm 3 /g pigment ] Water demand ( 4 ) [ cm 3 /g pigment ] Durability | Inorganic coating Organic treatment Crystal size [ μm ] Specific gravity [ g/cm 3 ] Loss at 105 °C ( 1 ) [ % ] Bulk density ( tamped ) ( 2 ) [ g/cm 3 ] Oil absorption ( 3 ) [ cm 3 /g pigment ] Water demand ( 4 ) [ cm 3 /g pigment ] Durability | Highly durable <header> <TiO 2 content [ % ] > | <TiO 2 content [ % ] > | < 94 > </header>', 'label': []}",multi
+"{'data': 'Specific Gravity | 4.0 <header> <Property> | <R - 706 > </header>', 'label': [[19, 22, 'mean']]}",Density
+"{'data': 'pH value | 7.0 - 8.2 | pH <header> <Property> | <Specification> | <Method ( c.f. reverse for explanation ) > </header>', 'label': [[11, 14, 'min'], [17, 20, 'max']]}",pH
+"{'data': 'Specific Gravity | 4.1 <header> <Color> | <Beige> </header>', 'label': [[19, 22, 'mean']]}",Density
+"{'data': 'Bulk Density ( Loose ) , kg/m 3 | 640 <header> <Color> | <Gray> </header>', 'label': [[0, 4, 'measuring_condition'], [15, 20, 'measuring_condition'], [25, 31, 'unit'], [34, 37, 'mean']]}",Density
+"{'data': 'Crystal Structure | Crystal Structure | Rutile | Rutile | Rutile <header> <ITEM> | <ITEM> | <MT - 100 HD> | <MT - 500 HD> | <MT - 700 HD> </header>', 'label': []}","Crystal (rutile %, anatase %)"
+"{'data': 'TiO 2, % | 95.00 <header> <> | <STD> </header>', 'label': [[7, 8, 'unit'], [11, 16, 'mean']]}",TiO2 content
+"{'data': 'Oil Absorption ( g/ 100 g ) | Oil Absorption ( g/ 100 g ) | 40 - 50 | 35 - 45 | 30 - 40 <header> <ITEM> | <ITEM> | <MT - 100 HD> | <MT - 500 HD> | <MT - 700 HD> </header>', 'label': [[17, 25, 'unit'], [47, 55, 'unit'], [60, 62, 'min'], [65, 67, 'max'], [70, 72, 'min'], [75, 77, 'max'], [80, 82, 'min'], [85, 87, 'max']]}",Oil Absorption
+"{'data': 'Product Characteristics | Production rutile pigment produced by the chloride process <label>', 'label': []}",Production Process
+"{'data': 'pH | 8.1 <header> <Property> | <R - 900 > </header>', 'label': [[5, 8, 'mean']]}",pH
+"{'data': 'Oil Absorption: | 18 - 23', 'label': [[18, 20, 'min'], [23, 25, 'max']]}",Oil Absorption
+"{'data': 'Rutile | % | ≥ | 98 <header> <Contents: TiO 2 > | < % ≥> | < % ≥> | < 94 > </header>', 'label': [[9, 10, 'unit'], [17, 19, 'min']]}","Crystal (rutile %, anatase %)"
+"{'data': 'Specific Gravity | 4.0 <header> <Property> | <R - 902 +> </header>', 'label': [[19, 22, 'mean']]}",Density
+"{'data': 'Oil Absorption ( g/ 100 g ) | 25.0', 'label': [[17, 25, 'unit'], [30, 34, 'mean']]}",Oil Absorption
+"{'data': 'Amorphous Silica, wt % | — <header> <Property> | <R - 900 > </header>', 'label': [[18, 20, 'measuring_condition'], [21, 22, 'unit']]}",Inorganic surface treatment
+"{'data': 'Specific gravity [ g/cm 3 ] Loss at 105 °C ( 1 ) [ % ] | Specific gravity [ g/cm 3 ] Loss at 105 °C ( 1 ) [ % ] | 0.6', 'label': [[19, 25, 'unit'], [76, 82, 'unit'], [114, 117, 'mean'], [28, 54, 'unclear_value'], [85, 111, 'unclear_value']]}",Density
+"{'data': '· Specific gravity: | 4.1', 'label': [[22, 25, 'mean']]}",Density
+"{'data': 'TiO 2 content ( m/m ) | 94.0 %', 'label': [[16, 19, 'measuring_condition'], [24, 28, 'mean'], [29, 30, 'unit']]}",TiO2 content
+"{'data': 'Alumina | Yes <header> <Property> | <R - 902 +> </header>', 'label': []}",Inorganic surface treatment
+"{'data': 'TiO 2 content | 94.5 % | XRF <header> <PARAMETER> | <VALUE> | <TEST METHOD> </header>', 'label': [[16, 20, 'mean'], [21, 22, 'unit'], [25, 28, 'method']]}",TiO2 content
+"{'data': 'Oil Absorption，g/ 100 g | 17.5 | 17.5 |', 'label': [[15, 23, 'unit'], [26, 30, 'mean'], [33, 37, 'mean']]}",Oil Absorption
+"{'data': 'Oil Absorption ( g. Oil/ 100 g ) | 23 <header> <Color> | <Light Beige> </header>', 'label': [[17, 30, 'unit'], [35, 37, 'mean']]}",Oil Absorption
+"{'data': 'Particle Size: | 0.3 μ m', 'label': [[17, 20, 'mean'], [21, 24, 'unit']]}",Particle size
+"{'data': 'Properties: | • Oil absorption: 19 g/ 100 g | LWM Corporate Center <header> <> | <pigment designed give outstanding combination of dispersion, opacity, gloss and durability in a wide range interior and exterior, water and solvent based coating formulations.> | <Australia Phone: + ( 08 ) .9780.8301 or + 61.8.9780.8301 CHINA> </header>', 'label': [[32, 34, 'mean'], [35, 43, 'unit']]}",Oil Absorption
+"{'data': '· Surface treatment: | Alumina ( no organic treatment )', 'label': []}",Inorganic surface treatment
+"{'data': '• Specific gravity: | 4.0', 'label': [[22, 25, 'mean']]}",Density
+"{'data': 'Surface treatment | aluminium and silicon compounds', 'label': []}",Inorganic surface treatment
+"{'data': 'Specific gravity | 4.05 g/cm 3 <header> <TiO 2 content> | < 93 % > </header>', 'label': [[19, 23, 'mean'], [24, 30, 'unit']]}",Density
+"{'data': 'Oil Absorption ( g/ 100 g ) | 19.0', 'label': [[17, 25, 'unit'], [30, 34, 'mean']]}",Oil Absorption
+"{'data': 'Aluminum hydroxide in terms of Al 2 O 3 | 3 %', 'label': [[42, 43, 'mean'], [44, 45, 'unit']]}",Inorganic surface treatment
+"{'data': 'Typical | • TiO 2 content: 95 % | <header> <> | <pigment designed give outstanding combination of dispersion, opacity, gloss and durability in a wide range interior and exterior, water and solvent based coating formulations.> | <Australia Phone: + ( 08 ) .9780.8301 or + 61.8.9780.8301 CHINA> </header>', 'label': [[30, 31, 'unit'], [27, 29, 'mean']]}",TiO2 content
+"{'data': 'TiO 2 content | 94 %', 'label': [[16, 18, 'mean'], [19, 20, 'unit']]}",TiO2 content
+"{'data': 'Crystal Structure | Rutile | XRD* <header> <Parameter> | <Value> | <Test method> </header>', 'label': [[29, 32, 'measuring_condition']]}","Crystal (rutile %, anatase %)"
+"{'data': 'TiO 2 content ( m/m ) | 94.0 %', 'label': [[16, 19, 'measuring_condition'], [24, 28, 'mean'], [29, 30, 'unit']]}",TiO2 content
+"{'data': 'pH | 7 - 8', 'label': [[5, 6, 'min'], [9, 10, 'max']]}",pH
+"{'data': 'Primary Particle Size ( um ) | 0.03 - 0.05 <header> <Crystal Form> | <Rutile> </header>', 'label': [[0, 7, 'measuring_condition'], [24, 26, 'unit'], [31, 35, 'min'], [38, 42, 'max']]}",Particle size
+"{'data': 'Median Particle Size, µm | 0.50 <header> <Property> | <R - 960 > </header>', 'label': [[0, 6, 'measuring_condition'], [22, 24, 'unit'], [27, 31, 'mean']]}",Particle size
+"{'data': 'Production rutile pigment produced by the sulphate process | Production rutile pigment produced by the sulphate process <header> <Production rutile pigment produced by the sulphate process> <Surface treatment> | <Production rutile pigment produced by the sulphate process> <aluminium compounds> </header> <label>', 'label': []}",Production Process
+"{'data': 'Oil absorption ( 3 ) | 18 cm 3 / 100 g pigment <header> <TiO 2 Content> | < 92.5 % minimum> </header>', 'label': [[23, 25, 'mean'], [26, 38, 'unit'], [39, 46, 'measuring_condition']]}",Oil Absorption
+"{'data': 'Average Particle Size | µm | 1,0 ± 0,1 <header> <Dry Solids> | < % > | <min. 99,0 > </header>', 'label': [[0, 7, 'measuring_condition'], [24, 26, 'unit'], [29, 32, 'mean'], [35, 38, 'std']]}",Particle size
+"{'data': '1 a | of which rutile | ASTM D 3720 - 90 | % w/w | min. 98,5 <header> <No.> | <Determined parameter> | <Test Method> | <Unit> | <Requirements> </header>', 'label': [[24, 40, 'method'], [43, 44, 'unit'], [45, 48, 'measuring_condition'], [56, 60, 'min']]}","Crystal (rutile %, anatase %)"
+"{'data': 'Rutile crystal content | | ≥ 98.0 % <header> <Specification TiO 2 content> | < ( m/m ) > | <≥ 93.0 % > </header>', 'label': [[29, 33, 'min'], [34, 35, 'unit']]}","Crystal (rutile %, anatase %)"
+"{'data': 'Crystal Form | Rutile > 99.0 %', 'label': [[24, 28, 'min'], [29, 30, 'unit']]}","Crystal (rutile %, anatase %)"
+"{'data': 'Amorphous Silica, wt % | 3.0 <header> <Property> | <R - 706 > </header>', 'label': [[0, 9, 'measuring_condition'], [18, 20, 'measuring_condition'], [21, 22, 'unit'], [25, 28, 'mean']]}",Inorganic surface treatment
+"{'data': 'Density ( ISO 787, Part 10 ) | 3.9 g/cm 3', 'label': [[10, 26, 'method'], [31, 34, 'mean'], [35, 41, 'unit']]}",Density
+"{'data': 'PH | 7.0 ~ 9.0', 'label': [[5, 8, 'min'], [11, 14, 'max']]}",pH
+"{'data': 'pH of aqueous suspension | 6.5 ~ 8.5 | 7.5 <header> <Items> | <Specification> | <Typical Analysis> </header>', 'label': [[6, 24, 'measuring_condition'], [27, 30, 'min'], [33, 36, 'max']]}",pH
+"{'data': 'Typical Properties: | • | TiO 2 content: | 94 %', 'label': [[43, 45, 'mean'], [46, 47, 'unit']]}",TiO2 content
+"{'data': 'Oil absorption g/ 100 g | Oil absorption g/ 100 g | ≤ 22 | GB 5211.15 - 88 <header> <ITEM> | <ITEM> | <Specification> | <Test Method> </header>', 'label': [[15, 23, 'unit'], [41, 49, 'unit'], [54, 56, 'max'], [59, 74, 'method']]}",Oil Absorption
+"{'data': 'Median particle size um | 0.275', 'label': [[0, 6, 'measuring_condition'], [21, 23, 'unit'], [26, 31, 'mean']]}",Particle size
+"{'data': 'Purity ( TiO 2 ) | > 93.0 %', 'label': [[21, 25, 'min'], [26, 27, 'unit']]}",TiO2 content
+"{'data': 'RutileContent ( % ) , min. | > 99.0 <header> <Property> | <Specification Specification> </header>', 'label': [[16, 17, 'unit'], [31, 35, 'min']]}","Crystal (rutile %, anatase %)"
+"{'data': 'Density ( DIN EN ISO 787 - 10 ) * | 4.1 g/cm 3 <header> <Production rutile pigment produced by the sulphate process> <Surface treatment> | <Production rutile pigment produced by the sulphate process> <aluminium compounds> </header>', 'label': [[10, 29, 'method'], [36, 39, 'mean'], [40, 46, 'unit']]}",Density
+"{'data': 'Oil Absorption | 18.7 <header> <Property> | <R - 960 > </header>', 'label': [[17, 21, 'mean']]}",Oil Absorption
+"{'data': 'TiO 2 | % | 91.0 IV <header> <Items> | <Unit> | <Index> </header>', 'label': [[8, 9, 'unit'], [12, 16, 'mean']]}",TiO2 content
+"{'data': 'Production | rutile pigment produced by the chloride process <label>', 'label': []}",Production Process
+"{'data': 'pH | 7.9 <header> <Property> | <R - 902 +> </header>', 'label': [[5, 8, 'mean']]}",pH
+"{'data': 'pH | 8.1 <header> <Property> | <R - 900 > </header>', 'label': [[5, 8, 'mean']]}",pH
+"{'data': 'TiO 2, wt % , min. | 89 <header> <Property> | <R - 960 > </header>', 'label': [[7, 9, 'measuring_condition'], [10, 11, 'unit'], [21, 23, 'min']]}",TiO2 content
+"{'data': 'pH | 6.0 - 9.0 <header> <TiO 2 content / % > | <≥ 94.0 > </header>', 'label': [[5, 8, 'min'], [11, 14, 'max']]}",pH
+"{'data': 'Bulk density [ kg/m 3 ] | | 150 <header> <Appearance> | <Appearance> | <odourless, white powder> </header>', 'label': [[0, 4, 'measuring_condition'], [15, 21, 'unit'], [28, 31, 'mean']]}",Density
+"{'data': '• | Specific gravity: | 4.0', 'label': [[24, 27, 'mean']]}",Density
+"{'data': '比重 ( g/cm 3 ) | 4.1', 'label': [[5, 11, 'unit'], [16, 19, 'mean']]}",stray
+"{'data': 'TiO 2 Content , % （m/m） ≥ | 92 <header> <Characteristic> | <Requirements> </header>', 'label': [[16, 17, 'unit'], [19, 22, 'measuring_condition'], [28, 30, 'min']]}",TiO2 content
+"{'data': 'Oil absorption | 19 g/ 100 g | ISO 787 - 5 <header> <PARAMETER> | <VALUE> | <TEST METHOD> </header>', 'label': [[17, 19, 'mean'], [20, 28, 'unit'], [31, 42, 'method']]}",Oil Absorption
+"{'data': 'SPECIFICATION | SPECIFICATION | SPECIFICATION | SPECIFICATION | SPECIFICATION | <header> <TYPICAL PROPERTIES 1 APR> <TiO 2 CONTENT % . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 1 > | <TYPICAL PROPERTIES 1 APR> <TiO 2 CONTENT % . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 1 > | <TYPICAL PROPERTIES 1 APR> <TiO 2 CONTENT % . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 1 > | <TYPICAL PROPERTIES 1 APR> <TiO 2 CONTENT % . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 1 > | <TYPICAL PROPERTIES 1 APR> <TiO 2 CONTENT % . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 1 > | <TYPICAL PROPERTIES 1 APR> <TiO 2 CONTENT % . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 1 > </header>', 'label': []}",header
+"{'data': 'TiO 2 content [ % ] | TiO 2 content [ % ] | 94', 'label': [[16, 17, 'unit'], [38, 39, 'unit'], [44, 46, 'mean']]}",TiO2 content
+"{'data': 'Rutile crystal content | 97.0 %', 'label': [[25, 29, 'mean'], [30, 31, 'unit']]}","Crystal (rutile %, anatase %)"
+"{'data': 'Rutile Content ( % ) min | 98.0 <header> < - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - TYPE> | <R - 996 > </header>', 'label': [[17, 18, 'unit'], [27, 31, 'min']]}","Crystal (rutile %, anatase %)"
+"{'data': 'Product Characteristics | Production rutile pigment produced by the chloride process <header> <Applications> | <White and tinted automotive finishes and vehicle refinish systems Coil coatings Powder coatings Water - borne paints High - solids High - quality industrial coatings> </header> <label>', 'label': []}",Production Process
+"{'data': 'Oil absorption [ g/ 100 g pigment ] | 22', 'label': [[17, 25, 'unit'], [26, 33, 'measuring_condition'], [38, 40, 'mean']]}",Oil Absorption
+"{'data': 'PARAMETER | VALUE | TEST METHOD <header> <TYPICAL PROPERTIES> <PARAMETER> | <TYPICAL PROPERTIES> <VALUE> | <TYPICAL PROPERTIES> <TEST METHOD> </header>', 'label': []}",header
+"{'data': 'Bulk Density ( Loose ) | 640 kg / m 3', 'label': [[0, 4, 'measuring_condition'], [15, 20, 'measuring_condition'], [25, 28, 'mean'], [29, 37, 'unit']]}",Density
+"{'data': 'Description: | Tiona 696 is a high performance, superdurable chloride - process rutile titanium <label>', 'label': []}",Production Process
+"{'data': 'Oil absorption ( 3 ) | 18 cm 3 / 100 g pigment <header> <TiO 2 Content> | < 92.5 % minimum> </header>', 'label': [[23, 25, 'mean'], [26, 38, 'unit'], [39, 46, 'measuring_condition']]}",Oil Absorption
+"{'data': 'TiO 2 ( % ) | TiO 2 ( % ) | 80 min. | 85 min. | 85 min. <header> <ITEM> | <ITEM> | <MT - 100 HD> | <MT - 500 HD> | <MT - 700 HD> </header>', 'label': [[8, 9, 'unit'], [22, 23, 'unit'], [28, 30, 'min'], [38, 40, 'min'], [48, 50, 'min']]}",TiO2 content
+"{'data': 'Median Particle Diameter, ( µm ) | 1.0 <header> <Color> | <Beige> </header>', 'label': [[0, 6, 'measuring_condition'], [28, 30, 'unit'], [35, 38, 'mean']]}",Particle size
+"{'data': 'Specific gravity | 4.1 g/cm 3', 'label': [[19, 22, 'mean'], [23, 29, 'unit']]}",Density
+"{'data': 'Surface treatment | aluminium and silicon compounds', 'label': []}",Inorganic surface treatment
+"{'data': 'pH | 7.9 <header> <Property> | <R - 902 +> </header>', 'label': [[5, 8, 'mean']]}",pH
+"{'data': 'Tapped Density | g/l | 675 ± 20 <header> <Dry Solids> | < % > | <min. 99,0 > </header>', 'label': [[0, 6, 'measuring_condition'], [17, 20, 'unit'], [23, 26, 'mean'], [29, 31, 'std']]}",Density
+"{'data': 'PH | PH | PH | 6.5 - 8.5 | 6.5 - 8.5 | 6.5 - 8.5', 'label': [[15, 18, 'min'], [21, 24, 'max'], [27, 30, 'min'], [33, 36, 'max'], [39, 42, 'min'], [45, 48, 'max']]}",pH
+"{'data': 'Al 2 O 3 | 1.0 – 3.0 %', 'label': [[11, 14, 'min'], [17, 20, 'max'], [21, 22, 'unit']]}",Inorganic surface treatment
+"{'data': 'Specific gravity: | 4.1', 'label': [[20, 23, 'mean']]}",Density
+"{'data': 'Oil absorption ( g/ 100 g ) | 20.0 Max. | 19.0 <header> <Characteristics> | <Specification> | <Typical Value> </header>', 'label': [[17, 25, 'unit'], [30, 34, 'max']]}",Oil Absorption
+"{'data': 'Average Particle Size ( μm ) | 0.31 <header> < - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - TYPE> | <R - 996 > </header>', 'label': [[0, 7, 'measuring_condition'], [24, 26, 'unit'], [31, 35, 'mean']]}",Particle size
+"{'data': 'Crystal Form…...……………………………………………………………….. | Rutile', 'label': []}","Crystal (rutile %, anatase %)"
+"{'data': 'Specific Gravity | 3.6 <header> <Property> | <R - 931 > </header>', 'label': [[19, 22, 'mean']]}",Density
+"{'data': 'TiO 2 content, % | ≥ 92.5 | DIN EN ISO 591 - 1 <header> <Property> | <Typical Value> | <Method> </header>', 'label': [[21, 25, 'min'], [15, 16, 'unit'], [28, 46, 'method']]}",TiO2 content
+"{'data': 'TiO 2 content: | 97 %', 'label': [[17, 19, 'mean'], [20, 21, 'unit']]}",TiO2 content
+"{'data': 'Production rutile pigment produced by the sulphate process | Production rutile pigment produced by the sulphate process <header> <Production rutile pigment produced by the sulphate process> <Surface treatment> | <Production rutile pigment produced by the sulphate process> <aluminium compounds> </header>', 'label': []}",Production Process
+"{'data': 'Oil absorption | ≤ 18.0 g/ 100 g <header> <TYPICAL PROPERTIES> <TiO 2 content> | <TYPICAL PROPERTIES> <≥ 94.0 % > </header>', 'label': [[19, 23, 'max'], [24, 32, 'unit']]}",Oil Absorption
+"{'data': 'TiO 2 ( % ) | TiO 2 ( % ) | 80 min. | 85 min. | 85 min. <header> <ITEM> | <ITEM> | <MT - 100 HD> | <MT - 500 HD> | <MT - 700 HD> </header>', 'label': [[8, 9, 'unit'], [22, 23, 'unit'], [28, 30, 'min'], [38, 40, 'min'], [48, 50, 'min']]}",TiO2 content
+"{'data': ' ( m/m ) | ≤ 0.7 %', 'label': []}",stray
+"{'data': '11 | Rutile content | ≥ 99 % | X - ray diffraction <header> <NO> | <Attribute ( with unit ) > <测试项目> | <Specification Limits> <规格> | <Test method> <测试方法> </header>', 'label': [[24, 26, 'min'], [27, 28, 'unit'], [31, 50, 'measuring_condition'], [0, 2, 'unclear_value']]}","Crystal (rutile %, anatase %)"
+"{'data': 'TiO 2 content, % | 98.0 Min. | 98.5 <header> <Characteristics> | <Specification> | <Typical Value> </header>', 'label': [[15, 16, 'unit'], [19, 23, 'min']]}",TiO2 content
+"{'data': 'TiO 2 , wt % , min. | 93 <header> <Property> | <R - 902 +> </header>', 'label': [[8, 10, 'measuring_condition'], [11, 12, 'unit'], [22, 24, 'min']]}",TiO2 content
+"{'data': 'Crystal Form | Rutile > 99.0 %', 'label': [[24, 28, 'min'], [29, 30, 'unit']]}","Crystal (rutile %, anatase %)"
+"{'data': 'TiO 2, wt % , min. | 94 | 93 | 93 | 89 | 80 | 93 <header> <DuPont Ti Pure TiO, for Coatings - Dry Grades> | <Property> <R - 900 > | <Property> <R - 902 +> | <Property> <R - 706 > | <Property> <R - 960 > | <Property> <> | <Property> <TS - 6200 > </header>', 'label': [[21, 23, 'min'], [26, 28, 'min'], [31, 33, 'min'], [36, 38, 'min'], [41, 43, 'min'], [46, 48, 'min'], [7, 9, 'measuring_condition'], [10, 11, 'unit']]}",TiO2 content
+"{'data': 'PHYSICAL AND CHEMICAL PROPERTIES | PHYSICAL AND CHEMICAL PROPERTIES', 'label': []}",header
+"{'data': 'Bulk density [ kg/m 3 ] | 800', 'label': [[0, 4, 'measuring_condition'], [15, 21, 'unit'], [26, 29, 'mean']]}",Density
+"{'data': 'Specific Gravity ( g/cm 3 ) | 4.1', 'label': [[19, 25, 'unit'], [30, 33, 'mean']]}",Density
+"{'data': 'Oil absorption | 14 g/ 100 g | ISO 787 - 5 <header> <PARAMETER> | <VALUE> | <TEST METHOD> </header>', 'label': [[17, 19, 'mean'], [20, 28, 'unit'], [31, 42, 'method']]}",Oil Absorption
+"{'data': 'Production | rutile pigment produced by the chloride process', 'label': []}",Production Process
+"{'data': '• | Oil absorption: | 21 g/ 100 g', 'label': [[22, 24, 'mean'], [25, 33, 'unit']]}",Oil Absorption
+"{'data': 'Bulk density ( tamped ) [ kg/cm 3 ] | | 1000 <header> <pH> | <approx.> | < 7.0 > </header>', 'label': [[0, 4, 'measuring_condition'], [15, 21, 'measuring_condition'], [26, 33, 'unit'], [40, 44, 'mean']]}",Density
+"{'data': 'pH Value | 6.5 – 7.5', 'label': [[11, 14, 'min'], [17, 20, 'max']]}",pH
+"{'data': 'Contents: TiO 2 | % ≥ | % ≥ | 94 <header> <Contents: TiO 2 > | < % ≥> | < % ≥> | < 94 > </header>', 'label': [[30, 32, 'min'], [18, 19, 'unit'], [24, 25, 'unit']]}",TiO2 content
+"{'data': 'Description: | Tiona RCL - 9 is a versatile multipurpose chloride - process rutile titanium dioxide <label>', 'label': []}",Production Process
+"{'data': 'TiO 2 - Gehalt ( ISO 591 ) | 94 %', 'label': [[8, 14, 'measuring_condition'], [17, 24, 'method'], [29, 31, 'mean'], [32, 33, 'unit']]}",TiO2 content
+"{'data': 'Oil absorption ( 3 ) [ cm 3 /g pigment ] | 17 / 100', 'label': [[17, 18, 'unclear_value'], [23, 30, 'unit'], [31, 38, 'measuring_condition'], [43, 45, 'mean']]}",Oil Absorption
+"{'data': 'Oil Absorption | 18.7 <header> <Property> | <R - 960 > </header>', 'label': [[17, 21, 'mean']]}",Oil Absorption
+"{'data': 'Oil absorption: | 19 g/ 100 g', 'label': [[18, 20, 'mean'], [21, 29, 'unit']]}",Oil Absorption
+"{'data': 'pH ( 10 % suspension ) : | 7.5', 'label': [[5, 20, 'measuring_condition'], [27, 30, 'mean']]}",pH
+"{'data': 'pH | 7.2 <header> <Property> | <R - 960 > </header>', 'label': [[5, 8, 'mean']]}",pH
+"{'data': 'pH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8.0', 'label': [[145, 148, 'mean']]}",pH
+"{'data': 'Specific Gravity ( g/cm 3 ) | 4.1', 'label': [[19, 25, 'unit'], [30, 33, 'mean']]}",Density
+"{'data': 'Specific Gravity | 4.1 <header> <Color> | <Light Beige> </header>', 'label': [[19, 22, 'mean']]}",Density
+"{'data': '- | Disc Centrifuge – mean diameter ( Dn ) : | 0.23 µm', 'label': [[4, 42, 'measuring_condition'], [47, 51, 'mean'], [52, 54, 'unit']]}",Particle size
+"{'data': 'pH Value of Aqueous Suspension | 6.5 ～ 8.0 <header> <Characteristic> | <Requirements> </header>', 'label': [[12, 30, 'measuring_condition'], [33, 36, 'min'], [39, 42, 'max']]}",pH
+"{'data': 'PH | 6.0 - 8.5', 'label': [[5, 8, 'min'], [11, 14, 'max']]}",pH
+"{'data': 'TiO 2 Content: | 93 % min', 'label': [[17, 19, 'min'], [20, 21, 'unit']]}",TiO2 content
+"{'data': 'Surface treatment | aluminium compounds <header> <Production rutile pigment produced by the chloride process> <Surface treatment> | <Production rutile pigment produced by the chloride process> <aluminium compounds> </header>', 'label': []}",Inorganic surface treatment
+"{'data': 'Density ( DIN EN ISO 787 - 10 ) * | 4.1 g/cm 3 <header> <Production rutile pigment produced by the sulphate process> <Surface treatment> | <Production rutile pigment produced by the sulphate process> <aluminium compounds> </header>', 'label': [[10, 29, 'method'], [36, 39, 'mean'], [40, 46, 'unit']]}",Density
+"{'data': 'pH | 8.2 <header> <Property> | <R - 706 > </header>', 'label': [[5, 8, 'mean']]}",pH
+"{'data': 'Bulk density ( tamped ) | 1.2 g/cm 3 | ISO 787 - 11 <header> <PARAMETER> | <VALUE> | <TEST METHOD> </header>', 'label': [[0, 4, 'measuring_condition'], [15, 21, 'measuring_condition'], [26, 29, 'mean'], [30, 36, 'unit'], [39, 51, 'method']]}",Density
+"{'data': 'PH | 6.0 - 8.5', 'label': [[5, 8, 'min'], [11, 14, 'max']]}",pH
+"{'data': 'pH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . 7.5', 'label': [[142, 145, 'mean']]}",pH
+"{'data': '• | Particle size*', 'label': []}",Particle size
+"{'data': 'Median Particle Size, µm | 0.41 <header> <Property> | <R - 900 > </header>', 'label': [[0, 6, 'measuring_condition'], [22, 24, 'unit'], [27, 31, 'mean']]}",Particle size
+"{'data': 'Average Particle Size ( um ) | 0.23 | SEM ** <header> <Parameter> | <Value> | <Test method> </header>', 'label': [[0, 7, 'measuring_condition'], [24, 26, 'unit'], [31, 35, 'mean'], [38, 45, 'measuring_condition']]}",Particle size
+"{'data': 'Density |', 'label': []}",Density
+"{'data': 'Bulk density ( tamped ) ( 2 ) | 1.1 g/cm 3', 'label': [[0, 4, 'measuring_condition'], [15, 21, 'measuring_condition'], [32, 35, 'mean'], [36, 42, 'unit']]}",Density
+"{'data': 'TiO 2 content， % | 94.5 | 94.5 | 94.5', 'label': [[15, 16, 'unit'], [19, 23, 'mean'], [26, 30, 'mean'], [33, 37, 'mean']]}",TiO2 content
+"{'data': 'Oil absorption | 24 | | 19,5 <header> <> <Item> <Item> | <> <Standard> <> | <> <Standard> <> | <> <Result> <> </header>', 'label': [[17, 19, 'mean']]}",Oil Absorption
+"{'data': 'SiO 2 | 2.0 – 4.0 %', 'label': [[8, 11, 'min'], [14, 17, 'max'], [18, 19, 'unit']]}",Inorganic surface treatment
+"{'data': 'Density ( DIN EN ISO 787 - 10 ) * | 4.1 g/cm 3 <header> <Production rutile pigment produced by the chloride process> <Surface treatment> | <Production rutile pigment produced by the chloride process> <aluminium compounds> </header>', 'label': [[10, 29, 'method'], [36, 39, 'mean'], [40, 46, 'unit']]}",Density
+"{'data': 'Oil absorption ( 2 ) | 18 cm 3 / 100 g pigment', 'label': [[17, 18, 'unclear_value'], [23, 25, 'mean'], [26, 38, 'unit'], [39, 46, 'measuring_condition']]}",Oil Absorption
+"{'data': 'TiO 2 content | 95 % | XRF <header> <PARAMETER> | <VALUE> | <TEST METHOD> </header>', 'label': [[16, 18, 'mean'], [19, 20, 'unit'], [23, 26, 'method']]}",TiO2 content
+"{'data': 'SiO 2, % | 1.25 <header> <> | <F> </header>', 'label': [[7, 8, 'unit'], [11, 15, 'mean']]}",Inorganic surface treatment
+"{'data': 'Oil absorption ( g/ 100 g ) | ≤ 18.0', 'label': [[17, 25, 'unit'], [32, 36, 'max']]}",Oil Absorption
+"{'data': 'Properties: | • Surface treatment: Alumina, zirconia, organic • Oil absorption: 19 g/ 100 g • pH ( 10 % suspension ) : 7.5 • Specific gravity: 4.1 • Density: 34.2 lbs/gal', 'label': []}",multi
+"{'data': 'Average bulk density ( tamped ) ( kg/m 3 ) | 820 <header> <> <Characteristics> | <> <Actual values Superior quality> </header>', 'label': [[23, 29, 'measuring_condition'], [34, 40, 'unit'], [45, 48, 'mean'], [0, 12, 'measuring_condition']]}",Density
+"{'data': 'Median Particle Size | µ | 1.0 ± 0.2 <header> <PROPERTIES> | <UNITS> | <GLOWTOX 50 PLUS> </header>', 'label': [[0, 6, 'measuring_condition'], [23, 24, 'unit'], [27, 30, 'mean'], [33, 36, 'std']]}",Particle size
+"{'data': 'pH | pH | Neutral | Neutral | Neutral <header> <ITEM> | <ITEM> | <MT - 100 HD> | <MT - 500 HD> | <MT - 700 HD> </header>', 'label': []}",pH
+"{'data': '• pH ( 10 % suspension ) : | 8.0', 'label': [[7, 22, 'measuring_condition'], [29, 32, 'mean']]}",pH
+"{'data': 'Oil Absorption ( g. Oil/ 100 g ) | 23 <header> <Color> | <Beige> </header>', 'label': [[17, 30, 'unit'], [35, 37, 'mean']]}",Oil Absorption
+"{'data': 'Specific Gravity | 4.0 <header> <Property> | <R - 900 > </header>', 'label': [[19, 22, 'mean']]}",Density
+"{'data': 'Oil Absorption | 18.7 <header> <Property> | <R - 960 > </header>', 'label': [[17, 21, 'mean']]}",Oil Absorption
+"{'data': '12 | Particle size distribution | D 50 ≤ 0.3 μm D 100 ≤ 10 μm | Using Marstisizer to analysis <header> <NO> | <Attribute ( with unit ) > <测试项目> | <Specification Limits> <规格> | <Test method> <测试方法> </header>', 'label': [[41, 44, 'max'], [45, 47, 'unit'], [56, 58, 'max'], [59, 61, 'unit'], [0, 2, 'unclear_value'], [34, 38, 'measuring_condition'], [48, 53, 'measuring_condition']]}",Particle size
+"{'data': 'PH | | | 6.5 — 8.5 | 6.5 — 8.5', 'label': [[9, 12, 'min'], [21, 24, 'min'], [15, 18, 'max'], [27, 30, 'max']]}",pH
+"{'data': 'Typical | • TiO 2 content | 95 %', 'label': [[28, 30, 'mean'], [31, 32, 'unit']]}",TiO2 content
+"{'data': 'Particle Size（µm） | 0.28 | 0.28 <header> <> | <PFC 105 > | <CR - 95 > </header>', 'label': [[20, 24, 'mean'], [27, 31, 'mean'], [14, 16, 'unit']]}",Particle size
+"{'data': 'Silica, wt % | — | 1.4 | 3.0 | 5.5 | 10.2 | 3.3 <header> <DuPont™ Ti - Pure® TiO 2 for Coatings — Dry Grades> | <Property> <R - 900 > | <Property> <R - 902 +> | <Property> <R - 706 > | <Property> <R - 960 > | <Property> <R - 931 > | <Property> <TS - 6200 > </header>', 'label': [[19, 22, 'mean'], [25, 28, 'mean'], [31, 34, 'mean'], [37, 41, 'mean'], [44, 47, 'mean'], [8, 10, 'measuring_condition'], [11, 12, 'unit']]}",Inorganic surface treatment
+"{'data': 'Typical Properties 1 | Typical Properties 1 | Typical Properties 1 | Typical Properties 1', 'label': []}",header
+"{'data': 'TiO 2 % ( ISO 591 - 1 ) | 93 % <header> <TiO 2 % ( ISO 591 - 1 ) > | < 93 % > </header>', 'label': [[10, 21, 'method'], [26, 28, 'mean'], [29, 30, 'unit'], [6, 7, 'unit']]}",TiO2 content
+"{'data': 'Specific Gravity | 3.9 <header> <Property> | <R - 960 > </header>', 'label': [[19, 22, 'mean']]}",Density
+"{'data': 'max | 0.5', 'label': []}",stray
+"{'data': 'Al 2 O 3, % | 0.40 <header> <> | <GRAY> </header>', 'label': [[10, 11, 'unit'], [14, 18, 'mean']]}",Inorganic surface treatment
+"{'data': 'Rutile Content: | 97 % min', 'label': [[18, 20, 'min'], [21, 22, 'unit']]}","Crystal (rutile %, anatase %)"
+"{'data': 'Average bulk density ( tamped ) ( kg/m 3 ) | 820', 'label': [[23, 29, 'measuring_condition'], [34, 40, 'unit'], [45, 48, 'mean'], [0, 12, 'measuring_condition']]}",Density
+"{'data': 'TYPICAL PROPERTIES | PERFORMANCE <header> <TYPICAL PROPERTIES> | <PERFORMANCE> </header>', 'label': []}",header
+"{'data': 'Average particle size | ( μm ) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . 0.20', 'label': [[0, 7, 'measuring_condition'], [26, 28, 'unit'], [130, 134, 'mean']]}",Particle size
+"{'data': 'Specific Gravity | 4.0 <header> <Property> | <R - 900 > </header>', 'label': [[19, 22, 'mean']]}",Density
+"{'data': 'Inorganic coating Organic treatment Crystal size [ μm ] Specific gravity [ g/cm 3 ] Loss at 105 °C ( 1 ) [ % ] Bulk density ( tamped ) ( 2 ) [ g/cm 3 ] Oil absorption ( 3 ) [ cm 3 /g pigment ] Water demand ( 4 ) [ cm 3 /g pigment ] Durability | Inorganic coating Organic treatment Crystal size [ μm ] Specific gravity [ g/cm 3 ] Loss at 105 °C ( 1 ) [ % ] Bulk density ( tamped ) ( 2 ) [ g/cm 3 ] Oil absorption ( 3 ) [ cm 3 /g pigment ] Water demand ( 4 ) [ cm 3 /g pigment ] Durability | 0.24 <header> <TiO 2 content [ % ] > | <TiO 2 content [ % ] > | < 94 > </header>', 'label': []}",multi
+"{'data': 'TiO 2 content ( DIN EN ISO 591 ) | 94 %', 'label': [[16, 30, 'method'], [35, 37, 'mean'], [38, 39, 'unit']]}",TiO2 content
+"{'data': 'PH值 | 6.0 - 8.5', 'label': [[6, 9, 'min'], [12, 15, 'max']]}",pH
+"{'data': 'No. | Determined parameter | Test Method | Unit | Requirements <header> <No.> | <Determined parameter> | <Test Method> | <Unit> | <Requirements> </header>', 'label': []}",header
+"{'data': 'pH ( 10 % suspension ) | 6.3', 'label': [[5, 20, 'measuring_condition'], [25, 28, 'mean']]}",pH
+"{'data': 'Typical | • TiO 2 content: 95 %', 'label': [[27, 29, 'mean'], [30, 31, 'unit']]}",TiO2 content
+"{'data': 'Oil Absorption | 15.2 <header> <Property> | <R - 900 > </header>', 'label': [[17, 21, 'mean']]}",Oil Absorption
+"{'data': 'Properties: | • Oil absorption: | 17 g/ 100 g', 'label': [[34, 36, 'mean'], [37, 45, 'unit']]}",Oil Absorption
+"{'data': 'Product Characteristics | Oil absorption，g/ 100 g ≤ 20', 'label': [[41, 49, 'unit'], [52, 54, 'max']]}",Oil Absorption
+"{'data': 'TiO 2 Content | 93 %', 'label': [[16, 18, 'mean'], [19, 20, 'unit']]}",TiO2 content
+"{'data': 'pH Value | 6.5 – 7.5', 'label': [[11, 14, 'min'], [17, 20, 'max']]}",pH
+"{'data': 'TiONA® | 128 is an alumina/zirconia modified chloride - process rutile titanium <label>', 'label': []}",Production Process
+"{'data': 'Alumina, wt % | 3.3 <header> <Property> | <R - 960 > </header>', 'label': [[9, 11, 'measuring_condition'], [12, 13, 'unit'], [16, 19, 'mean']]}",Inorganic surface treatment
+"{'data': 'Processing Method | Sulfate <header> <Processing Method> | <Sulfate> </header> <label>', 'label': []}",Production Process
+"{'data': 'Product | Production | rutile pigment produced by the sulfate process <label>', 'label': []}",Production Process
+"{'data': ' | • Specific gravity: | 4.1', 'label': [[25, 28, 'mean']]}",Density
+"{'data': '• Specific gravity: | 4.1', 'label': [[22, 25, 'mean']]}",Density
+"{'data': 'Average particle size 2, ( um ) . . | .. 0.23 | .. 0.23', 'label': [[0, 7, 'measuring_condition'], [27, 29, 'unit'], [41, 45, 'mean'], [51, 55, 'mean']]}",Particle size
+"{'data': '比重 ( g/cm 3 ) | 4.1', 'label': [[5, 11, 'unit'], [16, 19, 'mean']]}",stray
+"{'data': 'Bulking value* | 0.0304 lb/gal', 'label': [[0, 7, 'measuring_condition'], [17, 23, 'mean'], [24, 30, 'unit']]}",Density
+"{'data': 'Specific Gravity | 3.9 <header> <Property> | <R - 960 > </header>', 'label': [[19, 22, 'mean']]}",Density
+"{'data': 'Specific gravity . . . . . . . . . . . . . . . . . . . . . . . . . | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4.0', 'label': [[133, 136, 'mean']]}",Density
+"{'data': 'pH Value of Aqueous Suspension | 6.5 8.0 <header> <Characteristic> | <Requirements> </header>', 'label': [[12, 30, 'measuring_condition'], [33, 36, 'min'], [37, 40, 'max']]}",pH
+"{'data': 'Median Particle Diameter, ( µm ) | 0.7 <header> <Color> | <Light Beige> </header>', 'label': [[0, 6, 'measuring_condition'], [28, 30, 'unit'], [35, 38, 'mean']]}",Particle size
+"{'data': 'Properties: | • Oil absorption: | 17 g/ 100 g', 'label': [[34, 36, 'mean'], [37, 45, 'unit']]}",Oil Absorption
+"{'data': 'TiO 2 content, % | min 93', 'label': [[23, 25, 'min'], [15, 16, 'unit']]}",TiO2 content
+"{'data': 'Oil absorption（g/ 100 g） | 50 ～ 70 <header> <> | <FT - 300 C> </header>', 'label': [[15, 23, 'unit'], [27, 29, 'min'], [32, 34, 'max']]}",Oil Absorption
+"{'data': '• | pH ( 10 % suspension ) : | 7.3', 'label': [[9, 24, 'measuring_condition'], [31, 34, 'mean']]}",pH
+"{'data': 'pH ( 10 % suspension ) : | 7.5', 'label': [[5, 20, 'measuring_condition'], [27, 30, 'mean']]}",pH
+"{'data': 'TiO 2, wt % , min. | 93 <header> <Property> | <R - 902 +> </header>', 'label': [[7, 9, 'measuring_condition'], [10, 11, 'unit'], [21, 23, 'min']]}",TiO2 content
+"{'data': 'ITEM | ITEM | ITEM | ITEM | Technical Specifications <header> <ITEM> | <ITEM> | <ITEM> | <ITEM> | <Technical Specifications> </header>', 'label': []}",header
+"{'data': '• | TiO 2 content: | 95 %', 'label': [[21, 23, 'mean'], [24, 25, 'unit']]}",TiO2 content
+"{'data': 'Specific gravity | 3.70', 'label': [[19, 23, 'mean']]}",Density
+"{'data': 'Oil Absorption ( ISO 787 - 5 ) | 19 g/ 100 g <header> <TiO 2 % ( ISO 591 - 1 ) > | < 93 % > </header>', 'label': [[17, 28, 'method'], [33, 35, 'mean'], [36, 44, 'unit']]}",Oil Absorption
+"{'data': 'Oil absorption g/ 100 g | 18 <header> <Item> | <Typical Value> </header>', 'label': [[15, 23, 'unit'], [26, 28, 'mean']]}",Oil Absorption
+"{'data': 'Specific Gravity | 3.9 <header> <Property> | <R - 960 > </header>', 'label': [[19, 22, 'mean']]}",Density
+"{'data': 'Oil absorption: | 19 g/ 100 g', 'label': [[18, 20, 'mean'], [21, 29, 'unit']]}",Oil Absorption
+"{'data': 'Production rutile pigment produced by the chloride process | Production rutile pigment produced by the chloride process <header> <Production rutile pigment produced by the chloride process> <Surface treatment> | <Production rutile pigment produced by the chloride process> <aluminium compounds> </header> <label>', 'label': []}",Production Process
+"{'data': 'TiO 2 content ( ISO 591 ) | 95 % <header> <Production rutile pigment produced by the sulfate process> <Surface treatment aluminium> | <Production rutile pigment produced by the sulfate process> <compounds> </header>', 'label': [[16, 23, 'method'], [28, 30, 'mean'], [31, 32, 'unit']]}",TiO2 content
+"{'data': 'Amorphous Silica | Yes <header> <Property> | <R - 902 +> </header>', 'label': []}",Inorganic surface treatment
+"{'data': 'Median Particle Size, µm | 0.55 <header> <Property> | <R - 931 > </header>', 'label': [[22, 24, 'unit'], [27, 31, 'mean'], [0, 6, 'measuring_condition']]}",Particle size
+"{'data': 'Method | Description <header> <Method> | <Description> </header>', 'label': []}",header
+"{'data': 'Oil absorption ( 2 ) [ g/ 100 g pigment ] | 20', 'label': [[23, 31, 'unit'], [32, 39, 'measuring_condition'], [44, 46, 'mean']]}",Oil Absorption
+"{'data': 'Bulk density ( tamped ) ( 2 ) | 1.1 g/cm 3 <header> <TiO 2 Content> | < 94 % > </header>', 'label': [[0, 4, 'measuring_condition'], [15, 21, 'measuring_condition'], [32, 35, 'mean'], [36, 42, 'unit'], [26, 27, 'unclear_value']]}",Density
+"{'data': 'Density |', 'label': []}",Density
+"{'data': 'Oil absorption ( 3 ) | 18 cm 3 / 100 g pigment', 'label': [[23, 25, 'mean'], [26, 38, 'unit'], [39, 46, 'measuring_condition']]}",Oil Absorption
+"{'data': 'Specific Gravity | 3.9 <header> <Property> | <R - 960 > </header>', 'label': [[19, 22, 'mean']]}",Density
+"{'data': 'SiO 2 …………………………………………………………………………………… | 1.50 %', 'label': [[41, 45, 'mean'], [46, 47, 'unit']]}",Inorganic surface treatment
+"{'data': 'TiO 2 wt % , min. | 93', 'label': [[6, 8, 'measuring_condition'], [9, 10, 'unit'], [20, 22, 'min']]}",TiO2 content
+"{'data': 'Oil Absorption ,g/ 100 g ≤ | 20 <header> <Characteristic> | <Requirements> </header>', 'label': [[16, 24, 'unit'], [29, 31, 'max']]}",Oil Absorption
+"{'data': ' | Item | Specification <header> <> | <Item> | <Specification> </header>', 'label': []}",header
+"{'data': 'Processing Method | Sulfate', 'label': []}",Production Process
+"{'data': '• | 4.1', 'label': []}",stray
+"{'data': '吸油量 ( g/ 100 g ) | ≤ 18.0', 'label': []}",stray
+"{'data': 'Bulk density: | 0.69 kg/l or 43 lbs/cu.ft.', 'label': [[0, 4, 'measuring_condition'], [16, 20, 'mean'], [21, 25, 'unit'], [29, 31, 'mean'], [32, 42, 'unit']]}",Density
+"{'data': 'pH | 7.4 | ISO 787 - 9 <header> <PARAMETER> | <VALUE> | <TEST METHOD> </header>', 'label': [[5, 8, 'mean'], [11, 22, 'method']]}",pH
+"{'data': 'Description: | TiONA® 880 is a high performance, superdurable chloride - process rutile titanium dioxide pigment. It <label>', 'label': []}",Production Process
+"{'data': 'Main Modifiers | Main Modifiers | Al 2 O 3, ZrO 2 | Al 2 O 3, ZrO 2 | Al 2 O 3, ZrO 2 <header> <ITEM> | <ITEM> | <MT - 100 HD> | <MT - 500 HD> | <MT - 700 HD> </header>', 'label': []}","Crystal (rutile %, anatase %)"
+"{'data': 'Oil absorption ( 3 ) [ cm 3 /g pigment ] | Oil absorption ( 3 ) [ cm 3 /g pigment ] | 18 / 100', 'label': [[23, 38, 'unit'], [66, 81, 'unit'], [86, 88, 'mean']]}",Oil Absorption
+"{'data': 'Typical Properties: | • | TiO 2 content | 93 %', 'label': [[42, 44, 'mean'], [45, 46, 'unit']]}",TiO2 content
+"{'data': 'Dichte ( ISO 787, Teil 10 ) | 4,1 g/cm 3', 'label': []}",stray
+"{'data': 'TiO 2 content ( DIN EN ISO 591 ) | 92.0 %', 'label': [[16, 30, 'method'], [35, 39, 'mean'], [40, 41, 'unit']]}",TiO2 content
+"{'data': 'Bulk Density ( Tap ) , kg/m 3 | 1100 <header> <Color> | <Gray> </header>', 'label': [[0, 4, 'measuring_condition'], [15, 18, 'measuring_condition'], [23, 29, 'unit'], [32, 36, 'mean']]}",Density
+"{'data': 'pH Value: | 6.5 ~ 8.5', 'label': [[12, 15, 'min'], [18, 21, 'max']]}",pH
+"{'data': 'PH | 8.1 | 7.9 | 8.2 | 7.2 | 8.9 | 8.0 <header> <DuPont Ti Pure TiO, for Coatings - Dry Grades> | <Property> <R - 900 > | <Property> <R - 902 +> | <Property> <R - 706 > | <Property> <R - 960 > | <Property> <> | <Property> <TS - 6200 > </header>', 'label': [[5, 8, 'mean'], [11, 14, 'mean'], [17, 20, 'mean'], [23, 26, 'mean'], [29, 32, 'mean'], [35, 38, 'mean']]}",pH
+"{'data': '13 | Specific Gravity | 4.0 ～ 4.1 g/cm 3 | GB/T 11188 - 89 <header> <NO> | <Attribute ( with unit ) > <测试项目> | <Specification Limits> <规格> | <Test method> <测试方法> </header>', 'label': [[24, 27, 'min'], [30, 33, 'max'], [34, 40, 'unit'], [43, 58, 'method'], [0, 2, 'unclear_value']]}",Density
+"{'data': 'TiO 2 content [ % ] | 95.0', 'label': [[16, 17, 'unit'], [22, 26, 'mean']]}",TiO2 content
+"{'data': 'Specific Gravity | 4.0 <header> <Property> | <R - 900 > </header>', 'label': [[19, 22, 'mean']]}",Density
+"{'data': 'pH of the pigment ( 20 % slurry ) | 6.00 - 8.00 | 7.80 <header> <Characteristics> | <Specification> | <Typical Value> </header>', 'label': [[36, 40, 'min'], [43, 47, 'max'], [50, 54, 'unclear_value'], [10, 33, 'measuring_condition']]}",pH
+"{'data': 'Items | Units | Index <header> <Product Quality Index Features> <Items> | <Product Quality Index Features> <Units> | <Product Quality Index Features> <Index> </header>', 'label': []}",header
+"{'data': 'TiO 2 含量 | % | ≥ 91.0 <header> <项目> | <单位> | <指标> </header>', 'label': [[11, 12, 'unit'], [17, 21, 'min']]}",TiO2 content
+"{'data': 'TiO 2, wt % , min. | 94 <header> <Property> | <R - 900 > </header>', 'label': [[10, 11, 'unit'], [21, 23, 'min'], [7, 9, 'measuring_condition']]}",TiO2 content
+"{'data': '28 - 40 µm | 28 - 40 µm | 28 - 40 µm | 28 - 40 µm | 28 - 40 µm <header> <> | <transparent transparent> | <weiss white> | <tiefschwarz deep black> | <> </header>', 'label': [[0, 2, 'min'], [5, 7, 'max'], [8, 10, 'unit'], [13, 15, 'min'], [26, 28, 'min'], [39, 41, 'min'], [52, 54, 'min'], [18, 20, 'max'], [31, 33, 'max'], [44, 46, 'max'], [57, 59, 'max'], [21, 23, 'unit'], [34, 36, 'unit'], [47, 49, 'unit'], [60, 62, 'unit']]}",stray
+"{'data': 'Properties: | • pH ( 10 % suspension ) : 8.5 | 04576 - 020 – São Paulo – SP - Brazil', 'label': [[21, 36, 'measuring_condition'], [41, 44, 'mean']]}",pH
+"{'data': '- | Disc Centrifuge – mean diameter ( Dn ) : | 0.25 µm', 'label': [[4, 42, 'measuring_condition'], [47, 51, 'mean'], [52, 54, 'unit']]}",Particle size
+"{'data': 'Typical Properties | Typical Properties | Typical Properties', 'label': []}",header
+"{'data': '• pH ( 10 % suspension ) : | 7.5', 'label': [[7, 22, 'measuring_condition'], [29, 32, 'mean']]}",pH
+"{'data': 'Items | Specification | Typical Analysis <header> <Items> | <Specification> | <Typical Analysis> </header>', 'label': []}",header
+"{'data': 'TiO 2 % | TiO 2 % | TiO 2 % | TiO 2 % | ≥ 93.00 <header> <ITEM> | <ITEM> | <ITEM> | <ITEM> | <Technical Specifications> </header>', 'label': [[42, 47, 'min']]}",TiO2 content
+"{'data': 'PH | 6.5 - 8.0 <header> <Crystal Form> | <Rutile> </header>', 'label': [[5, 8, 'min'], [11, 14, 'max']]}",pH
+"{'data': 'TITANIUM DIOXIDE % | 94.60 <header> <PRODUCT NAME> | <TITOX MICRONISED BUFF TITANIUM DIOXIDE> </header>', 'label': [[17, 18, 'unit'], [21, 26, 'mean']]}",TiO2 content
+"{'data': 'pH | 7.2 <header> <Property> | <R - 960 > </header>', 'label': [[5, 8, 'mean']]}",pH
+"{'data': '• Oil absorption: | 20 g/ 100 g', 'label': [[20, 22, 'mean'], [23, 31, 'unit']]}",Oil Absorption
+"{'data': 'Description: | TiONA® 696 is a high performance, superdurable, chloride - process rutile titanium dioxide pigment. It offers a unique combination of ease of dispersion, high optical properties and excellent weathering characteristics. It is the best choice for coatings applications requiring the highest exterior durability. | TiONA® 696 is a high performance, superdurable, chloride - process rutile titanium dioxide pigment. It offers a unique combination of ease of dispersion, high optical properties and excellent weathering characteristics. It is the best choice for coatings applications requiring the highest exterior durability. | TiONA® 696 is a high performance, superdurable, chloride - process rutile titanium dioxide pigment. It offers a unique combination of ease of dispersion, high optical properties and excellent weathering characteristics. It is the best choice for coatings applications requiring the highest exterior durability.', 'label': []}",Production Process
+"{'data': 'Properties Product Characteristics | Properties Product Characteristics | TiO 2 content ( ISO 591 ) 2 94 %', 'label': [[90, 97, 'method'], [100, 101, 'unclear_value'], [102, 104, 'mean'], [105, 106, 'unit']]}",TiO2 content
+"{'data': 'Specific Gravity | 4.1 <header> <Color> | <Beige> </header>', 'label': [[19, 22, 'mean']]}",Density
+"{'data': 'TiO 2 content ( ISO 591 ) | TiO 2 content ( ISO 591 ) | 2 95 % <header> <Production rutile pigment produced by the sulfate process> <Surface treatment> | <Production rutile pigment produced by the sulfate process> <Surface treatment> | <Production rutile pigment produced by the sulfate process> <aluminium compounds> </header>', 'label': [[16, 23, 'method'], [44, 51, 'method'], [61, 62, 'unit'], [58, 60, 'mean']]}",TiO2 content
+"{'data': 'Specific Gravity ( g/cm 3 ) | 4.1', 'label': [[19, 25, 'unit'], [30, 33, 'mean']]}",Density
+"{'data': '• pH ( 10 % suspension ) : | 8.0', 'label': [[7, 22, 'measuring_condition'], [29, 32, 'mean']]}",pH
+"{'data': 'Crystal Form | - | Rutile <header> <PROPERTIES> | <UNITS> | <GLOWTOX 50 PLUS> </header>', 'label': []}","Crystal (rutile %, anatase %)"
+"{'data': 'SiO 2, % | 1.25 <header> <> | <STD> </header>', 'label': [[11, 15, 'mean'], [7, 8, 'unit']]}",Inorganic surface treatment
+"{'data': 'Mass fraction of rutile, % , not less than | 98', 'label': [[25, 26, 'unit'], [45, 47, 'min']]}","Crystal (rutile %, anatase %)"
+"{'data': 'Oil Absorption ( g/ 100 g ) | 29 - 38', 'label': [[17, 25, 'unit'], [30, 32, 'min'], [35, 37, 'max']]}",Oil Absorption
+"{'data': 'TiO 2 mass, % | 92 <header> <> <Characteristics> | <> <Actual values Superior quality> </header>', 'label': [[12, 13, 'unit'], [16, 18, 'mean']]}",TiO2 content
+"{'data': 'PH | 7.2', 'label': [[5, 8, 'mean']]}",pH
+"{'data': ' ( ISO Part | 787, 10 )', 'label': []}",stray
+"{'data': 'Oil absorption ( 3 ) | 17 cm 3 / 100 g pigment', 'label': [[23, 25, 'mean'], [26, 38, 'unit'], [39, 46, 'measuring_condition']]}",Oil Absorption
+"{'data': 'OIL ABSORPTION PHR | 27.19 <header> <PRODUCT NAME> | <TITOX MICRONISED BUFF TITANIUM DIOXIDE> </header>', 'label': [[15, 18, 'measuring_condition'], [21, 26, 'mean']]}",Oil Absorption
+"{'data': 'Specific Gravity | 4.1 <header> <Color> | <Light Beige> </header>', 'label': [[19, 22, 'mean']]}",Density
+"{'data': 'Oil Absorption | 13.9 <header> <Property> | <R - 706 > </header>', 'label': [[17, 21, 'mean']]}",Oil Absorption
+"{'data': 'Description: | TiONA® RCL - 69 is a blue tint tone, chloride - process rutile titanium dioxide pigment, designed to <label>', 'label': []}",Production Process
+"{'data': 'Średnia wielkość ziarna µm | 50 - 70 | Medium Particle Size µm <header> <> <CI - Index> | <Biały White> < 77891 > | <> <CI - Index> </header>', 'label': [[29, 31, 'min'], [34, 36, 'max'], [39, 45, 'measuring_condition'], [60, 62, 'unit']]}",Particle size
+"{'data': 'Titanium dioxide | 13463 - 67 - 7 | 93 - 95 | 93 - 95 <header> <Component> | <CAS #> | <Weight % ( approx. ) > | <Weight % ( approx. ) > </header>', 'label': [[36, 38, 'min'], [41, 43, 'max'], [46, 48, 'min'], [51, 53, 'max']]}",TiO2 content
+"{'data': 'TiO 2 content | 93 % | 93 % <header> <TiO 2 content> | < 93 % > | < 93 % > </header>', 'label': [[16, 18, 'mean'], [19, 20, 'unit'], [23, 25, 'mean'], [26, 27, 'unit']]}",TiO2 content
+"{'data': 'Product | rutile pigment produced by the sulfate process', 'label': []}",Production Process
+"{'data': 'Bulk density ( tamped ) ( 2 ) | 1.1 g/cm 3 <header> <TiO 2 content> | < 93 % > </header>', 'label': [[0, 4, 'measuring_condition'], [15, 21, 'measuring_condition'], [32, 35, 'mean'], [36, 42, 'unit']]}",Density
+"{'data': 'PH | 6.0 - 8.5', 'label': [[5, 8, 'min'], [11, 14, 'max']]}",pH
+"{'data': '• | Specific gravity: | 4.1', 'label': [[24, 27, 'mean']]}",Density
+"{'data': 'Oil Absorption ( g. Oil/ 100 g ) | 24 <header> <Color> | <Gray> </header>', 'label': [[17, 30, 'unit'], [35, 37, 'mean']]}",Oil Absorption
+"{'data': 'PH value of suspension liquid in water | 6.5 - 8.5 | | 8,1 <header> <> <Item> <Item> | <> <Standard> <> | <> <Standard> <> | <> <Result> <> </header>', 'label': [[12, 38, 'measuring_condition'], [41, 44, 'min'], [47, 50, 'max']]}",pH
+"{'data': 'Properties: | • Oil absorption: | 19 g/ 100 g <header> <Description:> | <multipurpose chloride - process pigment designed give outstanding combination of dispersion, opacity, gloss and durability in a wide range of coating applications.> | <multipurpose chloride - process pigment designed give outstanding combination of dispersion, opacity, gloss and durability in a wide range of coating applications.> </header>', 'label': [[34, 36, 'mean'], [37, 45, 'unit']]}",Oil Absorption
+"{'data': 'Density ( DIN EN ISO 787 - 10 ) * | 3.9 g/cm 3', 'label': [[10, 29, 'method'], [36, 39, 'mean'], [40, 46, 'unit']]}",Density
+"{'data': 'Oil absorption ( 3 ) [ cm 3 /g pigment ] | 17 / 100', 'label': [[17, 18, 'unclear_value'], [23, 30, 'unit'], [31, 38, 'measuring_condition'], [43, 45, 'mean']]}",Oil Absorption
+"{'data': 'Density ( DIN EN ISO 787 - 10 ) * | 4.0 g/cm 3', 'label': [[10, 29, 'method'], [36, 39, 'mean'], [40, 46, 'unit']]}",Density
+"{'data': 'Bulk Density ( kg/l ) | 0.76 | * <header> <Typical Properties> | <Typical Properties> | <Test Method> </header>', 'label': [[0, 4, 'measuring_condition'], [15, 19, 'unit'], [24, 28, 'mean']]}",Density
+"{'data': 'Bulk Density ( Tap ) , kg/m 3 | 1041 <header> <Color> | <Light Beige> </header>', 'label': [[0, 4, 'measuring_condition'], [15, 18, 'measuring_condition'], [23, 29, 'unit'], [32, 36, 'mean']]}",Density
+"{'data': 'TiO 2 content | 94 %', 'label': [[16, 18, 'mean'], [19, 20, 'unit']]}",TiO2 content
+"{'data': 'Surface treatment | Al 2 O 3, SiO 2, ZrO 2 <header> <TiO 2 content / % > | <≥ 94.0 > </header>', 'label': []}",Inorganic surface treatment
+"{'data': 'TiO 2 % | TiO 2 % | ≥ 90.0 | GB/T 1706 - 2006 <header> <ITEM> | <ITEM> | <Specification> | <Test Method> </header>', 'label': [[16, 17, 'unit'], [6, 7, 'unit'], [22, 26, 'min'], [29, 45, 'method']]}",TiO2 content
+"{'data': 'TiO 2, wt % , min. | 94 | 93 | 93 | 89 | 80 | 93 <header> <DuPont™ Ti - Pure® TiO 2 for Coatings — Dry Grades> | <Property> <R - 900 > | <Property> <R - 902 +> | <Property> <R - 706 > | <Property> <R - 960 > | <Property> <R - 931 > | <Property> <TS - 6200 > </header>', 'label': [[7, 9, 'measuring_condition'], [10, 11, 'unit'], [21, 23, 'min'], [26, 28, 'min'], [31, 33, 'min'], [36, 38, 'min'], [41, 43, 'min'], [46, 48, 'min']]}",TiO2 content
+"{'data': 'TiO 2 ……………………………………………………………………………....…… | 91.00 %', 'label': [[44, 49, 'mean'], [50, 51, 'unit']]}",TiO2 content
+"{'data': 'Specific Gravity ( g/cm 3 ) | 4.1', 'label': [[19, 25, 'unit'], [30, 33, 'mean']]}",Density
+"{'data': 'Oil absorption ( DIN EN ISO 787 - 5 ) * | 17 g/ 100 g pigment', 'label': [[17, 35, 'method'], [42, 44, 'mean'], [45, 53, 'unit'], [54, 61, 'measuring_condition']]}",Oil Absorption
+"{'data': 'Bulk Density | 1.3 g/cm 3', 'label': [[15, 18, 'mean'], [19, 25, 'unit']]}",Density
+"{'data': 'Bulk Density ( Tap ) , lbs. / ft.3 | 65', 'label': [[0, 4, 'measuring_condition'], [15, 18, 'measuring_condition'], [37, 39, 'mean'], [23, 34, 'unit']]}",Density
+"{'data': 'Amorphous Silica | yes <header> <Property> | <R - 902 +> </header>', 'label': []}",Inorganic surface treatment
+"{'data': 'TiO 2, wt % | min. | 94 | ISO 591 - 1 <header> <TYPICAL PROPERTIES:> <TiO 2, wt % > | <TYPICAL PROPERTIES:> <min.> | <TYPICAL PROPERTIES:> < 94 > | <TYPICAL PROPERTIES:> <ISO 591 - 1 > </header>', 'label': [[7, 9, 'measuring_condition'], [10, 11, 'unit'], [21, 23, 'min'], [26, 37, 'method']]}",TiO2 content
+"{'data': 'Specific gravity: | 4.0', 'label': [[20, 23, 'mean']]}",Density
+"{'data': 'SPECIFIC GRAVITY | 3.80 <header> <PRODUCT NAME> | <TITOX MICRONISED BUFF TITANIUM DIOXIDE> </header>', 'label': [[19, 23, 'mean']]}",Density
+"{'data': 'Oil absorption: | 19 g/ 100 g', 'label': [[18, 20, 'mean'], [21, 29, 'unit']]}",Oil Absorption
+"{'data': 'Rutile crystal content | 97.0 %', 'label': [[25, 29, 'mean'], [30, 31, 'unit']]}","Crystal (rutile %, anatase %)"
+"{'data': 'Bulk density ( tamped ) ( 2 ) [ g/cm 3 ] Oil absorption ( 3 ) [ cm 3 /g pigment ] Water demand ( 4 ) [ cm 3 /g pigment ] ISO 591 classification | Bulk density ( tamped ) ( 2 ) [ g/cm 3 ] Oil absorption ( 3 ) [ cm 3 /g pigment ] Water demand ( 4 ) [ cm 3 /g pigment ] ISO 591 classification | 17 / 100', 'label': []}",multi_header
+"{'data': 'Rutile crystal content | 97.0 %', 'label': [[25, 29, 'mean'], [30, 31, 'unit']]}","Crystal (rutile %, anatase %)"
+"{'data': 'pH | 8.1 <header> <Property> | <R - 900 > </header>', 'label': [[5, 8, 'mean']]}",pH
+"{'data': 'Specific Gravity | ..... 4.0', 'label': [[25, 28, 'mean']]}",Density
+"{'data': 'Oil absorption ( 3 ) | 17 cm 3 / 100 g pigment <header> <TiO 2 content> | < 93 % > </header>', 'label': [[17, 18, 'unclear_value'], [23, 25, 'mean'], [26, 38, 'unit'], [39, 46, 'measuring_condition']]}",Oil Absorption
+"{'data': 'TiO ,, wt % , min. | 93 <header> <Property> | <R - 902 +> </header>', 'label': [[7, 9, 'measuring_condition'], [10, 11, 'unit'], [21, 23, 'min']]}",TiO2 content
+"{'data': 'Typical Properties: | . TiO 2 content: | 92 %', 'label': [[41, 43, 'mean'], [44, 45, 'unit']]}",TiO2 content
+"{'data': 'Specific gravity ( g/cm 3 ) | 4.1', 'label': [[19, 25, 'unit'], [30, 33, 'mean']]}",Density
+"{'data': 'Median Particle Diameter, ( µm ) | 1.0 <header> <Color> | <Beige> </header>', 'label': [[0, 6, 'measuring_condition'], [28, 30, 'unit'], [35, 38, 'mean']]}",Particle size
+"{'data': '• pH: | 8.0', 'label': [[8, 11, 'mean']]}",pH
+"{'data': 'Processing | Sulfate', 'label': []}",Production Process
+"{'data': 'Median Particle Diameter, ( µm ) | 1.0 <header> <Color> | <Gray> </header>', 'label': [[0, 6, 'measuring_condition'], [28, 30, 'unit'], [35, 38, 'mean']]}",Particle size
+"{'data': 'Oil absorption: | 37 g/ 100 g', 'label': [[18, 20, 'mean'], [21, 29, 'unit']]}",Oil Absorption
+"{'data': 'pH Value | 6.5 – 7.5 <header> <> | <STD> </header>', 'label': [[11, 14, 'min'], [17, 20, 'max']]}",pH
+"{'data': 'Titanium dioxide content % ( by mass ) , min. | Titanium dioxide content % ( by mass ) , min. | Titanium dioxide content % ( by mass ) , min. | 92.0 | 94.4 <header> <Items> | <Items> | <Items> | <Specification> | <Typical Analysis> </header>', 'label': [[25, 26, 'unit'], [29, 36, 'measuring_condition'], [73, 74, 'unit'], [77, 84, 'measuring_condition'], [121, 122, 'unit'], [125, 132, 'measuring_condition'], [144, 148, 'min'], [151, 155, 'mean']]}",TiO2 content
+"{'data': 'Crystal form of base TiO 2 | Rutile <header> <> | <FT - 300 C> </header>', 'label': []}",Inorganic surface treatment
+"{'data': 'manufactured by the chloride process for general | Follow all local regulations and DuPont recom - <label>', 'label': []}",Production Process
+"{'data': 'Oil absorption [ g/ 100 g pigment ] | 21', 'label': [[17, 25, 'unit'], [26, 33, 'measuring_condition'], [38, 40, 'mean']]}",Oil Absorption
+"{'data': 'PROPERTY | ANALYSIS', 'label': []}",header
+"{'data': 'gravity: | 4.1', 'label': [[11, 14, 'mean']]}",stray
+"{'data': 'Bulk density ( tamped ) ( 2 ) [ g/cm 3 ] | 1.1', 'label': [[0, 4, 'measuring_condition'], [15, 21, 'measuring_condition'], [26, 27, 'unclear_value'], [32, 38, 'unit'], [43, 46, 'mean']]}",Density
+"{'data': 'Oil Absorption ( g/ 100 g ) | Oil Absorption ( g/ 100 g ) | 40 - 50 | 35 - 45 | 30 - 40 <header> <ITEM> | <ITEM> | <MT - 100 HD> | <MT - 500 HD> | <MT - 700 HD> </header>', 'label': [[17, 25, 'unit'], [47, 55, 'unit'], [60, 62, 'min'], [65, 67, 'max'], [70, 72, 'min'], [75, 77, 'max'], [80, 82, 'min'], [85, 87, 'max']]}",Oil Absorption
+"{'data': 'PH of the pigment ( 20 % slurry ) | : 6.00 - 8.00 | : 6.00 - 8.00', 'label': [[10, 33, 'measuring_condition'], [38, 42, 'min'], [54, 58, 'min'], [45, 49, 'max'], [61, 65, 'max']]}",pH
+"{'data': 'Bulk density ( tamped ) ( 1 ) | 1.1 g/cm 3', 'label': [[0, 4, 'measuring_condition'], [15, 21, 'measuring_condition'], [26, 27, 'unclear_value'], [32, 35, 'mean'], [36, 42, 'unit']]}",Density
+"{'data': 'Crystal Structure | Rutile <header> <Processing Method> | <Sulfate> </header>', 'label': []}","Crystal (rutile %, anatase %)"
+"{'data': 'Typical Properties: | • TiO 2 content: | 92 %', 'label': [[41, 43, 'mean'], [44, 45, 'unit']]}",TiO2 content
+"{'data': 'Amorphous Silica, wt % | 5.5 <header> <Property> | <R - 960 > </header>', 'label': [[18, 20, 'measuring_condition'], [21, 22, 'unit'], [25, 28, 'mean']]}",Inorganic surface treatment
+"{'data': 'PH value of aqueous suspension ( ISO 787 - 9 ) | 6.0 - 8.0', 'label': [[12, 30, 'measuring_condition'], [33, 44, 'method'], [49, 52, 'min'], [55, 58, 'max']]}",pH
+"{'data': 'Bulk Density ( Loose ) , kg/m 3 | 720 <header> <Color> | <Beige> </header>', 'label': [[0, 4, 'measuring_condition'], [15, 20, 'measuring_condition'], [25, 31, 'unit'], [34, 37, 'mean']]}",Density
+"{'data': 'Oil Absorption ( g/ 100 g ) | ≤ 21.0 | ≤ 21.0', 'label': [[17, 25, 'unit'], [32, 36, 'unclear_value'], [41, 45, 'unclear_value']]}",Oil Absorption
+"{'data': 'Typical Properties 1 TiO 2 content % . . . . . . . . . . . . . . . . . . . . . . . . . . . . | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 95', 'label': [[35, 36, 'unit'], [157, 159, 'mean']]}",TiO2 content
+"{'data': 'Alumina | yes <header> <Property> | <R - 902 +> </header>', 'label': []}",Inorganic surface treatment
+"{'data': 'Product | Production | rutile pigment produced by the sulfate process', 'label': []}",Production Process
+"{'data': 'Apparent density | 0.70 <header> <Tio, content> | <≥ 93 % > </header>', 'label': [[0, 8, 'measuring_condition'], [19, 23, 'mean']]}",Density
+"{'data': 'TiO 2 % | 94 <header> <Item> | <Typical Value> </header>', 'label': [[6, 7, 'unit'], [10, 12, 'mean']]}",TiO2 content
+"{'data': 'pH | 6.0 - 9.0 <header> <TiO 2 content / % > | <≥ 94.0 > </header>', 'label': [[5, 8, 'min'], [11, 14, 'max']]}",pH
+"{'data': 'Titanium dioxide | 13463 - 67 - 7 | 93 - 95 <header> <Component> | <CAS #> | <Weight % ( approx. ) > </header>', 'label': [[36, 38, 'min'], [41, 43, 'max']]}",TiO2 content
+"{'data': 'Product Quality Index Features | Product Quality Index Features | Product Quality Index Features <header> <Product Quality Index Features> <Items> | <Product Quality Index Features> <Units> | <Product Quality Index Features> <Index> </header>', 'label': []}",header
+"{'data': 'Specific gravity: | 4.1', 'label': [[20, 23, 'mean']]}",Density
+"{'data': 'Purity ( TiO 2 ) | > 93.0 %', 'label': [[21, 25, 'min'], [26, 27, 'unit']]}",TiO2 content
+"{'data': 'Density ( ISO 787 - 10 ) | 4.0 g/cm 3 <header> <Processing Method> | <Sulfate> </header>', 'label': [[10, 22, 'method'], [27, 30, 'mean'], [31, 37, 'unit']]}",Density
+"{'data': 'Particle Size ( nm ) | Particle Size ( nm ) | 15 | 30 | 50 <header> <ITEM> | <ITEM> | <MT - 100 HD> | <MT - 500 HD> | <MT - 700 HD> </header>', 'label': [[16, 18, 'unit'], [39, 41, 'unit'], [46, 48, 'mean'], [51, 53, 'mean'], [56, 58, 'mean']]}",Particle size
+"{'data': '• Specific gravity: | 4.1', 'label': [[22, 25, 'mean']]}",Density
+"{'data': '• Oil absorption: | 21 ( g/ 100 g )', 'label': [[20, 22, 'mean'], [25, 33, 'unit']]}",Oil Absorption
+"{'data': 'Rutile crystal content | ≥ 97.0 %', 'label': [[27, 31, 'min'], [32, 33, 'unit']]}","Crystal (rutile %, anatase %)"
+"{'data': '吸油量,g/ 100 g | 18', 'label': []}",stray
+"{'data': 'Aluminum hydroxide in terms of AI 203 | 3 %', 'label': [[42, 43, 'unit'], [40, 41, 'mean']]}",Inorganic surface treatment
+"{'data': 'Amorphous silica | 7631 - 86 - 9 | 5 - 6 <header> <Component> | <CAS #> | <Weight % ( approx. ) > </header>', 'label': [[0, 9, 'measuring_condition'], [35, 36, 'min'], [39, 40, 'max']]}",Inorganic surface treatment
+"{'data': 'pH Value | 6.5 ~ 8.5', 'label': [[11, 14, 'min'], [17, 20, 'max']]}",pH
+"{'data': 'TiO 2 , wt % , min. | 94 <header> <Property> | <R - 900 > </header>', 'label': [[8, 10, 'measuring_condition'], [11, 12, 'unit'], [22, 24, 'min']]}",TiO2 content
+"{'data': '• | 34.2 lbs/gal', 'label': []}",stray
+"{'data': 'PH | PH | PH | 8.0 - 9.0', 'label': [[15, 18, 'min'], [21, 24, 'max']]}",pH
+"{'data': 'SiO 2 , % | 1.25 <header> <PHYSICAL PROPERTIES ( Typical ) Color> | <Light Buff> </header>', 'label': [[8, 9, 'unit'], [12, 16, 'mean']]}",Inorganic surface treatment
+"{'data': 'distribution ( d 50 ) , µm | 0.20 | Sedimentation <header> <Property> | <Typical Value> | <Method> </header>', 'label': [[0, 21, 'measuring_condition'], [24, 26, 'unit'], [29, 33, 'mean'], [36, 49, 'method']]}",Particle size
+"{'data': 'Property | Specification Specification <header> <Property> | <Specification Specification> </header>', 'label': []}",header
+"{'data': 'Dane techniczne | tymczasowe / temporary | Technical Data', 'label': []}",header
+"{'data': '8 | pH value of aqueous suspension | EN ISO 787 - 9 | [ - ] | 7,0 ÷ 8,0 <header> <No.> | <Determined parameter> | <Test Method> | <Unit> | <Requirements> </header>', 'label': [[16, 34, 'measuring_condition'], [37, 51, 'method'], [62, 65, 'min'], [68, 71, 'max'], [0, 1, 'unclear_value']]}",pH
+"{'data': 'Bulk density ( tamped ) ( 2 ) | 1.1 g/cm 3 | 1.1 g/cm 3 <header> <TiO 2 content> | < 93 % > | < 93 % > </header>', 'label': [[15, 21, 'measuring_condition'], [0, 4, 'measuring_condition'], [26, 27, 'unclear_value'], [32, 35, 'mean'], [45, 48, 'mean'], [36, 42, 'unit'], [49, 55, 'unit']]}",Density
+"{'data': 'Amorphous Silica, wt % | 5.5 <header> <Property> | <R - 960 > </header>', 'label': [[18, 20, 'measuring_condition'], [21, 22, 'unit'], [25, 28, 'mean']]}",Inorganic surface treatment
+"{'data': ' | • Oil absorption: | • Oil absorption: | 21 g/ 100 g', 'label': [[43, 45, 'mean'], [46, 54, 'unit']]}",Oil Absorption
+"{'data': 'Processing Method | Sulfate <header> <Processing Method> | <Sulfate> </header> <label>', 'label': []}",Production Process
+"{'data': 'Density | |', 'label': []}",Density
+"{'data': 'Inorganic coating Organic treatment Crystal size [ μm ] Specific gravity [ g/cm 3 ] Loss at 105 °C ( 1 ) [ % ] Bulk density ( tamped ) ( 2 ) [ g/cm 3 ] Oil absorption ( 3 ) [ cm 3 /g pigment ] Water demand ( 4 ) [ cm 3 /g pigment ] Durability | Inorganic coating Organic treatment Crystal size [ μm ] Specific gravity [ g/cm 3 ] Loss at 105 °C ( 1 ) [ % ] Bulk density ( tamped ) ( 2 ) [ g/cm 3 ] Oil absorption ( 3 ) [ cm 3 /g pigment ] Water demand ( 4 ) [ cm 3 /g pigment ] Durability | 0.6 <header> <TiO 2 content [ % ] > | <TiO 2 content [ % ] > | < 94 > </header>', 'label': []}",multi
+"{'data': 'Specific gravity | 4.1 g/cm 3 <header> <TiO 2 Content> | < 92.5 % minimum> </header>', 'label': [[19, 22, 'mean'], [23, 29, 'unit']]}",Density
+"{'data': '• | Oil absorption: 19 g/ 100 g', 'label': [[20, 22, 'mean'], [23, 31, 'unit']]}",Oil Absorption
+"{'data': 'Oil Absorption | 19 g/ 100 g', 'label': [[17, 19, 'mean'], [20, 28, 'unit']]}",Oil Absorption
+"{'data': 'PH Value PH Value | 6.5 - 8.5 <header> <Property> | <Specification Specification> </header>', 'label': [[20, 23, 'min'], [26, 29, 'max']]}",pH
+"{'data': 'Specific gravity [ g/cm 3 ] | Specific gravity [ g/cm 3 ] | 4.1', 'label': [[19, 25, 'unit'], [49, 55, 'unit'], [60, 63, 'mean']]}",Density
+"{'data': 'TiO 2 content % . . . . | 95', 'label': [[14, 15, 'unit'], [26, 28, 'mean']]}",TiO2 content
+"{'data': 'Oil absorption ( DIN EN ISO 787 - 5 ) * | 17 g/ 100 g pigment <header> <Production rutile pigment produced by the sulphate process> <Surface treatment> | <Production rutile pigment produced by the sulphate process> <aluminium compounds> </header>', 'label': [[17, 35, 'method'], [42, 44, 'mean'], [45, 53, 'unit'], [54, 61, 'measuring_condition']]}",Oil Absorption
+"{'data': 'TiO 2 content [ % ] | 93', 'label': [[16, 17, 'unit'], [22, 24, 'mean']]}",TiO2 content
+"{'data': 'Purity as TiO 2 Content | % | Min.90 <header> <PROPERTIES> | <UNITS> | <GLOWTOX 50 PLUS> </header>', 'label': [[26, 27, 'unit'], [34, 36, 'min'], [0, 6, 'measuring_condition']]}",TiO2 content
+"{'data': 'Main Modifiers | Main Modifiers | Al 2 O 3, ZrO 2 | Al 2 O 3, ZrO 2 | Al 2 O 3, ZrO 2 <header> <ITEM> | <ITEM> | <MT - 100 HD> | <MT - 500 HD> | <MT - 700 HD> </header>', 'label': []}","Crystal (rutile %, anatase %)"
+"{'data': 'Rutile content | ≥ 97 % <header> <Tio, content> | <≥ 93 % > </header>', 'label': [[19, 21, 'min'], [22, 23, 'unit']]}","Crystal (rutile %, anatase %)"
+"{'data': 'PH | 6.0 - 9.0 <header> <TYPICAL PROPERTIES> <TiO 2 content> | <TYPICAL PROPERTIES> <≥ 94.0 % > </header>', 'label': [[5, 8, 'min'], [11, 14, 'max']]}",pH
+"{'data': 'Mass fraction of titanium dioxide, % , not less than | 90 | | 92 <header> <PHYSICAL AND CHEMICAL PROPERTIES:> <Characteristics> | <PHYSICAL AND CHEMICAL PROPERTIES:> <> | <PHYSICAL AND CHEMICAL PROPERTIES:> <Company standard> | <PHYSICAL AND CHEMICAL PROPERTIES:> <Actual indicators> </header>', 'label': [[35, 36, 'unit'], [55, 57, 'min'], [0, 13, 'measuring_condition']]}",TiO2 content
+"{'data': 'Al 2 O 3, % | 0.40 <header> <> | <ULX> </header>', 'label': [[10, 11, 'unit'], [14, 18, 'mean']]}",Inorganic surface treatment
+"{'data': 'Specific gravity | 4.04 g/cm 3 | 4.04 g/cm 3 <header> <TiO 2 content> | < 93 % > | < 93 % > </header>', 'label': [[19, 23, 'mean'], [24, 30, 'unit'], [33, 37, 'mean'], [38, 44, 'unit']]}",Density
+"{'data': 'TiO 2, % | 91.00 <header> <> | <GRAY> </header>', 'label': [[7, 8, 'unit'], [11, 16, 'mean']]}",TiO2 content
+"{'data': 'Slurry Density, lb/gal | 19.4 | 19.4 | 15.6 <header> <DuPont™ Ti - Pure® TiO 2 for Coatings — Slurry Grades> | <Property> <R - 746 > | <Property> <R - 942 > | <Property> <R - 741 > </header>', 'label': [[0, 6, 'measuring_condition'], [16, 22, 'unit'], [25, 29, 'mean'], [32, 36, 'mean'], [39, 43, 'mean']]}",Density
+"{'data': 'PH value of aqueous suspension ( ISO 787 - 9 ) | 6.5 - 9.0', 'label': [[12, 30, 'measuring_condition'], [33, 44, 'method'], [49, 52, 'min'], [55, 58, 'max']]}",pH
+"{'data': 'PARAMETER | VALUE | TEST METHOD <header> <TYPICAL PROPERTIES> <PARAMETER> | <TYPICAL PROPERTIES> <VALUE> | <TYPICAL PROPERTIES> <TEST METHOD> </header>', 'label': []}",header
+"{'data': 'TiO 2 content ( DIN EN ISO 591 ) | 95 % <header> <Production rutile pigment produced by the sulphate process> <Surface treatment> | <Production rutile pigment produced by the sulphate process> <aluminium compounds> </header>', 'label': [[16, 30, 'method'], [35, 37, 'mean'], [38, 39, 'unit']]}",TiO2 content
+"{'data': 'Crystal structure | Rutile', 'label': []}","Crystal (rutile %, anatase %)"
+"{'data': 'Product Characteristics | TiO 2 content ( ISO 591 ) > 92.5 % <header> <Applications> | <White and tinted automotive finishes and vehicle refinish systems Coil coatings Powder coatings Water - borne paints High - solids High - quality industrial coatings> </header>', 'label': [[42, 49, 'method'], [54, 58, 'min'], [59, 60, 'unit']]}",TiO2 content
+"{'data': ' | PH of suspension, aqueous solution retained | 7.0 - 8.8 <header> <> | <Item> | <Specification> </header>', 'label': [[9, 46, 'measuring_condition'], [49, 52, 'min'], [55, 58, 'max']]}",pH
+"{'data': 'Crystal Form | Rutile > 99.0 %', 'label': [[24, 28, 'min'], [29, 30, 'unit']]}","Crystal (rutile %, anatase %)"
