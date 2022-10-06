@@ -1,0 +1,406 @@
+text,label
+"{'data': 'Phenolic resins | | | | |', 'label': []}",irrelevant
+"{'data': 'Appearacnce | - | Dark brown liquid <header> <Items> | <Condition, unit> | <Data> </header>', 'label': [[18, 28, 'qualitative_value']]}",Color
+"{'data': 'Iodine Colour Number DIN 6162', 'label': []}",irrelevant
+"{'data': '% other binder | 10 | 25 | 50 | 75 | 90 <header> < % Phenodur PR 722 > < % other binder> | < 90 > < 10 > | < 75 > < 25 > | < 50 > | < 25 > < 75 > | < 10 > < 90 > </header>', 'label': []}",irrelevant
+"{'data': ' ( 2 ) | FFFM – Free from foreign matter', 'label': []}",irrelevant
+"{'data': 'DIN EN ISO 3251 dilution: 1 ml MEK ; initial weight 1.0 g ; | | | eluent THF | | <header> <Turbidity Wi> | <> | <Grade 1 - 2 > | <x Molecular weight> | <Dalton> | < 1200 - 2250 > </header>', 'label': []}",irrelevant
+"{'data': '2. | Acid Value ( mgm, KOH/gm. ) | : 23 Max. | : 23 Max.', 'label': []}",irrelevant
+"{'data': 'Features | Good leafing properties Good exterior durability', 'label': []}",irrelevant
+"{'data': 'Phenolic resins | | | | |', 'label': []}",irrelevant
+"{'data': 'Maprenal MF 580 | l | l | l | l | l', 'label': []}",irrelevant
+"{'data': 'flash point | [ °C ] | 48', 'label': []}",irrelevant
+"{'data': 'Specific gravity : | 1,010 – 1,040 at 20 °C', 'label': []}",irrelevant
+"{'data': 'MEK resistance ( double rubs ) | > 100', 'label': []}",irrelevant
+"{'data': 'DCT 431 | Free phenol, % | 5 <header> <Test method> | <Properties> | <Durez® 34071 > </header>', 'label': []}",irrelevant
+"{'data': 'Solubility in butanol @ 20 ºC | 22 - 30 | 22 - 30 | g/g | | ITL - 7018 <header> <> <Chemical characteristics:> | <Bakelite® PF 7199 LB ( RS 0199 A ) > <Cresolic resol, etherified> | <Bakelite® PF 7199 LB ( RS 0199 A ) > <Cresolic resol, etherified> | <Bakelite® PF 7199 LB ( RS 0199 A ) > <> | <Bakelite® PF 7199 LB ( RS 0199 A ) > <> | <Bakelite® PF 7199 LB ( RS 0199 A ) > <> </header>', 'label': []}",irrelevant
+"{'data': 'iodine | 100', 'label': []}",irrelevant
+"{'data': 'Iodine Colour Number DIN 6162', 'label': []}",irrelevant
+"{'data': 'iodine colour number | <= 80', 'label': []}",irrelevant
+"{'data': 'Phenodur PR 308, PR 897 | | | | } | }', 'label': []}",irrelevant
+"{'data': 'Dynamic Viscosity ( Ubbelohde ) DIN 53177 dynamic viscosity ( 23 °C ) | [ mPa.s ] 200 - 2000', 'label': []}",irrelevant
+"{'data': '% other binder | 10 | 25 | 50 | 75 | 90', 'label': []}",irrelevant
+"{'data': 'Content of free formaldehyde | max. 0,6', 'label': [[36, 39, 'max']]}",Monomer formaldehyde
+"{'data': 'Non volatiles content, % | : | 56 - 59', 'label': [[23, 24, 'unit'], [31, 33, 'min'], [36, 38, 'max']]}",Solid content
+"{'data': 'Iodine Colour Number DIN 6162', 'label': []}",irrelevant
+"{'data': ' ( 1 ) | BSMT – Bitrez Standard Method of Test', 'label': []}",irrelevant
+"{'data': 'non - volatile matter analogue DIN EN ISO 3251 ( 1 h ; 135 °C ; 1 g ; EPAC )', 'label': [[31, 46, 'method'], [49, 74, 'measuring_condition']]}",Solid content
+"{'data': 'Storage : 6 months from date of manufacture at temperature between 5 - 35 ° C.', 'label': []}",irrelevant
+"{'data': 'Phenodur PR 722, PR 897, PR 515 | 3 | ـم | | |', 'label': []}",irrelevant
+"{'data': 'Polychloroprene AD | 100.0 <header> <Material> | <Parts by Weight> </header>', 'label': []}",irrelevant
+"{'data': 'TYPICAL PROPERTIES | | Epoxy 9 solution ( a ) | 352 g', 'label': []}",irrelevant
+"{'data': 'ARALINK 40 – 809 B 60 is supplied in pre - diluted in n - Butanol. We also offer different solids content variations in addition to supply in alternative solvent combinations to satisfy customer specific requirements.', 'label': [[54, 65, 'qualitative_value']]}",Solvent type
+"{'data': '% other binder | % other binder | 10 25 | 50 | 75 | 90', 'label': []}",irrelevant
+"{'data': 'Packing: | drums, containers | drums, containers | drums, containers <header> <> <Chemical characteristics:> | <Bakelite® PF 7192 LB ( RS 0192 ) > <Bisphenol A - epoxy resin> | <Bakelite® PF 7192 LB ( RS 0192 ) > <Bisphenol A - epoxy resin> | <Bakelite® PF 7192 LB ( RS 0192 ) > <Bisphenol A - epoxy resin> </header>', 'label': []}",irrelevant
+"{'data': 'Beckopox EM 460 | | » | » | | »', 'label': []}",irrelevant
+"{'data': 'Other Properties | Appearance Clear amber', 'label': [[30, 41, 'qualitative_value']]}",Color
+"{'data': 'PHENODUR® PR 612, PR 723 | l l l | l | l', 'label': []}",irrelevant
+"{'data': ' [ °C ]', 'label': []}",irrelevant
+"{'data': 'flash point | [ °C ] 40', 'label': []}",irrelevant
+"{'data': 'Epoxy resin 9 | 226 g', 'label': []}",irrelevant
+"{'data': '% Phenodur PR 897 | 90 | 75 | 50 | 25 | 10', 'label': []}",irrelevant
+"{'data': 'PHENODUR® PR 401, PR 373 | l l l | l | l', 'label': []}",irrelevant
+"{'data': 'Butyl glycol | : complete | | <header> <> | <> | <FB 209 BT 57 > | < 180 g> </header>', 'label': [[0, 12, 'qualitative_value']]}",stray
+"{'data': 'non - volatile matter analogue DIN EN ISO 3251 ( 1 h ; 135 °C ; 2 g ; B ) Iodine Colour Number DIN 6162', 'label': [[31, 46, 'method'], [49, 71, 'measuring_condition']]}",Solid content
+"{'data': 'COLOR | 6 | Gardner - Hellige | MC 24 <header> <> | <Value> | <Unit> | <Method> </header>', 'label': [[8, 9, 'mean'], [12, 19, 'unit'], [32, 37, 'method']]}",Color
+"{'data': 'Viscosity | 40 – 70 | Seconds | MC 44 <header> <> | <Value> | <Unit> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Storage life at 18 - 20 °C: | approx. 12 months | approx. 12 months | approx. 12 months | approx. 12 months | <header> <Characteristic data:> | <> | <> | <> | <> | <Bakelite analysis method> </header>', 'label': []}",irrelevant
+"{'data': 'Maprenal MF 800 | | | | | <header> < % Phenodur PR 722 > < % other binder> | < 90 > < 10 > | < 75 > < 25 > | < 50 > | < 25 > < 75 > | < 10 > < 90 > </header>', 'label': []}",irrelevant
+"{'data': 'Gardner Color : 0 - 8', 'label': [[0, 7, 'unit'], [16, 17, 'min'], [20, 21, 'max']]}",Color
+"{'data': 'Density ( Liquids ) DIN EN ISO 2811 - 2', 'label': []}",irrelevant
+"{'data': 'Solvent | Xylene /n - buthanol', 'label': [[10, 30, 'qualitative_value']]}",Solvent type
+"{'data': 'N.V.C - [ 1 gm 30 minutes @ 180 C ] | N.V.C - [ 1 gm 30 minutes @ 180 C ] | ( 4 ) % | ( 4 ) % | BSMT A 1005 - 002 | 41 | 43 <header> <Physical Property> | <Physical Property> | <Units> | <Units> | <Method ( 1 ) > | <Minimum> | <Maximum> </header>', 'label': [[10, 33, 'measuring_condition'], [48, 71, 'measuring_condition'], [82, 83, 'unit'], [92, 93, 'unit'], [96, 113, 'method'], [116, 118, 'min'], [121, 123, 'max']]}",Solid content
+"{'data': ' ( 3 ) | ETS – Equal to standard', 'label': []}",irrelevant
+"{'data': 'Non volatiles content, % ( 01 - G method ) | : 60 - 64 | : 60 - 64 <header> <Solvent system> | <: n - Butanol> | <: n - Butanol> </header>', 'label': [[23, 24, 'unit'], [27, 40, 'measuring_condition'], [47, 49, 'min'], [52, 54, 'max'], [59, 61, 'min'], [64, 66, 'max']]}",Solid content
+"{'data': 'Description : ETERKYD 3242 - X - 60 is a short resin and phenolic modified oxidizing alkyd solution available in xylene or offers lift resistance that is unique for an alkyd when topcoated with nitrocellulose lacquer or paints containing strong solvents.', 'label': [[113, 119, 'qualitative_value']]}",Solvent type
+"{'data': 'Dr. Günter von Au | D - 42489 Wülfrath | Internet: http://www.ask - chemicals.de <header> <Version 01 / 2007 > | <> | <Page 1 of 1 > </header>', 'label': []}",irrelevant
+"{'data': 'Epoxy type 4 / 7 Epoxy type 9 | : complete : max 30 % | | Propylene glycol monoethylether Solvesso 150 | 25 % 35 %', 'label': []}",irrelevant
+"{'data': ' ( 23 | °C )', 'label': []}",irrelevant
+"{'data': 'Phenodur PR 373, PR 401, PR 404 | } | | } | | }', 'label': []}",irrelevant
+"{'data': 'Phenodur PR 404 | | | | » | »', 'label': []}",irrelevant
+"{'data': 'Free Monomers | % [ typical ] <header> <Free Monomers> | < % [ typical ] > </header>', 'label': []}",irrelevant
+"{'data': 'Solvent system | : n - Butanol | : n - Butanol <header> <Solvent system> | <: n - Butanol> | <: n - Butanol> </header>', 'label': [[19, 30, 'qualitative_value'], [35, 46, 'qualitative_value']]}",Solvent type
+"{'data': 'Physical Property | Physical Property | Units | Units | Method ( 1 ) | Minimum | Maximum <header> <Physical Property> | <Physical Property> | <Units> | <Units> | <Method ( 1 ) > | <Minimum> | <Maximum> </header>', 'label': []}",header
+"{'data': 'Flash Point | DIN EN ISO 1523', 'label': []}",irrelevant
+"{'data': 'Gardner color : | 0 - 5', 'label': [[0, 7, 'unit'], [18, 19, 'min'], [22, 23, 'max']]}",Color
+"{'data': 'AV | 10 max mg KOH/g', 'label': []}",irrelevant
+"{'data': 'Limited thinnable with: aliphatic hydrocarbons, glycols | Limited thinnable with: aliphatic hydrocarbons, glycols | Limited thinnable with: aliphatic hydrocarbons, glycols | Limited thinnable with: aliphatic hydrocarbons, glycols | Limited thinnable with: aliphatic hydrocarbons, glycols | Limited thinnable with: aliphatic hydrocarbons, glycols <header> <Chemical characteristic> | <xylenol - resol, etherified> | <xylenol - resol, etherified> | <xylenol - resol, etherified> | <xylenol - resol, etherified> | <> </header>', 'label': []}",irrelevant
+"{'data': ' | | Thinner ( b ) | 111 g', 'label': []}",irrelevant
+"{'data': 'Melting range ( with reference to DIN EN ISO 3146 ) | °C approx. | 105 | FPH 1.01 <header> <Chemical characteristic Delivery form> | <phenolic novolak pastilles bags, big bags> | <phenolic novolak pastilles bags, big bags> | <> </header>', 'label': []}",irrelevant
+"{'data': 'DIN 53715 | | | x | | <header> <Turbidity Wi> | <> | <Grade 1 - 2 > | <x Molecular weight> | <Dalton> | < 1200 - 2250 > </header>', 'label': []}",irrelevant
+"{'data': 'solvent in titration pot: methanol | | | x | | <header> <Turbidity Wi> | <> | <Grade 1 - 2 > | <x Molecular weight> | <Dalton> | < 1200 - 2250 > </header>', 'label': [[26, 34, 'qualitative_value']]}",Solvent type
+"{'data': 'approx.', 'label': []}",irrelevant
+"{'data': 'Property | Limitis | Test Method <header> <Property> | <Limitis> | <Test Method> </header>', 'label': []}",header
+"{'data': 'Colour number | Gardner max. 13', 'label': [[16, 23, 'unit'], [29, 31, 'max']]}",Color
+"{'data': 'iodine colour number | <= 70', 'label': []}",irrelevant
+"{'data': 'Other binders | | | | |', 'label': []}",irrelevant
+"{'data': 'Non volatile content DIN EN ISO 3251 ( 2 g + 2 mL butanol, 1 hour 1350 C ) | % | 53 - 57 <header> <Properties> | <Units> | <Value> </header>', 'label': [[21, 36, 'method'], [39, 72, 'measuring_condition'], [77, 78, 'unit'], [81, 83, 'min'], [86, 88, 'max']]}",Solid content
+"{'data': '% other binder | 10 | 25 | 50 | 75 | 90', 'label': []}",irrelevant
+"{'data': 'Phenodur PR 308, PR 897 | } | | | | }', 'label': []}",irrelevant
+"{'data': 'Phenodur PR 897 | » | » | | | »', 'label': []}",irrelevant
+"{'data': 'Viscosity - RVT - cPs | 210 | - | 360 <header> <PROPERTY> | <RANGE> | <RANGE> | <RANGE> </header>', 'label': []}",irrelevant
+"{'data': 'AV | 10 max | mg KOH/g <header> <Property> | <Value> | <Unit> </header>', 'label': []}",irrelevant
+"{'data': 'Additional properties ( not regularly determined ) : | | | <header> <Chemical characteristic Delivery form> | <phenolic resin, modified> <powder> | <phenolic resin, modified> <powder> | <> <powder> </header>', 'label': []}",irrelevant
+"{'data': 'Flash Point DIN EN ISO 1523 | Beckopox EP 307, EP 309 | | } <header> <PRODUCT DATA> | <DILUTABILITY> | <DILUTABILITY> | <DILUTABILITY> </header>', 'label': []}",irrelevant
+"{'data': 'approx. ( 20 °C )', 'label': []}",irrelevant
+"{'data': 'Solvents:', 'label': []}",Solvent type
+"{'data': 'Alnovol PN 430 | } | | | } |', 'label': []}",irrelevant
+"{'data': 'Description : | Butylated phenolic resin solution. be used for food gold lacquers and for organosol lacquers.', 'label': []}",irrelevant
+"{'data': '• Viscosity @ 20 C | • Viscosity @ 20 C | ( 4 ) Poise | ( 4 ) Poise | BSMT A 1003 - 005 | 1 | 20 <header> <Physical Property> | <Physical Property> | <Units> | <Units> | <Method ( 1 ) > | <Minimum> | <Maximum> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity at 25 °C ( 60 R/ 40 EtOH ) , cps | 237 | DCT 61 <header> <TYPICAL PROPERTIES> | <TYPICAL PROPERTIES> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': '1. | Type | : Rosin Modified Phenolic Resin. | : Rosin Modified Phenolic Resin.', 'label': []}",irrelevant
+"{'data': 'analogue | DIN EN ISO 3251', 'label': []}",irrelevant
+"{'data': 'Not continually determined:', 'label': []}",irrelevant
+"{'data': 'Appearance | TM - 2265 clear', 'label': [[13, 22, 'method'], [23, 28, 'qualitative_value']]}",Color
+"{'data': 'Epoxy 9 solution ( a ) | 352 g', 'label': []}",irrelevant
+"{'data': 'Determined per batch: | ( Ubbelohde ) DIN 53177', 'label': []}",irrelevant
+"{'data': 'Maprenal MF 800 | l | l | l | l | l', 'label': []}",irrelevant
+"{'data': 'Phenodur PR 612, PR 723 | | | | | }', 'label': []}",irrelevant
+"{'data': 'Viscosity, 23 ℃ | TM - 2013 mPa.s | 340 - 490', 'label': []}",irrelevant
+"{'data': '* | Viscosity at 60 % in butanol', 'label': []}",irrelevant
+"{'data': 'Flash point : | 21 °C – 55 °C', 'label': []}",irrelevant
+"{'data': 'Iodine Colour Number | DIN 6162', 'label': []}",irrelevant
+"{'data': 'Epoxy resins | | | | |', 'label': []}",irrelevant
+"{'data': ' | | | n - Butanol | 5 %', 'label': []}",stray
+"{'data': 'Specification Property | Value | Unit of measurement | Method <header> <Specification Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",header
+"{'data': 'N.V.C @ 105 ℃ | N.V.C @ 105 ℃ | . | BSMIT A 1005 - 002 | 44 | 46 <header> <Physical Property> | <Physical Property> | <Units> | <Method ( 1 ) > | <Minimum> | <Maximum> </header>', 'label': [[8, 13, 'measuring_condition'], [24, 29, 'measuring_condition'], [36, 54, 'method'], [57, 59, 'min'], [62, 64, 'max']]}",Solid content
+"{'data': 'Physical Form | Flake', 'label': []}",irrelevant
+"{'data': 'Not continually determined:', 'label': []}",irrelevant
+"{'data': ' ( 04 - B method )', 'label': []}",irrelevant
+"{'data': ' ( 1 ) | BSMT – Bitrez Standard Method of Test', 'label': []}",irrelevant
+"{'data': 'Alcohols | : complete <header> <Aliphatic hydrocarbons> | <: limited> </header>', 'label': []}",irrelevant
+"{'data': ': 60, the ""solvent"" mixture contains phenol/cresol and alcohol. Such lacquers used as wire coating systems and applied by a multi layer process | and', 'label': []}",irrelevant
+"{'data': 'BECKOPOX EP 307 | BECKOPOX EP 307 | l l | l | l | l', 'label': []}",irrelevant
+"{'data': ' ( 3 ) | ETS – Equal to Standard', 'label': []}",irrelevant
+"{'data': 'Mostly thinnable with: | aromatic hydrocarbons, glycol ethers, alkohols, esters, ketones | aromatic hydrocarbons, glycol ethers, alkohols, esters, ketones | aromatic hydrocarbons, glycol ethers, alkohols, esters, ketones | aromatic hydrocarbons, glycol ethers, alkohols, esters, ketones | <header> <Characteristic data:> | <> | <> | <> | <> | <Bakelite analysis method> </header>', 'label': []}",irrelevant
+"{'data': 'flash point | [ °C ] 56', 'label': []}",irrelevant
+"{'data': 'Color [ Gardner ] | 3 Max <header> <Items> | <KCA 6438 F> </header>', 'label': [[8, 15, 'unit'], [20, 21, 'max']]}",Color
+"{'data': 'Non volatiles content, % : | 71 - 73', 'label': [[23, 24, 'unit'], [29, 31, 'min'], [34, 36, 'max']]}",Solid content
+"{'data': 'Acid value, mg KOH/g ( ISO 3682 ) | 5 - 15', 'label': []}",irrelevant
+"{'data': 'Density [ g/cm³ ] | 1,005 - 1,015', 'label': []}",irrelevant
+"{'data': 'Visual appearance | Without bits | Visive | MC 20 <header> <> | <Value> | <Unit> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Acid value This is not a true acid value but is caused by phenolic hydroxyl groups. | 15 ± 7 | | DIN EN ISO 3682 <header> <Other data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Limited thinnable with: | aliphatic hydrocarbons, glycols | aliphatic hydrocarbons, glycols | aliphatic hydrocarbons, glycols | aliphatic hydrocarbons, glycols | <header> <Characteristic data:> | <> | <> | <> | <> | <Bakelite analysis method> </header>', 'label': []}",irrelevant
+"{'data': 'Resin Content | % / 135 ℃ | 62 <header> <Items> | <Unit/Condition> | <Data> </header>', 'label': []}",irrelevant
+"{'data': 'Non - volatile content, % @ 125 °C 3251 ) | 69 - 73', 'label': [[24, 25, 'unit'], [28, 34, 'measuring_condition'], [35, 39, 'method'], [44, 46, 'min'], [49, 51, 'max']]}",Solid content
+"{'data': 'Aromatic hydrocarbon | : complete | Methyl proxitol acetate | 42 g', 'label': []}",irrelevant
+"{'data': 'Softening point | 110 ± 10 | °C | DIN 53 180 <header> <Specification Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Flash Point DIN EN ISO 1523', 'label': []}",irrelevant
+"{'data': 'Phenodur PR 308 | A | | | |', 'label': []}",irrelevant
+"{'data': 'DIN 6162 | | | weight average ( Mw ) | | <header> <Turbidity Wi> | <> | <Grade 1 - 2 > | <x Molecular weight> | <Dalton> | < 1200 - 2250 > </header>', 'label': []}",irrelevant
+"{'data': 'Water | 2.0 <header> <Material> | <Parts by Weight> </header>', 'label': []}",irrelevant
+"{'data': 'Phenodur PR 722 | } | | | | }', 'label': []}",irrelevant
+"{'data': '5. Colour On ‘Gardner’ Scale : | 12 Max', 'label': [[14, 21, 'unit'], [33, 35, 'max']]}",Color
+"{'data': 'Phenolic Resin Modification | Present', 'label': []}",irrelevant
+"{'data': 'density approx. ( 20 °C ) | [ g/cm³ ] 1,00 | [ g/cm³ ] 1,00', 'label': []}",irrelevant
+"{'data': 'Viscosity Brookfield | 100 - 200 | cps | MC 19 at 25 ° C <header> <> | <Value> | <Unit> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Non - Volatile Matter | DIN EN ISO 3251', 'label': [[24, 39, 'method']]}",Solid content
+"{'data': 'Flash point 10 - 370 °C ( DIN EN 22719, ISO 2719 ) | °C | approx. | 32 | FPH 7.19 <header> <> <Delivery form> <Packing> <Characteristic data:> | <xylenol - resol, etherified> < 70 % in n - butanol / xylene drums, container, tank car> <Packing> <> | <xylenol - resol, etherified> < 70 % in n - butanol / xylene drums, container, tank car> <Packing> <> | <xylenol - resol, etherified> < 70 % in n - butanol / xylene drums, container, tank car> <Packing> <> | <> < 70 % in n - butanol / xylene drums, container, tank car> <Packing> <Bakelite analysis method> </header>', 'label': []}",irrelevant
+"{'data': ' ( 23 °C )', 'label': []}",stray
+"{'data': 'Solid content: | 46,5 – 48,5 %', 'label': [[17, 21, 'min'], [24, 28, 'max'], [29, 30, 'unit']]}",Solid content
+"{'data': 'APPEARANCE | Clear to slight Haze', 'label': [[13, 33, 'qualitative_value']]}",Color
+"{'data': 'Physical Property | | Units | Method ( 1 ) | Minimum | Maximum <header> <Physical Property> | <> | <Units> | <Method ( 1 ) > | <Minimum> | <Maximum> </header>', 'label': []}",header
+"{'data': 'Epoxy resins | | | | |', 'label': []}",irrelevant
+"{'data': 'Density ( Liquids ) | DIN EN ISO 2811 - 2', 'label': []}",irrelevant
+"{'data': 'dynamic viscosity | ( 25 1 /s ; 23 °C ) [ mPa.s ] 1500 - 4000', 'label': []}",irrelevant
+"{'data': 'dynamic viscosity | [ mPa.s ] - 2500 1200', 'label': []}",irrelevant
+"{'data': 'Solvent system | Butanol', 'label': [[17, 24, 'qualitative_value']]}",Solvent type
+"{'data': 'Flash Point | DIN EN ISO 1523', 'label': []}",irrelevant
+"{'data': 'ca.', 'label': []}",irrelevant
+"{'data': 'Methylol Content, ( % ) 12 - 16 Viscosity, Gardner - Holdt, 60 % in Toluene D - J', 'label': []}",irrelevant
+"{'data': 'Colour number Gardner ( DIN ISO 4630 ) | | | max. 15 | max. 15 | FPH 7.07 <header> <Characteristic data:> | <> | <> | <> | <> | <Bakelite analysis method> </header>', 'label': [[14, 21, 'unit'], [24, 36, 'method'], [50, 52, 'max'], [60, 62, 'max'], [65, 73, 'method']]}",Color
+"{'data': 'Beckopox EP 301 | } | | } | { | }', 'label': []}",irrelevant
+"{'data': 'Epoxy type 4 / 7 Epoxy type 9 | : complete : max 30 % | Propylene glycol monoethylether Solvesso 150 | 25 % 35 % <header> <> | <> | <FB 209 BT 57 > | < 180 g> </header>', 'label': []}",irrelevant
+"{'data': 'cyclohexanon } butanol | 3 / 4', 'label': [[15, 22, 'qualitative_value'], [0, 12, 'qualitative_value']]}",Solvent type
+"{'data': 'Dynamic Viscosity ( Ubbelohde ) | DIN 53177', 'label': [[0, 7, 'measuring_condition'], [20, 29, 'measuring_condition'], [34, 43, 'method']]}",Viscosity
+"{'data': 'BECKOPOX EP 301 | BECKOPOX EP 301 | l l | l | l | l', 'label': []}",irrelevant
+"{'data': 'Iodine Colour Number | DIN 6162', 'label': []}",irrelevant
+"{'data': 'Solid content | 50 - 52', 'label': [[16, 18, 'min'], [21, 23, 'max']]}",Solid content
+"{'data': 'X 201 - 812 is phenolic modified tung oil supplied in white spirit / Solvesso 100 under a Toll arrangement for ICI only.', 'label': [[69, 81, 'qualitative_value']]}",Solvent type
+"{'data': 'Iodine Colour Number | DIN 6162', 'label': []}",irrelevant
+"{'data': 'Flash point 10 - 370 °C ( DIN EN 22719, ISO 2719 ) | °C approx. | 32 | 32 | 32 | FPH 7.19 <header> <Chemical characteristic> | <xylenol - resol, etherified> | <xylenol - resol, etherified> | <xylenol - resol, etherified> | <xylenol - resol, etherified> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Dynamic Viscosity ( Ubbelohde ) | DIN 53177', 'label': [[0, 7, 'measuring_condition'], [20, 29, 'measuring_condition'], [34, 43, 'method']]}",Viscosity
+"{'data': 'Phenodur PR 401 | } | | | |', 'label': []}",irrelevant
+"{'data': 'flash point | [ °C ] | 48', 'label': []}",irrelevant
+"{'data': 'Colour / Appearance VLN 250 colour', 'label': []}",Color
+"{'data': 'iodine colour number | <= 10', 'label': []}",irrelevant
+"{'data': 'Non - volatile components at 135 °C ( DIN 16916 - 02 - H 1, ISO 8618 ) | % | | 53 ± 2 | FPH 5.01 <header> <Chemical characteristic> <Delivery form> <Packing> <Characteristic data:> | <bisphenol - A resol 55 % in n - butanol, butyl glycol drums, container, tank car> <Delivery form> <Packing> <> | <bisphenol - A resol 55 % in n - butanol, butyl glycol drums, container, tank car> <Delivery form> <Packing> <> | <bisphenol - A resol 55 % in n - butanol, butyl glycol drums, container, tank car> <Delivery form> <Packing> <> | <> <Delivery form> <Packing> <Bakelite analysis method> </header>', 'label': [[29, 35, 'measuring_condition'], [38, 68, 'method'], [73, 74, 'unit'], [79, 81, 'mean'], [84, 85, 'std'], [88, 96, 'method']]}",Solid content
+"{'data': 'Maprenal MF 800 | | ـم | } | } | }', 'label': []}",irrelevant
+"{'data': ' | | | Thinner ( b ) | 177 g', 'label': []}",irrelevant
+"{'data': 'Hot Plate Cure @ 160 °C, ( sec. ) | 30 - 150', 'label': []}",irrelevant
+"{'data': 'Phenodur PR 373 | } | » | | | }', 'label': []}",irrelevant
+"{'data': 'Phenodur PR 515 | | | | } |', 'label': []}",irrelevant
+"{'data': 'Phenodur PR 612, PR 723, PR 897 | } | } | | |', 'label': []}",irrelevant
+"{'data': 'Non - Volatile Matter | DIN EN ISO 3251', 'label': [[24, 39, 'method']]}",Solid content
+"{'data': ' ( 04 - B method )', 'label': []}",irrelevant
+"{'data': 'Property key | Property key', 'label': []}",irrelevant
+"{'data': 'VISCOSITY - FORD 4 CUP @ 25 °C | 60 - 90 | Seconds | MC 44 <header> <> | <Value> | <Unit> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Flash Point DIN EN ISO 1523 flash point', 'label': []}",irrelevant
+"{'data': 'Color: | Yellow to dark transparency liquid', 'label': [[9, 23, 'qualitative_value']]}",Color
+"{'data': 'Dynamic | DIN 53177', 'label': []}",irrelevant
+"{'data': 'Viscosity: 30 +/ - 15 S BZ - 4 # / 25 ℃', 'label': []}",irrelevant
+"{'data': 'Viscosity at 23 °C, mPas ( 02 - T method ) | : 50 - 150', 'label': []}",irrelevant
+"{'data': 'Durez® 34071 is a phenol based thermo - reactive resin in solvent ( n - butanol ) for multi - component, baked - metal - coating formulations.', 'label': [[68, 79, 'qualitative_value']]}",Solvent type
+"{'data': 'Dynamic Viscosity ( Ubbelohde ) DIN 53177', 'label': []}",irrelevant
+"{'data': 'Not continually determined:', 'label': []}",irrelevant
+"{'data': ' | Typical values <header> <> | <Typical values> </header>', 'label': []}",irrelevant
+"{'data': 'Flash point : | 21 ℃ - 55 ℃', 'label': []}",irrelevant
+"{'data': 'Not continually determined:', 'label': []}",irrelevant
+"{'data': 'Specific gravity at 20 °C ( DIN 53217 - 02, ISO 2811 ) | g/cm³ | approx. | 1,03 | FPH 7.01 <header> <> <Delivery form> <Packing> <Characteristic data:> | <xylenol - resol, etherified> < 70 % in n - butanol / xylene drums, container, tank car> <Packing> <> | <xylenol - resol, etherified> < 70 % in n - butanol / xylene drums, container, tank car> <Packing> <> | <xylenol - resol, etherified> < 70 % in n - butanol / xylene drums, container, tank car> <Packing> <> | <> < 70 % in n - butanol / xylene drums, container, tank car> <Packing> <Bakelite analysis method> </header>', 'label': []}",irrelevant
+"{'data': 'Phenodur PR 612, PR 723 | } | } | | | }', 'label': []}",irrelevant
+"{'data': 'Specific gravity : 1,010 - 1,040 at 20 ℃', 'label': []}",irrelevant
+"{'data': 'colour | dark brown', 'label': [[9, 19, 'qualitative_value']]}",Color
+"{'data': 'iodine colour number | <= 30', 'label': []}",irrelevant
+"{'data': 'flash point | [ °C ] 25', 'label': []}",irrelevant
+"{'data': 'flash point | [ °C ] 48', 'label': []}",irrelevant
+"{'data': 'Viscosity, 50 % solids solution in white spirit Ford Cup 4, seconds, 25 ℃ | 25', 'label': []}",irrelevant
+"{'data': 'Flash point 10 - 370 °C ( DIN EN 22719,ISO 2719 ) | °C | °C | approx. 32 | approx. 32 | FPH 7.19 <header> <Characteristic data:> | <> | <> | <> | <> | <Bakelite analysis method> </header>', 'label': []}",irrelevant
+"{'data': '4. | Viscosity at 300 C On Fc / B 4 ( 50 % In Xylene ) | : 15 – 30 secs. | : 15 – 30 secs.', 'label': []}",irrelevant
+"{'data': 'TYPICAL PHYSICAL PROPERTIES', 'label': []}",irrelevant
+"{'data': 'non - volatile matter | [ % ] 61 - 65', 'label': [[26, 27, 'unit'], [30, 32, 'min'], [35, 37, 'max']]}",Solid content
+"{'data': 'Beckopox EP 301, EP 304 | 3 | | | |', 'label': []}",irrelevant
+"{'data': 'Maprenal MF 590 | } | | | |', 'label': []}",irrelevant
+"{'data': '% other binder | 10 | 25 | 50 | 75 | 90', 'label': []}",irrelevant
+"{'data': 'Non - Volatile Matter | DIN EN ISO 3251', 'label': [[24, 39, 'method']]}",Solid content
+"{'data': 'analogue | DIN EN ISO 3251', 'label': []}",irrelevant
+"{'data': 'Viscosity – [ BTV ] | ( 4 ) | Poise | BSMT A 1003 - 003 | 3 | 6 <header> <Physical Property> | <> | <Units> | <Method ( 1 ) > | <Minimum> | <Maximum> </header>', 'label': []}",irrelevant
+"{'data': '50 % B ( 23 °C ) | ethyl acetate | l | butanol | l', 'label': [[19, 32, 'qualitative_value'], [39, 46, 'qualitative_value']]}",Solvent type
+"{'data': 'Flash Point | DIN EN ISO 1523', 'label': []}",irrelevant
+"{'data': 'Other data* Property Value | Other data* Property Value | Unit of measurement Method | Unit of measurement Method <header> <Other data* Property Value> | <Other data* Property Value> | <Unit of measurement Method> | <Unit of measurement Method> </header>', 'label': []}",header
+"{'data': 'Viscosity at 23 °C, mPas ( 02 - T method ) | 50 - 150', 'label': []}",irrelevant
+"{'data': 'Determined per batch: | DIN 53177', 'label': []}",irrelevant
+"{'data': 'density | [ g/cm³ ] 1,05', 'label': []}",irrelevant
+"{'data': 'Zinc Oxide Compatibility : | Poor', 'label': []}",irrelevant
+"{'data': 'non - volatile matter analogue DIN EN ISO 3251 ( 1 h ; 135 °C ; 2 g ; B )', 'label': [[31, 46, 'method'], [49, 71, 'measuring_condition']]}",Solid content
+"{'data': 'Cray Valley | Simon Vivian | 15 / 03 / 05 | <header> <Approver> | <Name> | <Date> | <Signature> </header>', 'label': []}",irrelevant
+"{'data': 'Non volatiles content, % ( 01 - DF method ) | : 45 - 48', 'label': [[23, 24, 'unit'], [27, 41, 'method'], [48, 50, 'min'], [53, 55, 'max']]}",Solid content
+"{'data': 'Dynamic Viscosity | DIN 53177', 'label': [[0, 7, 'measuring_condition'], [20, 29, 'method']]}",Viscosity
+"{'data': 'initial weight | 1.0', 'label': []}",irrelevant
+"{'data': 'To be used for food gold lacquers and for organosol lacquers.', 'label': []}",irrelevant
+"{'data': 'Delivery form: | liquid | liquid | | | <header> <> <Chemical characteristics:> | <Bakelite® PF 7199 LB ( RS 0199 A ) > <Cresolic resol, etherified> | <Bakelite® PF 7199 LB ( RS 0199 A ) > <Cresolic resol, etherified> | <Bakelite® PF 7199 LB ( RS 0199 A ) > <> | <Bakelite® PF 7199 LB ( RS 0199 A ) > <> | <Bakelite® PF 7199 LB ( RS 0199 A ) > <> </header>', 'label': []}",irrelevant
+"{'data': 'Non - Volatile Matter | DIN EN ISO 3251', 'label': [[24, 39, 'method']]}",Solid content
+"{'data': 'Flow distance + 10 % hexamethylenetetramine ( with reference to DIN EN ISO 8619 ) | mm | 18 ± 2 | FPH 2.06 <header> <Chemical characteristic Delivery form> | <phenolic novolak pastilles bags, big bags> | <phenolic novolak pastilles bags, big bags> | <> </header>', 'label': []}",irrelevant
+"{'data': ""Density ( Liquids ) DIN EN ISO 2811 - 2 | At storage over a longer period of time the product can tend to crystallization. This turbidity is reversible and can be removed by short warming to approx. 80 °C. According to our present experiences, the turbidity doesn't have influence on the product quality."", 'label': []}",irrelevant
+"{'data': 'Solid Content - [ 1 g/ 20 min/ 196 ’c ] | | Mn | BSMT A 1015 - 002 | 49 | 51 <header> <Physical Property> | <> | <Units> | <Method ( 1 ) > | <Minimum> | <Maximum> </header>', 'label': [[18, 37, 'measuring_condition'], [49, 66, 'method'], [69, 71, 'min'], [74, 76, 'max']]}",Solid content
+"{'data': 'Butvar B - 79, B - 90, B - 98 | | } | ـم | |', 'label': []}",irrelevant
+"{'data': 'Form : | Liquid | ( a ) Epoxy 9 solution: | <header> <> | <> | <FB 209 BT 57 > | < 180 g> </header>', 'label': []}",stray
+"{'data': '% PHENODUR® PR 263 | % PHENODUR® PR 263 | | | |', 'label': []}",irrelevant
+"{'data': 'Density ( 25 °C ) | 1,06 – 1,07 g/cm 3 | 2400', 'label': []}",irrelevant
+"{'data': 'Beckopox EP 307, EP 309 | | } | | } | }', 'label': []}",irrelevant
+"{'data': 'Free Cresol | % | < 3.0 % <header> <Property> | <Units> | <Value> </header>', 'label': []}",irrelevant
+"{'data': 'Flash Point | DIN EN ISO 1523', 'label': []}",irrelevant
+"{'data': 'Form | Liquid <header> <Form> | <Liquid> </header>', 'label': []}",irrelevant
+"{'data': 'Flash Point | DIN EN ISO 1523', 'label': []}",irrelevant
+"{'data': 'Test Methods available upon request', 'label': []}",irrelevant
+"{'data': 'Density DIN 53217 ( 20 oC ) | g/cm 3 | 0.99 <header> <Properties> | <Units> | <Value> </header>', 'label': []}",irrelevant
+"{'data': 'Beckopox EP 304 | | » | » | | 3', 'label': []}",irrelevant
+"{'data': 'Iodine Colour Number DIN 6162', 'label': []}",irrelevant
+"{'data': 'Note : density and flash point are reported in our material safety data sheet. | TYPICAL STARTING FORMULA', 'label': []}",irrelevant
+"{'data': 'Not continually determined:', 'label': []}",irrelevant
+"{'data': 'Density ( Liquids ) DIN EN ISO 2811 - 2', 'label': []}",irrelevant
+"{'data': 'Appearance [ to defined standard ] | Appearance [ to defined standard ] | ( 2 ) - | ( 2 ) - | BSMT A 1001 - 001 | ETS ( 3 ) | - <header> <Physical Property> | <Physical Property> | <Units> | <Units> | <Method ( 1 ) > | <Minimum> | <Maximum> </header>', 'label': [[94, 111, 'method']]}",Color
+"{'data': 'Phenodur PR 308, PR 897 | l | l | l | l | l', 'label': []}",irrelevant
+"{'data': 'Color , Gardner | 12 max.', 'label': [[8, 15, 'unit'], [18, 20, 'max']]}",Color
+"{'data': 'Iodine Colour Number | DIN 6162', 'label': []}",irrelevant
+"{'data': 'COLOUR | 12 Max | Lovibond | MC 48 <header> <> | <Value> | <Unit> | <Method> </header>', 'label': [[9, 11, 'max'], [18, 26, 'unit'], [29, 34, 'method']]}",Color
+"{'data': 'TYPICAL PROPERTIES |', 'label': []}",irrelevant
+"{'data': 'dark brown', 'label': [[0, 10, 'qualitative_value']]}",Color
+"{'data': 'Not continually determined:', 'label': []}",irrelevant
+"{'data': 'Colour – [ Shellac 8 Scale ] | | - | BSMT A 1002 - 003 | - | 10 <header> <Physical Property> | <> | <Units> | <Method ( 1 ) > | <Minimum> | <Maximum> </header>', 'label': [[37, 54, 'method'], [61, 63, 'max']]}",Color
+"{'data': 'component: free phenol Content ( HPLC ) | % | max 2.30 | z - average ( Mz ) calibration: w/polystyrene standard ; eluent THF | | <header> <Turbidity Wi> | <> | <Grade 1 - 2 > | <x Molecular weight> | <Dalton> | < 1200 - 2250 > </header>', 'label': []}",irrelevant
+"{'data': 'Specific gravity at 20 °C: | 1,015 – 1,035 g/ml', 'label': []}",irrelevant
+"{'data': 'Moisture | % /KF | 0.7 <header> <Items> | <Unit/Condition> | <Data> </header>', 'label': []}",irrelevant
+"{'data': 'dynamic viscosity | [ mPa.s ] 1500 - 4000', 'label': []}",irrelevant
+"{'data': 'Solids - Forced Air Oven - % | 48.50 | - | 50.50 <header> <PROPERTY> | <RANGE> | <RANGE> | <RANGE> </header>', 'label': [[9, 24, 'measuring_condition'], [27, 28, 'unit'], [31, 36, 'min'], [43, 48, 'max']]}",Solid content
+"{'data': 'non - volatile matter analogue DIN EN ISO 3251 ( 1 h ; 135 °C ; 2 g ; B ) Iodine Colour Number DIN 6162', 'label': [[31, 46, 'method'], [49, 71, 'measuring_condition']]}",Solid content
+"{'data': 'Magnesium Oxide | 4.5 <header> <Material> | <Parts by Weight> </header>', 'label': []}",irrelevant
+"{'data': ""Solids @ 200 ºC ( 1 g, 20 ' ) | 46 - 48 | 46 - 48 | % ITL - 7257 <header> <> <Chemical characteristics:> | <Bakelite® PF 7192 LB ( RS 0192 ) > <Bisphenol A - epoxy resin> | <Bakelite® PF 7192 LB ( RS 0192 ) > <Bisphenol A - epoxy resin> | <Bakelite® PF 7192 LB ( RS 0192 ) > <Bisphenol A - epoxy resin> </header>"", 'label': [[9, 29, 'measuring_condition'], [32, 34, 'min'], [37, 39, 'max'], [42, 44, 'min'], [47, 49, 'max'], [52, 53, 'unit'], [54, 64, 'method']]}",Solid content
+"{'data': 'Determined per batch: | solvent naphtha | 3 / 4 | butyl acetate } <header> <PRODUCT DATA> | <DILUTABILITY> | <DILUTABILITY> | <DILUTABILITY> </header>', 'label': [[50, 63, 'qualitative_value']]}",Solvent type
+"{'data': 'non - volatile matter analogue DIN EN ISO 3251 ( 1 h ; 125 °C ; 1 g ; B )', 'label': [[31, 46, 'method'], [49, 71, 'measuring_condition']]}",Solid content
+"{'data': 'STORAGE : | Six months if kept in the original container, indoors and in a dry place between 5 - 35 °C.', 'label': []}",irrelevant
+"{'data': 'Appearance | - | Yellow Liquid <header> <Items> | <Unit/Condition> | <Data> </header>', 'label': [[17, 30, 'qualitative_value']]}",Color
+"{'data': 'Non - Volatile Matter DIN EN ISO 3251 non - volatile matter [ % ] 68 - 72', 'label': [[22, 37, 'method'], [62, 63, 'unit'], [66, 68, 'min'], [71, 73, 'max']]}",Solid content
+"{'data': 'Non - volatile content, % | 53.5 - 56.5 | Volatile | White Spirit <header> <SALES SPECIFICATION> | <> | <OTHER PROPERTIES> | <> </header>', 'label': [[24, 25, 'unit'], [28, 32, 'min'], [35, 39, 'max']]}",Solid content
+"{'data': 'Not continually determined:', 'label': []}",irrelevant
+"{'data': 'Viscosity: 0.7 – 1.1 Pa.s, 25 °C', 'label': []}",irrelevant
+"{'data': 'Softening Point, B&R, ( °C ) | 100 - 110', 'label': []}",irrelevant
+"{'data': 'Iodine Colour Number | DIN 6162', 'label': []}",irrelevant
+"{'data': 'dynamic viscosity | [ mPa.s ] | 1000 | 200 | -', 'label': []}",irrelevant
+"{'data': '% other binder | 10 | 25 | 50 | 75 | 90', 'label': []}",irrelevant
+"{'data': 'Density ( Liquids ) DIN EN ISO 2811 - 2 density approx. ( 20 °C )', 'label': []}",irrelevant
+"{'data': 'Solvesso 150 ® ( Exxon Mobil ) | 79 g', 'label': []}",irrelevant
+"{'data': 'DCT 166 | Free formaldehyde, % | 0,2 <header> <Test method> | <Properties> | <Durez® 34071 > </header>', 'label': [[29, 30, 'unit'], [33, 36, 'mean']]}",Monomer formaldehyde
+"{'data': 'Non - Volatile Matter DIN EN ISO 3251', 'label': [[22, 37, 'method']]}",Solid content
+"{'data': 'Other Properties | Oil type Tung', 'label': []}",irrelevant
+"{'data': 'Property key | Property key', 'label': []}",irrelevant
+"{'data': 'Viscosity 25 °C, cps | 2000 | DCT 61 <header> <AVERAGE PROPERTIES> <> | <AVERAGE PROPERTIES> <> | <AVERAGE PROPERTIES> <Test method> </header>', 'label': []}",irrelevant
+"{'data': 'Density ( Liquids ) DIN EN ISO 2811 - 2', 'label': []}",irrelevant
+"{'data': 'density ( 25 °C ) , g/cc | 1,08 - 1,13 | QS - PA 10 - 09 or equivalent <header> <Property> | <Limitis> | <Test Method> </header>', 'label': []}",irrelevant
+"{'data': ' ( 3 ) | ETS – Equal to standard', 'label': []}",irrelevant
+"{'data': 'VISC. ( Gardner Holdt ) @ | X - Z', 'label': []}",irrelevant
+"{'data': 'GP® BKS - 2640 is a phenolic resin solution in n - butanol for coatings of rigid metallic substrates. It is generally used with nitrile rubber ( high acrylonitrile ) for adhesives.', 'label': [[47, 58, 'qualitative_value']]}",Solvent type
+"{'data': 'density | [ g/cm 3 ] 1,06', 'label': []}",irrelevant
+"{'data': 'Gardner Color Standard ( ASTM D 1544 ) | | max. 12 <header> <Properties> | <Units> | <Value> </header>', 'label': [[0, 7, 'unit'], [25, 36, 'method'], [48, 50, 'max']]}",Color
+"{'data': 'Specification Property | Value | Unit of measurement | Method <header> <Specification Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",header
+"{'data': 'Appearance | TM - 2265 | clear', 'label': [[13, 22, 'method'], [25, 30, 'qualitative_value']]}",Color
+"{'data': 'Non - volatile content, % | 53.5 - 56.5', 'label': [[24, 25, 'unit'], [28, 32, 'min'], [35, 39, 'max']]}",Solid content
+"{'data': 'Viscosity Brookfield* | 100 - 200 | cps | MC 19 at 23 ° C <header> <> | <Value> | <Unit> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'FORM OF DELIVERY ( f.o.d. ) | 75 % in butanol ( 75 B )', 'label': [[30, 37, 'measuring_condition'], [38, 45, 'qualitative_value']]}",Solvent type
+"{'data': 'Iodine Colour Number | DIN 6162', 'label': []}",irrelevant
+"{'data': 'Physical Property | Units | Method ( 1 ) | Minimum | Maximum <header> <Physical Property> | <Units> | <Method ( 1 ) > | <Minimum> | <Maximum> </header>', 'label': []}",header
+"{'data': 'viscosity | [ mPa.s ] 65 - 110', 'label': []}",irrelevant
+"{'data': 'Durez Control Testmethods ( DCT ) are available upon request. | Durez Control Testmethods ( DCT ) are available upon request. | <header> <AVERAGE PROPERTIES> <> | <AVERAGE PROPERTIES> <> | <AVERAGE PROPERTIES> <Test method> </header>', 'label': []}",irrelevant
+"{'data': 'Gardner color | : | 0 - 4', 'label': [[0, 7, 'unit'], [20, 21, 'min'], [24, 25, 'max']]}",Color
+"{'data': 'Type of | Tung | - | - <header> <Property> | <Value> | <Unit> | <TM> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity ( G - H ) | F - H', 'label': []}",irrelevant
+"{'data': 'Fax: | ( + 33 ) 1 47 96 99 81', 'label': []}",irrelevant
+"{'data': 'Dynamic Viscosity ( Ubbelohde ) | DIN 53177', 'label': [[0, 7, 'measuring_condition'], [20, 29, 'measuring_condition'], [34, 43, 'method']]}",Viscosity
+"{'data': 'Packing | drums, container, tank car | drums, container, tank car | drums, container, tank car', 'label': []}",irrelevant
+"{'data': 'Dynamic Viscosity ( Ubbelohde ) DIN 53177 dynamic viscosity ( 23 °C )', 'label': []}",irrelevant
+"{'data': 'Storage life at 18 - 20 °C: | approx. 12 months | approx. 12 months | approx. 12 months | approx. 12 months | <header> <Characteristic data:> | <> | <> | <> | <> | <Bakelite analysis method> </header>', 'label': []}",irrelevant
+"{'data': 'Property key | Property key', 'label': []}",irrelevant
+"{'data': 'Phenodur PR 308, PR 401, PR 404 | » | » | | » | »', 'label': []}",irrelevant
+"{'data': 'Polychloroprene | 100 parts | 100 parts', 'label': []}",irrelevant
+"{'data': 'Density ( Liquids ) DIN EN ISO 2811 - 2', 'label': []}",irrelevant
+"{'data': 'non - volatile matter | [ % ] 48 - 52', 'label': [[26, 27, 'unit'], [30, 32, 'min'], [35, 37, 'max']]}",Solid content
+"{'data': 'Specific Gravity @ 25 °C | Approx. 0.97 – 1.00 <header> <Form> | <Solution in n - Butanol> </header>', 'label': []}",irrelevant
+"{'data': 'SP 103 H | 0 - 80 parts | 0 - 80 parts', 'label': []}",irrelevant
+"{'data': ' ( 3 ) | ETS – Equal to Standard', 'label': []}",irrelevant
+"{'data': 'flash point | 27 [ °C ]', 'label': []}",irrelevant
+"{'data': 'Beckopox EP 307 | | | } | | }', 'label': []}",irrelevant
+"{'data': 'Non - Volatile Matter | DIN EN ISO 3251', 'label': [[24, 39, 'method']]}",Solid content
+"{'data': 'FORM OF DELIVERY ( f.o.d. ) | 62 % in methoxy propanol ( 62 MP )', 'label': []}",irrelevant
+"{'data': 'Specific gravity at 20 °C ( DIN 53217 - 02, ISO 2811 ) | g/cm³ | g/cm³ | approx. | 1,02 | FPH 7.01 <header> <Characteristic data:> | <> | <> | <> | <> | <Bakelite analysis method> </header>', 'label': []}",irrelevant
+"{'data': 'AG Düsseldorf HRB 44968 | | <header> <Version 01 / 2007 > | <> | <Page 1 of 1 > </header>', 'label': []}",irrelevant
+"{'data': 'flash point | [ °C ] | 54', 'label': []}",irrelevant
+"{'data': 'Flash Point | DIN EN ISO 1523', 'label': []}",irrelevant
+"{'data': ' ( 3 ) | ETS – Equal to standard', 'label': []}",irrelevant
+"{'data': ' | | | PM 221 | PM 221 | PM 221 <header> <Turbidity Wi> | <> | <Grade 1 - 2 > | <x Molecular weight> | <Dalton> | < 1200 - 2250 > </header>', 'label': []}",irrelevant
+"{'data': 'Content of free phenol ( GC ) ( DIN EN ISO 8974 ) | % max. 0,2 | % max. 0,2 | FPH 6.03 <header> <Chemical characteristic Delivery form> | <phenolic novolak pastilles bags, big bags> | <phenolic novolak pastilles bags, big bags> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Non - volatile content ( nvc ) | DIN EN ISO 3251', 'label': [[33, 48, 'method']]}",Solid content
+"{'data': '% Phenodur PR 401 | 90 | 75 | 50 | 25 | 10', 'label': []}",irrelevant
+"{'data': 'colour | dark brown', 'label': [[9, 19, 'qualitative_value']]}",Color
+"{'data': 'Typical Properties', 'label': []}",irrelevant
+"{'data': 'Phenodur PR 411 is meant for the coating of interior and exterior surfaces of packaging containers and cans ; as high adhesion, chemically resistant protective coatings for apparatus, vessels, pipelines etc. ; for heat curing phenolic/epoxide and phenolic/polyester resin combinations ; for heat curing phenolic/polyvinylbutyral combinations and for physically drying paints with resistance to fuel and oil.', 'label': []}",irrelevant
+"{'data': 'Solubility:', 'label': []}",irrelevant
+"{'data': 'flash point | [ °C ] | 34', 'label': []}",irrelevant
+"{'data': 'Phenodur PR 308 | } | | | |', 'label': []}",irrelevant
+"{'data': '% Phenodur PR 260 / 68 B | 90 | 75 | 50 | 25 | 10', 'label': []}",irrelevant
+"{'data': 'Packing | Packing | Packing | Packing | Packing <header> <Chemical characteristic> <Delivery form> <Packing> <Characteristic data:> | <bisphenol - A resol 55 % in n - butanol, butyl glycol drums, container, tank car> <Delivery form> <Packing> <> | <bisphenol - A resol 55 % in n - butanol, butyl glycol drums, container, tank car> <Delivery form> <Packing> <> | <bisphenol - A resol 55 % in n - butanol, butyl glycol drums, container, tank car> <Delivery form> <Packing> <> | <> <Delivery form> <Packing> <Bakelite analysis method> </header>', 'label': []}",irrelevant
+"{'data': 'dynamic viscosity [ mPa.s ] 1000 - 2250 | methyl ethyl ketone | } | ethanol 3 / 4 <header> <PRODUCT DATA> | <DILUTABILITY> | <DILUTABILITY> | <DILUTABILITY> </header>', 'label': []}",irrelevant
+"{'data': 'Epoxy resins | | | | |', 'label': []}",irrelevant
+"{'data': 'ICI Paints | Graham Webb | 15 / 03 / 05 | <header> <Approver> | <Name> | <Date> | <Signature> </header>', 'label': []}",irrelevant
+"{'data': 'Non - Volatile Matter | DIN EN ISO 3251', 'label': [[24, 39, 'method']]}",Solid content
+"{'data': 'SOLID CONTENT | 58 - 62 | % | MC 1 <header> <> | <Value> | <Unit> | <Method> </header>', 'label': [[16, 18, 'min'], [21, 23, 'max'], [26, 27, 'unit'], [30, 34, 'method']]}",Solid content
+"{'data': 'Other binders | Other binders | | | |', 'label': []}",irrelevant
+"{'data': 'Other binders | | | | |', 'label': []}",irrelevant
+"{'data': ' [ g/cm³ ] | 1,16', 'label': []}",irrelevant
+"{'data': 'Typical Physical Properties | % Nonvolatile volume* 47.9', 'label': [[30, 31, 'unit'], [52, 56, 'mean']]}",Solid content
+"{'data': 'Color: Yellow to dark transparency liquid', 'label': [[7, 21, 'qualitative_value']]}",Color
+"{'data': 'density | [ g/cm³ ] | 1,06', 'label': []}",irrelevant
+"{'data': 'Non - Volatile Matter | DIN EN ISO 3251', 'label': [[24, 39, 'method']]}",Solid content
+"{'data': 'Epoxy resins | Epoxy resins | | | |', 'label': []}",irrelevant
+"{'data': 'Viscosity: | 0.7 – 1.1 Pa.s, 25 °C', 'label': []}",irrelevant
+"{'data': ' ( 23 °C ) | cyclohexanon | } | butanol 3 / 4 <header> <PRODUCT DATA> | <DILUTABILITY> | <DILUTABILITY> | <DILUTABILITY> </header>', 'label': []}",stray
+"{'data': 'colour | dark brown', 'label': [[9, 19, 'qualitative_value']]}",Color
+"{'data': 'Flash point ( closed up ) : | approx. 36 °C', 'label': []}",irrelevant
+"{'data': 'Polychloroprene AD | 100.0 <header> <Material> | <Parts by Weight> </header>', 'label': []}",irrelevant
+"{'data': 'DESCRIPTION : | Butylated phenolic resin. To be used for flexible food gold lacquers.', 'label': []}",irrelevant
+"{'data': 'DIN 53217 / 20 ℃ g/cm 3 | approx. 1,05 | approx. 1,05 <header> <Unit> | <Value> | <Value> </header>', 'label': []}",irrelevant
+"{'data': 'Specific gravity | 0.89', 'label': []}",irrelevant
+"{'data': 'Viscosity at 20 °C,Höppler viscosimeter ( DIN EN ISO 12058 - 1 ) | mPa.s 300 ± 100 | mPa.s 300 ± 100 | FPH 3.01', 'label': []}",irrelevant
+"{'data': 'Ketones | complete <header> <Aliphatic hydrocarbons> | <insoluble> </header>', 'label': []}",irrelevant
+"{'data': ' ( 1 h ; 135 °C ; 2 g ; B )', 'label': []}",irrelevant
+"{'data': 'flash point | [ °C ] | 34', 'label': []}",irrelevant
+"{'data': 'Phenodur PR 401, PR 404 | l | l | l | l | l', 'label': []}",irrelevant
+"{'data': 'Water | 2.0 <header> <Material> | <Parts by Weight> </header>', 'label': []}",irrelevant
+"{'data': ""Solid content | 50 - 52 | % | Nº 116 ( 20 ' - 200 ℃ ) <header> <> | <Value> | <Unit> | <Method> </header>"", 'label': [[16, 18, 'min'], [21, 23, 'max'], [26, 27, 'unit'], [30, 53, 'measuring_condition']]}",Solid content
+"{'data': 'approx. | approx. | approx.', 'label': []}",irrelevant
+"{'data': 'COLOR | Dark Yellow.', 'label': [[8, 19, 'qualitative_value']]}",Color
+"{'data': 'Non - Volatile Matter DIN EN ISO 3251', 'label': [[22, 37, 'method']]}",Solid content
+"{'data': 'flash point | [ °C ] | 48', 'label': []}",irrelevant
+"{'data': 'Flash Point | DIN EN ISO 1523', 'label': []}",irrelevant
+"{'data': 'Viscosity | 25 ℃, mPa・s | 2300 <header> <Items> | <Condition, unit> | <Data> </header>', 'label': []}",irrelevant
+"{'data': 'Epoxy resins | | | | |', 'label': []}",irrelevant
+"{'data': ' | Value | Unit | Method <header> <> | <Value> | <Unit> | <Method> </header>', 'label': []}",header
+"{'data': 'Form supplied | solvent - free, pale brown, hard resin supplied as lozenges', 'label': [[16, 30, 'qualitative_value']]}",Solvent type
+"{'data': 'dynamic | [ mPa.s ] 1400 - 2200', 'label': []}",irrelevant
+"{'data': 'DESCRIPTION Varcum 29153 is a one - step liquid phenolic resin in a mixture of butanol and diacetone alcohol.', 'label': [[79, 86, 'qualitative_value'], [91, 108, 'qualitative_value']]}",Solvent type
+"{'data': 'Non - Volatile Matter DIN EN ISO 3251 non - volatile matter ( 1 h ; 135 °C ; 2 g ; B ) | [ % ] | 47 - 49', 'label': [[22, 37, 'method'], [62, 84, 'measuring_condition'], [91, 92, 'unit'], [97, 99, 'min'], [102, 104, 'max']]}",Solid content
+"{'data': 'Not continually determined:', 'label': []}",irrelevant
+"{'data': 'non - volatile matter [ % ] 60 - 64 analogue DIN EN ISO 3251 ( 1 h ; 135 °C ; 2 g ; B ) | 1 / 2 = substantial dilutability | | = very limited or no dilutability <header> <PRODUCT DATA> | <DILUTABILITY> | <DILUTABILITY> | <DILUTABILITY> </header>', 'label': [[24, 25, 'unit'], [28, 30, 'min'], [33, 35, 'max'], [45, 60, 'method'], [63, 85, 'measuring_condition']]}",Solid content
+"{'data': 'Iodine Colour Number | DIN 6162', 'label': []}",irrelevant
+"{'data': 'Viscosity, | 23 ℃ TM - 2013 mPa.s 340 - 490', 'label': []}",irrelevant
+"{'data': 'Density ( Liquids ) DIN EN ISO 2811 - 2', 'label': []}",irrelevant
+"{'data': 'SOLVENT | White spirit/ C 9', 'label': [[10, 27, 'qualitative_value']]}",Solvent type
+"{'data': 'Items | KCA 6438 F <header> <Items> | <KCA 6438 F> </header>', 'label': []}",irrelevant
+"{'data': 'Beckopox EP 309 | » | | » | » | }', 'label': []}",irrelevant
+"{'data': 'CHARACTERISTICS | METHOD OF ANALYSIS | SPECIFICATION <header> <CHARACTERISTICS> | <METHOD OF ANALYSIS> | <SPECIFICATION> </header>', 'label': []}",header
+"{'data': '• Formaldehyde | 1 – Maximum', 'label': [[17, 18, 'max']]}",Monomer formaldehyde
+"{'data': 'Physical Form | Flake', 'label': []}",irrelevant
+"{'data': 'flash point | 34', 'label': []}",irrelevant
+"{'data': 'Viscosity mPa.s at 25 °C ( Noury ) | 1100 - 1500', 'label': []}",irrelevant
+"{'data': '% Phenodur PR 897 | 90 | 75 | 50 | 25 | 10', 'label': []}",irrelevant
+"{'data': 'Appearance - [ to defined standard ] | ( 2 ) - | ( 2 ) - | BSMT A 1001 - 001 | HAZY ETS ( 3 ) | <header> <Physical Property> | <Units> | <Units> | <Method ( 1 ) > | <Minimum> | <Maximum> </header>', 'label': [[59, 76, 'method']]}",Color
+"{'data': 'Packing | drums, container, tank car | drums, container, tank car | drums, container, tank car | drums, container, tank car | <header> <Chemical characteristic> | <xylenol - resol, etherified> | <xylenol - resol, etherified> | <xylenol - resol, etherified> | <xylenol - resol, etherified> | <> </header>', 'label': []}",irrelevant
+"{'data': ' [ g/cm³ ] 1,05 | density', 'label': []}",irrelevant
+"{'data': 'Cray Valley | Simon Vivian | 15 / 03 / 05 | <header> <Approver> | <Name> | <Date> | <Signature> </header>', 'label': []}",irrelevant
+"{'data': 'Product Specifications:', 'label': []}",irrelevant
+"{'data': ' ( 1 ) | BSMT – Bitrez Standard Method of Test', 'label': []}",irrelevant
+"{'data': 'Hot plate cure | > 5 min/ 150 °C | 3021', 'label': []}",irrelevant
+"{'data': 'SOLVENT | White spirit/ C 9 | <header> <Property> | <Value> | <Unit> </header>', 'label': [[10, 27, 'qualitative_value']]}",Solvent type
+"{'data': 'flash point | [ °C ] 34', 'label': []}",irrelevant
+"{'data': 'Flash point 10 - 370 °C ( DIN EN 22719,ISO 2719 ) | Flash point 10 - 370 °C ( DIN EN 22719,ISO 2719 ) | °C | approx. | 38 | FPH 7.19 <header> <Characteristic data:> | <Characteristic data:> | <> | <> | <> | <Bakelite analysis method> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance | clear | - | 2265 <header> <Property> | <Range> | <Unit> | <TM> </header>', 'label': []}",irrelevant
+"{'data': 'test duration: | 20 min ;', 'label': []}",irrelevant
+"{'data': 'Dynamic Viscosity ( Ubbelohde ) DIN 53177 dynamic viscosity ( 23 °C ) | [ mPa.s ] 200 - 2000', 'label': []}",irrelevant
+"{'data': 'Ethanox® antioxidant 1 | 2.0 <header> <Material> | <Parts by Weight> </header>', 'label': []}",irrelevant
+"{'data': 'Mean Particle Size | 90 microns by sieve method 65 microns by laser diffraction', 'label': []}",irrelevant
+"{'data': 'Storage : | 4 months from manufacturing date at temperatures between 5 – 35 °C.', 'label': []}",irrelevant
+"{'data': '50 % B', 'label': []}",irrelevant
+"{'data': 'PACKAGING', 'label': []}",irrelevant
+"{'data': 'Specific gravity at 20 °C ( DIN 53217 - 02,ISO 2811 ) | Specific gravity at 20 °C ( DIN 53217 - 02,ISO 2811 ) | g/cm³ | approx. 1,02 | approx. 1,02 | FPH 7.01 <header> <Characteristic data:> | <Characteristic data:> | <> | <> | <> | <Bakelite analysis method> </header>', 'label': []}",irrelevant
+"{'data': 'Packing | Packing | Packing | Packing | Packing <header> <> <Delivery form> <Packing> <Characteristic data:> | <xylenol - resol, etherified> < 70 % in n - butanol / xylene drums, container, tank car> <Packing> <> | <xylenol - resol, etherified> < 70 % in n - butanol / xylene drums, container, tank car> <Packing> <> | <xylenol - resol, etherified> < 70 % in n - butanol / xylene drums, container, tank car> <Packing> <> | <> < 70 % in n - butanol / xylene drums, container, tank car> <Packing> <Bakelite analysis method> </header>', 'label': []}",irrelevant
+"{'data': 'Form of delivery | 60 % in Butyl Glycol', 'label': [[27, 39, 'qualitative_value']]}",Solvent type
+"{'data': 'Beckopox EP 301, EP 304 | | | ـم | ـم |', 'label': []}",irrelevant
+"{'data': 'Storage : | 6 months from date of manufacture at temperature between 5 - 35 ° C.', 'label': []}",irrelevant

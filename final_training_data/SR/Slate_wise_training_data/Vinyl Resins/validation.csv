@@ -1,0 +1,227 @@
+text,label
+"{'data': 'Density of the polymer* | DIN 53479 / ISO 1183 - 3 | g/cm³ | Approx. 1,34 | <header> <Properties> | <Test methods> | <Unit> | <Value> | <Tolerance> </header>', 'label': []}",irrelevant
+"{'data': 'Density g/ml | ≥ 0.60', 'label': []}",irrelevant
+"{'data': 'Chlorine content | specific method | 47,1 - 48,3 wt. %', 'label': [[19, 34, 'method'], [37, 41, 'min'], [44, 48, 'max'], [49, 51, 'measuring_condition'], [53, 54, 'unit']]}",Chlorine content
+"{'data': 'Vinyl Alcohol | 6 | <header> <Property ( 1 ) > | <Value> | <Method> </header>', 'label': [[16, 17, 'mean']]}",irrelevant
+"{'data': 'Technical Data | VERSION: 2014.01.01', 'label': []}",irrelevant
+"{'data': 'TBC ( 10 % ) | - | 0.2 | - | 0.2 | <header> <Curing system> | <A> | <B> | <C> | <D> | <E> </header>', 'label': []}",irrelevant
+"{'data': 'Typical general characteristics | Inspection Method | Value', 'label': []}",irrelevant
+"{'data': 'Specifications:', 'label': []}",irrelevant
+"{'data': 'Bulk density of delivery form* | DIN EN ISO 60 | g/cm³ | Approx. 0,55 | <header> <Properties> | <Test methods> | <Unit> | <Value> | <Tolerance> </header>', 'label': []}",irrelevant
+"{'data': 'Bulk Density | g/㎤ | 0.50 ~ 0.70 | JIS K - 6720 - 2 <header> <Properties> | <Unit> | <Value> | <Test methods> </header>', 'label': []}",irrelevant
+"{'data': 'Glass transition temperature | DSC ( DIN 53765 / ISO 11357 - 5 ) | approx. 69 °C', 'label': [[31, 64, 'method'], [75, 77, 'mean'], [78, 80, 'unit']]}",Glass transition temperature
+"{'data': '50 % 35 % 15 % xylene n - butylacetat Isobutanol ( schnell trocknende körperreiche Lacke )', 'label': [[15, 21, 'qualitative_value'], [22, 48, 'qualitative_value']]}",Solvent type
+"{'data': '20 % 30 % | 66 1374', 'label': []}",irrelevant
+"{'data': 'No. | Item | Index | Test method <header> <No.> | <Item> | <Index> | <Test method> </header>', 'label': []}",header
+"{'data': 'Nominal Values', 'label': []}",irrelevant
+"{'data': 'Viscosity - Brookfield at 25 ℃ # 3 spindle at 60 rpm, cps | 350 - 550 <header> <Appearance> | <Yellowish liquid> </header>', 'label': [[12, 53, 'measuring_condition'], [54, 57, 'unit'], [60, 63, 'min'], [66, 69, 'max']]}",Viscosity
+"{'data': 'Glass transition temperature ( Tg ) | ℃ | 71 | DSC <header> <Properties> | <Unit> | <Value> | <Test methods> </header>', 'label': [[38, 39, 'unit'], [42, 44, 'mean'], [47, 50, 'method']]}",Glass transition temperature
+"{'data': 'Floorings | | <header> <Applications> | <Solid> | <Foam> </header>', 'label': []}",irrelevant
+"{'data': 'Kinematic Viscosity | 475 | cSt <header> <Property ( 1 ) at 25 °C ( 77 °F ) > | <Value> | <Unit> </header>', 'label': [[0, 9, 'measuring_condition'], [22, 25, 'mean'], [28, 31, 'unit']]}",Viscosity
+"{'data': 'Item | UMOH', 'label': []}",irrelevant
+"{'data': 'Geltime @ 25 C ( mins ) : | 25 + 5', 'label': []}",irrelevant
+"{'data': 'Volatile contents | ≤ 2.0', 'label': [[22, 25, 'max']]}",irrelevant
+"{'data': 'Viscosity [ cSt ] | 631,4', 'label': [[12, 15, 'unit'], [20, 25, 'mean']]}",Viscosity
+"{'data': 'Volatiles | specific method | < 0,5 wt. %', 'label': [[12, 27, 'method'], [32, 35, 'max'], [36, 38, 'measuring_condition'], [40, 41, 'unit']]}",irrelevant
+"{'data': 'Brookfield Viscosity 6 | | | Internal Method <header> <ASTM & ISO Properties 2 > <Physical> | <ASTM & ISO Properties 2 > <Nominal Value Unit> | <ASTM & ISO Properties 2 > <Nominal Value Unit> | <ASTM & ISO Properties 2 > <Test Method> </header>', 'label': [[0, 10, 'measuring_condition'], [21, 22, 'mean'], [29, 44, 'method']]}",Viscosity
+"{'data': 'Clear or almost clear solutions can be obtained in aromatic hydro - carbons such as toluene, xylene or Solvesso® 1 100 as well as in chlorinated hydrocarbons, anone and tetrahydrofuran. Solutions with other solvents may be somewhat cloudy but will not adversely influence hardness and homogeneity of the film, provided the solu - tion dries to form a clear film.', 'label': [[51, 91, 'qualitative_value'], [93, 99, 'qualitative_value'], [103, 118, 'qualitative_value']]}",Solvent type
+"{'data': 'Textile Coatings | | <header> <Applications> | <Solid> | <Foam> </header>', 'label': []}",irrelevant
+"{'data': 'Flash point | < 21 | °C | <header> <Property> | <Value> | <Unit> | <Method*> </header>', 'label': []}",irrelevant
+"{'data': 'Efflux time ( 20 % in MEK ) | DIN EN ISO 2431 ( 4 mm ) | approx. 26 s', 'label': []}",irrelevant
+"{'data': '11 | Volatilization ( % ) | ≤ 1 % | GB/T 2914 - 1999 <header> <No.> | <Item> | <Index> | <Test method> </header>', 'label': [[22, 23, 'unit'], [28, 33, 'measuring_condition'], [36, 52, 'method']]}",irrelevant
+"{'data': '4 | Glass Transition Temperaure ( Tg ) ,℃ | 79 | GB 11998 - 89 <header> <No.> | <Item> | <Index> | <Test Method> </header>', 'label': [[40, 41, 'unit'], [44, 46, 'mean'], [49, 62, 'method']]}",Glass transition temperature
+"{'data': 'Availability | Africa & Middle East · Asia Pacific | · Europe · North America | · South America', 'label': []}",irrelevant
+"{'data': 'K - Value 3 | 82.0 | 82.0 | No Standard <header> <ASTM & ISO Properties 2 > <Physical> | <ASTM & ISO Properties 2 > <Nominal Value Unit> | <ASTM & ISO Properties 2 > <Nominal Value Unit> | <ASTM & ISO Properties 2 > <Test Method> </header>', 'label': [[14, 18, 'mean'], [21, 25, 'mean'], [28, 39, 'method']]}",K value
+"{'data': 'Rheological behaviour | Pseudoplastic | Pseudoplastic | Pseudoplastic <header> <> | <ISO reference> | <Value> | <Units> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity ( MEK/Tol= 1 / 1 ) • Resin 10 % • Resin 20 % | cP | 10 66 | Brookfield Viscometer <header> <Properties> | <Unit> | <Value> | <Test methods> </header>', 'label': [[12, 54, 'measuring_condition'], [57, 59, 'unit'], [62, 67, 'unclear_value']]}",Viscosity
+"{'data': '14 | 25 % resin in MEK/Toluene ( 50 / 50 ) | Colorless and Transparent | By visual <header> <No.> | <Item> | <Index> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance | White powder by visual', 'label': []}",irrelevant
+"{'data': 'chlorine mass fraction | % | 40 | 40 | 44 | 44 44 | 44 44 | 44 44 | 44 44 | 44 <header> <Product specification> | <> | <Laroflex®> <MP 15 > | <Laroflex®> <MP 15 > | <Laroflex®> <MP 25 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 60 > </header>', 'label': [[25, 26, 'unit'], [29, 31, 'mean'], [34, 36, 'mean'], [39, 41, 'mean'], [44, 49, 'unclear_value'], [52, 57, 'unclear_value'], [60, 65, 'unclear_value'], [68, 73, 'unclear_value'], [76, 78, 'mean']]}",irrelevant
+"{'data': 'Reduced viscosity | ** | ml/g | 1628 - 2 | 1628 - 2 <header> <Raw Material Properties> | <Typical Value *> | <Unit> | <Test method> <DIN EN ISO> | <Test method> <ISO> </header>', 'label': [[0, 7, 'measuring_condition'], [25, 29, 'unit'], [32, 40, 'method'], [43, 51, 'method']]}",Viscosity
+"{'data': 'Adhesion No. | 40 - 42 | 53 - 55 | 55 - 59 | 61 - 63 | 80 - 83 | GB/T 3401 <header> <PROPERTY> <Univar Grade> | <TYPICAL RESULTS> <UYHB> | <TYPICAL RESULTS> <UYHD> | <TYPICAL RESULTS> <UYHH> | <TYPICAL RESULTS> <UYHI> | <TYPICAL RESULTS> <UYNS - 3 > | <TEST METHOD> <> </header>', 'label': []}",irrelevant
+"{'data': 'UM 50 Ye | S | No | Ye s | Ye s Ye | S | Ye s <header> <Type> | <Packaging - Non Food> | <General Metals> | <Marine and Maintence> | <Inks> | <Adhesives> | <Wood Finishes> </header>', 'label': []}",irrelevant
+"{'data': '+European Color Test - B Color ( W 731 ) | >= 6 <header> <Appearance @ 25 deg C - White to creamy white powder> | <White to creamy white> </header>', 'label': []}",irrelevant
+"{'data': 'density at 20 °C ( 68 °F ) ( ISO 2811, DIN 53217 ) | g/cm³ | 1.25 | 1.25 | 1.24 | 1.24 1.24 | 1.24 1.24 | 1.24 1.24 | 1.24 1.24 | 1.24 <header> <Product specification> | <> | <Laroflex®> <MP 15 > | <Laroflex®> <MP 15 > | <Laroflex®> <MP 25 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 60 > </header>', 'label': []}",irrelevant
+"{'data': '3 | Composition % by Wt | Vinyl Chloride 83 ± 1 % | GB/T 7139 - 2002 <header> <No.> | <Item> | <Index> | <Test method> </header>', 'label': [[41, 43, 'mean'], [46, 47, 'std'], [48, 49, 'unit'], [52, 68, 'method']]}",irrelevant
+"{'data': 'Density at 23 °C | DIN 66137 - 2 | 1,36 g/cm³', 'label': []}",irrelevant
+"{'data': 'Density | 500 kg/m³', 'label': []}",irrelevant
+"{'data': 'Particle size | specific method | < 2,5 mm', 'label': []}",irrelevant
+"{'data': 'Particle size | specific method | < 2,5 mm', 'label': []}",irrelevant
+"{'data': 'Specific Gravity | 1.35 | ASTM D - 792 <header> <Property ( 1 ) > | <Value> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Volatiles | | < 1.5 %', 'label': [[16, 19, 'max'], [20, 21, 'unit']]}",irrelevant
+"{'data': 'Sealants | | <header> <Applications> | <Solid> | <Foam> </header>', 'label': []}",irrelevant
+"{'data': 'One Hour Viscosity @ 30 rpm | 175 mPa·s | 175 mPa·s | <header> <ASTM & ISO Properties 2 > <Physical> | <ASTM & ISO Properties 2 > <Nominal Value Unit> | <ASTM & ISO Properties 2 > <Nominal Value Unit> | <ASTM & ISO Properties 2 > <Test Method> </header>', 'label': [[0, 8, 'measuring_condition'], [21, 27, 'measuring_condition'], [30, 33, 'mean'], [34, 39, 'unit'], [42, 45, 'mean'], [46, 51, 'unit']]}",Viscosity
+"{'data': 'Specific Gravity @ 25 C. O : | 1.08 + 0.01 -', 'label': []}",irrelevant
+"{'data': 'Density | DIN 66137 - 2 | 1,37 g/cm³', 'label': []}",irrelevant
+"{'data': 'Barcol Hardness | | 44 | ASTM D 2583 <header> <Typical Cast Mechanical Properties 1 > <Test> | <Typical Cast Mechanical Properties 1 > <Unit of Measure> | <Typical Cast Mechanical Properties 1 > <Nominal> | <Typical Cast Mechanical Properties 1 > <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'TYPICAL LIQUID RESIN PROPERTIES', 'label': []}",irrelevant
+"{'data': 'Supply form | | white granulate with some powder <header> <Typical general characteristics> | <Inspection Method> | <Value> </header>', 'label': []}",irrelevant
+"{'data': 'K - value | DIN EN ISO 1628 - 2 | 47 - 49', 'label': [[12, 31, 'method'], [34, 36, 'min'], [39, 41, 'max']]}",K value
+"{'data': 'K - value | ca. 35 Fikentscher, DIN 53726', 'label': [[16, 18, 'mean'], [19, 30, 'measuring_condition'], [32, 41, 'method']]}",K value
+"{'data': ' ( 2 ) 30 % solids MEK', 'label': [[19, 22, 'qualitative_value']]}",multi
+"{'data': '% Triethanolamine Formate ( W 1039 ) ( Determine & Report ) | <header> <Appearance @ 25 deg C - White to creamy white powder> | <White to creamy white> </header>', 'label': []}",irrelevant
+"{'data': 'Dynamic Viscosity | 240 | mPas ( cps ) <header> <Property ( 1 ) at 25 °C ( 77 °F ) > | <Value> | <Unit> </header>', 'label': [[0, 7, 'measuring_condition'], [20, 23, 'mean'], [26, 30, 'unit'], [33, 36, 'unit']]}",Viscosity
+"{'data': '8 | Glass transition Temp ℃ | About 79 | GB 11998 - 89 <header> <No.> | <Item> | <Index> | <Test method> </header>', 'label': [[26, 27, 'unit'], [36, 38, 'mean'], [41, 54, 'method']]}",Glass transition temperature
+"{'data': 'One Hour Viscosity @ 30 rpm | 175 | mPa.s | <header> <Physical> | <Nominal Value> | <Unit> | <Test Method> </header>', 'label': [[0, 8, 'measuring_condition'], [21, 27, 'measuring_condition'], [30, 33, 'mean'], [36, 41, 'unit']]}",Viscosity
+"{'data': '4 | Volatility | 5 % | 0.1 <header> <Sequence Number> | <Item> | <Unit> | <Specification> </header>', 'label': [[17, 18, 'mean'], [19, 20, 'unit'], [23, 26, 'mean']]}",irrelevant
+"{'data': 'Specific Gravity @ 25 C O : | 1.05 + 0.01', 'label': []}",irrelevant
+"{'data': 'Viscosity index | ( ISO 1628 - 2 ) | 125 | ml/g <header> <> | <ISO reference> | <Value> | <Units> </header>', 'label': [[20, 32, 'method'], [37, 40, 'mean'], [43, 47, 'unit']]}",Viscosity
+"{'data': 'Composition, % by Weight | | <header> <Property ( 1 ) > | <Value> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Property | Unit | Value | Method <header> <Property> | <Unit> | <Value> | <Method> </header>', 'label': []}",header
+"{'data': 'Clean Point 6 | 5.50 | Hegman | Internal Method <header> <Physical> | <Nominal Value> | <Unit> | <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Property ( 1 ) at 25 °C ( 77 °F ) | Value | Unit <header> <Property ( 1 ) at 25 °C ( 77 °F ) > | <Value> | <Unit> </header>', 'label': []}",irrelevant
+"{'data': 'Specific Gravity | 1.40', 'label': []}",irrelevant
+"{'data': 'Typical general characteristics | Inspection Method | Value', 'label': []}",irrelevant
+"{'data': 'Rheological behaviour | Pseudoplastic | Pseudoplastic | Pseudoplastic <header> <> | <ISO reference> | <Value> | <Units> </header>', 'label': []}",irrelevant
+"{'data': 'Additional Information | Nominal Value | Unit | Test Method <header> <Physical> | <Nominal Value> | <Unit> | <Test Method> </header>', 'label': []}",header
+"{'data': 'Other properties | | | | | | | | | <header> <Product specification> | <> | <Laroflex®> <MP 15 > | <Laroflex®> <MP 15 > | <Laroflex®> <MP 25 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 60 > </header>', 'label': []}",irrelevant
+"{'data': 'Appearance @ 25 deg C - White to creamy white powder | White to creamy white <header> <Appearance @ 25 deg C - White to creamy white powder> | <White to creamy white> </header>', 'label': []}",irrelevant
+"{'data': 'K - Value | 46 | Calculated <header> <Property ( 1 ) > | <Value> | <Method> </header>', 'label': [[12, 14, 'mean'], [17, 27, 'measuring_condition']]}",K value
+"{'data': 'Vinyl | 4', 'label': [[8, 9, 'mean']]}",irrelevant
+"{'data': 'including moisture density ( g/ml ) | ≥ 0.60', 'label': []}",irrelevant
+"{'data': 'Physical | Nominal Values | Test Method ( s )', 'label': []}",header
+"{'data': 'Catalyst should be never brought in direct contact with accelerator. Explosion is possible. | Catalyst should be never brought in direct contact with accelerator. Explosion is possible. | Catalyst should be never brought in direct contact with accelerator. Explosion is possible. | Catalyst should be never brought in direct contact with accelerator. Explosion is possible.', 'label': []}",irrelevant
+"{'data': 'Inks | yes', 'label': []}",irrelevant
+"{'data': 'Viscosity 1 ) ( 20 % solids in MEK ) | DIN 53015 ( 20 °C ) | 15 - 25 mPa*s', 'label': [[16, 34, 'measuring_condition'], [39, 48, 'method'], [51, 56, 'measuring_condition'], [61, 63, 'min'], [66, 68, 'max'], [69, 74, 'unit']]}",Viscosity
+"{'data': 'Gel time, min ( DMA 0.05 % ,Co ( 6 % ) 0.2 % ,MEKPO ( 55 % ) 1.0 % ,at | 13 - 20', 'label': []}",irrelevant
+"{'data': 'Degree of Polymerization | 455 | Calculated <header> <Property ( 1 ) > | <Value> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Inherent Viscosity | 1.4 | 1.4 | ASTM D 1243 - 60 - A <header> <ASTM & ISO Properties 2 > <Physical> | <ASTM & ISO Properties 2 > <Nominal Value Unit> | <ASTM & ISO Properties 2 > <Nominal Value Unit> | <ASTM & ISO Properties 2 > <Test Method> </header>', 'label': [[0, 8, 'measuring_condition'], [21, 24, 'mean'], [27, 30, 'mean'], [33, 53, 'method']]}",Viscosity
+"{'data': 'Viscosity 1 ) ( 20 % solids in MEK ) | DIN 53015 ( 20 °C ) | 50 - 70 mPa*s', 'label': [[16, 34, 'measuring_condition'], [39, 48, 'method'], [51, 56, 'measuring_condition'], [61, 63, 'min'], [66, 68, 'max'], [69, 74, 'unit']]}",Viscosity
+"{'data': '8 | Average Molecular Wt | About 15000 | Calculated by the <header> <No.> | <Item> | <Index> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': 'General | |', 'label': []}",irrelevant
+"{'data': 'ELVAX™ 40 W is an ethylene - vinyl acetate copolymer resin for use in industrial applications. This resin is supplied in pellet form and contains a ""W"" amide additive to improve pellet handling.', 'label': []}",irrelevant
+"{'data': '+European Color Test - R Color ( W 731 ) | >= 6 <header> <Appearance @ 25 deg C - White to creamy white powder> | <White to creamy white> </header>', 'label': []}",irrelevant
+"{'data': 'Specifications: | Appearance @ 25 deg C - White to creamy white White to creamy white powder', 'label': []}",irrelevant
+"{'data': 'Chlorine content | specific method | 47,1 - 48,3 wt. %', 'label': [[19, 34, 'method'], [37, 41, 'min'], [44, 48, 'max'], [49, 51, 'measuring_condition'], [53, 54, 'unit']]}",Chlorine content
+"{'data': 'Additional Information | Nominal Value Unit | Nominal Value Unit | Test Method <header> <ASTM & ISO Properties 2 > <Physical> | <ASTM & ISO Properties 2 > <Nominal Value Unit> | <ASTM & ISO Properties 2 > <Nominal Value Unit> | <ASTM & ISO Properties 2 > <Test Method> </header>', 'label': []}",header
+"{'data': 'Product data | Product data | Product data', 'label': []}",irrelevant
+"{'data': 'Volatile ( % ) | ≤ 2.0', 'label': [[11, 12, 'unit'], [19, 22, 'max']]}",irrelevant
+"{'data': 'Chlorine mass | ca. 44 %', 'label': [[20, 22, 'mean'], [23, 24, 'unit']]}",Chlorine content
+"{'data': '4 | Reactive Functionality ( Carboxyl % ) | 1 ± 0.2 % | <header> <No.> | <Item> | <Index> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': 'Others | | <header> <Applications> | <Solid> | <Foam> </header>', 'label': []}",irrelevant
+"{'data': '- Color | Min 80 % T | 1 B - 44 B. WC 5 - 1 D <header> <Requirements> | <Limits> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'ACID VALUE | MAX. 1 | mg. KOH/g. | POLA 0101 <header> <Characteristics> | <Specification> | <Units> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Additional Information | | Typical Value Unit', 'label': []}",irrelevant
+"{'data': 'Brookfield Viscosity 6 | | | Internal Method <header> <Physical> | <Nominal Value> | <Unit> | <Test Method> </header>', 'label': [[0, 10, 'measuring_condition'], [21, 22, 'mean'], [29, 44, 'method']]}",Viscosity
+"{'data': 'Typical Properties', 'label': []}",irrelevant
+"{'data': 'F 013 - LCX - 00 | 5001 | NA | 305 | 20 | 165 | 1.05 | 42 <header> <Typical Liquid Properties 2 > <Versions> | <Typical Liquid Properties 2 > <Viscosity, cps> | <Typical Liquid Properties 2 > <Thix Index> | <Typical Liquid Properties 2 > <Gel Time, Min> | <Typical Liquid Properties 2 > <Gel to Peak> | <Typical Liquid Properties 2 > <Peak Exotherm ( °F/°C ) > | <Typical Liquid Properties 2 > <Specific Gravity> | <Typical Liquid Properties 2 > <Styrene Content, % > </header>', 'label': [[19, 23, 'mean']]}",stray
+"{'data': 'Density | 1.08 | g/ml <header> <Property ( 1 ) at 25 °C ( 77 °F ) > | <Value> | <Unit> </header>', 'label': []}",irrelevant
+"{'data': 'Brookfield viscosity - One - Day @ 30 rpm | STP 1434 | cP | 180 <header> <Properties> | <Method> | <Units> | <Value 1 ) > </header>', 'label': [[0, 10, 'measuring_condition'], [23, 41, 'measuring_condition'], [44, 52, 'method'], [55, 57, 'unit'], [60, 63, 'mean']]}",Viscosity
+"{'data': 'Styrene Content | 45 %', 'label': []}",irrelevant
+"{'data': 'K - value | ( ISO 1628 - 2 ) | 79.5 | <header> <> | <ISO reference> | <Value> | <Units> </header>', 'label': [[14, 26, 'method'], [31, 35, 'mean']]}",K value
+"{'data': 'Moisture - Karl Fisher 4 | 0.090 % | 0.090 % | Internal Method <header> <ASTM & ISO Properties 2 > <Physical> | <ASTM & ISO Properties 2 > <Nominal Value Unit> | <ASTM & ISO Properties 2 > <Nominal Value Unit> | <ASTM & ISO Properties 2 > <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'One Day, V 2 | 6800 mPa·s | <header> <ASTM & ISO Properties 1 > <Physical> | <ASTM & ISO Properties 1 > <Nominal Value Unit> | <ASTM & ISO Properties 1 > <Test Method> </header>', 'label': [[15, 19, 'method'], [20, 25, 'unit'], [0, 12, 'measuring_condition']]}",Viscosity
+"{'data': 'Inherent viscosity, dL/g | 0.52 - 0.53 <header> <Appearance> | <White powder> </header>', 'label': [[0, 8, 'measuring_condition'], [20, 24, 'unit'], [27, 31, 'min'], [34, 38, 'max']]}",Viscosity
+"{'data': 'Volatiles | specific method | < 1,0 wt. % <header> <Product data> <Specification data> | <Product data> <Inspection Method> | <Product data> <Value> </header>', 'label': [[12, 27, 'method'], [32, 35, 'max'], [36, 38, 'measuring_condition'], [40, 41, 'unit']]}",irrelevant
+"{'data': 'Vinyl Chloride, % | 90 <header> <Appearance> | <White powder> </header>', 'label': [[16, 17, 'unit'], [20, 22, 'mean']]}",irrelevant
+"{'data': 'Vicat softening temperature | °C | 46 – 48 | 46 – 48 | 48 – 52 | 48 – 52 48 – 52 | 48 – 52 48 – 52 | 48 – 52 48 – 52 | 48 – 52 48 – 52 | 48 – 52 <header> <Product specification> | <> | <Laroflex®> <MP 15 > | <Laroflex®> <MP 15 > | <Laroflex®> <MP 25 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 60 > </header>', 'label': []}",irrelevant
+"{'data': 'Gloss ( 60 °, FF, ALTC - 65 ) | 80 % | <header> <ASTM & ISO Properties 1 > <Physical> | <ASTM & ISO Properties 1 > <Nominal Value Unit> | <ASTM & ISO Properties 1 > <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Particle Size,mm < | 0.5', 'label': []}",irrelevant
+"{'data': 'Humidity | ( ISO 1269 ) | < 0.25 | % <header> <> | <ISO reference> | <Value> | <Units> </header>', 'label': []}",irrelevant
+"{'data': 'Typical Cast Mechanical Properties 1 | Typical Cast Mechanical Properties 1 | Typical Cast Mechanical Properties 1 | Typical Cast Mechanical Properties 1 <header> <Typical Cast Mechanical Properties 1 > <Test> | <Typical Cast Mechanical Properties 1 > <Unit of Measure> | <Typical Cast Mechanical Properties 1 > <Nominal> | <Typical Cast Mechanical Properties 1 > <Test Method> </header>', 'label': []}",irrelevant
+"{'data': '30 % | 268', 'label': []}",irrelevant
+"{'data': 'Typical general characteristics | Inspection Method | Value <header> <Product data> <Specification data> | <Product data> <Inspection Method> | <Product data> <Value> </header>', 'label': []}",header
+"{'data': 'Wet sieve retention ( Retained on 63 micron sieve ) | g/kg | 2 | ISO 1624 <header> <Property> | <Unit> | <Value> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Textile Coatings | | <header> <Applications> | <Solid> | <Foam> </header>', 'label': []}",irrelevant
+"{'data': '12 | Impurity Particle No. / 100 g | ≤ 20 | GB 9348 - 88 <header> <No.> | <Item> | <Index> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': 'Product data | Product data | Product data', 'label': []}",irrelevant
+"{'data': 'Parameter | Criterion | Test Method <header> <Parameter> | <Criterion> | <Test Method> </header>', 'label': []}",header
+"{'data': 'Density ( ) | 0.965 g/cm³ | ASTM D 792 | ISO 1183 <header> <Typical Properties> <PhysicalPhysical Physical Physical> | <Typical Properties> <Nominal Values Nominal Values> | <Typical Properties> <Test Method ( Test Method ( s ) > | <Typical Properties> <Test Method ( Test Method ( s ) > </header>', 'label': []}",irrelevant
+"{'data': 'Volatile content | % | Max.4.0 | Hanwha - method <header> <Properties> | <Unit> | <Value> | <Test methods> </header>', 'label': [[19, 20, 'unit'], [27, 30, 'max'], [33, 48, 'method']]}",irrelevant
+"{'data': 'Bulk Density | 20 - 25', 'label': []}",irrelevant
+"{'data': 'Flexural Modulus | psi/GPa | 530,000 / 3.7 | ASTM D 790 / ISO 178 <header> <Typical Cast Mechanical Properties 1 > <Test> | <Typical Cast Mechanical Properties 1 > <Unit of Measure> | <Typical Cast Mechanical Properties 1 > <Nominal> | <Typical Cast Mechanical Properties 1 > <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Apparent packing density | 3 kg/dm | 0.70 | ISO 1068 <header> <CHARACTERISTICS> | <UNITS> | <VALUES> | <TEST METHODS> </header>', 'label': []}",irrelevant
+"{'data': 'One Day Viscosity @ 30 rpm | 225 mPa·s | 225 mPa·s | <header> <ASTM & ISO Properties 2 > <Physical> | <ASTM & ISO Properties 2 > <Nominal Value Unit> | <ASTM & ISO Properties 2 > <Nominal Value Unit> | <ASTM & ISO Properties 2 > <Test Method> </header>', 'label': [[0, 7, 'measuring_condition'], [20, 26, 'measuring_condition'], [29, 32, 'mean'], [33, 38, 'unit'], [41, 44, 'mean'], [45, 50, 'unit']]}",Viscosity
+"{'data': 'Typical Liquid Properties 2 | Typical Liquid Properties 2 | Typical Liquid Properties 2 | Typical Liquid Properties 2 | Typical Liquid Properties 2 | Typical Liquid Properties 2 | Typical Liquid Properties 2 | Typical Liquid Properties 2 <header> <Typical Liquid Properties 2 > <Versions> | <Typical Liquid Properties 2 > <Viscosity, cps> | <Typical Liquid Properties 2 > <Thix Index> | <Typical Liquid Properties 2 > <Gel Time, Min> | <Typical Liquid Properties 2 > <Gel to Peak> | <Typical Liquid Properties 2 > <Peak Exotherm ( °F/°C ) > | <Typical Liquid Properties 2 > <Specific Gravity> | <Typical Liquid Properties 2 > <Styrene Content, % > </header>', 'label': []}",irrelevant
+"{'data': '2 | Whiteness | ≥ 80 | GB 2913 - 82 <header> <No.> | <Item> | <Index> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': 'No. | Item | Index | Test Method <header> <No.> | <Item> | <Index> | <Test Method> </header>', 'label': []}",header
+"{'data': '11 | Volatilization ( % ) | ≤ 1 % | GB/T 2914 - 1999 <header> <No.> | <Item> | <Index> | <Test method> </header>', 'label': [[22, 23, 'unit'], [28, 33, 'measuring_condition'], [36, 52, 'method']]}",irrelevant
+"{'data': 'Inherent Viscosity ( ASTM - D - 1243 - 60 - A ) | 1.40', 'label': [[0, 8, 'measuring_condition'], [21, 45, 'method'], [50, 54, 'mean']]}",Viscosity
+"{'data': 'Supply form | Visual | white granulate with some powder', 'label': []}",irrelevant
+"{'data': 'Clear or almost clear solutions can be obtained in aromatic hydro - carbons such as toluene, xylene or Solvesso® 1 100 as well as in chlorinated hydrocarbons, anone and tetrahydrofuran. Solutions with other solvents may be somewhat cloudy but will not adversely influence hardness and homogeneity of the film, provided the solu - tion dries to form a clear film.', 'label': [[51, 91, 'qualitative_value'], [93, 99, 'qualitative_value'], [103, 118, 'qualitative_value']]}",Solvent type
+"{'data': '4 | Glass Transition Temperaure ( Tg ) , ℃ | 79 | GB 11998 - 89 <header> <No.> | <Item> | <Index> | <Test Method> </header>', 'label': [[41, 42, 'unit'], [45, 47, 'mean'], [50, 63, 'method']]}",Glass transition temperature
+"{'data': 'Wood Finishes | yes', 'label': []}",irrelevant
+"{'data': '% by wt, through 60 mesh | 100 %', 'label': []}",irrelevant
+"{'data': 'Yes | Yes | Yes | Yes | Yes | Yes | Yes <header> <Flexible Packaging> | <Wood Finishes> | <Marine & Maintenance finishes> | <Inks> | <Adhesives> | <Paper coatings> | <Metal decorative & container coatings> </header>', 'label': []}",irrelevant
+"{'data': 'Forms | • Powder | • Powder', 'label': []}",irrelevant
+"{'data': 'Initial, V 20, Geon® 1253 | 5000 mPa·s | <header> <ASTM & ISO Properties 1 > <Physical> | <ASTM & ISO Properties 1 > <Nominal Value Unit> | <ASTM & ISO Properties 1 > <Test Method> </header>', 'label': [[28, 32, 'method'], [33, 38, 'unit'], [0, 13, 'measuring_condition']]}",Viscosity
+"{'data': 'Product data', 'label': []}",irrelevant
+"{'data': 'Efflux time ( 20 % in MEK ) | DIN EN ISO 2431 ( 4 mm ) | approx. 68 s', 'label': []}",irrelevant
+"{'data': 'K value | | 66 | ISO 1628 - 2 <header> <CHARACTERISTICS> | <UNITS> | <VALUES> | <TEST METHODS> </header>', 'label': [[17, 29, 'method'], [12, 14, 'mean']]}",K value
+"{'data': 'Clean Point | 5.0', 'label': []}",irrelevant
+"{'data': 'Composition, % by Weight | | <header> <Property ( 1 ) > | <Value> | <Method> </header>', 'label': []}",irrelevant
+"{'data': '*Melting Point ( DSC ) | 47 °C ( 116.6 °F ) | ASTM D 3418 | ISO 3146', 'label': []}",irrelevant
+"{'data': 'C. Finished part surfaces that have been cured at room temperature in contact with air should be relatively tack free. They may not, however, be fully cured and are thus not as re - sistant to chemicals as a fully cured part. If no further laminating is planned, a 10 % solution of 5 % paraffin wax solu - tion ( MP 115 - 118 °F/ 46 - 48 °C ) in sty - rene may be added to the last resin layer to provide a tack free surface.', 'label': []}",irrelevant
+"{'data': 'Heat Seal Maximum Resistance 1 | | 0.75 N/cm', 'label': []}",irrelevant
+"{'data': 'Product data | Product data | Product data', 'label': []}",irrelevant
+"{'data': 'retained on 0,063 mm screen | < 5 | % | 4610 | 4610 <header> <Raw Material Properties> | <Typical Value *> | <Unit> | <Test method> <DIN EN ISO> | <Test method> <ISO> </header>', 'label': []}",irrelevant
+"{'data': 'M 35 / 73 Solution is a copolymer of vinyl acetate and dibutyl maleate dissolved in ethyl acetate. It is designed for use mainly in solvent based coatings, where it can be diluted for use as a highly efficient primer and sealer.', 'label': [[84, 97, 'qualitative_value']]}",Solvent type
+"{'data': 'Molecular weight ( MW ) | SEC, PS - Standard ( THF, 60 °C ) | 30000 - 40000', 'label': []}",irrelevant
+"{'data': 'Specific Gravity | 1.39 | ASTM D - 792 <header> <Property ( 1 ) > | <Value> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'K value according to Fikentscher ( ISO 174, DIN 53726 ) | | 30 ~ | 30 ~ | 35 ~ | 35 35 ~ ~ | 35 35 ~ ~ | 35 35 ~ ~ | 35 35 ~ ~ | ~ 35 <header> <Product specification> | <> | <Laroflex®> <MP 15 > | <Laroflex®> <MP 15 > | <Laroflex®> <MP 25 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 60 > </header>', 'label': [[35, 42, 'method'], [44, 53, 'method'], [60, 62, 'unclear_value'], [67, 69, 'unclear_value'], [74, 76, 'unclear_value'], [81, 83, 'unclear_value'], [84, 86, 'unclear_value'], [93, 95, 'unclear_value'], [96, 98, 'unclear_value']]}",K value
+"{'data': 'Brookfield viscosity - One - Hour @ 6 rpm | STP 1434 | cP | 270 <header> <Properties> | <Method> | <Units> | <Value 1 ) > </header>', 'label': [[0, 10, 'measuring_condition'], [23, 41, 'measuring_condition'], [44, 52, 'method'], [55, 57, 'unit'], [60, 63, 'mean']]}",Viscosity
+"{'data': 'Resin | Volatile Matters [ % ] | MAX 0.6 | MAX 0.6 | JIS - K 7382 <header> <Features> | <Features> | <Typical values> | <Typical values> | <Test Method> </header>', 'label': [[27, 28, 'unit'], [37, 40, 'max'], [47, 50, 'max'], [53, 65, 'method']]}",irrelevant
+"{'data': 'ISO 1133', 'label': []}",irrelevant
+"{'data': 'Color Gardner | 8 max.', 'label': []}",irrelevant
+"{'data': 'Viscosity @ 25 C ( cps. ) O | : 200 + 30 - <header> <Colour & Appearance> | <: Clear Greenish Liquid> </header>', 'label': [[12, 16, 'measuring_condition'], [19, 22, 'unit'], [32, 35, 'mean'], [38, 40, 'std']]}",Viscosity
+"{'data': 'Chlorine content | specific method | 46,8 - 48,0 wt. %', 'label': [[19, 34, 'method'], [37, 41, 'min'], [44, 48, 'max'], [49, 52, 'measuring_condition'], [53, 54, 'unit']]}",Chlorine content
+"{'data': 'Molecular Weight | 27,000', 'label': []}",irrelevant
+"{'data': '9 | Composition | Composition | Composition <header> <No.> | <Item> | <Index> | <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Tensile Elongation | % | 6.6 | ASTM D 638 / ISO 527 - 1 <header> <Typical Cast Mechanical Properties 1 > <Test> | <Typical Cast Mechanical Properties 1 > <Unit of Measure> | <Typical Cast Mechanical Properties 1 > <Nominal> | <Typical Cast Mechanical Properties 1 > <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'ppm Heavy Metals ( as Lead, W 1494 ) | <= 5 <header> <Appearance @ 25 deg C - White to creamy white powder> | <White to creamy white> </header>', 'label': []}",irrelevant
+"{'data': '40 % By Weight Vinyl Acetate', 'label': []}",irrelevant
+"{'data': '9 | Average Molecular Wt | About 27000 | Calculated by the Viscosity No. <header> <No.> | <Item> | <Index> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': ' ( ISO 306, DIN 53460 ) | °F | 115 – 118 | 115 – 118 | 118 – 126 | 118 – 126 118 – 126 | 118 – 126 118 – 126 | 118 – 126 118 – 126 | 118 – 126 118 – 126 | 118 – 126 <header> <Product specification> | <> | <Laroflex®> <MP 15 > | <Laroflex®> <MP 15 > | <Laroflex®> <MP 25 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 60 > </header>', 'label': []}",irrelevant
+"{'data': 'Water Vapor Transmission Rate | 38 °C, 90 % RH, 1.0 µm 150 g/m²/ 24 hr', 'label': []}",irrelevant
+"{'data': 'Inherent | 0.44', 'label': []}",irrelevant
+"{'data': 'Efflux time ( 20 % in MEK ) | DIN EN ISO 2431 ( 4 mm ) | approx. 46 s', 'label': []}",irrelevant
+"{'data': '6 | 11 Viscosity No. ml/g | 40 - 44 | GB/T 3401 - 1999 <header> <No.> | <Item> | <Index> | <Test method> </header>', 'label': [[21, 25, 'unit'], [28, 30, 'min'], [33, 35, 'max'], [38, 54, 'method']]}",Viscosity
+"{'data': 'Clear or almost clear solutions can be obtained in aromatic hydro - carbons such as toluene, xylene or Solvesso® 1 100 as well as in chlorinated hydrocarbons, anone and tetrahydrofuran. Solutions with other solvents may be somewhat cloudy but will not adversely influence hardness and homogeneity of the film, provided the solu - tion dries to form a clear film.', 'label': [[51, 91, 'qualitative_value'], [93, 99, 'qualitative_value'], [103, 118, 'qualitative_value']]}",Solvent type
+"{'data': 'Vinyl Acetate | 4 | <header> <Property ( 1 ) > | <Value> | <Method> </header>', 'label': [[16, 17, 'mean']]}",irrelevant
+"{'data': '2 | VOLATILE MATTER | VN F/ 31 | % | <= 0.30 | X <header> <No> | <Product Characteristics> | <Method> | <Dimension> | <Nom.Value/Tolerance> | <APZ*> </header>', 'label': [[33, 34, 'unit'], [40, 44, 'max']]}",irrelevant
+"{'data': 'Inherent Viscosity ( ASTM - D - 1243 - 60 - A ) | 1.40', 'label': [[0, 8, 'measuring_condition'], [21, 45, 'method'], [50, 54, 'mean']]}",Viscosity
+"{'data': 'Test | Unit of Measure | Nominal | Test Method <header> <Typical Cast Mechanical Properties 1 > <Test> | <Typical Cast Mechanical Properties 1 > <Unit of Measure> | <Typical Cast Mechanical Properties 1 > <Nominal> | <Typical Cast Mechanical Properties 1 > <Test Method> </header>', 'label': []}",header
+"{'data': ' ( ISO 306, DIN 53460 ) | °F | 115 – 118 | 115 – 118 | 118 – 126 | 118 – 126 118 – 126 | 118 – 126 118 – 126 | 118 – 126 118 – 126 | 118 – 126 118 – 126 | 118 – 126 <header> <Product specification> | <> | <Laroflex®> <MP 15 > | <Laroflex®> <MP 15 > | <Laroflex®> <MP 25 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 60 > </header>', 'label': []}",irrelevant
+"{'data': 'ASTM & ISO Properties 2 | ASTM & ISO Properties 2 | ASTM & ISO Properties 2 | ASTM & ISO Properties 2 <header> <ASTM & ISO Properties 2 > <Physical> | <ASTM & ISO Properties 2 > <Nominal Value Unit> | <ASTM & ISO Properties 2 > <Nominal Value Unit> | <ASTM & ISO Properties 2 > <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Fill Analysis | Nominal Value Unit | Nominal Value Unit | Test Method <header> <ASTM & ISO Properties 2 > <Physical> | <ASTM & ISO Properties 2 > <Nominal Value Unit> | <ASTM & ISO Properties 2 > <Nominal Value Unit> | <ASTM & ISO Properties 2 > <Test Method> </header>', 'label': []}",header
+"{'data': 'Gel time, min | 13 - 20 <header> <Appearance> | <Yellowish liquid> </header>', 'label': []}",irrelevant
+"{'data': 'Volatiles | specific method | < 0,5 wt. %', 'label': [[12, 27, 'method'], [32, 35, 'max'], [36, 38, 'measuring_condition'], [40, 41, 'unit']]}",irrelevant
+"{'data': '4 | Reactive Functionality ( Carboxyl % ) | 1 ± 0.2 % | <header> <No.> | <Item> | <Index> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': 'Kinematic Viscosity | 220 | cSt <header> <Property ( 1 ) at 25 °C ( 77 °F ) > | <Value> | <Unit> </header>', 'label': [[0, 9, 'measuring_condition'], [22, 25, 'mean'], [28, 31, 'unit']]}",Viscosity
+"{'data': '6 | K Value | 46 - 48 | GB/T 3401 - 2007 <header> <No.> | <Item> | <Index> | <Test method> </header>', 'label': [[14, 16, 'min'], [19, 21, 'max'], [24, 40, 'method']]}",K value
+"{'data': 'Material Status | • Commercial: Active |', 'label': []}",irrelevant
+"{'data': 'Identification Tests ( Q 232 & W 1125 ) Pass equals Meets Meets all ID tests all ID tests | Identification Tests ( Q 232 & W 1125 ) Pass equals Meets Meets all ID tests all ID tests <header> <Appearance @ 25 deg C - White to creamy white powder> | <White to creamy white> </header>', 'label': []}",irrelevant
+"{'data': 'Inherent viscosity ( DL/g ) | 0.44 <header> <Appearance> | <White, slighty yellow powder> </header>', 'label': [[0, 8, 'measuring_condition'], [21, 25, 'unit'], [30, 34, 'mean']]}",Viscosity
+"{'data': 'Initial, V 12, Geon® 1010 | 2500 mPa·s | <header> <ASTM & ISO Properties 1 > <Physical> | <ASTM & ISO Properties 1 > <Nominal Value Unit> | <ASTM & ISO Properties 1 > <Test Method> </header>', 'label': [[28, 32, 'method'], [33, 38, 'unit'], [0, 13, 'measuring_condition']]}",Viscosity
+"{'data': 'Monomer content ( Wt % ) : | 45 + 2', 'label': []}",irrelevant
+"{'data': '9 | % by wt, through 60 mesh | 100 % | GB/T 6003.1 <header> <No.> | <Item> | <Index> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': 'Flexible Packaging | Wood Finishes | Marine & Maintenance finishes | Inks | Adhesives | Paper coatings | Metal decorative & container coatings <header> <Flexible Packaging> | <Wood Finishes> | <Marine & Maintenance finishes> | <Inks> | <Adhesives> | <Paper coatings> | <Metal decorative & container coatings> </header>', 'label': []}",irrelevant
+"{'data': 'Methanol Extractables 7 | 1.3 % | 1.3 % | Internal Method <header> <ASTM & ISO Properties 2 > <Physical> | <ASTM & ISO Properties 2 > <Nominal Value Unit> | <ASTM & ISO Properties 2 > <Nominal Value Unit> | <ASTM & ISO Properties 2 > <Test Method> </header>', 'label': []}",irrelevant
+"{'data': '•Resin 30 % | | 268 | <header> <Properties> | <Unit> | <Value> | <Test methods> </header>', 'label': []}",irrelevant
+"{'data': 'Volatile matter | < 0,3 | % | - | 1269 <header> <Raw Material Properties> | <Typical Value *> | <Unit> | <Test method> <DIN EN ISO> | <Test method> <ISO> </header>', 'label': [[20, 23, 'max'], [26, 27, 'unit'], [34, 38, 'method']]}",irrelevant
+"{'data': '9 | % by wt, through 60 mesh | 100 % | GB/T 6003.1 <header> <No.> | <Item> | <Index> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': 'Supplied as* | Visual | | White powder | <header> <Properties> | <Test methods> | <Unit> | <Value> | <Tolerance> </header>', 'label': []}",irrelevant
+"{'data': 'Bulk | | 500 kg/m³', 'label': []}",irrelevant
+"{'data': 'Degree of Polymerization | 360 | Calculated <header> <Property ( 1 ) > | <Value> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Bulk density | DIN EN ISO 60 | approx. 510 kg/m³', 'label': []}",irrelevant
+"{'data': 'K value | 34 - 36', 'label': [[10, 12, 'min'], [15, 17, 'max']]}",K value
+"{'data': 'Vicat softening temperature | °C | 46 – 48 | 46 – 48 | 48 – 52 | 48 – 52 48 – 52 | 48 – 52 48 – 52 | 48 – 52 48 – 52 | 48 – 52 48 – 52 | 48 – 52 <header> <Product specification> | <> | <Laroflex®> <MP 15 > | <Laroflex®> <MP 15 > | <Laroflex®> <MP 25 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 35 MP 45 > | <Laroflex®> <MP 60 > </header>', 'label': []}",irrelevant
+"{'data': '13 | 25 % resin in MEK/Toluene ( 50 / 50 ) | Colorless and Transparent or yellowish | By visual <header> <No.> | <Item> | <Index> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': '10 | % by wt, through 60 mesh | 100 % | GB/T 6003.1 <header> <No.> | <Item> | <Index> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': '6 | K Value | 46 - 48 | GB/T 3401 - 2007 <header> <No.> | <Item> | <Index> | <Test method> </header>', 'label': [[14, 16, 'min'], [19, 21, 'max'], [24, 40, 'method']]}",K value
+"{'data': 'Molecular Weight | 27,000 | Dow M <header> <Property ( 1 ) > | <Value> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'K - value | ( ISO 1628 - 2 ) | 70 | <header> <> | <ISO reference> | <Value> | <Units> </header>', 'label': [[14, 26, 'method'], [31, 33, 'mean']]}",K value
+"{'data': 'Vinyl Chloride, % | 90', 'label': [[16, 17, 'unit'], [20, 22, 'mean']]}",irrelevant
+"{'data': 'Inherent viscosity ( DL/g ) | - | 0.40 | 0.50 | 0.52 | 0.74 | ASTM D - 1243 <header> <PROPERTY> <Univar Grade> | <TYPICAL RESULTS> <UYHB> | <TYPICAL RESULTS> <UYHD> | <TYPICAL RESULTS> <UYHH> | <TYPICAL RESULTS> <UYHI> | <TYPICAL RESULTS> <UYNS - 3 > | <TEST METHOD> <> </header>', 'label': [[0, 8, 'measuring_condition'], [21, 25, 'unit'], [34, 38, 'mean'], [41, 45, 'mean'], [48, 52, 'mean'], [55, 59, 'mean'], [62, 75, 'method']]}",Viscosity
+"{'data': '13 | Impurity Particle No. / 100 g | ≤ 20 | GB 9348 - 88 <header> <No.> | <Item> | <Index> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': '+European Color Test - BY Color ( W 731 ) | >= 6', 'label': []}",irrelevant
+"{'data': 'Density | DIN 66137 - 2 | 1,37 g/cm³ <header> <Product data> <Specification data> | <Product data> <Inspection Method> | <Product data> <Value> </header>', 'label': []}",irrelevant
+"{'data': 'SPECIFICATIONS | SPECIFICATIONS <header> <SPECIFICATIONS> <Appearance> | <SPECIFICATIONS> <Yellowish liquid> </header>', 'label': []}",irrelevant
+"{'data': '+European Color Test - BY Color ( W 731 ) | >= 6 <header> <Appearance @ 25 deg C - White to creamy white powder> | <White to creamy white> </header>', 'label': []}",irrelevant
+"{'data': 'Vinyl Chloride | 86 | <header> <Property ( 1 ) > | <Value> | <Method> </header>', 'label': [[17, 19, 'mean']]}",irrelevant
+"{'data': 'Typical Properties | Typical Properties | Typical Properties | Typical Properties <header> <Typical Properties> <PhysicalPhysical Physical Physical> | <Typical Properties> <Nominal Values Nominal Values> | <Typical Properties> <Test Method ( Test Method ( s ) > | <Typical Properties> <Test Method ( Test Method ( s ) > </header>', 'label': []}",header
+"{'data': 'Properties | Unit | Value | Test methods <header> <Properties> | <Unit> | <Value> | <Test methods> </header>', 'label': []}",header
+"{'data': 'Responsible Department | Name | Date | Signature <header> <Responsible Department> | <Name> | <Date> | <Signature> </header>', 'label': []}",irrelevant
+"{'data': 'Glass transition temperature | DSC ( DIN 53765 / ISO 11357 - 5 ) | approx. 74 °C <header> <Product data> <Specification data> | <Product data> <Inspection Method> | <Product data> <Value> </header>', 'label': [[37, 62, 'method'], [75, 77, 'mean'], [78, 80, 'unit']]}",Glass transition temperature
+"{'data': 'Density | DIN 53479 | approx. 1,30 g/cm 3', 'label': []}",irrelevant
+"{'data': 'Glass transition temperature ( Tg ) | ℃ | 74 | DSC <header> <Properties> | <Unit> | <Value> | <Test methods> </header>', 'label': [[38, 39, 'unit'], [42, 44, 'mean'], [47, 51, 'method']]}",Glass transition temperature

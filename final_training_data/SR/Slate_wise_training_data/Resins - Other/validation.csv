@@ -1,0 +1,818 @@
+text,label
+"{'data': 'Cross - linking agent | mol - % TCP 2.0', 'label': []}",irrelevant
+"{'data': 'delivery form, 20 °C, approx. | 1,1 | g/cm³ <header> <Form> | < 100 % , viscous liquid> | < 100 % , viscous liquid> </header>', 'label': []}",Solvent type
+"{'data': 'Density，g/cm 3 | 1.05 - 1.15', 'label': []}",irrelevant
+"{'data': 'Conical mandrel | : 100 % | ASTM D - 522', 'label': []}",irrelevant
+"{'data': 'Density at 25 °C, g/cm 3 | ~ 1.06 <header> <Appearance> | <clear liquid> </header>', 'label': []}",irrelevant
+"{'data': 'Erichsen Test | 7 mm | <header> <> | <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity Index | | | D 2270 | - | - <header> <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > </header>', 'label': [[22, 28, 'method']]}",Viscosity
+"{'data': 'Equivalent Weight | 1603 - 1934', 'label': [[20, 24, 'min'], [27, 31, 'max']]}",Epoxy equivalent weight
+"{'data': 'Specification | Appearance（ 25 ℃） clean/clear <header> <Urethane acrylate W 2528 B> | <Urethane acrylate W 2528 B> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance | | White soft fiber | Visible <header> <Item> | <Index> <Unit> | <Index> <H 1 / 16 ″> | <Index> <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Fire point / ℃ ( F ) | Cleveland Open Cup 240 ( 465 )', 'label': []}",irrelevant
+"{'data': '% Hydroxyl | 9', 'label': [[0, 1, 'unit'], [13, 14, 'mean']]}",Hydroxyl value
+"{'data': 'N.V.C @ 200 C 1 GM/ 30 mins | - % | BSMT A 1015 - 002 | 34.5 | 36.5 <header> <Physical Property> | <Units> | <Method ( 1 ) > | <Minimum> | <Maximum> </header>', 'label': [[8, 27, 'measuring_condition'], [32, 33, 'unit'], [36, 53, 'method'], [56, 60, 'min'], [63, 67, 'max']]}",Solid content
+"{'data': 'aromatics | soluble | soluble |', 'label': []}",irrelevant
+"{'data': 'TEST ITEM AND CONDITION | LIMIT | UNIT | METHOD | N <header> <TEST ITEM AND CONDITION> | <LIMIT> | <UNIT> | <METHOD> | <N > </header>', 'label': []}",header
+"{'data': 'butyl glycol | + | + <header> <mixing ratio parts by weight> | < 1 : 9 > | < 1 : 1 > </header>', 'label': []}",irrelevant
+"{'data': 'Elongation ( % ) | 450 - 600', 'label': []}",irrelevant
+"{'data': 'Density at 20 °C | g/cm³ | 1.17 ± 0.01 <header> <Properties> | <Unit> | <Value> </header>', 'label': []}",irrelevant
+"{'data': 'Turbidity, 18.5 % in toluene | ≤ 2 | | <header> <Other data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Glass Transition Temperature ( Tg ) , OC | 65 | 65 <header> <Type> | <Hydroxyl> | <Hydroxyl> </header>', 'label': [[38, 40, 'unit'], [43, 45, 'mean'], [48, 50, 'mean']]}",Glass transition temperature
+"{'data': 'Water CON.（水分） | Water CON.（水分） | Water CON.（水分） | Water CON.（水分） | % | | | | ≤ 6 | | | KARL FICHER <header> <Item （项目）> | <Item （项目）> | <Item （项目）> | <Item （项目）> | <Unit ( 单位 ) > | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Test Method （检测方法）> </header>', 'label': []}",irrelevant
+"{'data': 'Non - volatiles | % min | 97 | Internal procedure <header> <> | <Unit> | <Value> | <Test method> </header>', 'label': [[18, 19, 'unit'], [26, 28, 'mean'], [31, 49, 'measuring_condition']]}",Solid content
+"{'data': '* Molecular weight ( by GPC ) | 3,800', 'label': []}",irrelevant
+"{'data': 'Conical mandrel ( 4 ) | 100 %', 'label': []}",irrelevant
+"{'data': 'Uses | In the formulation of primers, knifing fillers, primer surfacers, top coats and dipping paints and flow coatings for radiators.', 'label': []}",irrelevant
+"{'data': 'Item Product | Molecular Weight ( g/mol ) | Appearance ( r.t. ) | Color ( Pt - Co Units ) | OH Value ( KOH mg/g ) | Acid Value ( KOH mg/g ) | Water ( % by wt ) <header> <Item Product> | <Molecular Weight ( g/mol ) > | <Appearance ( r.t. ) > | <Color ( Pt - Co Units ) > | <OH Value ( KOH mg/g ) > | <Acid Value ( KOH mg/g ) > | <Water ( % by wt ) > </header>', 'label': []}",multi_header
+"{'data': 'dynamic viscosity | [ mPa.s ] 17000 - 27000', 'label': [[0, 7, 'measuring_condition'], [22, 27, 'unit'], [30, 35, 'min'], [38, 43, 'max']]}",Viscosity
+"{'data': 'Specifications | Acid value, mg KOH/g ( ASTM D - 1639 ) | 18 - 22', 'label': [[29, 37, 'unit'], [40, 53, 'method'], [58, 60, 'min'], [63, 65, 'max']]}",Acid content
+"{'data': 'NVM | 65.0 % | 64 - 66 % <header> <Test> | <Value> | <Specifications> </header>', 'label': [[15, 17, 'min'], [20, 22, 'max'], [23, 24, 'unit']]}",Solid content
+"{'data': 'Method | / /', 'label': []}",irrelevant
+"{'data': 'Gel test: 200 - 300 seconds', 'label': []}",irrelevant
+"{'data': 'Note：USE AKZO Standard IPA GRADE Nitrocellulose', 'label': []}",irrelevant
+"{'data': 'Composition: |', 'label': []}",irrelevant
+"{'data': 'RS 500 sec | 450 ~ 550 | Below 0.03 % | 100 kg <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > | <Packaging> </header>', 'label': []}",multi
+"{'data': 'RS 15 ~ 20 sec | 15 ~ 20 | Below 0.03 % | 100 kg <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > | <Packaging> </header>', 'label': []}",multi
+"{'data': '1 | Appearance | Transparent, light color solid <header> <No.> | <Specifications> | <Content> </header>', 'label': []}",irrelevant
+"{'data': 'NCE 30 % IPA | 32,9 <header> <Product> | <Typical in % > </header>', 'label': []}",irrelevant
+"{'data': 'Characteristic data* Property | Value | Unit of measurement | Method <header> <Characteristic data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",header
+"{'data': '21 CFR 175.390 | | 21 CFR 178.3120 <header> <Packaging Package> | <Form> | <Net Weight> </header>', 'label': []}",irrelevant
+"{'data': 'Oil content/triglyceride, solvent - free | approx. 27 | % | DIN ISO 6744 - 4 <header> <Other data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[51, 53, 'mean'], [56, 57, 'unit'], [60, 76, 'method']]}",irrelevant
+"{'data': 'Gloss @ 20 °/ 60 ° ( % ) | 84 / 94 <header> <Test> | <Result> </header>', 'label': []}",irrelevant
+"{'data': 'TMMP ( Trimethylolpropane tris - 3 - mercaptopropionate ) | 3 | 130 | 1.52 | <header> <名称 name> | <SH数 SH number> | <粘度 ( mPas, 25 ℃ ) Viscosity ( mPas,25 ℃ ) > | <屈折率 ( 25 ℃ ) R. I. ( 25 ℃ ) > | <外観 appearance> </header>', 'label': []}",irrelevant
+"{'data': 'VOLATILES | 56.0 % H 2 O ( by weight ) 66.6 % H 2 O ( by volume ) <header> <TYPICAL PROPERTIES - The following Properties are NOT to be considered specifications.> <APPEARANCE> | <TYPICAL PROPERTIES - The following Properties are NOT to be considered specifications.> <Semi - Viscous Liquid> </header>', 'label': []}",irrelevant
+"{'data': 'Non - Volatile Matter DIN EN ISO 3251 non - volatile matter | [ % ] 38,5 - 41,5 | Daotan TW 6425 has good pigment wetting properties and is compatible with the commercially used pigments and extenders. Basic and alkaline sensitive pigments are not suitable. <header> <PRELIMINARY PRODUCT INFORMATION> <TYPE> | <PRELIMINARY PRODUCT INFORMATION> <TYPE> | <DEVELOPMENT PRODUCT> <This product is serving for trial purposes only. Deviations which might occur during transfer into manufacturing in a commercial scale are possible and do not constitute any material defect.> </header>', 'label': [[22, 37, 'method'], [64, 65, 'unit'], [68, 72, 'min'], [75, 79, 'max']]}",Solid content
+"{'data': 'Controlled polymerization rate | Controlled polymerization rate | | 0. 1 | | | | <header> <INSPECTION ITEM > | <INSPECTION ITEM > | <UNIT> | <ANALYTICAL VALUE> | <STAND> <MIN.> | <SPEC.> <> | <SPEC.> <> | <SPEC.> <MAX.> </header>', 'label': []}",irrelevant
+"{'data': 'Damping agent | % | 30 ± 2 | 30 ± 2 | WJ 9028 - 05 4.5.12 <header> <Item> | <Index> <Unit> | <Index> <H 1 / 2 ″a> | <Index> <H 1 / 2 ″b> | <Index> <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'solvent at 25 °C', 'label': [[11, 16, 'measuring_condition']]}",Solvent type
+"{'data': 'Class（等级） | Class（等级） | Class（等级） | Class（等级） | — | Imperial （特等） | Excellent （优等） （ | Excellent （优等） （ | Excellent （优等） （ | First - class 一等 | ） Eligible （合格） | <header> <Item （项目）> | <Item （项目）> | <Item （项目）> | <Item （项目）> | <Unit ( 单位 ) > | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Test Method （检测方法）> </header>', 'label': []}",irrelevant
+"{'data': 'Glass Transition Temperature ( Tg ) , OC | 65', 'label': [[38, 40, 'unit'], [43, 45, 'mean']]}",Glass transition temperature
+"{'data': 'Color（lovibond）≤ | Y 20 R 2.0 | Y 18.1 R 1.8 | GB 5525 - 85 <header> <级别指标 Item> | <一级蓖麻油> <Specification> | <一级蓖麻油> <Test value> | <执行标准> <Test value> </header>', 'label': []}",irrelevant
+"{'data': '6 | Acidity % ( as H 2 SO 4 ) | 0.065 Max. <header> <NO.> | <TEST> | <SPECIFICATION> </header>', 'label': [[12, 13, 'unit'], [16, 27, 'measuring_condition'], [32, 37, 'max']]}",Acid content
+"{'data': '9. Hydroxyl value | | | 53 - 61 | | | PCPL/FTM/ 023 <header> <PROPERTY> | <> | <> | <LIMIT> | <> | <UNITS> | <TEST METHOD> </header>', 'label': [[24, 26, 'min'], [29, 31, 'max'], [38, 51, 'method']]}",Hydroxyl value
+"{'data': 'Form | 0.20', 'label': []}",irrelevant
+"{'data': 'Shipping: | Flaked form in multiwall bags, 50 lbs. net, and bulk bags, 2000 lbs. net. | Flaked form in multiwall bags, 50 lbs. net, and bulk bags, 2000 lbs. net. <header> <DA Status:> | <UNI - REZ 6008 ROSIN ESTER meets the requirements of the Code of Federal Regulations, Title 21, under the following sections:> | <UNI - REZ 6008 ROSIN ESTER meets the requirements of the Code of Federal Regulations, Title 21, under the following sections:> </header>', 'label': []}",irrelevant
+"{'data': 'Equivalent weight | approx. 276 | | <header> <Other data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[28, 31, 'mean']]}",Epoxy equivalent weight
+"{'data': 'Density, g/ml @ 25 °C | 1.13 - 1.17', 'label': []}",irrelevant
+"{'data': 'VOC Content ( wt % ) | 24 ~ 28 %', 'label': []}",irrelevant
+"{'data': ' | Technical Manager', 'label': []}",irrelevant
+"{'data': 'xylene | - | - <header> <Solubility> | <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'SPECIFIC GRAVITY | 1.19 + 0.05', 'label': []}",irrelevant
+"{'data': 'Unit | H 1 / 2 aEA', 'label': []}",irrelevant
+"{'data': '25 ℃ ) | 1.19 - 1.22', 'label': []}",irrelevant
+"{'data': 'MEK | > 50', 'label': []}",irrelevant
+"{'data': 'Physical State Gas Liquid | Colour Solld | amber | Odour Odour slight | Threshold PH not available | 5.8 - 9.5 | Melting / Freezing Point not applicable <header> <> <Physical State Gas Liquid > | <> <Colour Solld > | <> <amber> | <> <Odour Odour slight> | <> <Threshold PH not available> | <> < 5.8 - 9.5 > | <> <Melting / Freezing Point not applicable> </header>', 'label': []}",irrelevant
+"{'data': 'Solubility | — | Clear | Clear | Visible <header> <Item> | <Index> <Unit> | <Index> <H 1 / 8 ″aEA> | <Index> <H 1 / 8 ″bEA> | <Index> <Test Method> </header>', 'label': [[17, 22, 'qualitative_value'], [25, 30, 'qualitative_value'], [33, 40, 'qualitative_value']]}",irrelevant
+"{'data': 'Acid Number, mg KOH/gm | 280', 'label': [[13, 22, 'unit'], [25, 28, 'mean']]}",Acid content
+"{'data': 'Water content | Water content | % | 0. 07 | | | | 0. 1 <header> <INSPECTION ITEM > | <INSPECTION ITEM > | <UNIT> | <ANALYTICAL VALUE> | <STAND> <MIN.> | <SPEC.> <> | <SPEC.> <> | <SPEC.> <MAX.> </header>', 'label': []}",irrelevant
+"{'data': 'Kinematic viscosity ( 10 - 7 m 2 /s ) 25 ℃ | 15.32', 'label': [[0, 9, 'measuring_condition'], [20, 42, 'measuring_condition'], [45, 50, 'mean']]}",Viscosity
+"{'data': 'Extruder: | BUSS PCS - 30', 'label': []}",irrelevant
+"{'data': 'Solvent | | Isobutyl acetate, Ethyl acetate, etc <header> <ltem> | <Unit> | <Spec> </header>', 'label': [[12, 43, 'qualitative_value']]}",Solvent type
+"{'data': 'Hydroxyl Value（mgKOH/g ) | 150 - 165 | 163.41 | GB 8234 - 87 <header> <级别指标 Item> | <一级蓖麻油> <Specification> | <一级蓖麻油> <Test value> | <执行标准> <Test value> </header>', 'label': [[15, 22, 'unit'], [27, 30, 'min'], [33, 36, 'max'], [48, 60, 'method']]}",Hydroxyl value
+"{'data': 'Ignition point | ℃', 'label': []}",irrelevant
+"{'data': 'Viscosity Brookfield，cps（ 25 ℃） | 100 - 500', 'label': [[10, 20, 'measuring_condition'], [21, 24, 'unit'], [26, 30, 'measuring_condition'], [34, 37, 'min'], [40, 43, 'max']]}",Viscosity
+"{'data': ' ( DIN EN ISO 3219 ) shear rate D | 1,000 s– 1', 'label': [[3, 18, 'method'], [21, 33, 'measuring_condition'], [36, 46, 'measuring_condition']]}",Viscosity
+"{'data': ' ( 10 % ) | [ % ] 39,5 - 42,5 | For high gloss top coats we recommend formulating using a pigment paste. As dispersing additives we recommend Additol VXW 6208 or Additol VXW 6394. <header> <PRELIMINARY PRODUCT INFORMATION> <TYPE> | <PRELIMINARY PRODUCT INFORMATION> <TYPE> | <DEVELOPMENT PRODUCT> <This product is serving for trial purposes only. Deviations which might occur during transfer into manufacturing in a commercial scale are possible and do not constitute any material defect.> </header>', 'label': []}",irrelevant
+"{'data': 'Density | ,98 - 1,02', 'label': []}",irrelevant
+"{'data': 'Appearance： | White non - regular flake', 'label': []}",irrelevant
+"{'data': 'RS 1 / 2 sec | 3.0 ~ 5.0 | Below 0.03 % | 120 kg <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > | <Packaging> </header>', 'label': []}",multi
+"{'data': 'Colour ( APHA ) | ≤ 60', 'label': []}",irrelevant
+"{'data': 'Density at 23 °C | 1,19 g/ml DIN 12791 ISO 649 <header> <Property> | <Value Unit of measurement Testmethod> </header>', 'label': []}",irrelevant
+"{'data': 'Brookfield Viscosity @ 200 °C, mPa.s | 4000 - 5500 <header> <> | <Limits> </header>', 'label': [[0, 10, 'measuring_condition'], [23, 29, 'measuring_condition'], [31, 36, 'unit'], [39, 43, 'min'], [46, 50, 'max']]}",Viscosity
+"{'data': 'Packaging | In 50 kg plastic drums and 200 kg metal drums <header> <Urethane acrylate W 2528 B> | <Urethane acrylate W 2528 B> </header>', 'label': []}",irrelevant
+"{'data': 'Density ( 20 ℃ ) / ( g/cm 3 ) | 0. 88 - 0. 93 <header> <Result> <Appearance> | <Result> <Passes> </header>', 'label': []}",irrelevant
+"{'data': ' | - Ethyl acetate | > 50 <header> <.> | <Appearance off - white> | <powder> </header>', 'label': []}",irrelevant
+"{'data': 'Solubility | | |', 'label': []}",irrelevant
+"{'data': 'Solids | % | 43 – 47 <header> <Item> | <Unit> | <Specification> </header>', 'label': [[9, 10, 'unit'], [13, 15, 'min'], [18, 20, 'max']]}",Solid content
+"{'data': '按硫酸计） | 按硫酸计） | 按硫酸计） | 按硫酸计） | % | ≤ 0.08 | ≤ 0.08 | ≤ 0.07 | ≤ 0.07 | ≤ 0.07 | ≤ 0.06 | ≤ 0.06 <header> <Item （项目）> | <Item （项目）> | <Item （项目）> | <Item （项目）> | <Unit ( 单位 ) > | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Test Method （检测方法）> </header>', 'label': []}",irrelevant
+"{'data': '■ Compatible with a wide range of solvents and resins. | ■ Improved flexibility in formulating <header> <Softening Point 2 ( R&B ) , ºC> <Color, Gardner 3 ( 60 % in toluene ) Viscosity, Gardner 4 ( 60 % in toluene ) Viscosity, # 3 Zahn Cup ( Secs. ) > <FEATURES> | < 133 > < 6 N 50 > <BENEFITS> </header>', 'label': []}",irrelevant
+"{'data': 'Abel 80 ℃ | Mins | ≥ 15 | WJ 9028 - 05 4.5.8 <header> <Item> | <Index> <Unit> | <Index> <H 5 ”EA> | <Index> <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Total | 45.0 | | 4.5 <header> <Host> | <Weight Ratio ( g ) > | <Hardener> | <Weight Ratio ( g ) > </header>', 'label': []}",irrelevant
+"{'data': 'Mercaptan Value, meg/g | 3.00 min.', 'label': []}",irrelevant
+"{'data': 'NCO equivalent weight | ~ 191', 'label': []}",irrelevant
+"{'data': 'Acidity: 0.1 % w/w maximun', 'label': [[9, 12, 'max'], [13, 14, 'unit'], [15, 18, 'measuring_condition']]}",Acid content
+"{'data': '5 | Solubility in toluene 1 : 1 | Compatible, clear <header> <No.> | <Specifications> | <Content> </header>', 'label': []}",irrelevant
+"{'data': 'Ignition point ( °C ) | ≧ 180 ℃', 'label': []}",irrelevant
+"{'data': 'Degree of Substitution | 1.2', 'label': []}",irrelevant
+"{'data': 'Viscosity （粘度） | H | H | 1 / 32 | | — | — | — | — | — | 0.6 ~ 1.0 | <header> <Item （项目）> | <Item （项目）> | <Item （项目）> | <Item （项目）> | <Unit ( 单位 ) > | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Test Method （检测方法）> </header>', 'label': [[56, 59, 'min'], [62, 65, 'max']]}",Viscosity
+"{'data': 'Viscosity ( Höppler ) at 25 °C | [ mPa*s ] | 850 – 1250', 'label': [[35, 40, 'unit'], [45, 48, 'min'], [51, 55, 'max'], [10, 30, 'measuring_condition']]}",Viscosity
+"{'data': 'Colour ( G - H ) | 11 | 11 max <header> <Test> | <Value> | <Specifications> </header>', 'label': []}",irrelevant
+"{'data': 'Sales Specifications | Colour ( 50 % ) , ( ASTM D - 1544 ) | 2 max', 'label': []}",irrelevant
+"{'data': 'Iron | 3 ppm max.', 'label': []}",irrelevant
+"{'data': 'Viscosity（CPS/ 25 ℃） | 2200 - 4200', 'label': [[10, 13, 'unit'], [15, 19, 'measuring_condition'], [23, 27, 'min'], [30, 34, 'max']]}",Viscosity
+"{'data': '8 % | 1.5', 'label': []}",irrelevant
+"{'data': 'Determined at 50 % resin concentration | Determined at 50 % resin concentration', 'label': []}",irrelevant
+"{'data': 'Silica, wt % : | 34', 'label': []}",irrelevant
+"{'data': '2 Butyl acetate | 50.00 %', 'label': []}",irrelevant
+"{'data': 'Solid content | ~ 84 % <header> <Appearance> | <clear liquid> </header>', 'label': [[18, 20, 'mean'], [21, 22, 'unit']]}",Solid content
+"{'data': 'Appearance | Clear to pale yellowish transparent liquid | Clear to pale yellowish transparent liquid <header> <Appearance> | <Clear to pale yellowish transparent liquid> | <Clear to pale yellowish transparent liquid> </header>', 'label': []}",irrelevant
+"{'data': 'Oil type | Dehydrated castor oil', 'label': []}",irrelevant
+"{'data': 'Viscosity @ 25 °C ( cPs ) | 30 - 115 | ASTM D 2196 <header> <PROPERTY> | <SPECIFICATION> | <TEST METHOD> </header>', 'label': [[12, 17, 'measuring_condition'], [20, 23, 'unit'], [28, 30, 'min'], [33, 36, 'max'], [39, 50, 'method']]}",Viscosity
+"{'data': 'RS 800 sec | 600 ~ 1000 | Below 0.03 % <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > </header>', 'label': []}",multi
+"{'data': 'NITRO CHEMICAL INDUSTRY LTD. | NITRO CHEMICAL INDUSTRY LTD.', 'label': []}",irrelevant
+"{'data': 'Vapour density | Vapour density | Vapour density | 5.7', 'label': []}",irrelevant
+"{'data': 'Direct Impact, ( ASTM D - 2794 ) | Over 80 Kg.cm', 'label': []}",irrelevant
+"{'data': 'Decomposition temp | not available', 'label': []}",irrelevant
+"{'data': 'Specific Gravity ( wet polymer ) | 1,03 Kg / dm 3', 'label': []}",irrelevant
+"{'data': 'RS 30 ~ 40 sec | 30 ~ 40 | Below 0.03 % | 100 kg <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > | <Packaging> </header>', 'label': []}",multi
+"{'data': 'Water % | ≤ 6', 'label': []}",irrelevant
+"{'data': 'Acid Value ( solids ) | 82.1 | 85 max <header> <Test> | <Value> | <Specifications> </header>', 'label': [[13, 19, 'measuring_condition'], [31, 33, 'max']]}",Acid content
+"{'data': 'Colour APHA | Hazen at 25 °C | 50 <header> <Specification> | <Unit> | <Value> </header>', 'label': []}",irrelevant
+"{'data': 'Technical Data | Technical Data', 'label': []}",irrelevant
+"{'data': '80 ℃ Thermal - resistance test（ 80 ℃耐热试验） | 80 ℃ Thermal - resistance test（ 80 ℃耐热试验） | 80 ℃ Thermal - resistance test（ 80 ℃耐热试验） | 80 ℃ Thermal - resistance test（ 80 ℃耐热试验） | Min. | | | ≥ 10 | ≥ 10 | ≥ 10 | ≥ 10 | WJ 9028 - 05 4.5.8 <header> <Item （项目）> | <Item （项目）> | <Item （项目）> | <Item （项目）> | <Unit ( 单位 ) > | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Test Method （检测方法）> </header>', 'label': []}",irrelevant
+"{'data': 'Color | Clear', 'label': []}",irrelevant
+"{'data': ' | L | L | 1 / 4 b | | — | — | — | — | — | 5.0 ~ 8.0 | <header> <Item （项目）> | <Item （项目）> | <Item （项目）> | <Item （项目）> | <Unit ( 单位 ) > | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Test Method （检测方法）> </header>', 'label': []}",irrelevant
+"{'data': 'APPEARANCE | Semi - Viscous Liquid <header> <TYPICAL PROPERTIES - The following Properties are NOT to be considered specifications.> <APPEARANCE> | <TYPICAL PROPERTIES - The following Properties are NOT to be considered specifications.> <Semi - Viscous Liquid> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity, Cochius, ( of the containing NC ) 10 % by weight ( dry basis ) - solution in 3 : 4 : 5 butanol : n - butyl acetate ( 98 / 100 % ) : toluene', 'label': [[45, 125, 'measuring_condition']]}",Viscosity
+"{'data': 'Ash % | ≤ 0.2', 'label': []}",irrelevant
+"{'data': 'Bulk Density（g/ cm³） | 1.30 ~ 1.40', 'label': []}",irrelevant
+"{'data': 'Appearance | Light yelow flakes', 'label': []}",irrelevant
+"{'data': 'Compression Set Rating | Good - Exc.', 'label': []}",irrelevant
+"{'data': 'PROPERTY | TYPICAL VALUE | SPECIFICATION | TEST METHOD <header> <PROPERTY> | <TYPICAL VALUE> | <SPECIFICATION> | <TEST METHOD> </header>', 'label': []}",header
+"{'data': 'flowcup time | 25 - 50 | <header> <Form> | <crushed or flaked> | <crushed or flaked> </header>', 'label': [[0, 12, 'measuring_condition'], [15, 17, 'min'], [20, 22, 'max']]}",Viscosity
+"{'data': 'Adhesion : | Gt = 0', 'label': []}",irrelevant
+"{'data': 'Flash Point Tag Closed Cup | 18 °C ( 64 °F )', 'label': []}",irrelevant
+"{'data': 'PHENOLIC RESIN IN SOLUTION // P 860 | PHENOLIC RESIN IN SOLUTION // P 860 | PHENOLIC RESIN IN SOLUTION // P 860', 'label': []}",irrelevant
+"{'data': '2. Appearance : | Clear', 'label': []}",irrelevant
+"{'data': 'Equivalent Weight | 122', 'label': [[20, 23, 'mean']]}",Epoxy equivalent weight
+"{'data': 'Dynamic Viscosity | DIN EN ISO 3219', 'label': [[0, 7, 'measuring_condition'], [20, 35, 'method']]}",Viscosity
+"{'data': 'Water content ( % ) | < 4 %', 'label': []}",irrelevant
+"{'data': 'Ring and Ball Softening Point | ASTM E 110 °C', 'label': []}",irrelevant
+"{'data': 'Viscosity reduction/increase of solids content | | | | | | <header> <> | <> | <> | <> | <> | <> | <> </header>', 'label': []}",multi
+"{'data': 'SOLIDS | 40 %', 'label': [[9, 11, 'mean'], [12, 13, 'unit']]}",Solid content
+"{'data': 'amine value ( f.o.d. ) | 110 - 130', 'label': []}",irrelevant
+"{'data': 'Other data', 'label': []}",irrelevant
+"{'data': 'Viscosity （粘度） | H | H | 1 / 4 b | | — | — | — | — | — | 5.0 ~ 8.0 | <header> <Item （项目）> | <Item （项目）> | <Item （项目）> | <Item （项目）> | <Unit ( 单位 ) > | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Test Method （检测方法）> </header>', 'label': [[57, 60, 'min'], [63, 66, 'max']]}",Viscosity
+"{'data': 'Mins | ≥ 15', 'label': []}",irrelevant
+"{'data': 'Property | Condition | Value | Method <header> <Property> | <Condition> | <Value> | <Method> </header>', 'label': []}",header
+"{'data': 'MOISTURE | 1.5 % | 1.5 %', 'label': []}",irrelevant
+"{'data': 'บริษัท ไนโตรเคม อุตสาหกรรม จ ากัด | บริษัท ไนโตรเคม อุตสาหกรรม จ ากัด', 'label': []}",irrelevant
+"{'data': 'rec. Amount Hardener | 49 g', 'label': []}",irrelevant
+"{'data': 'Non - Volatile Matter DIN EN ISO 3251 ( 1 h ; 120 °C ; 2 g ) | [ % ] | 54 – 56 <header> <Dynamic Viscosity DIN EN ISO 3219 - B Cone & Plate ( 23 °C ) > | < [ mPa.s ] > | < 220 - 360 > </header>', 'label': [[22, 37, 'method'], [40, 58, 'measuring_condition'], [65, 66, 'unit'], [71, 73, 'min'], [76, 78, 'max']]}",Solid content
+"{'data': 'Benzoin | Benzoin | 4,50 | 4,50 <header> <Component> | <Component> | <Weight 1 > | <Weight 2 > </header>', 'label': []}",irrelevant
+"{'data': 'Softening point ( B&R ) | °C | 70 - 80 | 70 - 80 <header> <Characteristics> | <Units> | <Specifications> <NC> | <Specifications> <TR> </header>', 'label': []}",irrelevant
+"{'data': 'Boiling Point | Initial 172 ºF ( 78 ℃ ) at 1 atm.', 'label': []}",irrelevant
+"{'data': 'RS - 20 sec | 16 ~ 24 | Below 0.03 % | 80 kg / 15 kg | Higher viscosity Painting, Coating on leather. Wax paper. Photo film. Glue agents. <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > | <Packing> | <Application> </header>', 'label': []}",multi
+"{'data': 'pH ( 25 ℃ ) | 9.5 ~ 10.5 <header> <Property va> | <value> </header>', 'label': []}",irrelevant
+"{'data': 'water | - | - <header> <Solubility> | <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'RESIN COMPOSITION: | SOLVENT COMPOSITION: XYLENE', 'label': [[42, 48, 'qualitative_value']]}",Solvent type
+"{'data': '# / gallon | 8.0 + 0.1', 'label': []}",irrelevant
+"{'data': 'Viscosity ( cps at 60 ℃ ) | 15,000 ～ 30000', 'label': [[12, 15, 'unit'], [28, 34, 'min'], [37, 42, 'max'], [16, 23, 'measuring_condition']]}",Viscosity
+"{'data': 'Coating Properties |', 'label': []}",irrelevant
+"{'data': 'Extrusion temperature: | 80 ºC', 'label': []}",irrelevant
+"{'data': 'Item | Index | Index | Index | Index | Index <header> <Item> | <Index> <Unit> | <Index> <H 1 / 4 ″a> | <Index> <H 1 / 4 ″b> | <Index> <H 1 / 4 ″c> | <Index> <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'SALES SPECIFICATION', 'label': []}",irrelevant
+"{'data': '- | hydroxyl value ( as supplied ) approx. 325 mg KOH/g', 'label': [[21, 32, 'measuring_condition'], [43, 46, 'mean'], [47, 55, 'unit']]}",Hydroxyl value
+"{'data': 'Industrial Nitrocellulose Technique Data Sheet ( 涂料硝化棉技术数据表 )', 'label': []}",irrelevant
+"{'data': 'Gardner, | 50 % 145 - max. 8', 'label': [[11, 15, 'measuring_condition'], [16, 19, 'max']]}",stray
+"{'data': 'Solids Content ( wt % ) | 72 ~ 68 %', 'label': [[17, 19, 'measuring_condition'], [20, 21, 'unit'], [26, 28, 'min'], [31, 33, 'max'], [34, 35, 'unit']]}",Solid content
+"{'data': '1. Resin Type : Polyurethane resin', 'label': []}",irrelevant
+"{'data': 'MINIMUM FILM FORMATION 3 | 1.0 ℃ <header> <TYPICAL PROPERTIES - The following Properties are NOT to be considered specifications.> <APPEARANCE> | <TYPICAL PROPERTIES - The following Properties are NOT to be considered specifications.> <Semi - Viscous Liquid> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity： 1000 - 1500 mpa·s | Fixed quantity containing：≥ 99 %', 'label': [[11, 15, 'min'], [18, 22, 'max'], [23, 28, 'unit']]}",Viscosity
+"{'data': 'Molecular Weight Appearance ( r.t. ) | 530', 'label': []}",irrelevant
+"{'data': 'Pigment ( Volume % ) | None', 'label': []}",irrelevant
+"{'data': 'Polyamidoamine | | ( f.o.d. ) 210 - 220 g/mol ( solid matter ) 105 - 110 g/mol <header> <TYPE> | <> | <H - equivalent weight> </header>', 'label': []}",irrelevant
+"{'data': 'Impact, direct : | Over 80 Kg.cm', 'label': []}",irrelevant
+"{'data': 'DOT Shipping Classification: | Non - hazardous. | Non - hazardous. <header> <DA Status:> | <UNI - REZ 6008 ROSIN ESTER meets the requirements of the Code of Federal Regulations, Title 21, under the following sections:> | <UNI - REZ 6008 ROSIN ESTER meets the requirements of the Code of Federal Regulations, Title 21, under the following sections:> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance | Pale granules <header> <Appearance> | <Pale granules> </header>', 'label': []}",irrelevant
+"{'data': 'FORM OF DELIVERY ( f.o.d. ) 50 % in water ( 50 WA ) | FORM OF DELIVERY ( f.o.d. ) 50 % in water ( 50 WA ) | <header> <TYPE> | <> | <H - equivalent weight> </header>', 'label': [[82, 105, 'measuring_condition'], [28, 51, 'measuring_condition']]}",Solvent type
+"{'data': '4. | Moisture ( % ) | 3.5 Max <header> <NO.> | <TEST> | <SPECIFICATION> </header>', 'label': []}",irrelevant
+"{'data': 'Gloss 60 ° ( on glass, 40 / 50 µ ) | G.U. | ASTM D 523 | ~ 4 - 6', 'label': []}",irrelevant
+"{'data': 'Acid value ( mg KOH/g ) | 28 - 32 <header> <Item> | <Limits> </header>', 'label': [[13, 21, 'unit'], [26, 28, 'min'], [31, 33, 'max']]}",Acid content
+"{'data': 'Description: | White/yellow to brown', 'label': []}",irrelevant
+"{'data': 'Composition | Hight molecular polyester resin', 'label': []}",irrelevant
+"{'data': 'Specific weight | kg/m³ 1,259', 'label': []}",irrelevant
+"{'data': 'Varieties content | 0.90 15 ± 1.5 %', 'label': [[20, 24, 'unclear_value'], [25, 27, 'mean'], [30, 33, 'std'], [34, 35, 'unit']]}",irrelevant
+"{'data': 'viscosity | [ mPa.s ] 1000 - 1400', 'label': [[14, 19, 'unit'], [22, 26, 'min'], [29, 33, 'max']]}",Viscosity
+"{'data': 'Shipping Weight ( approx. ) | 670 - 700 g/l ( 41.9 - 43.8 lb/ft 3 )', 'label': []}",irrelevant
+"{'data': ' ( 23 °C )', 'label': []}",stray
+"{'data': 'Viscosity, Gardner 4 ( 60 % in toluene ) | N', 'label': [[11, 40, 'measuring_condition'], [43, 44, 'mean']]}",Viscosity
+"{'data': 'Water content | < 0.3 | % by wt. | DIN 51 777 <header> <Density> | <approx. 1.5 > | <g/ml> | <DIN 53 479 > </header>', 'label': []}",irrelevant
+"{'data': 'TEST ITEM AND CONDITION | LIMIT | UNIT | METHOD | N <header> <TEST ITEM AND CONDITION> | <LIMIT> | <UNIT> | <METHOD> | <N> </header>', 'label': []}",header
+"{'data': 'Ignition point（发火点） | Ignition point（发火点） | Ignition point（发火点） | Ignition point（发火点） | ℃ | | | ≥ 180 | ≥ 180 | | | WJ 9028 - 05 4.5.9 <header> <Item （项目）> | <Item （项目）> | <Item （项目）> | <Item （项目）> | <Unit ( 单位 ) > | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Test Method （检测方法）> </header>', 'label': []}",irrelevant
+"{'data': 'Refractive Index ( ND 20 ) | 1.4765 - 1.4810 | 1.4787 | GB 8234 - 87 <header> <级别指标 Item> | <一级蓖麻油> <Specification> | <一级蓖麻油> <Test value> | <执行标准> <Test value> </header>', 'label': []}",irrelevant
+"{'data': '- 18,0 | NC - 3.1', 'label': []}",irrelevant
+"{'data': '* Toluene ( % by weight ) | 40', 'label': []}",irrelevant
+"{'data': 'Property / Characteristic | Unit | Limit or Range | Method of Determination <header> <Property / Characteristic> | <Unit> | <Limit or Range> | <Method of Determination> </header>', 'label': []}",header
+"{'data': 'Solids Content ( wt % ) | 72 ~ 68 %', 'label': [[17, 19, 'measuring_condition'], [20, 21, 'unit'], [26, 28, 'min'], [31, 33, 'max'], [34, 35, 'unit']]}",Solid content
+"{'data': 'Nitrogen content of the containing NC:', 'label': []}",irrelevant
+"{'data': ' | | | | | | | | | <header> <> | <> < 0 > | <> < 1 > | <> < 2 > | <> < 3 > | <> < 3 > | <> | <> | <> < 4 > | <> < 5 > </header>', 'label': []}",irrelevant
+"{'data': 'Appearance | Pale granulates | - | - <header> <Specifications> | <Value> | <Unit> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Solubility / thinnability | SiliXan W 120 is dilutable with water, water - miscible alcohols ( ethanol, isopropanol ) and a couple of standard glycol ether ( butyl glycol, 1 - methoxy - 2 - propanol, dipropylene glycol monomethyl ether ) . <header> <Property> | <Value Unit of measurement Testmethod> </header>', 'label': [[28, 117, 'qualitative_value']]}",Water solubility
+"{'data': ': LOTNO | BF 40 6 0 8 2 0', 'label': []}",irrelevant
+"{'data': 'Extruder | Twin screw <header> <> | <Extrusion> </header>', 'label': []}",irrelevant
+"{'data': 'Brookfield Viscosity ( CAP 2000, 750 rpm, at 200 C, cps ) O | 1500 - 2500 <header> <Appearance ( visual ) > | <Solid Clear Granules> </header>', 'label': [[0, 10, 'measuring_condition'], [23, 31, 'method'], [62, 66, 'min'], [69, 73, 'max'], [33, 50, 'measuring_condition'], [52, 55, 'unit']]}",Viscosity
+"{'data': 'TPGDA | + | + <header> <Solubility> | <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'TM | D 5965', 'label': []}",irrelevant
+"{'data': 'Density ( Liquids ) DIN 53217 T 4', 'label': []}",irrelevant
+"{'data': '• | ( * ) % Formaldehyde | max 0.5 %', 'label': []}",irrelevant
+"{'data': 'β - Hydroxylalkylamide ( 2 ) | 19 | 44 | 63 <header> <REAFREE 8304 - T> | < 608 > | < - - - > | < - - - > </header>', 'label': [[31, 33, 'mean'], [36, 38, 'mean'], [41, 43, 'mean']]}",irrelevant
+"{'data': 'Basonat® 100, NCO % | 22', 'label': []}",irrelevant
+"{'data': 'alcohol | insoluble | insoluble |', 'label': []}",irrelevant
+"{'data': '785 - 2, Wonsi - Dong, Danwon - Gu, Ansan - City, | FAX | : + 82 - 31 - 494 - 9061', 'label': []}",irrelevant
+"{'data': '2 Butyl acetate | 67.00 %', 'label': []}",irrelevant
+"{'data': 'RS 15 ~ 20 sec | 15 ~ 20 | Below 0.03 % | 100 kg <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > | <Packaging> </header>', 'label': []}",multi
+"{'data': 'Freeze and thaw resistance | No chemical change', 'label': []}",irrelevant
+"{'data': 'Oil type: | Drying fatty acids', 'label': []}",irrelevant
+"{'data': '® MODAFLOW Powder 6000 | 0.7 <header> <Component> | <Weight ( % ) > </header>', 'label': []}",irrelevant
+"{'data': 'n - Butanol | > 20 g | MEK | > 20 g <header> <Solvent> | <Grams> | <Solvent> | <Grams> </header>', 'label': []}",stray
+"{'data': 'Composition: |', 'label': []}",irrelevant
+"{'data': 'Solid content | % | 7 ~ 9 <header> <ltem> | <Unit> | <Spec> </header>', 'label': [[16, 17, 'unit'], [20, 21, 'min'], [24, 25, 'max']]}",Solid content
+"{'data': 'Density at 20 °C approx. [ g/cm 3 ] | 1.00', 'label': []}",irrelevant
+"{'data': 'OH Value | % | - <header> <Item> | <Unit> | <Spec> </header>', 'label': [[11, 12, 'unit']]}",Hydroxyl value
+"{'data': ' | Unit | Value | Test method <header> <> | <Unit> | <Value> | <Test method> </header>', 'label': []}",header
+"{'data': '4. Uses: | -', 'label': []}",irrelevant
+"{'data': 'RS 800 sec | 600 ~ 1000 | Below 0.03 % <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > </header>', 'label': []}",multi
+"{'data': '+ POWDER COATINGS | @ 005', 'label': []}",irrelevant
+"{'data': 'Wt/Vol | 1.1 kg/L ( 9.15 lb/gal ) <header> <Property> | <Typical Value, Units> </header>', 'label': []}",irrelevant
+"{'data': 'OH Value ( mgKOH/g as solid ) | 46 | Tg ( °C ) | 50 <header> <Appearance> | <Light yelow flakes> | < % of Solids> | < 99 > </header>', 'label': [[11, 18, 'unit'], [19, 27, 'measuring_condition'], [32, 34, 'mean'], [42, 44, 'unit'], [49, 51, 'mean']]}",multi
+"{'data': ' | 0 | 1 | 2 | 3 | 3 | | | 4 | 5 <header> <> | <> < 0 > | <> < 1 > | <> < 2 > | <> < 3 > | <> < 3 > | <> | <> | <> < 4 > | <> < 5 > </header>', 'label': []}",irrelevant
+"{'data': ' | L | L | 1 / 4 a | | — | — | — | — | — | 3.1 ~ 4.9 | <header> <Item （项目）> | <Item （项目）> | <Item （项目）> | <Item （项目）> | <Unit ( 单位 ) > | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Test Method （检测方法）> </header>', 'label': []}",irrelevant
+"{'data': 'RS 1200 sec | 1000 ~ 1500 | Below 0.03 % | 100 kg <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > | <Packaging> </header>', 'label': []}",multi
+"{'data': 'Fineness/ ( um ) | 10 max', 'label': []}",irrelevant
+"{'data': '21 CFR 175.125 | | 21 CFR 177.1200 <header> <Packaging Package> | <Form> | <Net Weight> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance | Appearance | Appearance | L | — | 白 | 白 | 白 | 白 | 色 状 状 | 色 状 状 | Visible <header> <Item （项目）> | <Item （项目）> | <Item （项目）> | <Item （项目）> | <Unit ( 单位 ) > | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Test Method （检测方法）> </header>', 'label': []}",irrelevant
+"{'data': 'Supply form | - | white powder | Visual <header> <Property> | <Condition> | <Value> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Acid Number ( mg KOH/g ) | Titrimetric | Titrimetric | D 974 | < 0.05 | < 0.05 <header> <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > </header>', 'label': [[14, 22, 'unit'], [27, 38, 'measuring_condition'], [41, 52, 'measuring_condition'], [55, 60, 'method'], [65, 69, 'max'], [74, 78, 'max']]}",Acid content
+"{'data': 'Uses | Binder for, among other things, anticorrosion - , concrete floor coatings and roadmarking paints <header> <Type> | <Chlorinated rubber> </header>', 'label': []}",irrelevant
+"{'data': 'Acid value | mg KOH/g | 220 | ASTM D 3644 - 06 <header> <> | <Unit> | <Value> | <Test method> </header>', 'label': [[13, 21, 'unit'], [24, 27, 'mean'], [30, 46, 'method']]}",Acid content
+"{'data': 'Viscosity reduction/increase of solids content | | | | | | <header> <> | <> < 0 > | <> < 1 > | <> < 2 > | <> < 3 > | <> < 4 5 > | <> < 4 5 > </header>', 'label': []}",multi
+"{'data': 'Appearance | White', 'label': []}",irrelevant
+"{'data': 'Non - volatiles | % min | 97 | Internal procedure <header> <> | <Unit> | <Value> | <Test method> </header>', 'label': [[18, 19, 'unit'], [26, 28, 'mean'], [31, 49, 'measuring_condition']]}",Solid content
+"{'data': 'Solids Content ( % ) | 59 - 61', 'label': [[17, 18, 'unit'], [23, 25, 'min'], [28, 30, 'max']]}",Solid content
+"{'data': 'Viscosity | ( KSM 2121 ) | Z 1 ~Z 4 <header> <Product quality :> <Appearance> | <Product quality :> < ( KSM 2051 ) > | <Product quality :> <Clear> </header>', 'label': [[14, 22, 'method'], [27, 30, 'min'], [32, 35, 'max']]}",Viscosity
+"{'data': 'Hydroxyl number DIN 53240 | approx. 150 | mg KOH / g <header> <Form> | < 100 % , viscous liquid> | < 100 % , viscous liquid> </header>', 'label': [[16, 25, 'method'], [36, 39, 'mean'], [42, 52, 'unit']]}",Hydroxyl value
+"{'data': 'Viscosity ( G.H. 25 ℃ ) : | Y～Z 2', 'label': [[12, 21, 'measuring_condition'], [28, 29, 'min'], [30, 33, 'max']]}",Viscosity
+"{'data': 'VOLATILE SOLVENT | Ｘｙｌｅｎｅ Ｅthylbenzene <header> <APPEARANCE> | <Dark Brown Liquid> </header>', 'label': [[0, 8, 'measuring_condition'], [19, 38, 'qualitative_value']]}",Solvent type
+"{'data': 'Glass Transition Temperature: | Approx. 57 o C ( According to DSC )', 'label': [[40, 42, 'mean'], [43, 46, 'unit'], [49, 65, 'measuring_condition']]}",Glass transition temperature
+"{'data': 'density | [ g / ml ] 0,96', 'label': []}",irrelevant
+"{'data': 'FORM OF DELIVERY ( f.o.d. ) 40 % in water ( 40 WA ) Aqueous, solvent free, polyester - based polyurethane dispersion which contains hydroxy groups | FORM OF DELIVERY ( f.o.d. ) 40 % in water ( 40 WA ) Aqueous, solvent free, polyester - based polyurethane dispersion which contains hydroxy groups | salt approx. 1.6 % N,N - dimethylethanolamine, as <header> <PRELIMINARY PRODUCT INFORMATION> <TYPE> | <PRELIMINARY PRODUCT INFORMATION> <TYPE> | <DEVELOPMENT PRODUCT> <This product is serving for trial purposes only. Deviations which might occur during transfer into manufacturing in a commercial scale are possible and do not constitute any material defect.> </header>', 'label': [[28, 146, 'qualitative_value']]}",Solvent type
+"{'data': '3. Specific Gravity : 0.9', 'label': []}",irrelevant
+"{'data': 'Appearance | Clear to translucent liquid', 'label': []}",irrelevant
+"{'data': 'Surface tension ( mN/m ) 25 ℃ | Surface tension ( mN/m ) 25 ℃ | Surface tension ( mN/m ) 25 ℃ | 31.5', 'label': []}",irrelevant
+"{'data': 'Acid Value, mg KOH/g | 65 – 75', 'label': [[12, 20, 'unit'], [23, 25, 'min'], [28, 30, 'max']]}",Acid content
+"{'data': 'Pigment ( wt % ) | None', 'label': []}",irrelevant
+"{'data': 'Solvent | : Water | | | <header> <UV Curable PU Dispersion> | <Neptune> | <Date : 16.1.19 > | <Date : 16.1.19 > | <Date : 16.1.19 > </header>', 'label': [[12, 17, 'qualitative_value']]}",Solvent type
+"{'data': '50 % white spirit | max. 10 | <header> <Form> | < 100 % , viscous liquid> | < 100 % , viscous liquid> </header>', 'label': []}",irrelevant
+"{'data': '100 % Modulus ( psi ) / ( MPa ) | 300 / 2', 'label': []}",irrelevant
+"{'data': 'Specification：', 'label': []}",irrelevant
+"{'data': 'Viscosity ( sec ) | 3.0 ~ 8.9', 'label': [[12, 15, 'unit'], [20, 23, 'min'], [26, 29, 'max']]}",Viscosity
+"{'data': 'Ash | % | ≤ 0.2 | WJ 9028 - 05 4.5.10 <header> <Item> | <Index> <Unit> | <Index> <H 5 ”> | <Index> <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity ( Gardner - Holdt at 25 °C ) | 51 7 max. -', 'label': [[12, 36, 'measuring_condition'], [41, 45, 'unclear_value']]}",Viscosity
+"{'data': 'Appearance | Pale granules <header> <Item> | <Limits> </header>', 'label': []}",irrelevant
+"{'data': 'RS 60 ~ 80 sec | 60 ~ 80 | Below 0.03 % <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > </header>', 'label': []}",multi
+"{'data': 'Specific Gravity | 1.58 +/ - 0.05 <header> <Compound> | <EPDM ( Ethylene - Propylene Diene Modified ) > </header>', 'label': []}",irrelevant
+"{'data': 'Iodine Colour Number DIN 6162 iodine colour number | <= 3 | <= 3 | has a processing time of approx. 4 hours at 23 °C. <header> <TYPE> | <> | <> | <SPECIAL PRODUCT> </header>', 'label': []}",irrelevant
+"{'data': 'Solvent solubility | Acetone | > 50 <header> <> | <Appearance> | <Off - white flake> </header>', 'label': []}",irrelevant
+"{'data': '% Less Than 40 Microns | DuPont Method | % | > 96 <header> <Physical Properties> | <Test Method> | <Unit> | <Value> </header>', 'label': []}",irrelevant
+"{'data': 'Upper Limit | 1.02', 'label': []}",irrelevant
+"{'data': 'Color | ≦ 1', 'label': []}",irrelevant
+"{'data': 'Tg ( ℃ ) | - | DMA <header> <> | <CHTU - 2611 > | <Test Method> </header>', 'label': [[5, 6, 'unit'], [15, 18, 'method']]}",Glass transition temperature
+"{'data': 'NITROCELLULOSE SOLUTION | NITROCELLULOSE SOLUTION', 'label': []}",irrelevant
+"{'data': 'Softening point ( ring and ball ) | 75 +/ - 2 Deg.C', 'label': []}",irrelevant
+"{'data': 'dynamic viscosity | 42000 - 48000 | mPa·s <header> <Form> | < 100 % , viscous liquid> | < 100 % , viscous liquid> </header>', 'label': [[0, 7, 'measuring_condition'], [20, 25, 'min'], [28, 33, 'max'], [36, 41, 'unit']]}",Viscosity
+"{'data': 'Water | % | ≤ 6 | KARL FICHER <header> <Item> | <Index> <Unit> | <Index> <H 5 ”EA> | <Index> <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Application voltage: | 60 - 80 Kv', 'label': []}",irrelevant
+"{'data': 'iodine colour number | <= 3', 'label': []}",irrelevant
+"{'data': '0090 Flash Point, closed cup | °C ( °F ) | 138 ( 280 ) <header> <CTM 1 Property> | <Unit> | <Result> </header>', 'label': []}",irrelevant
+"{'data': 'N.V. 64 - 66 %', 'label': [[5, 7, 'min'], [10, 12, 'max'], [13, 14, 'unit']]}",Solid content
+"{'data': 'Item | GX - 422 | Test Method <header> <Item> | <GX - 422 > | <Test Method> </header>', 'label': []}",header
+"{'data': 'Butanol : Butylacetat ( 98 / 100 % ) : Toluol | | | | <header> <N 2 - Gehalt der enthaltenen NC:> | < 11,8 > | < - 12,3 > | <> < % > | <Wolff - Prüfmethode> <NC - 1.3 > </header>', 'label': []}",stray
+"{'data': 'N determination, NIR spectroscopic | 11.8 - 12.3 | % | NC - 1.3 | <header> <TEST ITEM AND CONDITION> | <LIMIT> | <UNIT> | <METHOD> | <N> </header>', 'label': []}",irrelevant
+"{'data': 'Carbodiimide equivalent weight | 300 ～ 325 <header> <Appearance> | <Milky white liquid> </header>', 'label': []}",irrelevant
+"{'data': 'Other | Glass Transition T, ºC ( DSC - Tg ) | approx 61 <header> <> | <Appearance> | <Pale granules> </header>', 'label': [[28, 30, 'unit'], [33, 41, 'method'], [53, 55, 'mean']]}",Glass transition temperature
+"{'data': 'Index Type | solid content | Viscosity （mpa.s） | Water | Color | Appearance <header> <Index Type> | <solid content> | <Viscosity （mpa.s）> | <Water> | <Color> | <Appearance> </header>', 'label': []}",multi_header
+"{'data': 'Storage | : Protect from extremes of temperature. Store out of direct sunlight and do not allow to freeze. | : Protect from extremes of temperature. Store out of direct sunlight and do not allow to freeze. | : Protect from extremes of temperature. Store out of direct sunlight and do not allow to freeze. | : Protect from extremes of temperature. Store out of direct sunlight and do not allow to freeze. <header> <UV Curable PU Dispersion> | <Neptune> | <Date : 16.1.19 > | <Date : 16.1.19 > | <Date : 16.1.19 > </header>', 'label': []}",irrelevant
+"{'data': 'Physical Constants | | | | <header> <UV Curable PU Dispersion> | <Neptune> | <Date : 16.1.19 > | <Date : 16.1.19 > | <Date : 16.1.19 > </header>', 'label': []}",irrelevant
+"{'data': 'PRODUCT DATA | | | SPECIAL PROPERTIES AND USE <header> <TYPE> | <> | <> | <SPECIAL PRODUCT> </header>', 'label': []}",irrelevant
+"{'data': 'Color Pt - Co | 200 max.', 'label': []}",irrelevant
+"{'data': 'Toluene content | ≤ 2.5 | % by wt. | 2208 - 0005601 - 14 D <header> <Form supplied> <Specification Property> | <Fine powder> <Value> | <Fine powder> <Unit of measurement> | <Fine powder> <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity @ 20 °C ( mPa.s ) | 10,000', 'label': [[12, 17, 'measuring_condition'], [20, 25, 'unit'], [30, 36, 'mean']]}",Viscosity
+"{'data': 'Odor | None', 'label': []}",irrelevant
+"{'data': 'Converted vlicosity | Converted vlicosity | | Pas$ | | | | <header> <INSPECTION ITEM > | <INSPECTION ITEM > | <UNIT> | <ANALYTICAL VALUE> | <STAND> <MIN.> | <SPEC.> <> | <SPEC.> <> | <SPEC.> <MAX.> </header>', 'label': [[0, 9, 'measuring_condition'], [22, 31, 'measuring_condition']]}",Viscosity
+"{'data': 'Water content | % | 5.0 max. ( for IPA 4.0 max. ) | API 3 / 1460 / 7 / 1.7 <header> <Property / Characteristic> | <Unit> | <Limit or Range> | <Method of Determination> </header>', 'label': []}",irrelevant
+"{'data': 'RS 2000 sec | 1700 ~ 2300 | Below 0.03 % <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > </header>', 'label': []}",multi
+"{'data': 'Solvent composition: butyl acetate', 'label': [[21, 34, 'qualitative_value']]}",Solvent type
+"{'data': 'TEST | Specification | Test Method <header> <TEST> | <Specification> | <Test Method> </header>', 'label': []}",header
+"{'data': 'Resin Molecular Weight, Mn | 3800', 'label': []}",irrelevant
+"{'data': 'Viscosity | < 100 | <header> <Property> <Appearance> | <Spec.> <Slight Yellow - Liquid> | <Remark> <Slight Yellow - Liquid> </header>', 'label': [[14, 17, 'max']]}",Viscosity
+"{'data': 'VOC ( % ) | 6,3', 'label': []}",irrelevant
+"{'data': 'Acidity % ( as H 2 SO 4 ) | 0.065 Max.', 'label': [[8, 9, 'unit'], [12, 23, 'measuring_condition'], [28, 33, 'max']]}",Acid content
+"{'data': 'Solid ( % ) | 30', 'label': [[8, 9, 'unit'], [14, 16, 'mean']]}",Solid content
+"{'data': '3. | B & J stability test @ 132 0 C + 0.2 0 C mg of Nitrogen per gram of NC | 1.5 Max. <header> <NO.> | <TEST> | <SPECIFICATION> </header>', 'label': []}",irrelevant
+"{'data': 'Typical Properties', 'label': []}",irrelevant
+"{'data': 'Clear/opalescent max 1', 'label': []}",irrelevant
+"{'data': 'Tensile strength¹ ( N/ mm² ) | n.a. n.a.', 'label': []}",irrelevant
+"{'data': 'Colour Gardner | | 0 - 2', 'label': []}",irrelevant
+"{'data': 'Glass Transition Temperature, Tg ( o C ) | Differential Scanning Calorimetry | Differential Scanning Calorimetry | n/a | - | - <header> <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > </header>', 'label': [[35, 38, 'unit']]}",Glass transition temperature
+"{'data': '1. Nitrogen Content, % 11.5 - 12.2', 'label': []}",irrelevant
+"{'data': '60 % in methyl ethyl ketone ( 60 MEK ) ( containing also 6 % toluene ) | | | H - equivalent weight ( solid matter ) 192 - 210 g/mol <header> <TYPE> | <> | <> | <SPECIAL PRODUCT> </header>', 'label': []}",multi
+"{'data': ' | BURNOCK WKC - 593 - GZS | BURNOCK WD - 551 | BURNOCK DNW - 5500 <header> <> | <BURNOCK WKC - 593 - GZS> | <BURNOCK WD - 551 > | <BURNOCK DNW - 5500 > </header>', 'label': []}",irrelevant
+"{'data': 'RS 500 sec | 450 ~ 550 | Below 0.03 % | 100 kg <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > | <Packaging> </header>', 'label': []}",multi
+"{'data': '3.Viscosity | | | 4 TO 12 | | Poise/ 25 ºC | PCPL/FTM/ 022 <header> <PROPERTY> | <> | <> | <LIMIT> | <> | <UNITS> | <TEST METHOD> </header>', 'label': [[18, 19, 'min'], [23, 25, 'max'], [30, 35, 'unit'], [37, 42, 'measuring_condition'], [45, 58, 'method']]}",Viscosity
+"{'data': '粘度（格式管 S,25 ℃,60 % ） | 65 - 145', 'label': []}",irrelevant
+"{'data': 'Resin Type : | Acrylic resin', 'label': []}",irrelevant
+"{'data': 'Product | Typical in % <header> <Product> | <Typical in % > </header>', 'label': []}",irrelevant
+"{'data': 'point, | 95 - 115 °C', 'label': []}",irrelevant
+"{'data': 'Deflagration Temperature ( °C ) | ≧ 180 ℃', 'label': []}",irrelevant
+"{'data': 'Not continually determined: | | <header> <Dynamic Viscosity DIN 53177 Cone & Plate ( 23 °C ) > | < [ mPa.s ] > | < 300 - 500 > </header>', 'label': []}",irrelevant
+"{'data': 'Molecular weight | g/mole | 7000 | Internal procedure <header> <> | <Unit> | <Value> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': 'Shrinkage Factor | - | Electronic Densimeter ( % ) <header> <> | <CHTU - 2611 > | <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'RS 1 / 4 sec | 3.0 ~ 5.9 | Below 0.04 % <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > </header>', 'label': []}",multi
+"{'data': 'Color | ≤ 2', 'label': []}",irrelevant
+"{'data': '* OH % | 2.52 <header> <PROPERTIES> <* Appearance> | <PROPERTIES> <Clear liquid> </header>', 'label': [[9, 13, 'mean'], [5, 6, 'unit']]}",Hydroxyl value
+"{'data': 'Review 000 | | | <header> <TYPE DELIVERY FORM> | <Air - drying short - oil alkyd resin. 65 % in BUTYL ACETATE> | <Air - drying short - oil alkyd resin. 65 % in BUTYL ACETATE> | <Air - drying short - oil alkyd resin. 65 % in BUTYL ACETATE> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity ( 25 °C ) | Pa*s | max 1.3 <header> <Appearance> | <> | <brown liquid> </header>', 'label': [[12, 17, 'measuring_condition'], [22, 26, 'unit'], [33, 36, 'max']]}",Viscosity
+"{'data': 'Stability | 30 minutes ( min. ) | PO 4930 <header> <Analysis> | <Specifications> | <Methods of CNQB> </header>', 'label': []}",irrelevant
+"{'data': 'PHYSICAL CONSTANTS | Oil type | Z 1 I Z 2', 'label': []}",irrelevant
+"{'data': 'Viscosity @ 200 °C, ( mPa.s ) | 4000 - 6000 <header> <Item> | <Limits> </header>', 'label': [[12, 18, 'measuring_condition'], [22, 27, 'unit'], [32, 36, 'min'], [39, 43, 'max']]}",Viscosity
+"{'data': 'PHYSICAL CONSTANTS | Colour Gardner - Hellige | 51', 'label': []}",irrelevant
+"{'data': 'Formula 7 • Styrene/Acrylic Clear Lacquer – 35 % Solids', 'label': [[12, 19, 'qualitative_value']]}",multi
+"{'data': 'Density ( 20 °C ) ( solution ) | 1.08 | g/cm 3 | DIN EN ISO 1183', 'label': []}",irrelevant
+"{'data': 'Formaldehyde Content ( Sulfite ) DIN EN ISO 11402 | [ % ] | < 2,00 <header> <Dynamic Viscosity DIN EN ISO 3219 - B Cone & Plate ( 23 °C ) > | < [ mPa.s ] > | < 220 - 360 > </header>', 'label': []}",irrelevant
+"{'data': 'Bubble Tube Visc. | I', 'label': [[0, 11, 'measuring_condition']]}",Viscosity
+"{'data': 'Density, lbs/U.S. gal | 8.9 <header> <Appearance> | <Pale Amber> </header>', 'label': []}",irrelevant
+"{'data': '3 IPA | 15.00 %', 'label': []}",irrelevant
+"{'data': 'Tack - free drying ( Film applicator 100 microns, dilution 2 : 1 thinner 2 ** )', 'label': []}",irrelevant
+"{'data': 'Color ( Hazen ) | ≤ 250 | | M 017 - EN 1557 <header> <Specification Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': '• Color stable in application environment • Good blanching resistance | • Good chargeability', 'label': []}",irrelevant
+"{'data': 'Typical property values are not intended for use in the preparation of specifications. Please contact Wacker Silicones for assistance and recommendations before writing specifications on this product.', 'label': []}",irrelevant
+"{'data': 'Dynamic Viscosity ( Ubbelohde ) DIN 53177 dynamic viscosity ( 23 °C ) | [ mPa*s ] | 150 - 500 <header> <Dynamic Viscosity ( Ubbelohde ) DIN 53177 dynamic viscosity ( 23 °C ) > | < [ mPa*s ] > | < 150 - 500 > </header>', 'label': [[0, 7, 'measuring_condition'], [20, 29, 'measuring_condition'], [32, 41, 'method'], [42, 49, 'measuring_condition'], [62, 67, 'measuring_condition'], [74, 79, 'unit'], [84, 87, 'min'], [90, 93, 'max']]}",Viscosity
+"{'data': 'Appearance | White soft', 'label': []}",irrelevant
+"{'data': 'Solid | ( KSM 2113 ) | > 90 % <header> <Product quality :> <Appearance> | <Product quality :> < ( KSM 2051 ) > | <Product quality :> <Clear> </header>', 'label': [[10, 18, 'method'], [25, 27, 'min'], [28, 29, 'unit']]}",Solid content
+"{'data': '4 ) Flow control agent | 4 ) Flow control agent | 12 | 12 <header> <Component> | <Component> | <Weight 1 > | <Weight 2 > </header>', 'label': []}",irrelevant
+"{'data': 'WEIGHT PER LITRE | First of all set the temperature of sample to 25 DC .Then, Tare the weight of weight per litre cup and its lid to zero on weighing balance. After that fill the Cup with preset temperature sample and place the lid on to the cup until it was properly closed and extra sample also flow from the hole of the cup. Wash the cup with the help of rag so that extra sample pored from the lid of cup completely removed. The Weigh the Cup filled with sample and Note the reading on weighing scale. | 0.98 | 1.02 <header> <Test Name> | <Test Method> | <Lower Limit> | <Upper Limit> </header>', 'label': []}",irrelevant
+"{'data': 'The date of xAmination | | June/ 10 / 2014 | | | <header> <INSPECTION ITEM > | <UNIT> | <ANALYTICAL VALUE> | <STAND. SPEC.> <MIN.> | <STAND. SPEC.> <> | <STAND. SPEC.> <MAX.> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity, Cochius, ( of the containing NC ) 5 % by weight ( dry basis ) - solution in 3 : 4 : 5 | 33,0 | - | 38,0 | S | NC - 3.1 <header> <Nitrogen content of the containing NC:> | <> < 11,8 > | <> < - > | <> < 12,3 > | <Wolff testing method> < % > | <Wolff testing method> <NC - 1.3 > </header>', 'label': [[45, 96, 'measuring_condition'], [99, 103, 'min'], [110, 114, 'max'], [117, 118, 'unit'], [121, 129, 'method']]}",Viscosity
+"{'data': 'Viscosity | 1000 - 1500 mpa·s', 'label': [[12, 16, 'min'], [19, 23, 'max'], [24, 29, 'unit']]}",Viscosity
+"{'data': 'Solids content ( Volumn % ) | 50 ~ 60 %', 'label': [[17, 23, 'measuring_condition'], [24, 25, 'unit'], [30, 32, 'min'], [35, 37, 'max'], [38, 39, 'unit']]}",Solid content
+"{'data': 'Polymer | : UV Curable Polyurethane. | | | <header> <UV Curable PU Dispersion> | <Neptune> | <Date : 16.1.19 > | <Date : 16.1.19 > | <Date : 16.1.19 > </header>', 'label': []}",irrelevant
+"{'data': 'Color, USRG Rosin Scale | | XB <header> <Property> | <Test Method> | <Typical Value, Units> </header>', 'label': []}",irrelevant
+"{'data': 'Water content | < 0.3 | % by wt. | DIN 51 777 <header> <Density> | <approx. 1.5 > | <g/ml> | <DIN 53 479 > </header>', 'label': []}",irrelevant
+"{'data': 'Abel 80 ℃ | Mins | ≥ 15 | ≥ 15 | WJ 9028 - 05 4.5.8 <header> <Item> | <Index> <Unit> | <Index> <H 1 / 8 ″a> | <Index> <H 1 / 8 ″b> | <Index> <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Acid number | approx. 8.5 | mg KOH/g | DIN EN ISO 2114 <header> <Other data* Property Value> | <Other data* Property Value> | <Unit of measurement> | <Method> </header>', 'label': [[22, 25, 'mean'], [28, 36, 'unit'], [39, 54, 'method']]}",Acid content
+"{'data': 'Formula 8 • UCAR® 430 Latex Styrene/Acrylic Clear Lacquer – 26 % Solids', 'label': [[28, 35, 'qualitative_value']]}",multi
+"{'data': 'Amine number | [ mg KOH/g ] | 95 - 105', 'label': []}",irrelevant
+"{'data': 'density | [ g/cm³ ] 1,08', 'label': []}",irrelevant
+"{'data': 'Appearance | White non - regular flake', 'label': []}",irrelevant
+"{'data': 'Especificaciones Propiedades | Valores | Unidades | Método | Método <header> <Especificaciones Propiedades> <> | <Valores> <> | <Unidades> <> | <Método> <* SBM> | <Método> <ISO> </header>', 'label': []}",irrelevant
+"{'data': ' ( 1 g / 1 h/ 120 ℃/ 70 mm glass )', 'label': []}",irrelevant
+"{'data': 'Resin Type : | Polyurethane resin', 'label': []}",irrelevant
+"{'data': 'FREEZE/THAW STABILITY STORAGE 4 | Minimum 5 cycles ( minus 18 ℃ to plus 25 ℃ ) Store above 15 ℃ to ensure a useful shelf life of at least 12 months <header> <TYPICAL PROPERTIES - The following Properties are NOT to be considered specifications.> <APPEARANCE> | <TYPICAL PROPERTIES - The following Properties are NOT to be considered specifications.> <Semi - Viscous Liquid> </header>', 'label': []}",irrelevant
+"{'data': 'TYPICAL PROPERTIES - The following Properties are NOT to be considered specifications. | TYPICAL PROPERTIES - The following Properties are NOT to be considered specifications.', 'label': []}",irrelevant
+"{'data': 'Viscosity at 23 °C, 18.5 % in toluene | 20 ± 4 | mPa·s | DIN 53 015 <header> <Specification Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[40, 42, 'mean'], [45, 46, 'std'], [49, 54, 'unit'], [57, 67, 'method'], [10, 37, 'measuring_condition']]}",Viscosity
+"{'data': 'Unipol - 811 is a polymer type linear polyester resin synthesized by esterification of polyfunctional alcohols and polybasic acids as raw materials. In particular, the coating material made of Unipol - 811 is a synthetic resin for hardness, gloss and excellent paint of a coating film, and the above ester resin is excellent in water resistance, chemical resistance and durability of a paint when used in combination with a resin capable of crosslinking reaction such as a urethane curing agent and a melamine resin Polymer linear polyester resin that can make functional paint film', 'label': []}",irrelevant
+"{'data': 'ZHEJIANG GUANGHUA NEW MATERIAL CO.,LTD | Tel. 86 - 573 - 87771555 | Tel. 86 - 573 - 87771188 <header> <> | <Customer Service> | <Technical Service> </header>', 'label': []}",irrelevant
+"{'data': 'Item | Typical value <header> <Item> | <Typical value> </header>', 'label': []}",header
+"{'data': 'Hydroxyl number, mg KOH/g | 166.2 - 179.5 | 8444 <header> <Product Specifications> | <Value> | <Test Method> </header>', 'label': [[17, 25, 'unit'], [28, 33, 'min'], [36, 41, 'max'], [44, 48, 'method']]}",Hydroxyl value
+"{'data': 'Upper / lower flammability | not applicable', 'label': []}",irrelevant
+"{'data': 'Cas # | 25038 - 36 - 2', 'label': []}",irrelevant
+"{'data': 'DESCRIPTION | White to cream coloured granules. Free from foreign matter | White to cream coloured granules. Free from foreign matter', 'label': []}",irrelevant
+"{'data': ' | 175.300 Resinous and Polymeric Coatings 176.210 Defoaming Agents Used in the Manufacture of Paper and Paperboard | 175.300 Resinous and Polymeric Coatings 176.210 Defoaming Agents Used in the Manufacture of Paper and Paperboard <header> <DA Status:> | <UNI - REZ 6008 ROSIN ESTER meets the requirements of the Code of Federal Regulations, Title 21, under the following sections:> | <UNI - REZ 6008 ROSIN ESTER meets the requirements of the Code of Federal Regulations, Title 21, under the following sections:> </header>', 'label': []}",irrelevant
+"{'data': 'TMPTA | 5.0', 'label': []}",irrelevant
+"{'data': 'Gloss @ 60 ° ( % ) | 93 <header> <Test Items> | <Result> </header>', 'label': []}",irrelevant
+"{'data': '4. General properties', 'label': []}",irrelevant
+"{'data': 'Note：USE AKZO Standard IPA GRADE Nitrocellulose', 'label': []}",irrelevant
+"{'data': 'Flash point | ( KSM 6011 ) | Approx 28 ℃ <header> <Product quality :> <Appearance> | <Product quality :> < ( KSM 2051 ) > | <Product quality :> <Clear> </header>', 'label': []}",irrelevant
+"{'data': 'Solvent composition: | butyl acetate', 'label': [[23, 36, 'qualitative_value']]}",Solvent type
+"{'data': 'NO. | TEST | SPECIFICATION <header> <NO.> | <TEST> | <SPECIFICATION> </header>', 'label': []}",header
+"{'data': 'maximum…………………………………………………………….N |', 'label': []}",irrelevant
+"{'data': 'Black speck value, 18.5 % in toluene | ≤ 2 | | <header> <Other data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Colour, Gardner 50 % in xylene, DIN ISO 4630 | max. 5', 'label': []}",irrelevant
+"{'data': 'Acid value mg/KOH | < 2.5', 'label': [[11, 17, 'unit'], [22, 25, 'max']]}",Acid content
+"{'data': 'Index （指标） Tepy （型号） | solid content ( 固含量 ) | Viscosity （粘度mpa.s） | Color （铁 - 钴色号） | Appearance （外观） <header> <Index （指标） Tepy （型号）> | <solid content ( 固含量 ) > | <Viscosity （粘度mpa.s）> | <Color （铁 - 钴色号）> | <Appearance （外观）> </header>', 'label': []}",multi_header
+"{'data': 'Appearance | | Pase | | | Pass <header> <INSPECTION ITEM > | <UNIT> | <ANALYTICAL VALUE> | <STAND. SPEC.> <MIN.> | <STAND. SPEC.> <> | <STAND. SPEC.> <MAX.> </header>', 'label': []}",irrelevant
+"{'data': 'iodine colour number | < 1', 'label': []}",irrelevant
+"{'data': 'Solid Content : | 50.0 ± 1.0 ﹪', 'label': [[18, 22, 'mean'], [25, 28, 'std'], [29, 30, 'unit']]}",Solid content
+"{'data': 'Ash % | ≤ 0.2', 'label': []}",irrelevant
+"{'data': 'Physical Form | Liquid', 'label': []}",irrelevant
+"{'data': 'Film Thickness : | 60 - 80 micron', 'label': []}",irrelevant
+"{'data': '3. Specific Gravity : | 0.9', 'label': []}",irrelevant
+"{'data': ' | | | A blend of <header> <TYPE> | <> | <> | <SPECIAL PRODUCT> </header>', 'label': []}",irrelevant
+"{'data': 'N Calculation, wetted basis | Report | % | NC - 1.4 | <header> <TEST ITEM AND CONDITION> | <LIMIT> | <UNIT> | <METHOD> | <N > </header>', 'label': []}",irrelevant
+"{'data': 'Softening Point, Pinova drop method, oC ………………………………………………… 80 - 88', 'label': []}",irrelevant
+"{'data': 'Viscosity .... .35 - 55 Poise [ Brookfield RVT # 3 spindle @ 100 rpm 25 ℃ ]', 'label': [[16, 18, 'min'], [21, 23, 'max'], [24, 29, 'unit'], [32, 73, 'measuring_condition']]}",Viscosity
+"{'data': 'Oil type | Vegetable fatty acids', 'label': []}",irrelevant
+"{'data': 'Acid Value | 45 - 55 | mg.KOH/g. | ASTM D - 1639 <header> <Specifications> | <Value> | <Unit> | <Method> </header>', 'label': [[13, 15, 'min'], [18, 20, 'max'], [23, 31, 'unit'], [35, 48, 'method']]}",Acid content
+"{'data': 'OH value, mg KOH/ g | 110 ± 10 | NA.PCD - 06 <header> <PARAMETER> | <SPECIFICATION> | <METHOD> </header>', 'label': [[10, 19, 'unit'], [22, 25, 'mean'], [28, 30, 'std'], [33, 45, 'method']]}",Hydroxyl value
+"{'data': 'Iodine color value, 18.5 % in toluene | ≤ 7 | | DIN EN 1557 <header> <Form supplied> <Specification Property> | <Fine powder> <Value> | <Fine powder> <Unit of measurement> | <Fine powder> <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Oil Type : | soya fatty acid', 'label': []}",irrelevant
+"{'data': 'Form supplied | Fine powder <header> <Type> | <Chlorinated rubber> </header>', 'label': []}",irrelevant
+"{'data': 'non volatile matter | [ % ] 54 - 56', 'label': [[24, 25, 'unit'], [28, 30, 'min'], [33, 35, 'max']]}",Solid content
+"{'data': '3. | B & J stability test @ 132 0 C + 0.2 0 C mg of Nitrogen per gram of NC | 1.5 Max. <header> <NO.> | <TEST> | <SPECIFICATION> </header>', 'label': []}",irrelevant
+"{'data': 'Color, Gardner | 1', 'label': []}",irrelevant
+"{'data': 'Viscosity: | 150 cps', 'label': [[13, 16, 'mean'], [17, 20, 'unit']]}",Viscosity
+"{'data': 'Other data* Property Value | Other data* Property Value | Unit of measurement | Method <header> <Other data* Property Value> | <Other data* Property Value> | <Unit of measurement> | <Method> </header>', 'label': []}",header
+"{'data': 'Specific weight ( g/cm 3 ) | 1.65 ~ 1.67 ( in water )', 'label': []}",irrelevant
+"{'data': 'Acid CON. % | ≤ 0.07', 'label': [[10, 11, 'unit'], [16, 20, 'max']]}",Acid content
+"{'data': 'Acid value | 29 – 35', 'label': [[13, 15, 'min'], [18, 20, 'max']]}",Acid content
+"{'data': '4 | SiO 2 ( % ) | 19.5 ~ 20.5 | <header> <No.> | <Test Item> | <Specification> | <Remark> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity* 2 | Z - Z 3 | KD - AS - 007 <header> <Item> | <GX - 422 > | <Test Method> </header>', 'label': [[15, 16, 'min'], [19, 22, 'max'], [25, 38, 'method']]}",Viscosity
+"{'data': 'PACKING UNIT | 110 kg / STEEL DRUM', 'label': []}",irrelevant
+"{'data': 'DELIVERY FORM | 60 % in XYLENE', 'label': [[16, 18, 'mean'], [19, 20, 'unit'], [21, 30, 'qualitative_value']]}",Solvent type
+"{'data': 'Acid value | Acid value | Acid value | Acid value | Acid value | Acid value <header> <CARACTERISTIQUES Characteristics> | <UNITES Units> | <Valeur Type Typical Value> | <Minimum> | <Maximum> | <METHODES Methods> </header>', 'label': []}",Acid content
+"{'data': 'TECHNICAL DATA SHEET | TECHNICAL DATA SHEET', 'label': []}",irrelevant
+"{'data': 'Bulk Density（g/ cm³） | 1.30 ~ 1.40 <header> <Items> | <Product Name FST PES - MP 20 G> </header>', 'label': []}",irrelevant
+"{'data': ' | Under the above mentioned storage conditions the shelf life of the resin will be at least 12 months ex works. | Under the above mentioned storage conditions the shelf life of the resin will be at least 12 months ex works. | Under the above mentioned storage conditions the shelf life of the resin will be at least 12 months ex works. <header> <TYPE DELIVERY FORM> | <Air - drying short - oil alkyd resin. 65 % in BUTYL ACETATE> | <Air - drying short - oil alkyd resin. 65 % in BUTYL ACETATE> | <Air - drying short - oil alkyd resin. 65 % in BUTYL ACETATE> </header>', 'label': []}",irrelevant
+"{'data': 'Controls Gear | Work in well ventilated areas.', 'label': []}",irrelevant
+"{'data': 'Appearance | | White soft fiber | White soft fiber | Visible <header> <Item> | <Index> <Unit> | <Index> <H 1 / 2 ″a> | <Index> <H 1 / 2 ″b> | <Index> <Test Method> </header>', 'label': []}",irrelevant
+"{'data': ' | - MEK | > 50 <header> <.> | <Appearance off - white> | <powder> </header>', 'label': []}",irrelevant
+"{'data': 'Test substrate | : Degreased steel 1 mm.', 'label': []}",irrelevant
+"{'data': 'Item | Unit | H 1 / 2 ″a | H 1 / 2 ″b | Test Method <header> <Item> | <Index> <Unit> | <Index> <H 1 / 2 ″a> | <Index> <H 1 / 2 ″b> | <Index> <Test Method> </header>', 'label': []}",header
+"{'data': 'Gloss | | | | | | | | | <header> <> | <> < 0 > | <> < 1 > | <> < 2 > | <> < 3 > | <> < 3 > | <> | <> | <> < 4 > | <> < 5 > </header>', 'label': []}",irrelevant
+"{'data': 'DPMP ( Dipentaerythritol hexa - 3 - mercaptopropionate ) | 6 | 2,500 | 1.53 | <header> <名称 name> | <SH数 SH number> | <粘度 ( mPas, 25 ℃ ) Viscosity ( mPas,25 ℃ ) > | <屈折率 ( 25 ℃ ) R. I. ( 25 ℃ ) > | <外観 appearance> </header>', 'label': []}",irrelevant
+"{'data': 'RS 1 / 8 sec | 1.6 ~ 2.9 | Below 0.04 % <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > </header>', 'label': []}",multi
+"{'data': 'VINNOL® H 30 / 48 M is a carboxylate - containing terpolymer of approx. 70 wt. % vinyl chloride ( VC ) , approx. 29 wt. % vinyl acetate ( VAc ) and approx. 1 wt. % dicarboxylic acid.', 'label': []}",irrelevant
+"{'data': 'Analytical Data', 'label': []}",irrelevant
+"{'data': 'Properties | LP - 32', 'label': []}",irrelevant
+"{'data': 'Appearance: | Clear water - white mobile liquid', 'label': []}",irrelevant
+"{'data': 'Fe | | | | < 1 | < 1 <header> <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > </header>', 'label': []}",irrelevant
+"{'data': 'Typical Properties Softening Point, Ring & Ball, oC ………………………………………………………………… 75', 'label': []}",irrelevant
+"{'data': 'Nitrogen Content ( % ) | 11.7 – 12.2 %', 'label': []}",irrelevant
+"{'data': 'Ignition point ℃ | ≥ 180', 'label': []}",irrelevant
+"{'data': 'Solid Content | 41.3 ± 1 wt % <header> <Appearance> | <Milky white liquid> </header>', 'label': [[16, 20, 'mean'], [23, 24, 'std'], [25, 27, 'measuring_condition'], [28, 29, 'unit']]}",Solid content
+"{'data': 'Closed cup ( Pensky - Martens ) | 88', 'label': []}",irrelevant
+"{'data': 'Viscosity : | - | - | <header> <Property / Characteristic> | <Unit> | <Limit or Range> | <Method of Determination> </header>', 'label': []}",Viscosity
+"{'data': 'Compatibility ( aliph. hydrocarbon ) DIN EN ISO 11908 n - heptane tolerance at 23 °C | [ ml/g ] | 5 - 15 <header> <Dynamic Viscosity DIN 53177 Cone & Plate ( 23 °C ) > | < [ mPa.s ] > | < 300 - 500 > </header>', 'label': []}",irrelevant
+"{'data': '1. Resin Type: | Nitrocellose', 'label': []}",irrelevant
+"{'data': ' [ 20 minutes at 110 ℃ @ 17 mm Hg vacuum ]', 'label': []}",irrelevant
+"{'data': 'Property | Value | Test Method / Standard <header> <Property> | <Value> | <Test Method / Standard> </header>', 'label': []}",header
+"{'data': 'Acid Value, mg KOH/g | 65 – 75 <header> <Appearance ( visual ) > | <Solid Clear Granules> </header>', 'label': [[23, 25, 'min'], [28, 30, 'max'], [12, 20, 'unit']]}",Acid content
+"{'data': 'Flow agent | 10 <header> <Component> | <Weight ( g ) > </header>', 'label': []}",irrelevant
+"{'data': 'Color, Gardner ( 40 % Solution in Benzyl Alcohol, visual ) | 3 max. <header> <Appearance ( visual ) > | <Solid Clear Granules> </header>', 'label': []}",irrelevant
+"{'data': 'Nitrogen CON. | % | 2008 11.8 ~ 12.2 | 2008 11.8 ~ 12.2 | WJ 9028 - 05 4.5.2 <header> <Item> | <Index> <Unit> | <Index> <H 1 / 2 aEA> | <Index> <H 1 / 2 bEA> | <Index> <Test Method> </header>', 'label': []}",irrelevant
+"{'data': ' | Type （型号） | Type （型号） | Type （型号） | | A法 | A法 | B法 | B法 | B法 | C法 | <header> <Item （项目）> | <Item （项目）> | <Item （项目）> | <Item （项目）> | <Unit ( 单位 ) > | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Test Method （检测方法）> </header>', 'label': []}",irrelevant
+"{'data': 'Silica content, wt/wt: | 41 % approx. <header> <Appearance:> | <Clear colorless liquid> </header>', 'label': []}",irrelevant
+"{'data': 'Titanium Dioxide ( 1 ) | 319 | 317 | 317 <header> <REAFREE 8304 - T> | < 608 > | < - - - > | < - - - > </header>', 'label': []}",irrelevant
+"{'data': 'Acid CON. | % | July | RMFI ≤ 0.07 | WOOD | WJ 9028 - 05 4.5.7 <header> <Item> | <Index> <Unit> | <Index> <> | <Index> <> | <Index> <> | <Index> <Test Method> </header>', 'label': [[12, 13, 'unit'], [30, 34, 'max'], [44, 62, 'method']]}",Acid content
+"{'data': 'Vapour density | >air', 'label': []}",irrelevant
+"{'data': 'Softening Point, °C | Softening Point, °C | 80', 'label': []}",irrelevant
+"{'data': 'FLASH POINT | > 200 ºF', 'label': []}",irrelevant
+"{'data': 'viscosity at 23 °C ( 73 °F ) | 500 – 900 mPa . s', 'label': [[13, 28, 'measuring_condition'], [31, 34, 'min'], [37, 40, 'max'], [41, 48, 'unit']]}",Viscosity
+"{'data': 'Av. Molecular weight | g/mol | < 1100 <header> <Appearance> | <> | <brown liquid> </header>', 'label': []}",irrelevant
+"{'data': 'Gloss at 60 o | : Over 90 % | ASTM D - 523 - 60 E', 'label': []}",irrelevant
+"{'data': 'Efficient content ( % ) | 90', 'label': []}",irrelevant
+"{'data': 'Tensile Modulus at 100 % ( MPa ) | 0.3 - 3.4 <header> <Compound> | <EPDM ( Ethylene - Propylene Diene Modified ) > </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity at 23 ℃ | 2500 + 500 | mPa.s | DIN EN ISO 3219 /A.3 <header> <Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[10, 17, 'measuring_condition'], [20, 24, 'mean'], [27, 30, 'std'], [33, 38, 'unit'], [41, 61, 'method']]}",Viscosity
+"{'data': 'Specification | Efflux Time ; 23 °C | 20 ± 3 | s | CTP - TS 62 - 09 <header> <> | <Property> | <Value> | <Unit> | <Method of Determination> </header>', 'label': []}",irrelevant
+"{'data': 'Speed | : 200 rpm', 'label': []}",irrelevant
+"{'data': 'VCI | VCI | 81', 'label': []}",irrelevant
+"{'data': 'Specific gravity : | 0.90 – 1.00', 'label': []}",irrelevant
+"{'data': 'VOLATILES | 56.0 % H 2 O ( by weight ) 66.6 % H 2 O ( by volume ) <header> <TYPICAL PROPERTIES - The following Properties are NOT to be considered specifications.> <APPEARANCE> | <TYPICAL PROPERTIES - The following Properties are NOT to be considered specifications.> <Semi - Viscous Liquid> </header>', 'label': []}",irrelevant
+"{'data': 'Iodine colour value | < 10', 'label': []}",irrelevant
+"{'data': 'Specific gravity | 1,0 | g/cm³ | ASTM D 5965 <header> <Property> | <Range> | <Unit> | <TM> </header>', 'label': []}",irrelevant
+"{'data': ' | | | 1 / 2 a | | — | — | 3.0 ~ 6.0 | 3.0 ~ 6.0 | 3.0 ~ 6.0 | — | <header> <Item （项目）> | <Item （项目）> | <Item （项目）> | <Item （项目）> | <Unit ( 单位 ) > | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Test Method （检测方法）> </header>', 'label': []}",stray
+"{'data': 'pH: | 11.5 <header> <PHYSICAL PRODUCT PROPERTIES> <Appearance:> | <PHYSICAL PRODUCT PROPERTIES> <White liquid> </header>', 'label': []}",irrelevant
+"{'data': 'Density, solvent - free, 20 ℃ | approx. 1.17 | g/ml | DIN EN ISO 2811 - 1 <header> <Other data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Features | Standard | Flexible | Flexible | Mild solvnet | Low VOC High gloss <header> <Grade> <Features> | <LF - 200 > <Standard> | <LF - 552 > <Flexible> | <LF - 600 X> <Flexible> | <LF - 800 > <Mild solvnet> | <LF - 910 LM> <Low VOC High gloss> </header>', 'label': []}",irrelevant
+"{'data': 'agent | 4.5.12', 'label': []}",irrelevant
+"{'data': 'Flash Point ( Pensky - Martens ) | DIN EN ISO 2719', 'label': []}",irrelevant
+"{'data': 'Gardner Viscosity 25 ℃ | Z 1 - Z 2 | Z 1 - Z 2 | NOVA CQ 08 | NOVA CQ 08 <header> <> | <Value> | <Value> | <Test Method> | <Test Method> </header>', 'label': [[0, 7, 'measuring_condition'], [18, 22, 'measuring_condition'], [25, 28, 'min'], [31, 34, 'max'], [37, 40, 'min'], [43, 46, 'max'], [49, 59, 'method'], [62, 72, 'method']]}",Viscosity
+"{'data': 'Appearance | Clear liquid', 'label': []}",irrelevant
+"{'data': 'Value | approx. 1,1', 'label': []}",stray
+"{'data': '* Polymer solids ( % by weight ) | 85 <header> <PROPERTIES> <* Appearance> | <PROPERTIES> <Clear liquid> </header>', 'label': [[2, 9, 'measuring_condition'], [35, 37, 'mean'], [19, 20, 'unit'], [21, 30, 'measuring_condition']]}",Solid content
+"{'data': 'Viscosity | 250 – 400 sec | PO 4936 <header> <Analysis> | <Specifications> | <Methods of CNQB> </header>', 'label': [[12, 15, 'min'], [18, 21, 'max'], [22, 25, 'unit'], [28, 35, 'method']]}",Viscosity
+"{'data': 'Item | Unit | H 1 / 16 ″ | Test Method <header> <Item> | <Index> <Unit> | <Index> <H 1 / 16 ″> | <Index> <Test Method> </header>', 'label': []}",header
+"{'data': 'STORAGE AND SHELF LIFE GUIDELINE AND SAFETY | Under the above mentioned storage conditions the shelf life of the resin will be at least 12 months ex works. | Under the above mentioned storage conditions the shelf life of the resin will be at least 12 months ex works. <header> <calculated as metals on 100 parts of solid resin.> <SOLUBILITY AND> | <calculated as metals on 100 parts of solid resin.> <Aromatics - Esters Aliphatics - Alcohols> | <calculated as metals on 100 parts of solid resin.> <Soluble Limited> </header>', 'label': []}",irrelevant
+"{'data': ' | Wiroon. S', 'label': []}",irrelevant
+"{'data': 'Specific Gravity | Solubility ( ies ) | Solubility ( ies ) | Partition coefficient | Auto - ignition temp | Decomposition temp | V.O.C g/l <header> <> <Physical State Gas Liquid > | <> <Colour Solld > | <> <amber> | <> <Odour Odour slight> | <> <Threshold PH not available> | <> < 5.8 - 9.5 > | <> <Melting / Freezing Point not applicable> </header>', 'label': []}",irrelevant
+"{'data': 'Acid CON. | % | ≤ 0.08 | WJ 9028 - 05 4.5.7 <header> <Item> | <Index> <Unit> | <Index> <H 1 / 16 ″> | <Index> <Test Method> </header>', 'label': [[12, 13, 'unit'], [18, 22, 'max'], [25, 43, 'method']]}",Acid content
+"{'data': 'Flash Point ( CCCFP ) ASTM D 6450 flash point | [ °C ] > 94 | <header> <PRELIMINARY PRODUCT INFORMATION> <TYPE> | <PRELIMINARY PRODUCT INFORMATION> <TYPE> | <DEVELOPMENT PRODUCT> <This product is serving for trial purposes only. Deviations which might occur during transfer into manufacturing in a commercial scale are possible and do not constitute any material defect.> </header>', 'label': []}",irrelevant
+"{'data': 'Color, USDA rosin scale ……………………………………………………………………….. WW', 'label': []}",irrelevant
+"{'data': 'Appearance | White solid | NA.PCD - 01 <header> <PARAMETER> | <SPECIFICATION> | <METHOD> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance | Clear to pale yellowish liquid', 'label': []}",irrelevant
+"{'data': 'TEST ITEM | UNIT | SPECIFIXARION | RESULT | REMARK <header> <TEST ITEM> | <UNIT> | <SPECIFIXARION> | <RESULT> | <REMARK> </header>', 'label': []}",header
+"{'data': 'Properties Appearance | Specification White Flakes | Test Method - - - - - - <header> <Properties Appearance> | <Specification White Flakes> | <Test Method - - - - - - > </header>', 'label': []}",header
+"{'data': ' |', 'label': []}",irrelevant
+"{'data': 'RS 1 / 32 sec ( 10 - 15 cps ) | Below 1.0 | Below 0.05 % | 120 kg <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > | <Packaging> </header>', 'label': []}",multi
+"{'data': 'Colour | | <header> <Form> | <crushed or flaked> | <crushed or flaked> </header>', 'label': []}",irrelevant
+"{'data': 'Water | % | ≤ 6 | ≤ 6 | KARL FICHER <header> <Item> | <Index> <Unit> | <Index> <H 1 / 2 ″a> | <Index> <H 1 / 2 ″b> | <Index> <Test Method> </header>', 'label': []}",irrelevant
+"{'data': '80 ℃ Thermal - resistance test（ 80 ℃耐热试验） | 80 ℃ Thermal - resistance test（ 80 ℃耐热试验） | 80 ℃ Thermal - resistance test（ 80 ℃耐热试验） | 80 ℃ Thermal - resistance test（ 80 ℃耐热试验） | Min. | | | ≥ 10 | ≥ 10 | ≥ 10 | ≥ 10 | WJ 9028 - 05 4.5.8 <header> <Item （项目）> | <Item （项目）> | <Item （项目）> | <Item （项目）> | <Unit ( 单位 ) > | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Test Method （检测方法）> </header>', 'label': []}",irrelevant
+"{'data': '2 Speed | 20 rpm', 'label': []}",stray
+"{'data': 'Characteristical Data | Active - H - Equiv. Weight | 85 | g/eq. | calculated <header> <> | <Property> | <Value> | <Unit> | <Method of Determination> </header>', 'label': []}",irrelevant
+"{'data': 'Acid Value ( mg KOH/g, solid ) | 1.0 max', 'label': [[13, 21, 'unit'], [23, 28, 'measuring_condition'], [33, 36, 'max']]}",Acid content
+"{'data': 'Viscosity ( 25 °C ) | Pa*s max 1.3', 'label': [[12, 17, 'measuring_condition'], [22, 26, 'unit'], [31, 34, 'max']]}",Viscosity
+"{'data': 'SOLIDS 2 | 44.0 % + 3.0 % ( by weight )', 'label': [[11, 15, 'mean'], [16, 17, 'unit'], [20, 23, 'std'], [24, 25, 'unit'], [28, 37, 'measuring_condition']]}",Solid content
+"{'data': 'Reverse Impact, ( ASTM D - 2794 ) | Over 80 Kg.cm', 'label': []}",irrelevant
+"{'data': 'Visc. Ford cup N° 4 | ASTM D 1200 - 94 ( 99 ) | 23 °C sec. | 23 °C sec. | 23 °C sec. | ca. 60 / 70 "" <header> <Visc. Ford cup N° 4 > | <ASTM D 1200 - 94 ( 99 ) > | < 23 °C sec.> | < 23 °C sec.> | < 23 °C sec.> | <ca. 60 / 70 ""> </header>', 'label': [[6, 19, 'measuring_condition'], [22, 45, 'method'], [48, 53, 'measuring_condition'], [61, 66, 'measuring_condition'], [74, 79, 'measuring_condition'], [54, 57, 'unit'], [67, 70, 'unit'], [80, 83, 'unit']]}",Viscosity
+"{'data': '酸值Acid Value | mgKOH/g | 2.0 max <header> <项目Items> | <单位Units> | <指标Specification> <COL - 103 > </header>', 'label': [[15, 22, 'unit'], [25, 28, 'max']]}",Acid content
+"{'data': 'Viscosity | Sec | 4.0 ～ 7.5 （A法） | WJ 9028 - 05 4.5.3 <header> <Item> | <Index> <Unit> | <Index> <H 5 ”> | <Index> <Test Method> </header>', 'label': [[12, 15, 'unit'], [18, 21, 'min'], [24, 27, 'max'], [35, 53, 'method']]}",Viscosity
+"{'data': 'Water | % | ≤ 6 | KARL FICHER <header> <Item> | <Index> <Unit> | <Index> <H 1 / 16 ″> | <Index> <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'NCE 30 % IPA | 40,7 <header> <Product> | <Typical in % > </header>', 'label': []}",irrelevant
+"{'data': 'Form supplied | ca. 40 % in water and 10 % ethanol', 'label': [[20, 50, 'qualitative_value']]}",Solvent type
+"{'data': 'Water | % | ≤ 6 | KARL FICHER <header> <Item> | <Index> <Unit> | <Index> <H 1 / 16 ″EA> | <Index> <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Solids ( % weight ) | 99.5 | ≥ 99.5 | ASTM D 2369 - 98 <header> <PROPERTY> | <TYPICAL VALUE> | <SPECIFICATION> | <TEST METHOD> </header>', 'label': [[9, 17, 'unit'], [31, 35, 'min'], [38, 54, 'method']]}",Solid content
+"{'data': 'BULK DENSITY | 0.35 - 0.56 g/cc', 'label': []}",irrelevant
+"{'data': 'Ash | % | ≤ 0.2 | WJ 9028 - 05 4.5.10 <header> <Item> | <Index> <Unit> | <Index> <H 1 / 16 ″> | <Index> <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Item （项目） | Item （项目） | Item （项目） | Item （项目） | Unit ( 单位 ) | Index （指标） | Index （指标） | Index （指标） | Index （指标） | Index （指标） | Index （指标） | Test Method （检测方法） <header> <Item （项目）> | <Item （项目）> | <Item （项目）> | <Item （项目）> | <Unit ( 单位 ) > | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Test Method （检测方法）> </header>', 'label': []}",irrelevant
+"{'data': 'Tg ( o C ) | - 56', 'label': [[5, 8, 'unit'], [13, 17, 'mean']]}",Glass transition temperature
+"{'data': 'Benzoin | 3', 'label': []}",irrelevant
+"{'data': 'Color, Gardner 3 ( 60 % in toluene ) Viscosity, Gardner 4 ( 60 % in toluene ) Viscosity, # 3 Zahn Cup ( Secs. ) | 6 N 50 <header> <Softening Point 2 ( R&B ) , ºC> <Color, Gardner 3 ( 60 % in toluene ) Viscosity, Gardner 4 ( 60 % in toluene ) Viscosity, # 3 Zahn Cup ( Secs. ) > <FEATURES> | < 133 > < 6 N 50 > <BENEFITS> </header>', 'label': [[48, 77, 'measuring_condition'], [89, 101, 'measuring_condition'], [104, 108, 'unit'], [114, 120, 'unclear_value']]}",Viscosity
+"{'data': 'delivery | pellets', 'label': [[11, 18, 'qualitative_value']]}",Solvent type
+"{'data': 'Colour, Gardner, 50 % in white spirit 145 - 195, DIN ISO 4630 | max. 8', 'label': []}",irrelevant
+"{'data': 'Shelf | 24 -', 'label': []}",irrelevant
+"{'data': 'Freezing point ( ℃ ) | Freezing point ( ℃ ) | Freezing point ( ℃ ) | < - 65', 'label': []}",irrelevant
+"{'data': 'INSPECTION ITEM | INSPECTION ITEM | UNIT | ANALYTICAL VALUE | MIN. | | | MAX. <header> <INSPECTION ITEM > | <INSPECTION ITEM > | <UNIT> | <ANALYTICAL VALUE> | <STAND> <MIN.> | <SPEC.> <> | <SPEC.> <> | <SPEC.> <MAX.> </header>', 'label': []}",header
+"{'data': 'RS 18 - 25 cps | 1.6 ~ 2.2 | Below 0.04 % | 120 kg <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > | <Packaging> </header>', 'label': []}",multi
+"{'data': 'Solid | % | 9 土 0.3 | 9 | <header> <TEST ITEM> | <UNIT> | <SPECIFIXARION> | <RESULT> | <REMARK> </header>', 'label': [[8, 9, 'unit'], [12, 13, 'mean'], [16, 19, 'std']]}",Solid content
+"{'data': 'N determination, NIR spectroscopic | 11.8 - 12.3 | % | NC - 1.3 | <header> <TEST ITEM AND CONDITION> | <LIMIT> | <UNIT> | <METHOD> | <N > </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity | Sec | 1.1 ~ 1.6 （C法） | WJ 9028 - 05 4.5.3 <header> <Item> | <Index> <Unit> | <Index> <H 1 / 16 ″> | <Index> <Test Method> </header>', 'label': [[12, 15, 'unit'], [18, 21, 'min'], [24, 27, 'max'], [35, 53, 'method']]}",Viscosity
+"{'data': 'Flash Point ( Pensky - Martens ) DIN EN 22719 ( analogue ) | [ °C ] | 33 <header> <Dynamic Viscosity DIN EN ISO 3219 - B Cone & Plate ( 23 °C ) > | < [ mPa.s ] > | < 220 - 360 > </header>', 'label': []}",irrelevant
+"{'data': 'Type | Short - oil, air or force - drying resin based on vegetable fatty acids', 'label': []}",irrelevant
+"{'data': 'Titanium Dioxide ( 1 ) | 300', 'label': []}",irrelevant
+"{'data': '4. | Moisture ( % ) | 3.5 Max <header> <NO.> | <TEST> | <SPECIFICATION> </header>', 'label': []}",irrelevant
+"{'data': '3. | Ash Content , % | 0.3 | max', 'label': []}",irrelevant
+"{'data': 'Alcohol soluble （ 20 ℃ ) | Clear and transparent | Clear and transparent | GB 8234 - 87 <header> <级别指标 Item> | <一级蓖麻油> <Specification> | <一级蓖麻油> <Test value> | <执行标准> <Test value> </header>', 'label': []}",irrelevant
+"{'data': 'Oil content | 33', 'label': []}",irrelevant
+"{'data': 'Density ( Liquids ) Approx. at 20 °C | [ g/ml ] | 0,99 <header> <Dynamic Viscosity DIN EN ISO 3219 - B Cone & Plate ( 23 °C ) > | < [ mPa.s ] > | < 220 - 360 > </header>', 'label': []}",irrelevant
+"{'data': 'OH Value | % | - <header> <ltem> | <Unit> | <Spec> </header>', 'label': [[11, 12, 'unit']]}",Hydroxyl value
+"{'data': 'A.3 Laws and regulations', 'label': []}",irrelevant
+"{'data': 'Iodine color value ( F.o.d. . ) | <= 150', 'label': []}",irrelevant
+"{'data': 'High solids solutions and aqueous base | solvent at 25 °C | <header> <> | <Appearance> | <Off - white flake> </header>', 'label': []}",stray
+"{'data': 'B & J stability test @ Nitrogen per gram NC | 1.5 Max.', 'label': []}",irrelevant
+"{'data': 'Color | Clear', 'label': []}",irrelevant
+"{'data': 'dilutability ( n - Heptan ) ( 23 °C ) | [ ml / g ] 5 - 15', 'label': []}",irrelevant
+"{'data': 'Product Name Name | RAC SR - 100 | Inspection Date | Inspection Date | Inspection Date | 2 C 2017. 12. 11', 'label': []}",irrelevant
+"{'data': 'Refractive Index | | | D 1218 | 1.490 | 1.490 <header> <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > </header>', 'label': []}",irrelevant
+"{'data': 'SECTION 9 - PHYSICAL AND CHEMICAL PROPERTIES | SECTION 9 - PHYSICAL AND CHEMICAL PROPERTIES | SECTION 9 - PHYSICAL AND CHEMICAL PROPERTIES | SECTION 9 - PHYSICAL AND CHEMICAL PROPERTIES | SECTION 9 - PHYSICAL AND CHEMICAL PROPERTIES | SECTION 9 - PHYSICAL AND CHEMICAL PROPERTIES | SECTION 9 - PHYSICAL AND CHEMICAL PROPERTIES <header> <> <Physical State Gas Liquid > | <> <Colour Solld > | <> <amber> | <> <Odour Odour slight> | <> <Threshold PH not available> | <> < 5.8 - 9.5 > | <> <Melting / Freezing Point not applicable> </header>', 'label': []}",irrelevant
+"{'data': 'Shelf life | - | 1 year <header> <ltem> | <Unit> | <Spec> </header>', 'label': []}",irrelevant
+"{'data': 'KCNC | KOREA CNC LTD | KOREA CNC LTD <header> <KCNC> | <KOREA CNC LTD> | <KOREA CNC LTD> </header>', 'label': []}",irrelevant
+"{'data': 'Oil content: | 56.5 %', 'label': []}",irrelevant
+"{'data': 'INFORMACIÓN TECNICA ( ESPECIFICACIÓN PRODUCTO TERMINADO ) | INFORMACIÓN TECNICA ( ESPECIFICACIÓN PRODUCTO TERMINADO ) | INFORMACIÓN TECNICA ( ESPECIFICACIÓN PRODUCTO TERMINADO ) <header> <INFORMACIÓN TECNICA ( ESPECIFICACIÓN PRODUCTO TERMINADO ) > <Código: ESNC - IN 15 > | <INFORMACIÓN TECNICA ( ESPECIFICACIÓN PRODUCTO TERMINADO ) > <Versión: 01 > | <INFORMACIÓN TECNICA ( ESPECIFICACIÓN PRODUCTO TERMINADO ) > <Página: 1 de 1 > </header>', 'label': []}",irrelevant
+"{'data': 'Appearance | Off - white Flake', 'label': []}",irrelevant
+"{'data': '4 DIN 53211 | | <header> <Form> | <crushed or flaked> | <crushed or flaked> </header>', 'label': []}",irrelevant
+"{'data': 'FORM OF DELIVERY ( f.o.d. ) 41 % in water ( 41 WA ) | FORM OF DELIVERY ( f.o.d. ) 41 % in water ( 41 WA ) | 0.3 % ammonia, as salt <header> <PRELIMINARY PRODUCT INFORMATION> <TYPE> | <PRELIMINARY PRODUCT INFORMATION> <TYPE> | <DEVELOPMENT PRODUCT> <This product is serving for trial purposes only. Deviations which might occur during transfer into manufacturing in a commercial scale are possible and do not constitute any material defect.> </header>', 'label': [[36, 41, 'qualitative_value']]}",Solvent type
+"{'data': 'Property / Characteristic | Unit | Limit or Range | Method of Determination <header> <Property / Characteristic> | <Unit> | <Limit or Range> | <Method of Determination> </header>', 'label': []}",header
+"{'data': 'Glass transition temperature | °C | 60 | Internal procedure <header> <> | <Unit> | <Value> | <Test method> </header>', 'label': [[31, 33, 'unit'], [36, 38, 'mean'], [41, 59, 'measuring_condition']]}",Glass transition temperature
+"{'data': 'Further typical data*: | | | According to: <header> <Specification:> | <> | <> | <According to:> </header>', 'label': []}",irrelevant
+"{'data': 'Iodine Colour Number | DIN 6162', 'label': []}",irrelevant
+"{'data': 'Acidity Rate | maximum 30 | maximum 30', 'label': []}",irrelevant
+"{'data': 'Color | ≤ 2', 'label': []}",irrelevant
+"{'data': 'Specification | Acid value ( mgKOH/g ) ≤ 1 <header> <Urethane acrylate W 2528 B> | <Urethane acrylate W 2528 B> </header>', 'label': [[29, 36, 'unit'], [41, 42, 'max']]}",Acid content
+"{'data': 'Metals ( ppm ) : | Inductively Coupled Plasma | Inductively Coupled Plasma | n/a | | <header> <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > </header>', 'label': []}",irrelevant
+"{'data': 'Typical Properties | Typical Properties', 'label': []}",irrelevant
+"{'data': 'Item | Unit | H 1 / 16 ″EA | Test Method <header> <Item> | <Index> <Unit> | <Index> <H 1 / 16 ″EA> | <Index> <Test Method> </header>', 'label': []}",header
+"{'data': 'Extruder | Twin screw <header> <Extrusion> <Extruder> | <Extrusion> <Twin screw> </header>', 'label': []}",irrelevant
+"{'data': 'Solid | 68 – 72 % | PO 4928 <header> <Analysis> | <Specifications> | <Methods of CNQB> </header>', 'label': [[8, 10, 'min'], [13, 15, 'max'], [16, 17, 'unit'], [20, 27, 'method']]}",Solid content
+"{'data': 'Appearance | Clear & clean', 'label': []}",irrelevant
+"{'data': '100 % MODULUS | 345 psi', 'label': []}",irrelevant
+"{'data': 'analog', 'label': []}",irrelevant
+"{'data': 'PRODUCT SPECIFICATIONS* | BN 4 /ASTM D 29 | Acid value ( on solids ) | 23 - 30 <header> <> | <Test Methods> | <Standard Inspection> <Units> | <Review 000 > <Specifications> </header>', 'label': [[26, 41, 'method'], [57, 66, 'measuring_condition'], [71, 73, 'min'], [76, 78, 'max']]}",Acid content
+"{'data': 'Viscosity （粘度） | H | H | 1 / 16 | | — | — | — | — | — | 1.1 ~ 1.6 | <header> <Item （项目）> | <Item （项目）> | <Item （项目）> | <Item （项目）> | <Unit ( 单位 ) > | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Test Method （检测方法）> </header>', 'label': [[56, 59, 'min'], [62, 65, 'max']]}",Viscosity
+"{'data': 'Particle size : | 65 – 75 nm', 'label': []}",irrelevant
+"{'data': 'Gloss 60 ° | 30 ≈ 80 | <header> <> | <> | <> </header>', 'label': []}",irrelevant
+"{'data': '1 5 / 6 SEC NC | 17.85 %', 'label': []}",irrelevant
+"{'data': 'Melting Point | > 160 ℃', 'label': []}",irrelevant
+"{'data': 'Specification Property | Value | Unit of measurement | Method <header> <Form supplied> <Specification Property> | <Fine powder> <Value> | <Fine powder> <Unit of measurement> | <Fine powder> <Method> </header>', 'label': []}",header
+"{'data': 'Form supplied | Fine powder | Fine powder | Fine powder <header> <Form supplied> <Specification Property> | <Fine powder> <Value> | <Fine powder> <Unit of measurement> | <Fine powder> <Method> </header>', 'label': []}",irrelevant
+"{'data': 'min. | 97', 'label': []}",irrelevant
+"{'data': 'RS 1 / 4 sec | 3.0 ~ 5.9 | Below 0.04 % <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > </header>', 'label': []}",multi
+"{'data': 'E - mail ： | dlrd @ mail.daily - polymer.com', 'label': []}",irrelevant
+"{'data': 'PROPERTIES', 'label': []}",irrelevant
+"{'data': 'Application voltage: | 60 - 80 Kv', 'label': []}",irrelevant
+"{'data': 'Recommended Baking conditions | 180 °C, 10 min', 'label': []}",irrelevant
+"{'data': 'Ignition point | ℃ | ≥ 180 | ≥ 180 | WJ 9028 - 05 4.5.9 <header> <Item> | <Index> <Unit> | <Index> <H 1 / 2 ″a> | <Index> <H 1 / 2 ″b> | <Index> <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity Tested Method: |', 'label': []}",Viscosity
+"{'data': 'Specific Gravity | 1.15', 'label': []}",irrelevant
+"{'data': 'RS 1 / 4 H sec | 6.0 ~ 9.0 | Below 0.04 % <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > </header>', 'label': []}",multi
+"{'data': 'Non volatile, by weight | 60.0 + 1.0 63.0 + 1.0 ( test ) | % | 1 - 1 <header> <Property> | <Value> | <Units> | <Method *> </header>', 'label': [[14, 23, 'measuring_condition'], [26, 30, 'mean'], [33, 36, 'std'], [37, 41, 'mean'], [44, 47, 'std'], [59, 60, 'unit'], [63, 68, 'method']]}",Solid content
+"{'data': 'solid content ( 60 min. 125 °C ) : | 18 - 20 %', 'label': [[37, 39, 'min'], [42, 44, 'max'], [45, 46, 'unit'], [16, 30, 'measuring_condition']]}",Solid content
+"{'data': 'Property | Unit | Value | Test Method/Standard <header> <Property> | <Unit> | <Value> | <Test Method/Standard> </header>', 'label': []}",header
+"{'data': '5. | Ignition Point , | C | 180 min', 'label': []}",irrelevant
+"{'data': 'Ash | 3.0 % Max', 'label': []}",irrelevant
+"{'data': 'Solids % .wt | 37.1 – 38.0', 'label': [[15, 19, 'min'], [22, 26, 'max'], [10, 12, 'measuring_condition'], [7, 8, 'unit']]}",Solid content
+"{'data': 'flash point | [ °C ] > 100 | 100 g Beckopox EP 122 w 100 g Beckopox EH 659 w/ 50 WA 100 g deionized water <header> <TYPE> | <> | <H - equivalent weight> </header>', 'label': []}",irrelevant
+"{'data': 'Glass resin | T ( 4 ) approx. 60 ( ºC )', 'label': []}",irrelevant
+"{'data': 'Sulfur content | % | 37 - 38 <header> <Appearance> | <> | <brown liquid> </header>', 'label': []}",irrelevant
+"{'data': 'KH 525 | Water Dispersible Acrylic Polyester Emulsion', 'label': [[9, 53, 'qualitative_value']]}",Water solubility
+"{'data': 'Bergmann - Junk stability test at 132 °C | ml NO/g | 2.5 max. | API 3 / 1460 / 6 / 1.6 <header> <Property / Characteristic> | <Unit> | <Limit or Range> | <Method of Determination> </header>', 'label': []}",irrelevant
+"{'data': 'OH content | approx. 0.8 | % | <header> <Other data* Property Value> | <Other data* Property Value> | <Unit of measurement> | <Method> </header>', 'label': [[21, 24, 'mean'], [27, 28, 'unit']]}",Hydroxyl value
+"{'data': '按硫酸计） | 按硫酸计） | 按硫酸计） | 按硫酸计） | % | ≤ 0.08 | ≤ 0.08 | ≤ 0.07 | ≤ 0.07 | ≤ 0.07 | ≤ 0.06 | ≤ 0.06 <header> <Item （项目）> | <Item （项目）> | <Item （项目）> | <Item （项目）> | <Unit ( 单位 ) > | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Test Method （检测方法）> </header>', 'label': []}",irrelevant
+"{'data': 'Acid Number | : 130 - 150 ( ASTM - D - 1639 )', 'label': [[16, 19, 'min'], [22, 25, 'max'], [28, 43, 'method']]}",Acid content
+"{'data': 'Density at 20 °C | g/cm³ 1.17 ± 0.01', 'label': []}",irrelevant
+"{'data': 'Pigment ( wt % ) | None', 'label': []}",irrelevant
+"{'data': '1 ) 60 min 110 °C < 2 hPa', 'label': []}",irrelevant
+"{'data': 'BUTANOL | 3,7 <header> <Product> | <Typical in % > </header>', 'label': []}",irrelevant
+"{'data': 'Vapour pressure ( bar ) 20 º C ( ASTM D 323 modified ) | Vapour pressure ( bar ) 20 º C ( ASTM D 323 modified ) | Vapour pressure ( bar ) 20 º C ( ASTM D 323 modified ) | 0.0225', 'label': []}",irrelevant
+"{'data': 'Particle size | - | < 1.0 mm | specific method <header> <Property> | <Condition> | <Value> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'COLOR | GARDNER 14 to 17', 'label': []}",irrelevant
+"{'data': 'Characteristics 1', 'label': []}",irrelevant
+"{'data': 'Date Issued: 29 / 06 / 12 | Authorised By: Adrian Hill | Authorised By: Adrian Hill', 'label': []}",irrelevant
+"{'data': 'Property va | value <header> <Property va> | <value> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity, Cochius, ( of the containing NC ) 10 % by weight ( dry basis ) - solution in 3 : 4 : 5 butanol : n - butyl acetate ( 98 / 100 % ) : toluene', 'label': [[98, 105, 'qualitative_value'], [108, 125, 'qualitative_value'], [143, 150, 'qualitative_value']]}",Solvent type
+"{'data': 'Density | 1.03', 'label': []}",irrelevant
+"{'data': 'INTERNAL COPY FOR : | | | | <header> <Buyer> | <Consignee> | <Producer / Seller> | <Producer / Seller> | <Producer / Seller> </header>', 'label': []}",irrelevant
+"{'data': 'Tack | 33 - 38 | INKO <header> <Delivery form> | < 100 % , viscous liquid> | <> </header>', 'label': []}",irrelevant
+"{'data': ' | <header> <Property> | <Value Unit of measurement Testmethod> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity, Cochius, butanol:n - butyl acetate ( 98 / 100 % ) :toluene, 12 wt % solution ( dry basis ) in 3 : 4 : 5 | 16.0 - 18.0 | s | NC - 3.1 | <header> <TEST ITEM AND CONDITION> | <LIMIT> | <UNIT> | <METHOD> | <N> </header>', 'label': [[32, 114, 'measuring_condition'], [117, 121, 'min'], [124, 128, 'max'], [131, 132, 'unit'], [135, 143, 'method']]}",Viscosity
+"{'data': '- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Wetting | - - - - - - - - - - - - - - - - - 30.0 - 32.0 | - - - - - - - - % | - - - - - - - - - - - - - - - - - NC - 6.5 | - <header> <TEST ITEM AND CONDITION> | <LIMIT> | <UNIT> | <METHOD> | <N > </header>', 'label': []}",irrelevant
+"{'data': 'Elongation | % | ASTM D 882 | 340', 'label': []}",irrelevant
+"{'data': 'CARACTERISTIQUES Characteristics | UNITES Units | Valeur Type Typical Value | Minimum | Maximum | METHODES Methods <header> <CARACTERISTIQUES Characteristics> | <UNITES Units> | <Valeur Type Typical Value> | <Minimum> | <Maximum> | <METHODES Methods> </header>', 'label': []}",header
+"{'data': 'Form | at 25 °C | Liquid <header> <Specification> | <Unit> | <Value> </header>', 'label': []}",irrelevant
+"{'data': 'Benzoin | 4 <header> <Component> | <Weight ( g ) > </header>', 'label': []}",irrelevant
+"{'data': ' ( Following DIN 53170 ) | ( Following DIN 53170 ) | Butyl acetate ( = 1 ) | 17.38', 'label': []}",irrelevant
+"{'data': '2 Butyl acetate | 50.00 %', 'label': []}",irrelevant
+"{'data': 'Additional Info: None | Additional Info: None | Additional Info: None | | | | <header> <> <Physical State Gas Liquid > | <> <Colour Solld > | <> <amber> | <> <Odour Odour slight> | <> <Threshold PH not available> | <> < 5.8 - 9.5 > | <> <Melting / Freezing Point not applicable> </header>', 'label': []}",irrelevant
+"{'data': 'Molecular formula: ( C 2 H 5 O ) 2 n+ 2 Si,On+ 1', 'label': []}",irrelevant
+"{'data': 'flash point | [ °C ] 31', 'label': []}",irrelevant
+"{'data': 'Viscosity ( 20 ℃: 68 °F ) | ≦ 200 mPa・s', 'label': [[12, 23, 'measuring_condition'], [30, 33, 'max'], [34, 39, 'unit']]}",Viscosity
+"{'data': 'Functionality | 2', 'label': []}",irrelevant
+"{'data': 'Viscosity at 25 °C | mPa·s | 10000 ± 2000 <header> <Properties> | <Unit> | <Value> </header>', 'label': [[21, 26, 'unit'], [29, 34, 'mean'], [37, 41, 'std'], [10, 18, 'measuring_condition']]}",Viscosity
+"{'data': 'amine value KOH/g ] | [ mg 150 - 180', 'label': []}",irrelevant
+"{'data': 'Other', 'label': []}",irrelevant
+"{'data': 'appearance | DIN EN ISO 3251', 'label': []}",irrelevant
+"{'data': ' | Manufacturer <header> <> | <Manufacturer> </header>', 'label': []}",irrelevant
+"{'data': 'acetone | + | +', 'label': []}",irrelevant
+"{'data': 'ADDITOL® CPK | 3.3', 'label': []}",irrelevant
+"{'data': '3 Appearance | Clear', 'label': []}",irrelevant
+"{'data': 'Direct Impact, ( ASTM D - 2794 ) | Over 80 Kg.cm', 'label': []}",irrelevant
+"{'data': 'Saponification（mgKOH/g ) | 177 - 187 | 180.19 | GB 8234 - 87 <header> <级别指标 Item> | <一级蓖麻油> <Specification> | <一级蓖麻油> <Test value> | <执行标准> <Test value> </header>', 'label': []}",irrelevant
+"{'data': 'Abel 80 ℃ | Mins | ≥ 15 | WJ 9028 - 05 4.5.8 <header> <Item> | <Index> <Unit> | <Index> <H 1 / 16 ″> | <Index> <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Color as such | 1 max', 'label': []}",irrelevant
+"{'data': 'Acetone | > 50', 'label': []}",irrelevant
+"{'data': 'BUTYLACETAAT | 47,4 <header> <Product> | <Typical in % > </header>', 'label': []}",irrelevant
+"{'data': 'Product Specifications', 'label': []}",irrelevant
+"{'data': ' | PRODUCT SPECIFICATION RESINA 20446 | PRODUCT SPECIFICATION RESINA 20446 | PRODUCT SPECIFICATION RESINA 20446 <header> <TYPE DELIVERY FORM> | <Air - drying short - oil alkyd resin. 65 % in BUTYL ACETATE> | <Air - drying short - oil alkyd resin. 65 % in BUTYL ACETATE> | <Air - drying short - oil alkyd resin. 65 % in BUTYL ACETATE> </header>', 'label': []}",irrelevant
+"{'data': ' ( 1 ) | BSMT – Bitrez Standard Method of Test', 'label': []}",irrelevant
+"{'data': 'Specifications | Viscosity 165 ºC, Pa.s ( ICI – DIN 53229 ) | 20 - 40', 'label': [[27, 33, 'measuring_condition'], [35, 39, 'unit'], [42, 57, 'method'], [62, 64, 'min'], [67, 69, 'max']]}",Viscosity
+"{'data': 'MFR | JIS K 7210 | g/ 10 min | 65 <header> <Property> | <Test Method> | <Units> | <EV 40 W> </header>', 'label': []}",irrelevant
+"{'data': 'Typical properties |', 'label': []}",irrelevant
+"{'data': 'Acid Number, maximum……………………………………………………………………….. 10', 'label': [[50, 52, 'max']]}",Acid content
+"{'data': 'Gardner color ( @ 50 % in toluene ) | - - - | max. 8 | max. 8 <header> <Characteristics> | <Units> | <Specifications> <NC> | <Specifications> <TR> </header>', 'label': []}",irrelevant
+"{'data': 'Co - solvent: % / Type | 0', 'label': []}",Solvent type
+"{'data': 'Odour： | Of isopropanol', 'label': []}",irrelevant
+"{'data': 'Gelling time ( s ) ( hot plate ) | 17 - 22 ( 200 ℃ ) <header> <Appearance> | <white or light yellow granules> </header>', 'label': []}",irrelevant
+"{'data': 'Type | Cellulose microcrystalline Translucent solid', 'label': []}",irrelevant
+"{'data': 'Property | Spec. | Remark <header> <Property> <Appearance> | <Spec.> <Slight Yellow - Liquid> | <Remark> <Slight Yellow - Liquid> </header>', 'label': []}",header
+"{'data': 'Particle change property | Negative ion', 'label': []}",irrelevant
+"{'data': 'Solvent | Xylene | Solvesso 150 Cyclohexanone | Xylene | Mineral spirits | Xylene <header> <Grade> <Features> | <LF - 200 > <Standard> | <LF - 552 > <Flexible> | <LF - 600 X> <Flexible> | <LF - 800 > <Mild solvnet> | <LF - 910 LM> <Low VOC High gloss> </header>', 'label': [[10, 16, 'qualitative_value'], [48, 54, 'qualitative_value'], [57, 72, 'qualitative_value'], [75, 81, 'qualitative_value'], [19, 45, 'qualitative_value']]}",Solvent type
+"{'data': 'Total chlorine content | Total chlorine content | % | 0. 10 | | | | 0. 8 <header> <INSPECTION ITEM > | <INSPECTION ITEM > | <UNIT> | <ANALYTICAL VALUE> | <STAND> <MIN.> | <SPEC.> <> | <SPEC.> <> | <SPEC.> <MAX.> </header>', 'label': []}",irrelevant
+"{'data': 'Non - Volatile Matter DIN EN ISO 3251 ( 1 h ; 120 °C ; 2 g ) | [ % ] | 54 – 56 <header> <Dynamic Viscosity DIN 53177 Cone & Plate ( 23 °C ) > | < [ mPa.s ] > | < 300 - 500 > </header>', 'label': [[22, 37, 'method'], [40, 58, 'measuring_condition'], [65, 66, 'unit'], [71, 73, 'min'], [76, 78, 'max']]}",Solid content
+"{'data': 'Acid Number @ 25 °C/ 25 °C | 1.1', 'label': [[14, 26, 'measuring_condition'], [29, 32, 'mean']]}",Acid content
+"{'data': 'H 1 / 2 | 23.1 ± 1.0 % | 122 KU～ 128 KU | 122 KU～ 128 KU | 122 KU～ 128 KU <header> <Index （指标） Tepy （型号）> | <solid content ( 固含量 ) > | <Viscosity （粘度mpa.s）> | <Color （铁 - 钴色号）> | <Appearance （外观）> </header>', 'label': []}",multi
+"{'data': 'Odour and taste | Odour and taste | Odour and taste | Odour and taste | Odour and taste | Odour and taste <header> <CARACTERISTIQUES Characteristics> | <UNITES Units> | <Valeur Type Typical Value> | <Minimum> | <Maximum> | <METHODES Methods> </header>', 'label': []}",irrelevant
+"{'data': 'OH Vaiue | | 66 <header> <Product quality :> <Appearance> | <Product quality :> < ( KSM 2051 ) > | <Product quality :> <Clear> </header>', 'label': [[13, 15, 'mean']]}",Hydroxyl value
+"{'data': 'Ignition point ℃ | ≥ 180', 'label': []}",irrelevant
+"{'data': 'Acid Number ……………………………………………………………………………………. 5 - 6', 'label': [[46, 47, 'min'], [50, 51, 'max']]}",Acid content
+"{'data': 'Viscosity : | - | - | <header> <Property / Characteristic> | <Unit> | <Limit or Range> | <Method of Determination> </header>', 'label': []}",Viscosity
+"{'data': 'Viscosity 25 o C, sec ( Conc. 12.2 % ) | 16 - 24', 'label': [[10, 16, 'measuring_condition'], [18, 21, 'unit'], [41, 43, 'min'], [46, 48, 'max'], [24, 36, 'measuring_condition']]}",Viscosity
+"{'data': 'acetate | > 50', 'label': []}",irrelevant
+"{'data': 'Specific gravity at 25 o C | 1.07', 'label': []}",irrelevant
+"{'data': 'RS 800 sec | 600 ~ 1000 | Below 0.03 % | 100 kg <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > | <Packaging> </header>', 'label': []}",multi
+"{'data': 'Gelling time ( s ) ( hot plate ) | 17 - 22 ( 200 ℃ )', 'label': []}",irrelevant
+"{'data': ' | Solubility ( g/ 100 ml solvent ) at 25 °C : | <header> <.> | <Appearance off - white> | <powder> </header>', 'label': []}",irrelevant
+"{'data': ' ( 4 - 5 ) min.', 'label': []}",irrelevant
+"{'data': 'RS 10 ~ 15 sec | 10 ~ 15 | Below 0.03 % <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > </header>', 'label': []}",multi
+"{'data': 'Nitrocellulose Liquor Technique Data Sheet ( 硝化棉溶液技术数据表 )', 'label': []}",irrelevant
+"{'data': 'Max | | | | 115 | 115 <header> <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > </header>', 'label': []}",stray
+"{'data': 'No respirator required under normal handling conditions. | No respirator required under normal handling conditions. | No respirator required under normal handling conditions. | No respirator required under normal handling conditions. | No respirator required under normal handling conditions. | | <header> <> <Physical State Gas Liquid > | <> <Colour Solld > | <> <amber> | <> <Odour Odour slight> | <> <Threshold PH not available> | <> < 5.8 - 9.5 > | <> <Melting / Freezing Point not applicable> </header>', 'label': []}",irrelevant
+"{'data': 'The date of manufacture | | June/ 10 / 2014 | | | <header> <INSPECTION ITEM > | <UNIT> | <ANALYTICAL VALUE> | <STAND. SPEC.> <MIN.> | <STAND. SPEC.> <> | <STAND. SPEC.> <MAX.> </header>', 'label': []}",irrelevant
+"{'data': ' | Shore D a. 7 d r.t. | 80 | | ISO 868 <header> <> | <Property> | <Value> | <Unit> | <Method of Determination> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance ( visual ) | Solid Clear Granules', 'label': []}",irrelevant
+"{'data': 'Acid CON. % | ≤ 0.08', 'label': [[10, 11, 'unit'], [16, 20, 'max']]}",Acid content
+"{'data': 'DESCRIPTION | White to cream coloured granules. Free from foreign matter', 'label': []}",irrelevant
+"{'data': 'Ash Content , % | 0.3 max', 'label': []}",irrelevant
+"{'data': 'Chlorine content | ≥ 64.5 | % by wt. | DIN EN ISO 1158 <header> <Density> | <approx. 1.5 > | <g/ml> | <DIN 53 479 > </header>', 'label': []}",irrelevant
+"{'data': 'Recommended storage and transport temp. ( °C ) | Recommended storage and transport temp. ( °C ) | + 5 to + 40 |', 'label': []}",irrelevant
+"{'data': 'g/ml | 1.02 ± 0.015', 'label': []}",stray
+"{'data': 'Typical properties', 'label': []}",irrelevant
+"{'data': 'Flash Point DIN EN ISO 1523 flash point approx. | [ °C ] - 4 | [ °C ] - 4 | <header> <TYPE> | <> | <> | <SPECIAL PRODUCT> </header>', 'label': []}",irrelevant
+"{'data': 'Color, USDA rosin scale, maximum…………………………………………………………….N', 'label': []}",irrelevant
+"{'data': 'CRAYVALLAC WN - 1495 | 10 | 10 | 10 <header> <REAFREE 8304 - T> | < 608 > | < - - - > | < - - - > </header>', 'label': []}",irrelevant
+"{'data': '- | delivery form pellets', 'label': [[18, 25, 'qualitative_value']]}",Solvent type
+"{'data': 'RS 30 ~ 40 sec | 30 ~ 40 | Below 0.03 % <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > </header>', 'label': []}",multi
+"{'data': 'Density at 20 D. Cent., approx: | 1.06 ( g/cc ) <header> <Appearance:> | <Clear colorless liquid> </header>', 'label': []}",irrelevant
+"{'data': 'ph | 5.0 - 7.0', 'label': []}",irrelevant
+"{'data': 'Gardner Color | 3 max.', 'label': []}",irrelevant
+"{'data': 'Thinner Consititute：IBA/TOL/EAC/MIBK/MEK= 20 / 15 / 15 / 30 / 20', 'label': [[24, 27, 'qualitative_value'], [28, 31, 'qualitative_value'], [32, 36, 'qualitative_value'], [37, 41, 'qualitative_value']]}",Solvent type
+"{'data': 'RS 1 / 32 sec ( 10 - 15 cps ) | Below 1.0 | Below 0.05 % | 120 kg <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > | <Packaging> </header>', 'label': []}",multi
+"{'data': '1. Resin Type : | N', 'label': []}",irrelevant
+"{'data': 'Solids content ( weight ) | 39 - 41 %', 'label': [[28, 30, 'min'], [33, 35, 'max'], [36, 37, 'unit'], [17, 23, 'measuring_condition']]}",Solid content
+"{'data': 'flash point | [ °C ] > 95 | It is important to protect Daotan TW 6425 from frost ; at low temperatures it has therefore to be stored under frostproof conditions. <header> <PRELIMINARY PRODUCT INFORMATION> <TYPE> | <PRELIMINARY PRODUCT INFORMATION> <TYPE> | <DEVELOPMENT PRODUCT> <This product is serving for trial purposes only. Deviations which might occur during transfer into manufacturing in a commercial scale are possible and do not constitute any material defect.> </header>', 'label': []}",irrelevant
+"{'data': 'Solvent : | Water', 'label': [[12, 17, 'qualitative_value']]}",Solvent type
+"{'data': 'Density ( Liquids ) DIN EN ISO 2811 - 2 density | [ g/cm³ ] 1,03 | corrosion resistance. <header> <TYPE> | <> | <H - equivalent weight> </header>', 'label': []}",irrelevant
+"{'data': 'Refractive Index ( liquid ) | 1.4948 ± 0.001 | ABBE Refractometer ( ATACO 3 T ) @ 550 nm, @ 25 ℃ <header> <> | <CHTU - 2611 > | <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Resin Molecular Weight, Mn | 4200', 'label': []}",irrelevant
+"{'data': 'The date of manufacture | June/ 18 / 2014', 'label': []}",irrelevant
+"{'data': 'Appearance | Glass Pale granules', 'label': []}",irrelevant
+"{'data': 'Polyurethane Dispersion Type | Aliphatic, polyester, anionic', 'label': []}",irrelevant
+"{'data': '2. Appearance : | silver', 'label': []}",irrelevant
+"{'data': 'Triglycidylisocyanurate ( 2 ) | 45', 'label': []}",irrelevant
+"{'data': 'Reverse Impact ( 3 ) | Over 80 Kg.cm', 'label': []}",irrelevant
+"{'data': 'Appearance ( Clear & Bright ) | Visual | Visual | n/a | C&B | C&B <header> <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > | <SPECIFICATIONS PROPERTIES METHOD/ASTM NUMBER ( IF APPLICABLE ) > </header>', 'label': []}",irrelevant
+"{'data': 'Tetrachloromethane content | ≤ 0.005 | % by wt. | 2208 - 0005501 - 14 D <header> <Form supplied> <Specification Property> | <Fine powder> <Value> | <Fine powder> <Unit of measurement> | <Fine powder> <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Density: | 8.30 + 0.10 lbs./gal', 'label': []}",irrelevant
+"{'data': 'Benzoin | 0,5', 'label': []}",irrelevant
+"{'data': 'non - volatile fraction ( nvf ) | 80', 'label': [[34, 36, 'mean']]}",Solid content
+"{'data': 'Appearance | Milky white <header> <Property> | <Typical Values> </header>', 'label': []}",irrelevant
+"{'data': 'EBECRYL® 168 | 0.5', 'label': []}",irrelevant
+"{'data': 'RS 300 sec | 220 ~ 350 | Below 0.03 % | 100 kg <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > | <Packaging> </header>', 'label': []}",multi
+"{'data': 'RS 1 / 4 sec | 3.0 ~ 5.9 | Below 0.04 % | 120 kg <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > | <Packaging> </header>', 'label': []}",multi
+"{'data': 'Acid value ""as such"" | <= 1,0 | 0,3 | mgkOH/g | 303 A <header> <Description> | <Specifications> | <Results> | <Units> | <Method> </header>', 'label': [[26, 29, 'max'], [38, 45, 'unit'], [48, 53, 'method']]}",Acid content
+"{'data': 'Specific Gravity | 1.14 - 1.24', 'label': []}",irrelevant
+"{'data': 'RS 1 / 32 sec | Below 1.0 | Below 0.05 % <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > </header>', 'label': []}",multi
+"{'data': 'NITROCELLULOSE | ( SEC ) | 20 | 20 | <header> <TEST ITEM> | <UNIT> | <SPECIFIXARION> | <RESULT> | <REMARK> </header>', 'label': []}",irrelevant
+"{'data': ' | 処理面 | 未処理面 | 未処理面 <header> <> | <光学グレード> <処理面> | <光学グレード> <未処理面> | <高結晶性 未処理品> <未処理面> </header>', 'label': []}",irrelevant
+"{'data': '• | Gardner Viscosity, at 25 °C | Z – Z 3', 'label': [[4, 11, 'measuring_condition'], [23, 31, 'measuring_condition'], [34, 35, 'min'], [38, 41, 'max']]}",Viscosity
+"{'data': ' | For any information related to handling and toxicological knowledge about this resin please refer to the Safety data Sheet. | For any information related to handling and toxicological knowledge about this resin please refer to the Safety data Sheet. | For any information related to handling and toxicological knowledge about this resin please refer to the Safety data Sheet. <header> <TYPE DELIVERY FORM> | <Air - drying short - oil alkyd resin. 65 % in BUTYL ACETATE> | <Air - drying short - oil alkyd resin. 65 % in BUTYL ACETATE> | <Air - drying short - oil alkyd resin. 65 % in BUTYL ACETATE> </header>', 'label': []}",irrelevant
+"{'data': 'Benzoin | 3', 'label': []}",irrelevant
+"{'data': 'Ignition Point , C | 180 min', 'label': []}",irrelevant
+"{'data': 'SUGGESTED APPLICATIONS | THF | > 50 <header> <> | <Appearance> | <Off - white flake> </header>', 'label': []}",irrelevant
+"{'data': 'Benzoin | 3', 'label': []}",irrelevant
+"{'data': 'Polymer : | UV Curable Polyurethane.', 'label': []}",irrelevant
+"{'data': 'Kronos 2310 | 50', 'label': []}",irrelevant
+"{'data': 'Viscosity （粘度） | H | H | 1 / 4 c | | — | — | — | — | — | 8.1 ~ 10.0 | <header> <Item （项目）> | <Item （项目）> | <Item （项目）> | <Item （项目）> | <Unit ( 单位 ) > | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Test Method （检测方法）> </header>', 'label': [[57, 60, 'min'], [63, 67, 'max']]}",Viscosity
+"{'data': 'Freezing Point | - 130 ºF ( - 90 ℃ )', 'label': []}",irrelevant
+"{'data': 'Product specification | Value | Unit <header> <Delivery form> | < 100 % , viscous liquid> | <> </header>', 'label': []}",header
+"{'data': 'COMPATIBILITY | Esthers - Ketones *Nitrocellulose Amine resins | Complete Compatible Compatible | <header> <TYPE DELIVERY FORM> | <Air - drying short - oil alkyd resin. 65 % in BUTYL ACETATE> | <Air - drying short - oil alkyd resin. 65 % in BUTYL ACETATE> | <Air - drying short - oil alkyd resin. 65 % in BUTYL ACETATE> </header>', 'label': []}",irrelevant
+"{'data': 'Acid Value, mg KOH/g | 20 – 28', 'label': [[12, 20, 'unit'], [23, 25, 'min'], [28, 30, 'max']]}",Acid content
+"{'data': 'Flashpoint | 62 ℃', 'label': []}",irrelevant
+"{'data': '• Brookfield Viscosity ( CAP 2000, 750 rpm, at 200 C, cps ) O | 3800 - 5200', 'label': [[2, 12, 'measuring_condition'], [25, 33, 'method'], [35, 52, 'measuring_condition'], [54, 57, 'unit'], [64, 68, 'min'], [71, 75, 'max']]}",Viscosity
+"{'data': 'Ignition point | ℃ ≥ 180', 'label': []}",irrelevant
+"{'data': 'ltem | Unit | Spec <header> <ltem> | <Unit> | <Spec> </header>', 'label': []}",header
+"{'data': 'Melting Point : | ≦－ 5 ℃', 'label': []}",irrelevant
+"{'data': 'Acid value ( 2 ) | 30 – 36 ( mg.KOH/g. ) <header> <Appearance> | <Pale granules> </header>', 'label': [[19, 21, 'min'], [24, 26, 'max'], [29, 37, 'unit']]}",Acid content
+"{'data': 'Dynamic Viscosity ( Ubbelohde ) DIN 53177 dynamic viscosity ( 23 °C ) | 150 ‐ 500', 'label': [[0, 7, 'measuring_condition'], [20, 29, 'measuring_condition'], [32, 41, 'method'], [42, 49, 'measuring_condition'], [62, 67, 'measuring_condition'], [72, 75, 'min'], [78, 81, 'max']]}",Viscosity
+"{'data': 'Viscosity （粘度） | H | H | 1 / 4 c | | — | — | — | — | — | 8.1 ~ 10.0 | <header> <Item （项目）> | <Item （项目）> | <Item （项目）> | <Item （项目）> | <Unit ( 单位 ) > | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Test Method （检测方法）> </header>', 'label': [[57, 60, 'min'], [63, 67, 'max']]}",Viscosity
+"{'data': 'Viscosity | 25 ℃ | 74 ~ 8 KU <header> <Item> | <Unit> | <Spec> </header>', 'label': [[12, 16, 'measuring_condition'], [19, 21, 'max'], [24, 25, 'min'], [26, 28, 'unit']]}",Viscosity
+"{'data': 'pH 8.3 | pH 8.3 | pH 8.3 | pH 8.3 | | <header> <Typical properties:> | <Typical properties:> | <Typical properties:> | <Typical properties:> | <Film Properties:> | <> </header>', 'label': []}",irrelevant
+"{'data': 'viscosity at 23 °C ( 73 °F ) | 200 – 400 mPa . s', 'label': [[13, 28, 'measuring_condition'], [31, 34, 'min'], [37, 40, 'max'], [41, 48, 'unit']]}",Viscosity
+"{'data': 'AND | Aliphatics - Alcohols | Limited | <header> <TYPE DELIVERY FORM> | <Air - drying short - oil alkyd resin. 65 % in BUTYL ACETATE> | <Air - drying short - oil alkyd resin. 65 % in BUTYL ACETATE> | <Air - drying short - oil alkyd resin. 65 % in BUTYL ACETATE> </header>', 'label': []}",irrelevant
+"{'data': 'Specification | Colour ( APHA ) ≤ 60 *This data is only for reference, product specifications should be followed to final released data. <header> <Urethane acrylate W 2528 B> | <Urethane acrylate W 2528 B> </header>', 'label': []}",irrelevant
+"{'data': 'Solid content | [ % ] | 49 - 51', 'label': [[18, 19, 'unit'], [24, 26, 'min'], [29, 31, 'max']]}",Solid content
+"{'data': 'Appearance: | White liquid', 'label': []}",irrelevant
+"{'data': 'Crystallization time ( @ 50 % in ketone ) | h | min. 12 | - - - <header> <Characteristics> | <Units> | <Specifications> <NC> | <Specifications> <TR> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance | White non - regular flake', 'label': []}",irrelevant
+"{'data': 'COMPOSITION', 'label': []}",irrelevant
+"{'data': 'Test | Specification <header> <Test> | <Specification> </header>', 'label': []}",header
+"{'data': 'Temperature | 90 to 100 °C <header> <> | <Extrusion> </header>', 'label': []}",irrelevant
+"{'data': 'Apha colour, Hazen | Max 100 | Max 100 <header> <Test, units> <> | <Typical Value> <Prifrac 2914 > | <Typical Value> <Prifrac 2915 > </header>', 'label': []}",irrelevant
+"{'data': '200 | 75 | 2.4 | 2.4 | 8.0 | 13.6 <header> <Bss Mesh> | <Cumulative % Retained> <Microns> | <Cumulative % Retained> <Lower I imit> | <Cumulative % Retained> <Lower I imit> | <Cumulative % Retained> <Mean> | <Cumulative % Retained> <Upper> </header>', 'label': []}",irrelevant
+"{'data': 'VOLATILE SOLVENT | Ｅthylbenzene', 'label': [[0, 8, 'measuring_condition'], [19, 31, 'qualitative_value']]}",Solvent type
+"{'data': 'Fire point / C ( F ) | Cleveland Open Cup 252 ( 485 )', 'label': []}",irrelevant
+"{'data': 'Iodine value acc. to Wijs | g Iod/ 100 g 70 - 80 | g Iod/ 100 g 70 - 80 | ISO 3961 <header> <Specification:> | <> | <> | <According to:> </header>', 'label': []}",irrelevant
+"{'data': 'Visual appearance | Transparent', 'label': []}",irrelevant
+"{'data': 'Total solids: | 36 %', 'label': [[0, 5, 'measuring_condition'], [16, 18, 'mean'], [19, 20, 'unit']]}",Solid content
+"{'data': '1. Resin Type : cellulose Resin', 'label': []}",irrelevant
+"{'data': 'BREMAZIT | 3050 04.2005 | 3050 04.2005 | 3050 04.2005', 'label': []}",irrelevant
+"{'data': 'Minimum Film Formation Temperature | 18 °C', 'label': []}",irrelevant
+"{'data': 'Vicat Softening Point | Received JIS K 7206 | Updated °C | < 30 <header> <Property> | <Test Method> | <Units> | <EV 40 W> </header>', 'label': []}",irrelevant
+"{'data': 'Glass transition temperature | °C | 110 | Internal procedure <header> <> | <Unit> | <Value> | <Test method> </header>', 'label': [[31, 33, 'unit'], [36, 39, 'mean'], [42, 60, 'measuring_condition']]}",Glass transition temperature
+"{'data': 'Drying speed | | | | | | <header> <> | <> | <> | <> | <> | <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Acid Content ( as H 2 SO 4 ) , % | 0.03 max', 'label': [[15, 26, 'measuring_condition'], [31, 32, 'unit'], [35, 39, 'max']]}",Acid content
+"{'data': 'ca. degree of polymerisation, DP ( GPC/PSI ) : | 1.9', 'label': []}",irrelevant
+"{'data': 'Whiteness（白度） | Whiteness（白度） | Whiteness（白度） | Whiteness（白度） | % | ≥ 88 | | ≥ 86 | ≥ 86 | ≥ 84 | ≥ 82 | WJ 9028 - 05 4.5.5 <header> <Item （项目）> | <Item （项目）> | <Item （项目）> | <Item （项目）> | <Unit ( 单位 ) > | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Test Method （检测方法）> </header>', 'label': []}",irrelevant
+"{'data': 'RS 30 ~ 40 sec | 30 ~ 40 | Below 0.03 % <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > </header>', 'label': []}",multi
+"{'data': 'Viscosity | 110 – 150 cP | PO 4925 <header> <Analysis> | <Specifications> | <Methods of CNQB> </header>', 'label': [[12, 15, 'min'], [18, 21, 'max'], [22, 24, 'unit'], [27, 34, 'method']]}",Viscosity
+"{'data': 'VINNOL® H 30 / 48 M is a carboxylate - containing terpolymer of approx. 70 wt. % vinyl chloride ( VC ) , approx. 29 wt. % vinyl acetate ( VAc ) and approx. 1 wt. % dicarboxylic acid.', 'label': []}",irrelevant
+"{'data': 'BROOKFIELD VISCOSITY 1 | 1250 cps + 400 cps', 'label': [[0, 10, 'measuring_condition'], [25, 29, 'mean'], [30, 33, 'unit'], [36, 39, 'std'], [40, 43, 'unit']]}",Viscosity
+"{'data': 'Nonvolatiles, ""in can,"" % | 98', 'label': [[24, 25, 'unit'], [28, 30, 'mean']]}",Solid content
+"{'data': 'TYPE | TYPE | This product is serving for trial purposes only. Deviations which might occur during transfer into manufacturing in a commercial scale are possible and do not constitute any material defect. <header> <PRELIMINARY PRODUCT INFORMATION> <TYPE> | <PRELIMINARY PRODUCT INFORMATION> <TYPE> | <DEVELOPMENT PRODUCT> <This product is serving for trial purposes only. Deviations which might occur during transfer into manufacturing in a commercial scale are possible and do not constitute any material defect.> </header>', 'label': []}",irrelevant
+"{'data': 'RS 1 / 4 H sec | 6.0 ~ 9.0 | Below 0.04 % <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > </header>', 'label': []}",multi
+"{'data': 'Curing | 10 min @ 160 ° C metal temperature <header> <> | <Application> </header>', 'label': []}",irrelevant
+"{'data': ' | L | L | 1 / 4 b | | — | — | — | — | — | 5.0 ~ 8.0 | <header> <Item （项目）> | <Item （项目）> | <Item （项目）> | <Item （项目）> | <Unit ( 单位 ) > | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Test Method （检测方法）> </header>', 'label': []}",irrelevant
+"{'data': 'Theoretical Residual Silicon Dioxide | % | 51 <header> <CTM 1 Property> | <Unit> | <Result> </header>', 'label': []}",irrelevant
+"{'data': 'Engineering Controls Work in well ventilated areas. | Engineering Controls Work in well ventilated areas. | Engineering Controls Work in well ventilated areas. | Engineering Controls Work in well ventilated areas. | | | <header> <> <Physical State Gas Liquid > | <> <Colour Solld > | <> <amber> | <> <Odour Odour slight> | <> <Threshold PH not available> | <> < 5.8 - 9.5 > | <> <Melting / Freezing Point not applicable> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance | Clear | - | 2265 <header> <Property> | <Range> | <Unit> | <TM> </header>', 'label': []}",irrelevant
+"{'data': 'RS 1 / 8 L sec ( 18 - 25 cps ) | 1.6 ~ 2.2 | Below 0.04 % <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > </header>', 'label': []}",multi
+"{'data': 'Properties | Scraped | PWS | DBB <header> <Properties> | <Scraped> | <PWS> | <DBB> </header>', 'label': []}",irrelevant
+"{'data': 'N 2 - Gehalt der enthaltenen NC: | 11,8 | - 12,3 | | Wolff - Prüfmethode <header> <N 2 - Gehalt der enthaltenen NC:> | < 11,8 > | < - 12,3 > | <> < % > | <Wolff - Prüfmethode> <NC - 1.3 > </header>', 'label': []}",irrelevant
+"{'data': 'CYCLOHEXANONE | 17.0 ~ 24.0 wt % <header> <TEST ITEM> | <SPECIFICATION> </header>', 'label': []}",irrelevant
+"{'data': 'Glass transition temp. ( Tg ) | appr. 59 | °C | 2076 <header> <Property> | <Range> | <Unit> | <TM> </header>', 'label': [[38, 40, 'mean'], [43, 45, 'unit'], [48, 52, 'method']]}",Glass transition temperature
+"{'data': '2. Appearance: clear', 'label': []}",irrelevant
+"{'data': 'Saponification value | mg KOH/g 190 - 200 | mg KOH/g 190 - 200 | ISO 3657 <header> <Specification:> | <> | <> | <According to:> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity: 150 cps | Viscosity: 150 cps | Viscosity: 150 cps | Viscosity: 150 cps | Modulus: | 150 psi <header> <Typical properties:> | <Typical properties:> | <Typical properties:> | <Typical properties:> | <Film Properties:> | <> </header>', 'label': [[11, 14, 'mean'], [15, 18, 'unit'], [32, 35, 'mean'], [36, 39, 'unit'], [53, 56, 'mean'], [57, 60, 'unit'], [74, 77, 'mean'], [78, 81, 'unit']]}",Viscosity
+"{'data': ' ( 5 ) | Evaluated at 25 C/ 77 F', 'label': []}",irrelevant
+"{'data': 'Resin Molecular Weight, Mn | 2800', 'label': []}",irrelevant
+"{'data': 'Polymer solids ( % by weight ) | 85', 'label': [[0, 7, 'measuring_condition'], [33, 35, 'mean'], [17, 18, 'unit'], [19, 28, 'measuring_condition']]}",Solid content
+"{'data': 'Final Testing Requirements', 'label': []}",irrelevant
+"{'data': 'Volatile content ( % ) | 30 + 5 %', 'label': []}",irrelevant
+"{'data': '≤ 1 Color ( Gardner ) Efficient content ( % ) 90', 'label': []}",irrelevant
+"{'data': 'NITROGEN CONTENT | 12.02 % | 12.02 %', 'label': []}",irrelevant
+"{'data': 'Component: Ethyl silicate | > 98 %', 'label': []}",irrelevant
+"{'data': 'Damping agent | % | 30 ± 2 | WJ 9028 - 05 4.5.12 <header> <Item> | <Index> <Unit> | <Index> <H 1 / 16 ″> | <Index> <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Blocking Temperature ( °C ) | 170', 'label': []}",irrelevant
+"{'data': '2.Non Volatile | | | 59 to 63 | | % | PCPL/FTM/ 009 <header> <PROPERTY> | <> | <> | <LIMIT> | <> | <UNITS> | <TEST METHOD> </header>', 'label': [[21, 23, 'min'], [27, 29, 'max'], [34, 35, 'unit'], [38, 51, 'method']]}",Solid content
+"{'data': '1.08 | g/cm 3 | DIN EN ISO 1183', 'label': []}",irrelevant
+"{'data': 'Appearance | Pale granulates', 'label': []}",irrelevant
+"{'data': 'Color ( Apha ) | Max 50 | LICO - 150 Colorimeter <header> <> | <CHTU - 2611 > | <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Modification: | Silicone 10 %', 'label': []}",irrelevant
+"{'data': ' | | Ca 0.03 <header> <> | <for primers:> | <for enamels:> </header>', 'label': []}",irrelevant
+"{'data': 'Brookfield Viscosity ( CAP 2000, 750 rpm, at 200 C, cps ) | 3800 - 5200', 'label': [[0, 10, 'measuring_condition'], [33, 50, 'measuring_condition'], [52, 55, 'unit'], [60, 64, 'min'], [67, 71, 'max'], [23, 31, 'method']]}",Viscosity
+"{'data': 'Controlled polymerization | | 0. 3 | | | <header> <INSPECTION ITEM > | <UNIT> | <ANALYTICAL VALUE> | <STAND. SPEC.> <MIN.> | <STAND. SPEC.> <> | <STAND. SPEC.> <MAX.> </header>', 'label': []}",irrelevant
+"{'data': 'Sales Specification', 'label': []}",irrelevant
+"{'data': ' | |', 'label': []}",irrelevant
+"{'data': 'Acid Value ( mgKOH/g ) | 24 - 30 | ASTM D - 1639 <header> <Properties Appearance> | <Specification White Flakes> | <Test Method - - - - - - > </header>', 'label': [[13, 20, 'unit'], [25, 27, 'min'], [30, 32, 'max'], [35, 48, 'method']]}",Acid content
+"{'data': 'Density, g/cm 3 : | 1.2', 'label': []}",irrelevant
+"{'data': 'RS 30 ~ 40 sec | 30 ~ 40 | Below 0.03 % | 100 kg <header> <Specification> | <Viscosity ( sec ) > | <Acidity ( % ) > | <Packaging> </header>', 'label': []}",multi
+"{'data': 'Nitrocellulose Liquor Technique Data Sheet ( 硝化棉溶液技术数据表 )', 'label': []}",irrelevant
+"{'data': '3 Speed | 5 RPM', 'label': []}",stray
+"{'data': ' | Customer Service | Technical Service <header> <> | <Customer Service> | <Technical Service> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity （粘度） | H | H | 1 / 32 | | — | — | — | — | — | 0.6 ~ 1.0 | <header> <Item （项目）> | <Item （项目）> | <Item （项目）> | <Item （项目）> | <Unit ( 单位 ) > | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Index （指标）> | <Test Method （检测方法）> </header>', 'label': [[56, 59, 'min'], [62, 65, 'max']]}",Viscosity
+"{'data': 'Wt/Vol | 1.1 kg/L ( 9.15 lb/gal )', 'label': []}",irrelevant
+"{'data': 'platinum - cobalt ( Hazen ) color number ( DIN ISO 6271 ) | ≤ 60', 'label': []}",irrelevant
+"{'data': 'Ignition point | ℃ | ≥ 180 | ≥ 180 | WJ 9028 - 05 4.5.9 <header> <Item> | <Index> <Unit> | <Index> <H 1 / 8 ″aEA> | <Index> <H 1 / 8 ″bEA> | <Index> <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Density @ 25 °C | | 1.06 kg/dm 3 <header> <Property> | <Test Method> | <Typical Value, Units> </header>', 'label': []}",irrelevant
+"{'data': 'Epoxy resins ( 2 ) | 240', 'label': []}",irrelevant
+"{'data': 'Appearance: Irregular aggregatesr | Softening temperature: 95 - 98 ℃', 'label': []}",irrelevant

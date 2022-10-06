@@ -1,0 +1,852 @@
+text,label
+"{'data': 'Alcohols | Complete', 'label': []}",irrelevant
+"{'data': '07. | Solubility | Easily soluble in water <header> <S/N> | <PARAMETER> | <VALUE> </header>', 'label': []}",irrelevant
+"{'data': '25 ℃） | 2500 - 10000 mpa.s', 'label': []}",irrelevant
+"{'data': 'Product specifications', 'label': []}",irrelevant
+"{'data': 'Appearance | Clear Liquid | ASTM E 284 <header> <Property - > | < - Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Specifications', 'label': []}",irrelevant
+"{'data': ' ( 1 ) grams of n - heptane/toluene ( 3 : 1 ) tolerated per 100 g of resin solution', 'label': []}",irrelevant
+"{'data': 'Esters | Complete <header> <Property Value> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Solvent composition: | Methanol / Ethanol', 'label': [[23, 41, 'qualitative_value']]}",Solvent type
+"{'data': 'density | 1,00 – 1,01 g/cm³', 'label': []}",irrelevant
+"{'data': 'Hazen color value ( DIN EN 1557 ) | ≤ 50', 'label': []}",irrelevant
+"{'data': 'Aromatic hydrocarbons | Insoluble', 'label': []}",irrelevant
+"{'data': 'mPa.s', 'label': []}",irrelevant
+"{'data': '2 ) Density @ 250 C. | 1.01 - 1.03 <header> <SPECIFICATIONS: 1 ) Appearance Colorless Clear liquid> | <SPECIFICATIONS: 1 ) Appearance Colorless Clear liquid> </header>', 'label': []}",irrelevant
+"{'data': 'SOLUBILITY | SOLUBILITY', 'label': []}",irrelevant
+"{'data': 'Solids content ( % ) | ８０ ± ２ | ８０ ． ６ <header> <Ｔｅｓｔ> | <Specification range> | <Ｒｅｓｕｌｔ> </header>', 'label': [[17, 18, 'unit'], [23, 25, 'mean'], [28, 29, 'std']]}",Solid content
+"{'data': 'In water borne systems | DESCRIPTIVE DATA | DESCRIPTIVE DATA | <header> <DELIVERY FORM> | <Methoxymethyl urea> | <Methoxymethyl urea> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Ketones | Complete', 'label': []}",irrelevant
+"{'data': 'Viscosity @ 25 °C, ( Gardner - Holdt ) | Y - Z 3 | 435 - 1200 - 3 <header> <Properties> | <Limits> | <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Density at 20 °C | approx. 1.066 | g/ml | DIN 51 757 <header> <Other data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity, 23 °C | 2500 – 7500 mPa·s | DIN EN ISO 3219 <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Gardner viscosity ( 25 ºC ) | V - Y', 'label': []}",irrelevant
+"{'data': 'Nitrocellulose | Good', 'label': []}",irrelevant
+"{'data': 'Non - volatiles | 54 - 58 | % | 001 G** 3251 | 001 G** 3251 <header> <Property> | <Value> | <Units> | <Method SBM * ISO> | <Method SBM * ISO> </header>', 'label': [[18, 20, 'min'], [23, 25, 'max'], [28, 29, 'unit'], [32, 44, 'method'], [47, 59, 'method']]}",Solid content
+"{'data': 'organic solvent | ≤ 35 % <header> <non - volatile fraction> | < 59 – 62 % > </header>', 'label': []}",Solvent type
+"{'data': 'DIN EN ISO 11402 | [ % ] | < 0.20 | <header> <Delermined per batch Solvent and waterborne ( cosolvent ) sloving enamel painls Automolive primers, base and clear coals ; coil coatings ; acid cured Property paper loil coalings> <Viscosity DIN EN ISO 3219 - B Cone& Plate 23 ℃> | <Delermined per batch Solvent and waterborne ( cosolvent ) sloving enamel painls Automolive primers, base and clear coals ; coil coatings ; acid cured Property paper loil coalings> < [ mPas ] £> | <Delermined per batch Solvent and waterborne ( cosolvent ) sloving enamel painls Automolive primers, base and clear coals ; coil coatings ; acid cured Property paper loil coalings> < 3000 - 6800 > | <Delermined per batch Solvent and waterborne ( cosolvent ) sloving enamel painls Automolive primers, base and clear coals ; coil coatings ; acid cured Property paper loil coalings> <> </header>', 'label': []}",stray
+"{'data': 'Resistivity: ohm/cm at 25 ℃ | - | 8 × 107', 'label': []}",irrelevant
+"{'data': 'CYMEL® 385 resin is a methylated high imino melamine resin with a low degree of alkylation. Being supplied in water, it is recommended as a crosslinking agent for hydroxyl - containing emulsion polymers and other aqueous systems containing hydroxyl or amide functionality. CYMEL 385 resin has a high tendency to self - condense and may be used to increase the hardness and resistance properties of thermoplastic waterborne polymers.', 'label': [[110, 115, 'qualitative_value']]}",Solvent type
+"{'data': 'Item ( s ) | Specification | Test method <header> <Item ( s ) > | <Specification> | <Test method> </header>', 'label': []}",header
+"{'data': 'typical properties ( no supply specification )', 'label': []}",irrelevant
+"{'data': 'Delermined per batch Solvent and waterborne ( cosolvent ) sloving enamel painls Automolive primers, base and clear coals ; coil coatings ; acid cured Property paper loil coalings | Delermined per batch Solvent and waterborne ( cosolvent ) sloving enamel painls Automolive primers, base and clear coals ; coil coatings ; acid cured Property paper loil coalings | Delermined per batch Solvent and waterborne ( cosolvent ) sloving enamel painls Automolive primers, base and clear coals ; coil coatings ; acid cured Property paper loil coalings | Delermined per batch Solvent and waterborne ( cosolvent ) sloving enamel painls Automolive primers, base and clear coals ; coil coatings ; acid cured Property paper loil coalings <header> <Delermined per batch Solvent and waterborne ( cosolvent ) sloving enamel painls Automolive primers, base and clear coals ; coil coatings ; acid cured Property paper loil coalings> <Viscosity DIN EN ISO 3219 - B Cone& Plate 23 ℃> | <Delermined per batch Solvent and waterborne ( cosolvent ) sloving enamel painls Automolive primers, base and clear coals ; coil coatings ; acid cured Property paper loil coalings> < [ mPas ] £> | <Delermined per batch Solvent and waterborne ( cosolvent ) sloving enamel painls Automolive primers, base and clear coals ; coil coatings ; acid cured Property paper loil coalings> < 3000 - 6800 > | <Delermined per batch Solvent and waterborne ( cosolvent ) sloving enamel painls Automolive primers, base and clear coals ; coil coatings ; acid cured Property paper loil coalings> <> </header>', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde | ~ 0.6 %', 'label': [[22, 25, 'max'], [26, 27, 'unit']]}",Monomer formaldehyde
+"{'data': 'Appearance | Clear liquid', 'label': []}",irrelevant
+"{'data': 'Amine value | 168 - 176 | mg KOH/g | <header> <Characteristic data Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[14, 17, 'min'], [20, 23, 'max'], [26, 34, 'unit']]}",Amine value
+"{'data': 'Esters | Complete', 'label': []}",irrelevant
+"{'data': 'Viscous liquid 65 % non volatile in n - butanol', 'label': []}",irrelevant
+"{'data': 'Non - Volatile Matter DIN EN ISO 3251 ( 1 h ; 120 °C ; 2 g ) | [ % ] | 71 – 73 <header> <Dynamic Viscosity DIN 53177 Cone & Plate ( 23 °C ) > | < [ mPa.s ] > | < 11000 - 29000 > </header>', 'label': [[22, 37, 'method'], [40, 58, 'measuring_condition'], [65, 66, 'unit'], [71, 73, 'min'], [76, 78, 'max']]}",Solid content
+"{'data': 'Viscosity, 23 °C | 1700 - 4500 | ISO 3219 / 11910 mPa.s', 'label': []}",irrelevant
+"{'data': '6 ) % Free formaldehyde of supply | 2 Max.', 'label': [[4, 5, 'unit'], [36, 37, 'max']]}",Monomer formaldehyde
+"{'data': 'shear rate D | – 1 20,6 s', 'label': []}",irrelevant
+"{'data': 'Properties', 'label': []}",irrelevant
+"{'data': 'Property | Range | Method', 'label': []}",header
+"{'data': 'Specific gravity, g/cc | 1.2', 'label': []}",irrelevant
+"{'data': 'Luwipal® 073', 'label': []}",irrelevant
+"{'data': '*Gel @ 25 C. min. | 270 - 475', 'label': []}",irrelevant
+"{'data': 'acid value | ≤ 6 mg KOH/g', 'label': [[15, 16, 'max'], [17, 25, 'unit']]}",Acid content
+"{'data': ' | Shear rate D | 20.6 s - 1 <header> <Typical Properties> | <Appearance> | <resin solution> </header>', 'label': []}",irrelevant
+"{'data': 'SOLUBILITY | SOLUBILITY', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde | ~ 0.9 % | Sulfite Method <header> <Property> | <Range> | <Method> </header>', 'label': [[22, 25, 'mean'], [26, 27, 'unit'], [30, 44, 'method']]}",Monomer formaldehyde
+"{'data': 'Aromatic hydrocarbons | Complete', 'label': []}",irrelevant
+"{'data': 'Color ( Pt - Co ) | ≤ 30', 'label': []}",irrelevant
+"{'data': 'Color, APHA | ≤ 70 | DIN EN ISO 6271 <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Compatibility, MS/ 20 ℃ | 5 ～ 18', 'label': []}",irrelevant
+"{'data': 'Property | Typical Value | Method', 'label': []}",header
+"{'data': 'Acid number, solution basis ( 3 ) | 0.5 - 2.0', 'label': [[36, 39, 'min'], [42, 45, 'max']]}",Acid content
+"{'data': 'Dynamic Viscosity DIN 53177', 'label': []}",irrelevant
+"{'data': 'Esters | Complete', 'label': []}",irrelevant
+"{'data': 'Properties | Limits | Test Method <header> <Properties> | <Limits> | <Test Method> </header>', 'label': []}",header
+"{'data': 'Gardner viscosity 25 ºC: S – V', 'label': []}",irrelevant
+"{'data': 'Stability | COMPATIBILITY | COMPATIBILITY | <header> <DELIVERY FORM> | <Methoxymethyl urea> | <Methoxymethyl urea> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Dry time, tack free time ( min ) | 20 - 30 <header> <Typical Properties> | <> </header>', 'label': []}",irrelevant
+"{'data': 'COMPATIBILITY | COMPATIBILITY', 'label': []}",irrelevant
+"{'data': 'Weight control | Control standard | 0 - 1 Kg | 0 - 1 Kg | 0 - 0.2 Kg <header> <Package weight> | <Container> | <Steel drum> | <Steel drum> | < 5 gallon can> </header>', 'label': []}",irrelevant
+"{'data': 'PHYSICAL PROPERTIES', 'label': []}",irrelevant
+"{'data': 'non - volatile | 50 – 54 %', 'label': [[17, 19, 'min'], [22, 24, 'max'], [25, 26, 'unit']]}",Solid content
+"{'data': 'Not continually determined', 'label': []}",irrelevant
+"{'data': 'Ketones | Complete', 'label': []}",irrelevant
+"{'data': 'Non - Volatiles | 57 - 61 | % | 01 - 1 | 3251 <header> <Property> | <Value Unit> | <Value Unit> | <Method SDM*> | <ISO> </header>', 'label': [[18, 20, 'min'], [23, 25, 'max'], [28, 29, 'unit'], [32, 38, 'method'], [41, 45, 'method']]}",Solid content
+"{'data': 'Property | Range | Method <header> <Property> | <Range> | <Method> </header>', 'label': []}",header
+"{'data': 'Grade name | M - XA - 2950', 'label': []}",irrelevant
+"{'data': 'Non - volatile,1 % , min | hazy 79 = 2', 'label': [[15, 16, 'min'], [17, 18, 'unit']]}",Solid content
+"{'data': ' | Acid value | ≤ 3 mg KOH/g <header> <Typical Properties> | <Appearance> | <resin solution> </header>', 'label': [[18, 19, 'max'], [20, 28, 'unit']]}",Acid content
+"{'data': 'COMPATIBILITY | COMPATIBILITY', 'label': []}",irrelevant
+"{'data': ' ( 4 ) | Evaluated at 25 C/ 77 F', 'label': []}",irrelevant
+"{'data': 'Haze, APHA ( 435 - 1019 ) | | 5 max. <header> <Viscosity DIN EN ISO 3219 - B Cone & Plate ( 23 °C ) > | < [ mPas ] > | < 3800 - 10670 > </header>', 'label': []}",irrelevant
+"{'data': 'Property | Range | Method <header> <Property> | <Range> | <Method> </header>', 'label': []}",header
+"{'data': 'Free formaldehyde | ~ 0.4 % | Sulfite Method <header> <Property> | <Range> | <Method> </header>', 'label': [[22, 25, 'mean'], [26, 27, 'unit'], [30, 44, 'method']]}",Monomer formaldehyde
+"{'data': 'Shelf life at 20 °C | 12 months', 'label': []}",irrelevant
+"{'data': 'Density at 20 °C | approx. 1.06 | g/ml | DIN 51 757 <header> <Other data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Acid number | 0.8 - 2.6 mg KOH/g ISO 3683', 'label': [[14, 17, 'min'], [20, 23, 'max'], [24, 32, 'unit'], [33, 41, 'method']]}",Acid content
+"{'data': ' | Non - volatile matter | ~ 62 % <header> <Typical Properties> | <Appearance> | <resin solution> </header>', 'label': [[29, 31, 'mean'], [32, 33, 'unit']]}",Solid content
+"{'data': 'viscosity at 23 °C ( 73 °F ) | 1,4 – 1,7 Pa. s', 'label': []}",irrelevant
+"{'data': 'acid value | ≤ 1 mg KOH/g <header> <non - volatile fraction> | < 59 – 62 % > </header>', 'label': [[15, 16, 'max'], [17, 25, 'unit']]}",Acid content
+"{'data': 'Appearance | Ｃ＆Ｃ | Ｃ＆Ｃ <header> <Ｔｅｓｔ> | <Specification range> | <Ｒｅｓｕｌｔ> </header>', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde ( % ) | ≦ 0.1', 'label': [[20, 21, 'unit'], [28, 31, 'max']]}",Monomer formaldehyde
+"{'data': 'Polyester resins | Very good', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde | < 0.7 % | Sulfite Titration <header> <Property> | <Range> | <Method> </header>', 'label': [[22, 25, 'max'], [26, 27, 'unit'], [30, 47, 'method']]}",Monomer formaldehyde
+"{'data': 'Property | Range | Method <header> <Property> | <Range> | <Method> </header>', 'label': []}",header
+"{'data': 'Free formaldehyde | < 0.3 % | Sulfite Method <header> <Property> | <Range> | <Method> </header>', 'label': [[22, 25, 'max'], [26, 27, 'unit'], [30, 44, 'measuring_condition']]}",Monomer formaldehyde
+"{'data': 'Alkyd/urea ratio 75 / 25 Solvent: xylene/butanol ratio 85 / 15', 'label': [[34, 40, 'qualitative_value'], [41, 48, 'qualitative_value']]}",Solvent type
+"{'data': 'flash point | > 100 °C ( 212 °F )', 'label': []}",irrelevant
+"{'data': '< 1', 'label': []}",stray
+"{'data': '• Acid Value | - Mg/KOH | - Mg/KOH | BSMT A 101 | - | 1.5 <header> <Physical Property> | <Units> | <Units> | <Method ( 1 ) > | <Minimum> | <Maximum> </header>', 'label': [[17, 23, 'unit'], [28, 34, 'unit'], [37, 47, 'method'], [54, 57, 'max']]}",Acid content
+"{'data': 'Acid number | . 1.0 max.', 'label': [[16, 19, 'max']]}",Acid content
+"{'data': 'Property | Data & Description | Test Method <header> <Property> | <Data & Description> | <Test Method> </header>', 'label': []}",header
+"{'data': 'Acid value ( as such ) | 1.3 | mg KOH/g | | 3682 <header> <Property> | <Value Unit> | <Value Unit> | <Method SDM*> | <ISO> </header>', 'label': [[25, 28, 'mean'], [31, 39, 'unit'], [44, 48, 'method']]}",Acid content
+"{'data': 'Viscosity ( Gardner - holdt @ 25 ℃ ) | R - U', 'label': []}",irrelevant
+"{'data': 'density at 20 °C ( 68 °F ) | ~ 1.11 g/cm³', 'label': []}",irrelevant
+"{'data': 'Alcohols | Complete', 'label': []}",irrelevant
+"{'data': 'Aromatic hydrocarbons | Partial', 'label': []}",irrelevant
+"{'data': 'Property | Value | Unit | Method ISO <header> <Property> | <Value> | <Unit> | <Method ISO> </header>', 'label': []}",header
+"{'data': 'Aliphatic hydrocarbons | Complete', 'label': []}",irrelevant
+"{'data': 'Water content | ≤ 0.15 | % | <header> <Other data* Property> | <Value> | <Unit of measurement Method> | <Unit of measurement Method> </header>', 'label': []}",irrelevant
+"{'data': 'Dynamic Viscosity DIN 53177 Cone & Plate ( 23 °C ) | Dynamic Viscosity DIN 53177 Cone & Plate ( 23 °C ) | [ mPa.s ] | 600 - 1000', 'label': []}",irrelevant
+"{'data': ' [ °C ] | 46', 'label': []}",stray
+"{'data': ' [ g/ml ] | 1,17', 'label': []}",irrelevant
+"{'data': 'viscosity at 23 °C ( ISO 3219 B ) | 2.5 – 3.5 Pa.', 'label': []}",irrelevant
+"{'data': 'viscosity at 23 °C ( 73 °F ) | 3,0 – 6,0 Pa. s', 'label': []}",irrelevant
+"{'data': 'Non - volatiles 固体份 | 56.5 - 60.5 | % | 001 G** 3251 <header> <Property性质> | <Value规格> | <Units单位> | <Method方法 SBM * ISO> </header>', 'label': [[22, 26, 'min'], [29, 33, 'max'], [36, 37, 'unit'], [40, 52, 'method']]}",Solid content
+"{'data': 'density ( ISO | density ( ISO | 2811 - 3 ) | | | | 1.0 | g/cm³', 'label': []}",irrelevant
+"{'data': 'Iso - Butylated | Iso - Butylated | Iso - Butylated | Iso - Butylated | Iso - Butylated | Iso - Butylated | Iso - Butylated | Iso - Butylated <header> <Product Name> | <Non - volatile % [ 3 hrs - 105 C ] > | <Solvent> | <Viscosity [ G - H 25 C ] > | <Free Formal - dehyde ( % ) > | <Acid Value [ ASTM 1639 ] > | <Comments> | <Suggested Use> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance | Clear Liquid | Visual <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde | < 0.8 % | Sulfite Method <header> <Property> | <Range> | <Method> </header>', 'label': [[22, 25, 'max'], [26, 27, 'unit'], [30, 44, 'measuring_condition']]}",Monomer formaldehyde
+"{'data': 'Appearance | clear and clean | 017 A | <header> <Property> | <Value Unit> | <Method STM*> | <ISO> </header>', 'label': []}",irrelevant
+"{'data': 'Titanium dioxide rutile | 25.0 | Titanium dioxide rutile | 23.3 <header> <> | <kgs.> | <> | <kgs.> </header>', 'label': []}",irrelevant
+"{'data': 'Water | Not dilutable', 'label': []}",irrelevant
+"{'data': 'content | [ % ] < 3', 'label': []}",stray
+"{'data': 'free formaldehyde | ≤ 0,3 %', 'label': [[22, 25, 'max'], [26, 27, 'unit']]}",Monomer formaldehyde
+"{'data': 'Appearance | Clear Liquid | ASTM E 284 <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'free formaldehyde | ≤ 0,8 %', 'label': [[22, 25, 'max'], [26, 27, 'unit']]}",Monomer formaldehyde
+"{'data': 'Appearance | Slightly yellowish and transparent liquid | By visual observation <header> <Item ( s ) > | <Specification> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': 'Aromatic hydrocarbons | Partial', 'label': []}",irrelevant
+"{'data': 'shear rate D | – 1 41,3 s', 'label': []}",irrelevant
+"{'data': 'Determined per batch:', 'label': []}",irrelevant
+"{'data': '*These values provide general information and are not part of the product specification.', 'label': []}",irrelevant
+"{'data': 'Methylation degree : | 5.2 / 6 ( 86.7 % )', 'label': []}",irrelevant
+"{'data': 'methyl ethyl ketone', 'label': []}",irrelevant
+"{'data': 'Elongation @ Break ( % ) | 3 <header> <Typical Properties> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Flash point | > 100 ℃', 'label': []}",irrelevant
+"{'data': '1 Dish Method ( 2 hours at 105 °C )', 'label': []}",irrelevant
+"{'data': 'Property Typical Value Method | Property Typical Value Method | Property Typical Value Method <header> <Property Typical Value Method> | <Property Typical Value Method> | <Property Typical Value Method> </header>', 'label': []}",header
+"{'data': 'Epoxy resins | Very good', 'label': []}",irrelevant
+"{'data': ""MA 1.1 | ASPETTO Apparence | Visivo Visual | LIMPIDO Clear | LIMPIDO Clear <header> <METODO METHOD> | <ANALISI ANALYSIS> | <UNITA' DI MISURA UNITS> | <MIN> | <MAX> </header>"", 'label': []}",irrelevant
+"{'data': 'formaldehyde < 0.1 % | ISO 9020', 'label': [[15, 18, 'max'], [19, 20, 'unit'], [23, 31, 'method']]}",Monomer formaldehyde
+"{'data': 'organic solvent isobutanol | ≤ 20 | % <header> <non - volatile matter ( ISO 3251, weighted sample 2 g + 2 ml butanol, 125 °C [ 257 °F ] , 2 h ) > | < 69 – 72 % > | < 69 – 72 % > </header>', 'label': [[16, 26, 'qualitative_value'], [0, 7, 'qualitative_value']]}",Solvent type
+"{'data': 'Determined per batch: | ( Ubbelohde ) DIN 53177 [ mPa.s ] 3500 - 13500', 'label': []}",irrelevant
+"{'data': '• ( * ) White spirit tolerance |', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde | < 1.7 % | Sulfite Method <header> <Property> | <Range> | <Method> </header>', 'label': [[22, 25, 'max'], [26, 27, 'unit'], [30, 44, 'measuring_condition']]}",Monomer formaldehyde
+"{'data': 'Non - volatile matter | 80 + 2 % ( 105 ℃, 1.5 h )', 'label': [[24, 26, 'mean'], [29, 30, 'std'], [31, 32, 'unit'], [35, 47, 'measuring_condition']]}",Solid content
+"{'data': 'Specific gravity ( d 425 ) | 1.02 - 1.03', 'label': []}",irrelevant
+"{'data': 'SOLUBILITY | SOLUBILITY', 'label': []}",irrelevant
+"{'data': 'Esters | Soluble', 'label': []}",irrelevant
+"{'data': 'Flash point. Setaflash closed cup | > 93 ℃. ( > 200 ºF )', 'label': []}",irrelevant
+"{'data': 'Viscosity, Gardner - Holdt, 25 ℃ | U - X', 'label': []}",irrelevant
+"{'data': 'Tolerance in MTO | - - - | - - - | 1 : 6.5 <header> <Property> | <Unit> | <Test Method> | <Value> </header>', 'label': []}",irrelevant
+"{'data': 'Aliphatic hydrocarbons | Partial <header> <Property Typical Value Method of Analysis> | <Property Typical Value Method of Analysis> </header>', 'label': []}",irrelevant
+"{'data': 'Specifications', 'label': []}",irrelevant
+"{'data': 'Aromatic hydrocarbons | Complete', 'label': []}",irrelevant
+"{'data': 'Flash point | approx. 74 | °C | <header> <Other data* Property> | <Value> | <Unit of measurement Method> | <Unit of measurement Method> </header>', 'label': []}",irrelevant
+"{'data': 'Specifications', 'label': []}",irrelevant
+"{'data': 'Acrylic resins | Very good', 'label': []}",irrelevant
+"{'data': 'Property | Method', 'label': []}",header
+"{'data': 'Non - Volatile Matter DIN EN ISO 3251 ( 1 h, 120 °C, 2 g + 2 ml i - butanol ) | [ % ] | 54 – 56', 'label': [[22, 37, 'method'], [40, 75, 'measuring_condition'], [82, 83, 'unit'], [88, 90, 'min'], [93, 95, 'max']]}",Solid content
+"{'data': 'Viscosity, 23 °C | 1000 - 2000 | ISO 3219 / 11910 mPa.s', 'label': []}",irrelevant
+"{'data': 'Non - Volatiles | 69 - 73 % | 001 G | 3251 <header> <Property> | <Value Unit> | <Method STM*> | <ISO> </header>', 'label': [[18, 20, 'min'], [23, 25, 'max'], [26, 27, 'unit'], [30, 35, 'method'], [38, 42, 'method']]}",Solid content
+"{'data': 'Typical Properties*', 'label': []}",irrelevant
+"{'data': 'Property | Range | Method <header> <Property> | <Range> | <Method> </header>', 'label': []}",header
+"{'data': 'Free formaldehyde | 0.4 - 0.7 % | Sulfite Method <header> <Property> | <Range> | <Method> </header>', 'label': [[26, 29, 'max'], [30, 31, 'unit'], [34, 48, 'measuring_condition']]}",Monomer formaldehyde
+"{'data': 'N.V.C | - % | - % | BSMT A 1015 - 008 | 60 | 64 <header> <Physical Property> | <Units> | <Units> | <Method ( 1 ) > | <Minimum> | <Maximum> </header>', 'label': [[10, 11, 'unit'], [16, 17, 'unit'], [20, 37, 'method'], [40, 42, 'min'], [45, 47, 'max']]}",Solid content
+"{'data': 'Luwipal | 015', 'label': []}",irrelevant
+"{'data': 'CYMEL U - 665 resin is a partially iso - butylated urea crosslinker supplied in iso - butanol and xylene. Its good drying behavior and block resistance combined with excellent adhesion properties makes CYMEL U - 665 resin suitable for use in both acid curing wood coating applications and general industrial baking applications.', 'label': [[80, 93, 'qualitative_value'], [98, 104, 'qualitative_value']]}",Solvent type
+"{'data': '2.Non Volatile | | | | 58 - 62 | | % | | PCPL/FTM/ 009 <header> <PROPERTY> | <> | <> | <> | <LIMIT> | <> | <UNITS> | <> | <TEST METHOD> </header>', 'label': [[23, 25, 'min'], [28, 30, 'max'], [35, 36, 'unit'], [41, 54, 'method']]}",Solid content
+"{'data': 'Non - volatile by wt. | 80 ± 2 % | Foil, 45 min/ 45 °C <header> <Property> | <Range> | <Method> </header>', 'label': [[15, 21, 'measuring_condition'], [24, 26, 'mean'], [29, 30, 'std'], [31, 32, 'unit'], [35, 54, 'measuring_condition']]}",Solid content
+"{'data': 'Viscosity, 23 °C. mPa.s 10000 - 25000', 'label': []}",irrelevant
+"{'data': 'Water Methanol Tolerance | 2.0 | 1.5 ~ 2.1 <header> <Item ( 項目 ) > | <Result ( 結果 ) > | <Specification ( 規格値 ) > </header>', 'label': []}",irrelevant
+"{'data': 'non - volatile | 52 – 55 %', 'label': [[17, 19, 'min'], [22, 24, 'max'], [25, 26, 'unit']]}",Solid content
+"{'data': 'Polyester resins | Good', 'label': []}",irrelevant
+"{'data': 'organic solvent | ≤ 35 % <header> <non - volatile fraction> | < 59 – 62 % > </header>', 'label': []}",Solvent type
+"{'data': 'Amine Equivalent Weight ( AEW ) | 276 - 282 <header> <Typical Properties> | <> </header>', 'label': [[34, 37, 'min'], [40, 43, 'max']]}",Amine value
+"{'data': 'Viscosity, Emila | 400 - 600 | mPa.s | 2000 <header> <Property> | <Range> | <Unit> | <TM> </header>', 'label': []}",irrelevant
+"{'data': 'Non - volatile, % | 70 ± 2 % | Pan, 1 H/ 100 °C', 'label': [[16, 17, 'unit'], [20, 22, 'mean'], [25, 26, 'std'], [27, 28, 'unit'], [31, 47, 'measuring_condition']]}",Solid content
+"{'data': 'Not continually determined: | | <header> <Viscosity DIN EN ISO 3219 - B ( 23 °C ) > | < [ mPas ] > | < 3300 - 10700 > </header>', 'label': []}",irrelevant
+"{'data': 'Ketones | Complete', 'label': []}",irrelevant
+"{'data': 'viscosity at 23 °C ( ISO 3219 B ) shear rate D | 2.5 – 5.5 20.6 | s– 1 Pa. s', 'label': []}",irrelevant
+"{'data': 'Viscosity, 23 °C | 5100 - 16000 mPa - s | Dynamic Viscosity <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'of polymerisation, DP ( GPC/PSI ) | 2.2', 'label': []}",irrelevant
+"{'data': ' [ 1 ] The resin is 50 % ( mass fraction ) solution in butyl acetate and ethanol, they account for 85 % and 15 % respectively.', 'label': [[55, 68, 'qualitative_value'], [73, 80, 'qualitative_value']]}",Solvent type
+"{'data': ' ( 435 - 1200 - 3 ) | Z 2 - Z 5', 'label': []}",irrelevant
+"{'data': 'viscosity at 23 °C ( 73 °F ) shear rate D | 2 – 15 Pa. s 25 s– 1 | 2 – 15 Pa. s 25 s– 1', 'label': []}",irrelevant
+"{'data': 'Alcohols | Complete', 'label': []}",irrelevant
+"{'data': 'flash point ( DIN EN 22719 ) | > 100 °C ( 212 °F )', 'label': []}",irrelevant
+"{'data': 'density | 1,00 – 1,01 g/cm³', 'label': []}",irrelevant
+"{'data': 'Property | Range | Method <header> <Property> | <Range> | <Method> </header>', 'label': []}",header
+"{'data': 'PROPERTIES | | <header> <> | <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'glass transition temperature Tg ( DSC ) | ~ 57 °C ( 135 °F )', 'label': []}",irrelevant
+"{'data': '% Non - Volatilies ( Oven dryling, @ 105 ℃ for 3 hr. ) | 60 ± 2', 'label': [[0, 1, 'unit'], [21, 52, 'measuring_condition'], [57, 59, 'mean'], [62, 63, 'std']]}",Solid content
+"{'data': 'Alcohols | Complete', 'label': []}",irrelevant
+"{'data': '2 | 30 / 05 / 06 | F. Minelli | G. Rizzi <header> <Edition> | <Date> | <Issued> | <Approved> </header>', 'label': []}",irrelevant
+"{'data': 'Aliphatic hydrocarbons | Complete', 'label': []}",irrelevant
+"{'data': 'Aromatic hydrocarbons | Partial', 'label': []}",irrelevant
+"{'data': 'Equivalent weight with epoxy resins | 53.5 <header> <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde | < 0.2 % | Sulfite Titration <header> <Property> | <Range> | <Method> </header>', 'label': [[22, 25, 'max'], [26, 27, 'unit'], [30, 47, 'measuring_condition']]}",Monomer formaldehyde
+"{'data': 'Property | Typical Value | Method', 'label': []}",header
+"{'data': 'PRODUCT SPECIFICATIONS', 'label': []}",irrelevant
+"{'data': 'Synteko 1367 | 60 ÷ 130 | 90 ÷ 150 | 2,5 <header> <Parameter Unit Test Method> | <Viscosity at 20 °C mPa.s sol. 1 : 1 UNI EN 12092 > | <Gel time at 30 °C ÷ min. sol. 2 : 1 UNI 9059 > | <Moisture max. % UNI 9060 > </header>', 'label': []}",irrelevant
+"{'data': 'organic solvent | ≤ 4 %', 'label': []}",Solvent type
+"{'data': 'Appearance | Clear liquid | Visual', 'label': []}",irrelevant
+"{'data': 'Specular Gloss [ 60 ° ] 5 °C / 23 °C | 122 / 135', 'label': []}",irrelevant
+"{'data': 'Characteristics : -', 'label': []}",irrelevant
+"{'data': 'Characteristic data Property | Value | Unit of measurement | Method <header> <Characteristic data Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",header
+"{'data': 'Density ( Liquids ) Approx. at 20 °C | [ g/ml ] | 1,06 <header> <Dynamic Viscosity DIN 53177 Cone & Plate ( 23 °C ) > | < [ mPa.s ] > | < 11000 - 29000 > </header>', 'label': []}",irrelevant
+"{'data': 'Effective content ( % ) | min.95', 'label': []}",irrelevant
+"{'data': '• Brookfield viscosity, at 25 °C | 200 – 350 mPa.s', 'label': []}",irrelevant
+"{'data': 'non - volatile fraction | 83 – 88 %', 'label': [[26, 28, 'min'], [31, 33, 'max'], [34, 35, 'unit']]}",Solid content
+"{'data': 'Epoxy resins | Good', 'label': []}",irrelevant
+"{'data': 'Flash point | > 100 °C | IS 0 3679', 'label': []}",irrelevant
+"{'data': '@ 90 F | 6 months <header> <> <Form> <Color> | <> <Powder> <Brown> </header>', 'label': []}",irrelevant
+"{'data': 'Pounds per gallon, approx | 9.8 | 10.5 | 9.6 <header> <TYPICAL PROPERTIES> <> | <TYPICAL PROPERTIES> <CYMEL 370 Resin> | <TYPICAL PROPERTIES> <CYMEL 373 Resin> | <TYPICAL PROPERTIES> <CYMEL 380 Resin> </header>', 'label': []}",irrelevant
+"{'data': 'Esters | Complete', 'label': []}",irrelevant
+"{'data': 'Range Clear liquid max. 70 | Visual', 'label': []}",irrelevant
+"{'data': 'content | 80 ± 2 %', 'label': []}",stray
+"{'data': 'density ( ISO 2811 - 3 ) | g/cm³', 'label': []}",irrelevant
+"{'data': 'Solvent component | : | Xylene/IBA = 85 / 15', 'label': [[24, 30, 'qualitative_value'], [31, 34, 'qualitative_value']]}",Solvent type
+"{'data': 'Alcohols | Complete', 'label': []}",irrelevant
+"{'data': 'ETERMINO® 9123 - 60 | 58 - 62 | Iso - Butanol, Xylene | T - X | 1 % | 3.5 max | Fast dry, low temperature curing.Good hardness & adhesion | Acid - catalyzed wood finishes <header> <Product Name> | <Non - volatile % [ 3 hrs - 105 C ] > | <Solvent> | <Viscosity [ G - H 25 C ] > | <Free Formal - dehyde ( % ) > | <Acid Value [ ASTM 1639 ] > | <Comments> | <Suggested Use> </header>', 'label': [[22, 24, 'min'], [27, 29, 'max'], [32, 53, 'qualitative_value'], [64, 65, 'max'], [66, 67, 'unit'], [70, 73, 'max']]}",multi
+"{'data': 'Color, APHA | < 70 | ISO 6271 <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Determined per batch: | |', 'label': []}",irrelevant
+"{'data': 'When used with short - drying or non - drying alkyd resins, the curing speed of pigmented enamel is almost twice as | When used with short - drying or non - drying alkyd resins, the curing speed of pigmented enamel is almost twice as | Acrylic Resins | | <header> <CYMEL U - 65 resin is a methylated urea - formaldehyde resin, useful in water or organo - soluble systems as a crosslinking agent for a variety of polymers that contain hydroxyl functionality.> <ADVANTAGES> | <CYMEL U - 65 resin is a methylated urea - formaldehyde resin, useful in water or organo - soluble systems as a crosslinking agent for a variety of polymers that contain hydroxyl functionality.> <> | <Long Oil Alkyds> <REZYL 873 - 11 > | <Solution Clarity> <slight haze> | <Film Clarity 30 minutes at 300 °F ( 149 °C ) > <clear> </header>', 'label': []}",irrelevant
+"{'data': 'SOLUBILITY | SOLUBILITY', 'label': []}",irrelevant
+"{'data': 'Appearance | | Clear and water white', 'label': []}",irrelevant
+"{'data': 'Non - volatile,1 % , min | 79 = 2 <header> <Appearance> | <Clear to slightly hazy> </header>', 'label': [[15, 16, 'min'], [17, 18, 'unit']]}",Solid content
+"{'data': 'Alkyd resins | Good', 'label': []}",irrelevant
+"{'data': 'Density ( Liquids ) | | <header> <> | <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Non - Volatile Matter / Solids Foil, 45 min. @ 45 °C ( 435 - 1200 - 19 ) | [ % ] | 76 - 79', 'label': [[31, 52, 'measuring_condition'], [55, 70, 'method'], [77, 78, 'unit'], [83, 85, 'min'], [88, 90, 'max']]}",Solid content
+"{'data': 'Property | Range | Method of Analysis', 'label': []}",header
+"{'data': 'free formaldehyde ( EN ISO 9020 ) | % 0.6', 'label': [[20, 31, 'method'], [36, 37, 'unit'], [38, 41, 'mean']]}",Monomer formaldehyde
+"{'data': 'Color, APHA | ≤ 50 | DIN EN ISO 6271 <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Property | Range | Method <header> <Property> | <Range> | <Method> </header>', 'label': []}",header
+"{'data': 'Luwipal® 018 BX', 'label': []}",irrelevant
+"{'data': 'TYPICAL PRODUCT CHARACTERISTICS', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde | < 0.1 % | Sulfite <header> <Property> | <Range> | <Method> </header>', 'label': [[22, 25, 'max'], [26, 27, 'unit'], [30, 37, 'measuring_condition']]}",Monomer formaldehyde
+"{'data': 'Esters | Complete', 'label': []}",irrelevant
+"{'data': 'Free Formaldehyde, % | 0.1 max. | 435 - 1205 <header> <Property> | <Limit> | <Test Methods> </header>', 'label': [[19, 20, 'unit'], [23, 26, 'max'], [34, 37, 'min'], [40, 44, 'max']]}",Monomer formaldehyde
+"{'data': 'sensitivity to frost | 0 °C ( 32 °F )', 'label': []}",irrelevant
+"{'data': 'Hydroxyl value ( mgKOH/g ) | 25 - 40 | DIN 53240 - 2 : 1998 <header> <Property> | <Data & Description> | <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Property | Range | Method <header> <Property> | <Range> | <Method> </header>', 'label': []}",header
+"{'data': 'Viscosity, 23 °C mPa.s 1000 - 3000', 'label': []}",irrelevant
+"{'data': 'mPa.s', 'label': []}",irrelevant
+"{'data': 'Water content | ≤ 0.15 | % | DIN 51 777 - 1 <header> <Other data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Molecular weight distribution, P ( GPC/PS I ) | | 1,90', 'label': []}",irrelevant
+"{'data': 'density | 1,00 g/cm³', 'label': []}",irrelevant
+"{'data': 'Aromatic hydrocarbons | Complete', 'label': []}",irrelevant
+"{'data': 'Delivery form 68 % in butanol', 'label': [[22, 29, 'qualitative_value']]}",Solvent type
+"{'data': 'Aliphatic hydrocarbons | Partial', 'label': []}",irrelevant
+"{'data': 'Determined per batch: | DIN & 1000 - 3000', 'label': []}",irrelevant
+"{'data': 'Composition', 'label': []}",irrelevant
+"{'data': 'Solvents: | n - butanol', 'label': [[12, 23, 'qualitative_value']]}",Solvent type
+"{'data': 'Viscosity ( 25 oC/ Gardner ) | X - Z 2', 'label': []}",irrelevant
+"{'data': 'Acid value ( mg of KOH/gr. ) | - Max 2.', 'label': [[13, 25, 'unit'], [37, 38, 'max']]}",Acid content
+"{'data': 'non - volatile matter ( ISO 3251, weighted sample 2 g + 2 ml butanol, 125 °C [ 257 °F ] , 2 h ) | 56 – 60 % | 56 – 60 %', 'label': [[24, 32, 'method'], [34, 93, 'measuring_condition'], [98, 100, 'min'], [103, 105, 'max'], [106, 107, 'unit'], [110, 112, 'min'], [115, 117, 'max'], [118, 119, 'unit']]}",Solid content
+"{'data': 'Typical Properties | Typical Properties', 'label': []}",irrelevant
+"{'data': 'Non - volatile ( % ) | 59.0 - 63.0', 'label': [[17, 18, 'unit'], [23, 27, 'min'], [30, 34, 'max']]}",Solid content
+"{'data': 'CYMEL U - 663 resin is a partially iso - butylated urea resin supplied in iso - butanol. The fast drying properties combined with very good block resistance makes CYMEL U - 663 resin suitable for acid curing wood coating applications where low formaldehyde emission and high film gloss is required.', 'label': [[74, 87, 'qualitative_value']]}",Solvent type
+"{'data': 'Alkyd resins | Very good', 'label': []}",irrelevant
+"{'data': 'density ( ISO 2811 - 3 ) | 1.0 g/cm³', 'label': []}",irrelevant
+"{'data': 'Acrylic resins | Very good', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde < 0.3 % | ISO 9020', 'label': [[20, 23, 'max'], [24, 25, 'unit'], [28, 36, 'method']]}",Monomer formaldehyde
+"{'data': 'Viscosity（ 25 ℃） | 2500 - 10000 | mpa.s | Brookfield，LVDV - Ⅱ <header> <Poperty Value> | <> | <Units> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde, weight % | 0.10 maximum', 'label': [[19, 25, 'measuring_condition'], [26, 27, 'unit'], [30, 34, 'max']]}",Monomer formaldehyde
+"{'data': 'Acidity index: 4 MAX', 'label': [[15, 16, 'max']]}",Acid content
+"{'data': ' ( ISO 2811 - 3 ) | 1.05 g/cm³', 'label': []}",irrelevant
+"{'data': 'Appearance | clear liquid | Visual', 'label': []}",irrelevant
+"{'data': 'Properties', 'label': []}",irrelevant
+"{'data': 'ethanol | | | | <header> <> | < 066 > | < 066 LF> | < 068 > | < 068 > </header>', 'label': []}",irrelevant
+"{'data': 'Aromatic hydrocarbons | Complete', 'label': []}",irrelevant
+"{'data': 'DESCRIPTIVE DATA', 'label': []}",irrelevant
+"{'data': 'Free Formaldehyde: | 1.0 % w/w maximum', 'label': [[21, 24, 'max'], [25, 26, 'unit'], [27, 30, 'measuring_condition']]}",Monomer formaldehyde
+"{'data': ' ( 1 ) | BSMT – Bitrez Standard Method of Test', 'label': []}",irrelevant
+"{'data': 'Uses | For the formulation of high - solids, two - component polyurethane topcoats and solvent - free coating materials. <header> <Type> | <Aminofunctional co - reactant for polyisocyanates> </header>', 'label': []}",irrelevant
+"{'data': 'SOLUBILITY | SOLUBILITY', 'label': []}",irrelevant
+"{'data': 'Appearance | Clear', 'label': []}",irrelevant
+"{'data': 'Property key | Property key', 'label': []}",irrelevant
+"{'data': 'Flash point | 33 °C ISO 1523', 'label': []}",irrelevant
+"{'data': 'The resistivity of BE 665 is high, and this suggests that it should be a useful component in systems to be applied by electrostatic spray.', 'label': []}",irrelevant
+"{'data': '*Mix: 100 powder, 65 water', 'label': []}",irrelevant
+"{'data': 'Compatibility ( aliph. hydrocarbon ) DIN EN ISO 11908 n - Heptane tolerance at 23 °C | Compatibility ( aliph. hydrocarbon ) DIN EN ISO 11908 n - Heptane tolerance at 23 °C | [ ml/g ] | 4 - 16', 'label': []}",irrelevant
+"{'data': 'Color ( Pt - Co ) | 50', 'label': []}",irrelevant
+"{'data': 'softening temperature | 95 – 115 °C', 'label': []}",irrelevant
+"{'data': 'Flash point, Seta - flash, ""F ( ℃ ) | > 200 ( > 93 ) <header> <Appearance> | <Clear to slightly hazy> </header>', 'label': []}",irrelevant
+"{'data': 'Density ( Liquids ) Approx. at 20 °C | [ g/ml ] | 1,10 <header> <Dynamic Viscosity EN ISO 3219 B Cone & Plate ( 23 °C ) > | < [ mPa.s ] > | < 5000 - 10000 > </header>', 'label': []}",irrelevant
+"{'data': 'Polyvinyl butyral | Good', 'label': []}",irrelevant
+"{'data': 'max.70 | ISO 6271', 'label': []}",irrelevant
+"{'data': 'Property | Range | Method <header> <Property> | <Range> | <Method> </header>', 'label': []}",header
+"{'data': '2. | Viscosity of 2 : 1 Solution at 25 °C | 1800 – 4000 cps <header> <S/N> | <PARAMETER> | <VALUE> </header>', 'label': []}",irrelevant
+"{'data': 'Solid content | ( % ) | > 97 <header> <Resin type> | <> | <fully methylated melamine formaldehyde resin> </header>', 'label': [[18, 19, 'unit'], [26, 28, 'min']]}",Solid content
+"{'data': 'Appearance | - Clear.', 'label': []}",irrelevant
+"{'data': 'shear rate D | 41,3 s', 'label': []}",irrelevant
+"{'data': 'Aliphatic Hydrocarbons | Partial', 'label': []}",irrelevant
+"{'data': 'Color: | Yellow', 'label': []}",irrelevant
+"{'data': 'Glycol ethers | Soluble', 'label': []}",irrelevant
+"{'data': 'free formaldehyde | ≤ 2,1 %', 'label': [[22, 25, 'max'], [26, 27, 'unit']]}",Monomer formaldehyde
+"{'data': 'Color, Gardner | < 1 | <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Non volatile content ( % ) | 80 + 2 | <header> <Item ( s ) > | <Specification> | <Test method> </header>', 'label': [[23, 24, 'unit'], [29, 31, 'mean'], [34, 35, 'std']]}",Solid content
+"{'data': 'PHYSICAL PROPERTIES', 'label': []}",irrelevant
+"{'data': '• Solid content ( 2 hours at 105 ℃ ) | 80 % + 2', 'label': [[18, 34, 'measuring_condition'], [39, 41, 'mean'], [42, 43, 'unit'], [46, 47, 'std']]}",Solid content
+"{'data': 'viscosity at 23 °C ( 73 °F ) shear rate D | 4,0 – 7,0 Pa. s – 1 20,6 s <header> <non - volatile fraction> | < 59 – 62 % > </header>', 'label': []}",irrelevant
+"{'data': 'Luwipal® 015', 'label': []}",irrelevant
+"{'data': 'Viscous liquid 60 % in isobutanol/ethanol', 'label': [[23, 33, 'qualitative_value'], [34, 41, 'qualitative_value']]}",Solvent type
+"{'data': 'Esters | Complete', 'label': []}",irrelevant
+"{'data': 'Colour, APHA | max 125 | ISO 6271', 'label': []}",irrelevant
+"{'data': 'Form supplied | Low - viscosity, solvent - free liquid', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde | < 1.5 <header> <Grade> | <MF - 68 > </header>', 'label': [[22, 25, 'max']]}",Monomer formaldehyde
+"{'data': 'DESCRIPTIVE DATA | CATALYSIS <header> <Automotive OEM coating formulations General industrial baking applications> | <Very good film appearance Very good outdoor resistance properties Very good mar resistance> </header>', 'label': []}",irrelevant
+"{'data': 'non - volatile matter ( ISO 3251, weighted sample 2 g + 2 ml butanol, 125 °C [ 257 °F ] , 2 h ) | 79 – 83 | % <header> <non - volatile matter ( ISO 3251, weighted sample 2 g + 2 ml butanol, 125 °C [ 257 °F ] , 2 h ) > | < 69 – 72 % > | < 69 – 72 % > </header>', 'label': [[24, 32, 'method'], [70, 95, 'measuring_condition'], [98, 100, 'min'], [103, 105, 'max'], [108, 109, 'unit'], [34, 68, 'measuring_condition']]}",Solid content
+"{'data': 'Polyvinyl butyrate | Good', 'label': []}",irrelevant
+"{'data': 'max. 1 % | 50 - 00 - 0 | Formaldehyde', 'label': [[5, 6, 'max'], [7, 8, 'unit']]}",Monomer formaldehyde
+"{'data': '• Acid value, on solid | max 2 mg KOH/g', 'label': [[14, 22, 'measuring_condition'], [29, 30, 'max'], [31, 39, 'unit']]}",Acid content
+"{'data': 'organic solvent | ≤ 6 %', 'label': [[0, 7, 'qualitative_value']]}",Solvent type
+"{'data': 'Flash Point | | <header> <Viscosity DIN EN ISO 3219 - B ( 23 °C ) > | < [ mPas ] > | < 3300 - 10700 > </header>', 'label': []}",irrelevant
+"{'data': 'Melting Point | 30 - 35 °C | <header> <PRODUCT SPECIFICATIONS> <Property> | <PRODUCT SPECIFICATIONS> <Range> | <PRODUCT SPECIFICATIONS> <Method of Analysis> </header>', 'label': []}",irrelevant
+"{'data': 'Particle size | 50 ÷ 170 | µm <header> <Parameter> | <UF 1356 > | <U.M.> </header>', 'label': []}",irrelevant
+"{'data': 'shear rate D | – 1 41,3 s <header> <non - volatile fraction> | < 59 – 62 % > </header>', 'label': []}",irrelevant
+"{'data': 'Solvent | - - - | - - - | Butanol <header> <Property> | <Unit> | <Test Method> | <Value> </header>', 'label': [[26, 33, 'qualitative_value']]}",Solvent type
+"{'data': 'Specific gravity, 25 °C, ( Typical ) | 1.20', 'label': []}",irrelevant
+"{'data': 'viscosity at 23 °C ( ISO 3219 B ) shear rate D | 6.0 – 10.0 20.6 | Pa. s s– 1', 'label': []}",irrelevant
+"{'data': 'Z - Z 4', 'label': []}",stray
+"{'data': 'This makes CYMEL UM - 15 resin suitable for water borne applications, like paper and wood coatings, where speed of cure is very important. | Free formaldehyde 0.5 % SOLUBILITY | Free formaldehyde 0.5 % SOLUBILITY | IS 0 9020 <header> <DELIVERY FORM> | <Methoxymethyl urea> | <Methoxymethyl urea> | <> </header>', 'label': []}",irrelevant
+"{'data': 'PHYSICAL PROPERTIES', 'label': []}",irrelevant
+"{'data': 'Property Typical Value | Method of Analysis <header> <Property Typical Value> | <Method of Analysis> </header>', 'label': []}",header
+"{'data': 'SOLUTION | | <header> <ITEM> | <ANALYSIS RESULT> | <STANDARD SPECIFICATIO> </header>', 'label': []}",irrelevant
+"{'data': 'Hazen color value ( DIN EN 1557 ) | ≤ 50 | <header> <non - volatile matter ( ISO 3251, weighted sample 2 g + 2 ml butanol, 125 °C [ 257 °F ] , 2 h ) > | < 69 – 72 % > | < 69 – 72 % > </header>', 'label': []}",irrelevant
+"{'data': 'matter | [ % ] > 95', 'label': []}",irrelevant
+"{'data': 'Alcohols | Complete', 'label': []}",irrelevant
+"{'data': 'Non - Volatile ( 1.5 g× 105 ℃× 3 hr ) ( % ) | ≧ 97', 'label': [[17, 35, 'measuring_condition'], [40, 41, 'unit'], [48, 50, 'min']]}",Solid content
+"{'data': 'DIN 12791 at 25 °C | g/ml | 1,25 - 1,29', 'label': []}",irrelevant
+"{'data': 'Aromatic hydrocarbons | Aromatic hydrocarbons | Complete <header> <PRODUCT SPECIFICATIONS> <Property> | <PRODUCT SPECIFICATIONS> <Range> | <PRODUCT SPECIFICATIONS> <Method of Analysis> </header>', 'label': []}",irrelevant
+"{'data': 'Cellulose acetate butyrate | Good', 'label': []}",irrelevant
+"{'data': 'Molecular weight distribution ( Mw/Mn ) ( GPC/PS I ) | | 1.60 <header> <Viscosity DIN EN ISO 3219 - B Cone & Plate ( 23 °C ) > | < [ mPas ] > | < 3800 - 10670 > </header>', 'label': []}",irrelevant
+"{'data': 'Appearance | Clear Liquid | ASTM E 284 <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'free formaldehyde ( EN ISO 9020 ) | 0.6 %', 'label': [[20, 31, 'method'], [36, 39, 'mean'], [40, 41, 'unit']]}",Monomer formaldehyde
+"{'data': 'Non - volatile by wt. | 67 – 71 % | DIN EN ISO 3251 ( Pan, 1 hr/ 100 °C ) <header> <Property> | <Range> | <Method> </header>', 'label': [[15, 20, 'measuring_condition'], [24, 26, 'min'], [29, 31, 'max'], [32, 33, 'unit'], [36, 51, 'method'], [54, 71, 'measuring_condition']]}",Solid content
+"{'data': 'Viscosity, 23 °C | 3800 - 10200 mPa - s | Dynamic Viscosity <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Cellulose acetate butyrate | Good', 'label': []}",irrelevant
+"{'data': '9. Free Formaldehyde | | | | Max 0.5 | | % | | PCPL/FTM/ 011 <header> <PROPERTY> | <> | <> | <> | <LIMIT> | <> | <UNITS> | <> | <TEST METHOD> </header>', 'label': [[33, 36, 'max'], [41, 42, 'unit'], [47, 60, 'method']]}",Monomer formaldehyde
+"{'data': 'DELIVERY FORM Liquid resin, 80 % non volatile in iso - butanol', 'label': [[49, 62, 'qualitative_value']]}",multi
+"{'data': 'Solvent | : | Xylene, Butanol', 'label': [[14, 29, 'qualitative_value']]}",Solvent type
+"{'data': 'Highly flammable |', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde | < 0.8 % | Sulfite Method <header> <Property> | <Range> | <Method> </header>', 'label': [[22, 25, 'max'], [26, 27, 'unit'], [30, 44, 'measuring_condition']]}",Monomer formaldehyde
+"{'data': 'Non - Volatile Matter DIN EN ISO 3251 ( 1 h ; 120 °C ; 2 g ) | [ % ] | 58 – 62', 'label': [[22, 37, 'method'], [40, 58, 'measuring_condition'], [65, 66, 'unit'], [71, 73, 'min'], [76, 78, 'max']]}",Solid content
+"{'data': 'Viscosity, 25 °C | V – Y | ASTM D 1545 ( Gardner - Holdt ) <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'free formaldehyde ( EN ISO 9020 ) | % 3.5', 'label': [[20, 31, 'method'], [36, 37, 'unit'], [38, 41, 'mean']]}",Monomer formaldehyde
+"{'data': 'Hydrocarbon solvent tolerance,2 min | 100', 'label': []}",irrelevant
+"{'data': 'Scale | 6271 - 1', 'label': []}",irrelevant
+"{'data': 'viscosity at 23 °C ( 73 °F ) | 1,6 – 2,4 Pa. s', 'label': []}",irrelevant
+"{'data': '*Gel @ 70 C. sec. | 270 - 350 <header> <> <Form> <Color> | <> <Powder> <Brown> </header>', 'label': []}",irrelevant
+"{'data': 'Color, APHA | 30 max. | 435 - 1019 <header> <Properties> | <Limits> | <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Monomethylthiotoulenediamine, % | 2 – 3 | 2 – 3 <header> <> | <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Product specifications', 'label': []}",irrelevant
+"{'data': 'Viscosity ( Gardner - Holdt at 25 ℃ ) | G - K <header> <Appearance> | <Clear and Clean> </header>', 'label': []}",irrelevant
+"{'data': 'organic solvent | ≤ 37 %', 'label': [[0, 7, 'qualitative_value']]}",Solvent type
+"{'data': 'Delivery form: 60 % n.v. in n - butanol / technical xylene Ratio of solvents: 76 / 24 pbw', 'label': [[28, 39, 'qualitative_value']]}",multi
+"{'data': 'viscosity at 23 °C ( 73 °F ) | 1,0 – 1,3 Pa. s', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde | ≤ 0.45 % | BS - EN 1243 - 2011 <header> <Property> <Appearance> | <Range> <Clear Liquid> | <Method> <Visual> </header>', 'label': [[22, 26, 'max'], [27, 28, 'unit'], [31, 50, 'method']]}",Monomer formaldehyde
+"{'data': 'SOLUBILITY | <header> <Property Typical Value Method of Analysis> | <Property Typical Value Method of Analysis> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity, centipoise | 600 - 1000 <header> <Appearance> | <Clear to slightly hazy> </header>', 'label': []}",irrelevant
+"{'data': 'Non - volatile by wt. | ≥ 98 % | Foil, 45 min/ 45 ℃ <header> <Property> | <Range> | <Method> </header>', 'label': [[15, 20, 'measuring_condition'], [26, 28, 'min'], [29, 30, 'unit'], [33, 51, 'measuring_condition']]}",Solid content
+"{'data': 'COMPATIBILITY | COMPATIBILITY', 'label': []}",irrelevant
+"{'data': 'Specific Gravity g/ml: 20 ℃ | 1.037 | 1.01 ~ 1.08 <header> <ITEM> | <ANALYSIS RESULT> | <STANDARD SPECIFICATIO> </header>', 'label': []}",irrelevant
+"{'data': ' | <header> <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance | Clear liquid | Visual', 'label': []}",irrelevant
+"{'data': 'Aliphatic hydrocarbons | Insoluble', 'label': []}",irrelevant
+"{'data': 'density | 1,01 – 1,02 g/cm³', 'label': []}",irrelevant
+"{'data': 'Xylene : | soluble', 'label': [[0, 6, 'qualitative_value']]}",stray
+"{'data': 'CYMEL MB - 14 - B resin is a partially n - butylated melamine crosslinker supplied in n - butanol. Its high molecular weight and hydrophobic nature provides improved substrate wetting, adhesion, film hardness and mar resistance, making CYMEL MB - 14 - B resin an excellent choice for medium solids industrial baking applications like metal decoration, dipping, and primer formulations.', 'label': [[86, 97, 'qualitative_value']]}",Solvent type
+"{'data': 'Color Gardner [ 1 ] | ＜ 1 | ISO 4630 - 1 : 2004 <header> <Property> | <Data & Description> | <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Alcohols | Complete', 'label': []}",irrelevant
+"{'data': 'acid value | ≤ 1 mg KOH/g', 'label': [[15, 16, 'max'], [17, 25, 'unit']]}",Acid content
+"{'data': 'Alkyd resins | Very good', 'label': []}",irrelevant
+"{'data': 'Hazen color value ( DIN EN 1557 ) | 50 ≤ | 50 ≤', 'label': []}",irrelevant
+"{'data': 'Not continually determined:', 'label': []}",irrelevant
+"{'data': 'viscosity at 23 °C ( 73 °F ) shear rate D | 1,4 – 1,7 Pa. s – 1 82,6 s <header> <non - volatile fraction> | < 59 – 62 % > </header>', 'label': []}",irrelevant
+"{'data': 'nh | ( % ) | Very low <header> <Resin type> | <> | <fully methylated melamine formaldehyde resin> </header>', 'label': []}",irrelevant
+"{'data': 'Non‐Volatile, Acid Value, KOH mg/g | % 60 ± 2 1 max.', 'label': [[26, 34, 'unit'], [37, 38, 'unit'], [39, 41, 'mean'], [44, 47, 'std']]}",multi
+"{'data': 'medium infrared spectrum ( MIR ) | meets the requirements', 'label': []}",irrelevant
+"{'data': 'Alcohols | Complete', 'label': []}",irrelevant
+"{'data': 'Non - volatiles by wt. ( Pan, 2 hr/ 105 ℃ ) | 57 - 61 % <header> <Appearance> | <Clear liquid> </header>', 'label': [[16, 43, 'measuring_condition'], [46, 48, 'min'], [51, 53, 'max'], [54, 55, 'unit']]}",Solid content
+"{'data': 'Solvent composition isobutanol', 'label': [[20, 30, 'qualitative_value']]}",Solvent type
+"{'data': 'Received 12 August 2010 RMFI SH SUNSHINE', 'label': []}",irrelevant
+"{'data': 'Solvent composition: Butyl acetate', 'label': [[21, 34, 'qualitative_value']]}",Solvent type
+"{'data': 'Viscosity, 23 °C | 2500 - 4500 mPa∙s | DIN EN ISO 3219 <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Dynamic Viscosity | DIN 53177', 'label': [[0, 7, 'measuring_condition'], [20, 29, 'method']]}",Viscosity
+"{'data': 'Polyvinyl butyrate | Good', 'label': []}",irrelevant
+"{'data': 'SOLUBILITY | SOLUBILITY', 'label': []}",irrelevant
+"{'data': 'Specific Gravity | 1.02', 'label': []}",irrelevant
+"{'data': 'Visual | Pan, 2 H/ 120 °C', 'label': []}",irrelevant
+"{'data': 'Solvent | Isobutanol, Xylol', 'label': [[10, 27, 'qualitative_value']]}",Solvent type
+"{'data': 'Solvent | Water', 'label': [[10, 15, 'qualitative_value']]}",Solvent type
+"{'data': 'SOLUBILITY | SOLUBILITY', 'label': []}",irrelevant
+"{'data': ' [ mPa.s ] | 3000 - 6500', 'label': []}",irrelevant
+"{'data': 'Non - Volatile Matter / Solids', 'label': []}",Solid content
+"{'data': 'Solvent composition Isobutanol', 'label': [[20, 30, 'qualitative_value']]}",Solvent type
+"{'data': 'non - volatile fraction | 60 – 64 % <header> <non - volatile fraction> | < 59 – 62 % > </header>', 'label': [[26, 28, 'min'], [31, 33, 'max'], [34, 35, 'unit']]}",Solid content
+"{'data': 'Haze, APHA ( 435 - 1019 ) | | max. 5', 'label': []}",irrelevant
+"{'data': 'Nitrocellulose | Good', 'label': []}",irrelevant
+"{'data': 'Storage:', 'label': []}",irrelevant
+"{'data': 'N - Butyl alcohol | 5.0 | N - Butyl alcohol | 5.5 <header> <> | <kgs.> | <> | <kgs.> </header>', 'label': []}",irrelevant
+"{'data': 'CHARACTERISTICS ( INTERNAL METHODS )', 'label': []}",irrelevant
+"{'data': '1 max.', 'label': []}",stray
+"{'data': 'Lot No. | Meaning | 1 Factory, ( 2 ) Month of production ( A : Jan, excluding I ) 3 End figure of AD 4 Production series No. | 1 Factory, ( 2 ) Month of production ( A : Jan, excluding I ) 3 End figure of AD 4 Production series No. | 1 Factory, ( 2 ) Month of production ( A : Jan, excluding I ) 3 End figure of AD 4 Production series No. <header> <Package weight> | <Container> | <Steel drum> | <Steel drum> | < 5 gallon can> </header>', 'label': []}",irrelevant
+"{'data': 'Solvent | . . | Xylene, n - butanol', 'label': [[16, 35, 'qualitative_value']]}",Solvent type
+"{'data': 'Viscosity, Gardner - Holdt, 25 °C | Z 1 - Z 5', 'label': []}",irrelevant
+"{'data': 'Table 1', 'label': []}",irrelevant
+"{'data': 'Solvent composition: | Butyl acetate', 'label': [[23, 36, 'qualitative_value']]}",Solvent type
+"{'data': 'Appearance | Clear liquid', 'label': []}",irrelevant
+"{'data': 'Density, 25 °C ~ 8.66 lbs/gal | ASTM D 1475 - 13 <header> <Property Value> | <Method> </header>', 'label': []}",irrelevant
+"{'data': '• Turbidity | - NTU | - NTU | BSMT A 1002 - | - | 10 <header> <Physical Property> | <Units> | <Units> | <Method ( 1 ) > | <Minimum> | <Maximum> </header>', 'label': []}",irrelevant
+"{'data': ' | | | MF 984 49 69 | 93 113 110 <header> <PROPERTIES> | <> | <> | <USES:> | <USES:> </header>', 'label': []}",irrelevant
+"{'data': 'CHARACTERISTICS ( INTERNAL METHODS )', 'label': []}",irrelevant
+"{'data': 'Typical Value | Method of Analysis', 'label': []}",header
+"{'data': 'CPS/ 20 ℃ | 300 ～ 500', 'label': []}",stray
+"{'data': 'Specifications', 'label': []}",irrelevant
+"{'data': 'Non - volatile by wt. | 86 - 90 % | Foil, 45 min/ 45 °C <header> <Property> | <Range> | <Method> </header>', 'label': [[15, 21, 'measuring_condition'], [24, 26, 'min'], [29, 31, 'max'], [32, 33, 'unit'], [36, 55, 'measuring_condition']]}",Solid content
+"{'data': 'dilutability ( n - Heptan ) | [ ml/g ] < 1', 'label': []}",irrelevant
+"{'data': 'Ketones | Complete', 'label': []}",irrelevant
+"{'data': 'density at 20 °C ( 68 °F ) ( DIN EN ISO 2811 - 1 ) | ~ 1.11 g/cm³', 'label': []}",irrelevant
+"{'data': 'Plastopal® BTM', 'label': []}",irrelevant
+"{'data': 'Thinner ( 1 ) : Xylene / Betyl cellosolve / n - Butanol = 70 / 20 / 10 Baking condition : 130 - 150 ℃ x 30 min.', 'label': [[16, 22, 'qualitative_value'], [25, 41, 'qualitative_value'], [44, 55, 'qualitative_value']]}",Solvent type
+"{'data': 'Appearance | Clear Liquid | ASTM E 284 <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Mineral spirit tolerance ( 20 °C ) | 300 - 700 % | 300 - 700 % | 015 B | <header> <Property> | <Value Unit> | <Value Unit> | <Method STM*> | <ISO> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity, 23 °C mPa.s 1700 - 4500 | Viscosity, 23 °C mPa.s 1700 - 4500 | ISO 3219 <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity @ 25 °C ( cPs ) | 500 - 1500', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde. % max | 0.5 <header> <Appearance> | <Clear to slightly hazy> </header>', 'label': [[19, 20, 'unit'], [27, 30, 'max']]}",Monomer formaldehyde
+"{'data': 'platinum - cobalt color number | ≤ 50 <header> <non - volatile fraction> | < 59 – 62 % > </header>', 'label': []}",irrelevant
+"{'data': 'Amine value | 199 - 203 | mg KOH/g | M 129 - AFAM 2011 - 06054 <header> <Specification Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'ITEM | Standard data <header> <ITEM> | <Standard data> </header>', 'label': []}",header
+"{'data': 'non - volatile matter ( ISO 3251, weighted sample 2 g + 2 ml butanol, 125 °C [ 257 °F ] , 2 h ) | 71 – 75 | %', 'label': [[24, 32, 'method'], [34, 93, 'measuring_condition'], [98, 100, 'min'], [103, 105, 'max'], [108, 109, 'unit']]}",Solid content
+"{'data': 'Polyester resins | Medium', 'label': []}",irrelevant
+"{'data': 'Table 3 gives gel times data relating to UF 1356 reconstituted in water at a concentration of 66 % with added 10 % ( referred to the total water glue dispersion weight ) of ammonium chloride solution ( water solution at 20 % ) .', 'label': [[66, 71, 'qualitative_value']]}",Solvent type
+"{'data': 'Solids content | 160 - 64 | % | 2021 <header> <Property> | <Range> | <Unit> | <TM> </header>', 'label': [[17, 25, 'unclear_value'], [28, 29, 'unit'], [32, 36, 'method']]}",Solid content
+"{'data': 'Flash Point | |', 'label': []}",irrelevant
+"{'data': '8 ) Mineral spirit tolerance ( ml/ 10 g resin ) | 40 - 70 <header> <SPECIFICATIONS: 1 ) Appearance Colorless Clear liquid> | <SPECIFICATIONS: 1 ) Appearance Colorless Clear liquid> </header>', 'label': []}",irrelevant
+"{'data': 'Laropal® | LR 9008', 'label': []}",irrelevant
+"{'data': 'Density ( Liquids ) DIN 12791 part 1 + 3 at 25 °C, approx. | [ g/cm 3 ] | 1.138 - 1.162 <header> <Viscosity DIN EN ISO 3219 - B Cone & Plate ( 23 °C ) > | < [ mPas ] > | < 3800 - 10670 > </header>', 'label': []}",irrelevant
+"{'data': 'Drying speed: 9123 - 60 > 9115 - 60 > 9121 - 60 ; Hardness: 9121 - 60 ≥ 9123 - 60 > 9115 - 60', 'label': []}",irrelevant
+"{'data': 'sensitivity to frost | 0 °C ( 32 °F ) | 0 °C ( 32 °F )', 'label': []}",irrelevant
+"{'data': 'Aliphatic hydrocarbons | Insoluble', 'label': []}",irrelevant
+"{'data': 'Specific gravity, solution | 1.18 | 1.26 | 1.16 <header> <TYPICAL PROPERTIES> <> | <TYPICAL PROPERTIES> <CYMEL 370 Resin> | <TYPICAL PROPERTIES> <CYMEL 373 Resin> | <TYPICAL PROPERTIES> <CYMEL 380 Resin> </header>', 'label': []}",irrelevant
+"{'data': 'Epoxy resins | Very good', 'label': []}",irrelevant
+"{'data': 'viscosity at 23 °C ( ISO 3219 B ) shear rate D | 2.5 – 3.5 41.3 | Pa. s s– 1 <header> <non - volatile matter ( ISO 3251, weighted sample 2 g + 2 ml butanol, 125 °C [ 257 °F ] , 2 h ) > | < 69 – 72 % > | < 69 – 72 % > </header>', 'label': []}",irrelevant
+"{'data': 'Viscous liquid 60 % non volatile in iso - butanol', 'label': [[36, 49, 'qualitative_value']]}",multi
+"{'data': 'Specifications规格', 'label': []}",irrelevant
+"{'data': 'free formaldehyde ( EN ISO 9020 ) | ≤ 1.0 | %', 'label': [[20, 31, 'method'], [38, 41, 'max'], [44, 45, 'unit']]}",Monomer formaldehyde
+"{'data': 'Viscosity, 25 °C | 10000 - 13000 mPa.s | DIN EN ISO 3219 <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Acrylic resins | Very good', 'label': []}",irrelevant
+"{'data': 'Esters | Complete', 'label': []}",irrelevant
+"{'data': 'Butanol | | | | | | | <header> <PROPERTY> | <> | <> | <> | <LIMIT> | <> | <UNITS> | <TEST METHOD> </header>', 'label': []}",irrelevant
+"{'data': 'glass transition temperature Tg | ~ 57 °C ( 135 °F ) | ~ 57 °C ( 135 °F )', 'label': []}",irrelevant
+"{'data': 'Polymer dispersions | Very good', 'label': []}",irrelevant
+"{'data': 'Dissolved 78 % in water', 'label': [[18, 23, 'qualitative_value']]}",Solvent type
+"{'data': 'FORM OF DELIVERY Dissolved 80 % in n - butanol ( 80 B )', 'label': [[35, 46, 'qualitative_value']]}",Solvent type
+"{'data': 'Acrylic resins | Very good', 'label': []}",irrelevant
+"{'data': 'Non - Volatile, % | Non - Volatile, % | 60 ± 2 <header> <Appearance> | <Appearance> | <Transparent> </header>', 'label': [[16, 17, 'unit'], [36, 37, 'unit'], [40, 42, 'mean'], [45, 46, 'std']]}",Solid content
+"{'data': 'Viscosity, Gardner - Holdt, 25 °C | R - U | ASTM D 1545 <header> <Property> <Appearance> | <Range> <Clear Liquid> | <Method> <Visual> </header>', 'label': []}",irrelevant
+"{'data': 'other properties', 'label': []}",irrelevant
+"{'data': 'Color, Gardner 1963 | 1 maximum | | | <header> <CYMEL U - 65 resin is a methylated urea - formaldehyde resin, useful in water or organo - soluble systems as a crosslinking agent for a variety of polymers that contain hydroxyl functionality.> <ADVANTAGES> | <CYMEL U - 65 resin is a methylated urea - formaldehyde resin, useful in water or organo - soluble systems as a crosslinking agent for a variety of polymers that contain hydroxyl functionality.> <> | <Long Oil Alkyds> <REZYL 873 - 11 > | <Solution Clarity> <slight haze> | <Film Clarity 30 minutes at 300 °F ( 149 °C ) > <clear> </header>', 'label': []}",irrelevant
+"{'data': 'Fast curing baking enamels | | REZYL 99 - 5 | clear | clear <header> <CYMEL U - 65 resin is a methylated urea - formaldehyde resin, useful in water or organo - soluble systems as a crosslinking agent for a variety of polymers that contain hydroxyl functionality.> <ADVANTAGES> | <CYMEL U - 65 resin is a methylated urea - formaldehyde resin, useful in water or organo - soluble systems as a crosslinking agent for a variety of polymers that contain hydroxyl functionality.> <> | <Long Oil Alkyds> <REZYL 873 - 11 > | <Solution Clarity> <slight haze> | <Film Clarity 30 minutes at 300 °F ( 149 °C ) > <clear> </header>', 'label': []}",irrelevant
+"{'data': 'Alkyd resins | Good', 'label': []}",irrelevant
+"{'data': 'Ketones | Complete', 'label': []}",irrelevant
+"{'data': 'acid value | ≤ 1 mg KOH/g', 'label': [[15, 16, 'max'], [17, 25, 'unit']]}",Acid content
+"{'data': 'ETERMINO® 9211 - 60 - 5 | 58 - 62 | n - Butanol, Xylene, iso - Butanol | P - T | 1,2 % | 2 max | High gloss ; good compatibility with saturated polyester and acrylic resins ; good adhesion and flexibility | Industrial metal baking enamel <header> <n - Butylated> <ETERMINO® 9211 - 60 - 5 > | <n - Butylated> < 58 - 62 > | <n - Butylated> <n - Butanol, Xylene, iso - Butanol > | <n - Butylated> <P - T> | <n - Butylated> < 1,2 % > | <n - Butylated> < 2 max> | <n - Butylated> <High gloss ; good compatibility with saturated polyester and acrylic resins ; good adhesion and flexibility> | <n - Butylated> <Industrial metal baking enamel> </header>', 'label': [[26, 28, 'min'], [31, 33, 'max'], [36, 70, 'qualitative_value'], [81, 84, 'max'], [85, 86, 'unit'], [89, 90, 'max']]}",multi
+"{'data': 'Formaldehyde Content ( Sulfite ) DIN EN ISO 11402', 'label': [[23, 30, 'measuring_condition'], [33, 49, 'method']]}",Monomer formaldehyde
+"{'data': 'Dynamic Viscosity EN ISO 3219 B Cone & Plate ( 23 °C ) | [ mPa.s ] | 5000 - 10000 <header> <Dynamic Viscosity EN ISO 3219 B Cone & Plate ( 23 °C ) > | < [ mPa.s ] > | < 5000 - 10000 > </header>', 'label': []}",irrelevant
+"{'data': 'CYMEL UB - 24 - BX resin is a partially n - butylated urea crosslinker supplied in a mixture of n - butanol and xylene. Its fast reaction speed and film hardness development combined with excellent adhesion properties makes CYMEL UB - 24 - BX resin suitable for industrial primer formulations where electrostatic spray application is required.', 'label': [[96, 107, 'qualitative_value'], [112, 118, 'qualitative_value']]}",Solvent type
+"{'data': ' ( ISO 3251, weighted sample 2 g + 2 ml butanol, 125 °C [ 257 °F ] , 2 h ) | |', 'label': []}",irrelevant
+"{'data': 'Necessity of catalyst | Ye s', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde | ~ 0.6 % | Sulfite <header> <Property> | <Range> | <Method> </header>', 'label': [[22, 25, 'max'], [26, 27, 'unit'], [30, 37, 'method']]}",Monomer formaldehyde
+"{'data': 'ketones |', 'label': []}",irrelevant
+"{'data': 'Storage condition:', 'label': []}",irrelevant
+"{'data': 'viscosity at 23 °C ( ISO 3219 B ) shear rate D | 0.6 – 1.0 165.1 | Pa. s s– 1', 'label': []}",irrelevant
+"{'data': 'UV Resistance ( ∆E, QUV - A, 500 hrs ) | 3.8', 'label': []}",irrelevant
+"{'data': 'Esters | Complete', 'label': []}",irrelevant
+"{'data': ' [ mPas ] | 6100 - 17200', 'label': []}",irrelevant
+"{'data': 'COMPATIBILITY | COMPATIBILITY', 'label': []}",irrelevant
+"{'data': 'PHYSICAL PROPERTIES', 'label': []}",irrelevant
+"{'data': 'Alkyd resins | Good', 'label': []}",irrelevant
+"{'data': 'PHYSICAL PROPERTIES', 'label': []}",irrelevant
+"{'data': 'Appearance | Clear liquid | Visual <header> <Property> | <Range> | <Method of Analysis> </header>', 'label': []}",irrelevant
+"{'data': 'Acrylic resins | Very good', 'label': []}",irrelevant
+"{'data': 'Necessity of catalyst : | Yes', 'label': []}",irrelevant
+"{'data': 'n - Buthanol | n - Buthanol | n - Buthanol | 28.1 | 71 - 36 - 3 <header> <> <Composition> | <> <Composition> | <> <Composition> | <> <Content wt % > | <> <CAS No.> </header>', 'label': []}",irrelevant
+"{'data': ' ( 3 ) | ETS – Equal to Standard', 'label': []}",irrelevant
+"{'data': 'Viscosity: GARDNER 25 ℃ | U - V | S~V <header> <ITEM> | <ANALYSIS RESULT> | <STANDARD SPECIFICATIO> </header>', 'label': []}",irrelevant
+"{'data': 'Alcohols | Complete', 'label': []}",irrelevant
+"{'data': 'SOLUBILITY | SOLUBILITY', 'label': []}",irrelevant
+"{'data': 'Haze, APHA ( 435 - 1019 ) | | max. 5 <header> <Viscosity DIN EN ISO 3219 - B ( 23 °C ) > | < [ mPas ] > | < 3300 - 10700 > </header>', 'label': []}",irrelevant
+"{'data': 'density ( ISO 2811 - 3 ) | 1.02 | g/cm³', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde | < 1.7 % | Sulfite Method <header> <Property> | <Range> | <Method> </header>', 'label': [[22, 25, 'max'], [26, 27, 'unit'], [30, 44, 'measuring_condition']]}",Monomer formaldehyde
+"{'data': ' ( 4 ) | Evaluated at 25 C/ 77 F', 'label': []}",irrelevant
+"{'data': 'MELAMINE | MELAMINE RESIN', 'label': []}",irrelevant
+"{'data': 'Density at 20 °C | approx. 1.076 | g/ml | DIN 51 757 <header> <Other data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Alkyd resins | Very good', 'label': []}",irrelevant
+"{'data': 'Color, APHA | < 70 | ISO 6271 <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Boiling point at 16.8 torr, °F ( °C ) | 392 ( 200 )', 'label': []}",irrelevant
+"{'data': 'value ( EN ISO 3682 ) | ≤ 1 mg KOH/g', 'label': []}",stray
+"{'data': 'Cone& Plate 23 ℃ Gardner - Holdi 25 ℃ ( 435 - 1200 - 3 ) | Y - Z 3', 'label': []}",irrelevant
+"{'data': 'Naptha Tolerance, min | 800', 'label': []}",irrelevant
+"{'data': 'viscosity at 23 °C ( 73 °F ) shear rate D | 3,0 – 6,0 Pa. s – 1 20,6 s <header> <non - volatile fraction> | < 59 – 62 % > </header>', 'label': []}",irrelevant
+"{'data': 'Determined per batch: Viscosity | | | Maprenal BF 987 is the low free formaldehyde version of Maprenal MF 984 / 80 B. It is a medium reactive, methylated benzoguanamine resin, which is fully soluble in polar solvents like alcohols, esters and ketones and partially soluble in hydrocarbons like solvent naphtha. | Maprenal BF 987 is the low free formaldehyde version of Maprenal MF 984 / 80 B. It is a medium reactive, methylated benzoguanamine resin, which is fully soluble in polar solvents like alcohols, esters and ketones and partially soluble in hydrocarbons like solvent naphtha. <header> <PROPERTIES> | <> | <> | <USES:> | <USES:> </header>', 'label': []}",irrelevant
+"{'data': 'Property | Range | Method <header> <Property> | <Range> | <Method> </header>', 'label': []}",header
+"{'data': 'Alkyd resins | Very good', 'label': []}",irrelevant
+"{'data': 'aromatic hydrocarbons |', 'label': []}",irrelevant
+"{'data': 'Non - volatile by wt. | 65 - 69 % | DIN EN ISO 3251 ( Pan, 1 hr/ 100 °C ) <header> <Property> | <Range> | <Method> </header>', 'label': [[15, 20, 'measuring_condition'], [24, 26, 'min'], [29, 31, 'max'], [32, 33, 'unit'], [36, 51, 'method'], [54, 71, 'measuring_condition']]}",Solid content
+"{'data': 'Method Visual ISO 6271 | Appearance | Clear liquid', 'label': []}",irrelevant
+"{'data': 'Non volatile content | ≥ 98 % | Foil, 45 min/ 45 °C <header> <PRODUCT SPECIFICATIONS> <Property> | <PRODUCT SPECIFICATIONS> <Range> | <PRODUCT SPECIFICATIONS> <Method of Analysis> </header>', 'label': [[25, 27, 'min'], [28, 29, 'unit'], [32, 51, 'measuring_condition']]}",Solid content
+"{'data': 'Esters | Complete', 'label': []}",irrelevant
+"{'data': 'free formaldehyde | ≤ 0,4 %', 'label': [[22, 25, 'max'], [26, 27, 'unit']]}",Monomer formaldehyde
+"{'data': 'Property key | Property key', 'label': []}",irrelevant
+"{'data': 'viscosity at 23 °C ( 73 °F ) | 1,6 – 2,4 Pa. s', 'label': []}",irrelevant
+"{'data': 'Nitrocellulose | Excellent', 'label': []}",irrelevant
+"{'data': 'Viscosity, 23 °C | 13000 – 25000 mPa - s | Dynamic Viscosity <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'shear rate D | – 1 20,6 s', 'label': []}",irrelevant
+"{'data': 'Viscosity ( 20 °C ) | + - 88 KU', 'label': []}",irrelevant
+"{'data': '3 ) % Solids @ 1050 C. for 2 hrs. | 57 - 61', 'label': [[4, 5, 'unit'], [15, 32, 'measuring_condition'], [36, 38, 'min'], [41, 43, 'max']]}",Solid content
+"{'data': 'N - Butyl alcohol | N - Butyl alcohol | 2.3 | Xylene 24.0 | Xylene 24.0 <header> < 1 ) Economical white baking enamel> <> | < 1 ) Economical white baking enamel> <> | < 1 ) Economical white baking enamel> <kgs.> | < 2 ) Pale green metal laboratory furniture coating> <kgs.> | < 2 ) Pale green metal laboratory furniture coating> <kgs.> </header>', 'label': []}",irrelevant
+"{'data': 'Degree of polymerisation, DP ( GPC/PS I ) | 1.10', 'label': []}",irrelevant
+"{'data': 'Acid value, as such | 0 - 2 | mg KOH/g | 2401 <header> <Property> | <Range> | <Unit> | <TM> </header>', 'label': [[22, 23, 'min'], [26, 27, 'max'], [30, 38, 'unit'], [41, 45, 'method']]}",Acid content
+"{'data': 'organic solvent | ≤ 37 %', 'label': [[0, 7, 'qualitative_value']]}",Solvent type
+"{'data': '8.Flash Point | | | | 25.9 | | ºC | | PCPL/FTM/ 006 <header> <PROPERTY> | <> | <> | <> | <LIMIT> | <> | <UNITS> | <> | <TEST METHOD> </header>', 'label': []}",irrelevant
+"{'data': 'Alkyd resins | Very good', 'label': []}",irrelevant
+"{'data': 'acid value ( EN ISO 3682 ) | ≤ 1 mg KOH/g', 'label': [[13, 24, 'method'], [31, 32, 'max'], [33, 41, 'unit']]}",Acid content
+"{'data': 'Solids content % | 65 + 2 %', 'label': [[15, 16, 'unit'], [19, 21, 'mean'], [24, 25, 'std'], [26, 27, 'unit']]}",Solid content
+"{'data': 'Non - Volatile ( 1.5 g× 105 ℃× 3 hr ) ( % ) | ≧ 97', 'label': [[17, 35, 'measuring_condition'], [40, 41, 'unit'], [48, 50, 'min']]}",Solid content
+"{'data': 'viscosity at 23 °C ( 73 °F ) ( ISO 3219 B ) | 1.6 – 2.4 Pa. s | 1.6 – 2.4 Pa. s', 'label': []}",irrelevant
+"{'data': 'Color ( Gardner ) | . 1 max.', 'label': []}",irrelevant
+"{'data': 'Acid number | 0.1 - 0.8 mg KOH/g ISO 3683', 'label': [[14, 17, 'min'], [20, 23, 'max'], [24, 32, 'unit'], [33, 41, 'method']]}",Acid content
+"{'data': '* STM: Nuplex Resins method of determination ( available on request )', 'label': []}",irrelevant
+"{'data': 'Color, APHA | ≤ 100 | DIN EN ISO 6271 <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'SOLUBILITY | : | : | :', 'label': []}",irrelevant
+"{'data': 'Color: GARDNER | < 1 | <= 1 <header> <ITEM - > | <ANALYSIS RESULT> | <STANDARD SPECIFICATIO> </header>', 'label': []}",irrelevant
+"{'data': 'TYPICAL PROPERTIES | TYPICAL PROPERTIES | TYPICAL PROPERTIES | TYPICAL PROPERTIES <header> <TYPICAL PROPERTIES> <> | <TYPICAL PROPERTIES> <CYMEL 370 Resin> | <TYPICAL PROPERTIES> <CYMEL 373 Resin> | <TYPICAL PROPERTIES> <CYMEL 380 Resin> </header>', 'label': []}",header
+"{'data': 'shear rate D | – 1 20,6', 'label': []}",irrelevant
+"{'data': 'Solvent | Solvent | Butanol |', 'label': [[20, 27, 'qualitative_value']]}",Solvent type
+"{'data': 'n - butanol | 22.0 %', 'label': []}",irrelevant
+"{'data': 'DIN EN ISO 3219 - B Cone & Plate ( 23 °C ) | [ mPa s ] | 1100 – 3900', 'label': []}",irrelevant
+"{'data': 'Non - Volatile Matter DIN EN ISO 3251 ( 1 h ; 120 °C ; 2 g )', 'label': [[22, 37, 'method'], [40, 58, 'measuring_condition']]}",Solid content
+"{'data': 'Density: | 0,96 g/ml', 'label': []}",irrelevant
+"{'data': 'non - volatile matter ( ISO 3251, weighted sample 2 g + 2 ml butanol, 125 °C [ 257 °F ] , 2 h ) | 68 – 73 | %', 'label': [[24, 32, 'method'], [34, 93, 'measuring_condition'], [98, 100, 'min'], [103, 105, 'max'], [108, 109, 'unit']]}",Solid content
+"{'data': 'Aliphatic hydrocarbons | Partial', 'label': []}",irrelevant
+"{'data': 'Alcohols | Complete', 'label': []}",irrelevant
+"{'data': 'Colour ( Gardner ) | < 1 <header> <Appearance:> | <Light amber liquid> </header>', 'label': []}",irrelevant
+"{'data': 'Non - Volatile Matter | DIN EN ISO 3251', 'label': [[24, 39, 'method']]}",Solid content
+"{'data': 'Useful Information', 'label': []}",irrelevant
+"{'data': 'Color Number | 1 > | 12 <header> <Item ( 項目 ) > | <Result ( 結果 ) > | <Specification ( 規格値 ) > </header>', 'label': []}",irrelevant
+"{'data': 'acid value | 3 – 5 mg KOH/g <header> <non - volatile fraction> | < 59 – 62 % > </header>', 'label': [[13, 14, 'min'], [17, 18, 'max'], [19, 27, 'unit']]}",Acid content
+"{'data': 'viscosity at 23 °C ( 73 °F ) | 1,6 – 2,4 Pa. s', 'label': []}",irrelevant
+"{'data': 'Viscosity - [ Brookfield @ 23 C ] O | - mPas | - mPas | BSMT A 1003 - 001 | 475 | 625 <header> <Physical Property> | <Units> | <Units> | <Method ( 1 ) > | <Minimum> | <Maximum> </header>', 'label': []}",irrelevant
+"{'data': 'Density 25 °C | 8.2 – 8.4 lbs/gal | <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': '游离甲醛Free formaldehyde ( % ) | ≦ 0.1', 'label': [[24, 25, 'unit'], [32, 35, 'max']]}",Monomer formaldehyde
+"{'data': 'density ( ISO 2811 - 3 ) | 1.00 g/cm³', 'label': []}",irrelevant
+"{'data': 'Luwipal® LR 89551 | O . | . | O | | | | | | | | <header> <> | <> | <> | <> | <> | <> | <> | <> | <> | <> | <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Density at 68 °F ( 20 °C ) , lb/gal | 10.08 <header> <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Alcohols | Complete', 'label': []}",irrelevant
+"{'data': 'flash point ( DIN EN 22719 ) sensitivity to frost | > 100 °C ( 212 °F ) 0 °C ( 32 °F )', 'label': []}",irrelevant
+"{'data': 'Property Typical Value Method Density, 23 °C 1067 kg/m 3 ISO 2811 Flash point 45 °C ISO 3679 | CYMEL 683 resin reacts according to the general acid catalyses mechanism, consequently will respond best to weak acid catalysts with a pKa value of > 1.9. CYMEL 683 resin does not require the addition of an external acid catalyst. The acidity of the primary film former is normally sufficient to initiate the cure at rather low baking conditions. The cure can additionally be catalyzed by weak acids such as CYCAT® 296 - 9 catalyst. <header> <Automotive OEM coating formulations General industrial baking applications> | <Very good film appearance Very good outdoor resistance properties Very good mar resistance> </header>', 'label': []}",irrelevant
+"{'data': 'Ketones | Complete', 'label': []}",irrelevant
+"{'data': 'Appearance | Clear Liquid | ASTM E 284 <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity, 23 °C | 350 - 600 mPa.s | ISO 3219', 'label': []}",irrelevant
+"{'data': '2 Volume/Weight at 25 ℃ 3 Mg of KOH/gram', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde | 0.30 | % | ISO 11402 <header> <Property> | <Value> | <Unit> | <TM> </header>', 'label': [[20, 24, 'max'], [27, 28, 'unit'], [31, 40, 'method']]}",Monomer formaldehyde
+"{'data': 'Viscosity @ 25 °C by BF | Cps | ASTM D 2196 | 1000 - 2000 <header> <Property> | <Unit> | <Test Method> | <Value> </header>', 'label': []}",irrelevant
+"{'data': '1 ) Economical white baking enamel | 1 ) Economical white baking enamel | 1 ) Economical white baking enamel | 2 ) Pale green metal laboratory furniture coating | 2 ) Pale green metal laboratory furniture coating <header> < 1 ) Economical white baking enamel> <> | < 1 ) Economical white baking enamel> <> | < 1 ) Economical white baking enamel> <kgs.> | < 2 ) Pale green metal laboratory furniture coating> <kgs.> | < 2 ) Pale green metal laboratory furniture coating> <kgs.> </header>', 'label': []}",irrelevant
+"{'data': 'Luwipal® 018 BX | n - butanol | n - butanol/xylene approx. 2 : 1 <header> <> | <Range> <etherifying alcohol> | <solvent> <etherifying alcohol> </header>', 'label': [[18, 29, 'qualitative_value'], [32, 64, 'qualitative_value']]}",Solvent type
+"{'data': 'Iodine Colour Number DIN 6162 | | < 1 <header> <Dynamic Viscosity EN ISO 3219 B Cone & Plate ( 23 °C ) > | < [ mPa.s ] > | < 5000 - 10000 > </header>', 'label': []}",irrelevant
+"{'data': '外观Appearance | 无色透明液体Colorless transparent liquid', 'label': []}",irrelevant
+"{'data': 'Flash point | approx. 145 | °C | DIN EN ISO 2719 <header> <Other data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance: | Light amber liquid <header> <Appearance:> | <Light amber liquid> </header>', 'label': []}",irrelevant
+"{'data': 'organic solvent | ≤ 37 % <header> <non - volatile fraction> | < 59 – 62 % > </header>', 'label': [[0, 7, 'qualitative_value']]}",Solvent type
+"{'data': 'Useful Information', 'label': []}",irrelevant
+"{'data': 'acid value ( EN ISO 3682 ) | ≤ 1 mg KOH/g | ≤ 1 mg KOH/g', 'label': [[13, 24, 'method'], [31, 32, 'max'], [33, 41, 'unit'], [46, 47, 'max'], [48, 56, 'unit']]}",Acid content
+"{'data': 'Viscous liquid 75 % non volatile in n - butanol PRODUCT SPECIFICATIONS Property Range Method | Viscous liquid 75 % non volatile in n - butanol PRODUCT SPECIFICATIONS Property Range Method <header> <Automotive OEM coating formulations General industrial baking applications> | <Very good film appearance Very good outdoor resistance properties Very good mar resistance> </header>', 'label': [[15, 17, 'mean'], [18, 19, 'unit'], [110, 112, 'mean'], [113, 114, 'unit']]}",Solid content
+"{'data': ' ( 4 ) | Evaluated at 25 C/ 77 F', 'label': []}",irrelevant
+"{'data': 'Color, APHA | ≤ 50 ISO 6271', 'label': []}",irrelevant
+"{'data': 'Color, APHA | ≤ 70 | DIN EN ISO 6271 <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'shear rate D | s– 1 20.6', 'label': []}",irrelevant
+"{'data': 'Conditions | Conditions | Temperature: | 15 – 35 ºC', 'label': []}",irrelevant
+"{'data': 'ETERMINO® 9215 - 70 | 68 - 72 | n - Butanol, iso - Butanol | Y - Z 2 | 2,2 % | 1 max | Excellent stain, chemical and detergent resistance ; excellent exterior durability | Industrial metal baking enamel <header> <n - Butylated> <ETERMINO® 9211 - 60 - 5 > | <n - Butylated> < 58 - 62 > | <n - Butylated> <n - Butanol, Xylene, iso - Butanol > | <n - Butylated> <P - T> | <n - Butylated> < 1,2 % > | <n - Butylated> < 2 max> | <n - Butylated> <High gloss ; good compatibility with saturated polyester and acrylic resins ; good adhesion and flexibility> | <n - Butylated> <Industrial metal baking enamel> </header>', 'label': [[22, 24, 'min'], [27, 29, 'max'], [32, 58, 'qualitative_value'], [71, 74, 'max'], [75, 76, 'unit'], [79, 80, 'max']]}",multi
+"{'data': '• Colour | - Gardner | - Gardner | BSMT A 1002 - 001 | - | 4 <header> <Physical Property> | <Units> | <Units> | <Method ( 1 ) > | <Minimum> | <Maximum> </header>', 'label': []}",irrelevant
+"{'data': 'PHYSICAL PROPERTIES', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde < 1.5 % ISO 9020 SOLUBILITY | Free formaldehyde < 1.5 % ISO 9020 SOLUBILITY <header> <Automotive OEM coating formulations General industrial baking applications> | <Very good film appearance Very good outdoor resistance properties Very good mar resistance> </header>', 'label': [[20, 23, 'max'], [24, 25, 'unit'], [26, 34, 'method'], [68, 71, 'max'], [72, 73, 'unit'], [74, 82, 'method']]}",Monomer formaldehyde
+"{'data': 'Density ( g/cm 3 ) | 1.10 ± 0.05 | ISO 1183 - 1 : 2004 ( E ) B <header> <Property> | <Data & Description> | <Test Method> </header>', 'label': []}",irrelevant
+"{'data': '• | Brookfield Viscosity, at 25 ℃ | ÷ 5000 10000 mPas/s', 'label': []}",irrelevant
+"{'data': '2 ) Density @ 250 C. | 1.01 - 1.03', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde | < 0.1 % | Sulfite Titration <header> <Property> | <Range> | <Method> </header>', 'label': [[22, 25, 'max'], [26, 27, 'unit'], [30, 47, 'measuring_condition']]}",Monomer formaldehyde
+"{'data': 'Specifications', 'label': []}",irrelevant
+"{'data': 'Chromatic number | ≤ 70', 'label': []}",irrelevant
+"{'data': 'non - volatile fraction | 83 – 88 %', 'label': [[26, 28, 'min'], [31, 33, 'max'], [34, 35, 'unit']]}",Solid content
+"{'data': 'Foil ( 45 min at 45 °C ) ( 435 - 1200 - 19 ) | [ % ] | 78 - 82 <header> <Viscosity DIN EN ISO 3219 - B ( 23 °C ) > | < [ mPas ] > | < 3300 - 10700 > </header>', 'label': []}",irrelevant
+"{'data': 'Visual ISO 6271', 'label': []}",irrelevant
+"{'data': 'Non - volatile by wt. | 97 ± 2 % | Foil, 45 min/ 45 °C <header> <Property> | <Range> | <Method> </header>', 'label': [[15, 21, 'measuring_condition'], [24, 26, 'mean'], [29, 30, 'std'], [31, 32, 'unit'], [35, 54, 'measuring_condition']]}",Solid content
+"{'data': 'Alkyd MF ratio | 65.5 : 34.5', 'label': []}",irrelevant
+"{'data': 'Total diamines, % | > 99 | > 99 <header> <> | <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Density, 23 ℃ | 1170 kg/m 3 | ISO 2811', 'label': []}",irrelevant
+"{'data': 'Water | Insoluble', 'label': []}",irrelevant
+"{'data': ' | | <header> <S/N> | <PARAMETER> | <VALUE> </header>', 'label': []}",irrelevant
+"{'data': 'Colour, APHA | max. 50 | ISO 6271', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde | < 1.0 % | ISO 9020 <header> <DESCRIPTIVE DATA Property Typical Value Method> | <DESCRIPTIVE DATA Property Typical Value Method> | <DESCRIPTIVE DATA Property Typical Value Method> </header>', 'label': [[22, 25, 'max'], [26, 27, 'unit'], [30, 38, 'method']]}",Monomer formaldehyde
+"{'data': 'Property | Range | Method <header> <Property> | <Range> | <Method> </header>', 'label': []}",header
+"{'data': 'Alcohols | Complete', 'label': []}",irrelevant
+"{'data': 'Specific weight | 1.12 ( g/ml )', 'label': []}",irrelevant
+"{'data': 'White Spirit Tolerance, 25 ℃, % | 200 - 350', 'label': []}",irrelevant
+"{'data': 'FORM OF DELIVERY 55 % in iso butanol ( 72 IB )', 'label': [[25, 36, 'qualitative_value']]}",Solvent type
+"{'data': 'organic solvent | ≤ 2 %', 'label': [[0, 7, 'qualitative_value']]}",Solvent type
+"{'data': 'Ethanol | Miscible <header> <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Ethanol | Miscible', 'label': []}",irrelevant
+"{'data': 'Non - volatiles content | 69 - 73 | % <header> <Property> | <Value> | <Unit> </header>', 'label': [[26, 28, 'min'], [31, 33, 'max'], [36, 37, 'unit']]}",Solid content
+"{'data': 'SPECIFICATION', 'label': []}",irrelevant
+"{'data': 'Viscosity, 25 °C | K - N | Gardner - Holdt <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity Brookfield @ RT, cps | 70 - 300 <header> <Appearance> | < 2011 yellowish clear liquid> </header>', 'label': []}",irrelevant
+"{'data': 'Iodine Colour Number DIN 6162 | Iodine Colour Number DIN 6162 | | < 1', 'label': []}",irrelevant
+"{'data': 'Viscosity, 23 °C | 6000 - 10500 mPa·s | Dynamic ( Cone & Plate ) <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'nh | Very low', 'label': []}",irrelevant
+"{'data': 'Viscosity ( 23 °C at 50 s - 1 ) | 7.0 - 11 Pa.s | 012 J | 3219 <header> <Property> | <Value Unit> | <Method STM*> | <ISO> </header>', 'label': []}",irrelevant
+"{'data': 'Kinetic viscosity [ 2 ] ( mm 2 /s ) | 22 - 30 | GB/T 1660 - 2008 <header> <Property> | <Data & Description> | <Test Method> </header>', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde | ≤ 0.3 %', 'label': [[22, 25, 'max'], [26, 27, 'unit']]}",Monomer formaldehyde
+"{'data': 'Acid number | . . 1.0 max. <header> <CHARACTERISTICS> | <> </header>', 'label': [[18, 21, 'max']]}",Acid content
+"{'data': 'Appearance | Clear to slightly hazy | Visual <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity, Gardner - Holdt | S - V', 'label': []}",irrelevant
+"{'data': 'Determinded per batch Property Dynamic Viscosity ( Ubbelohde )', 'label': []}",irrelevant
+"{'data': 'Nitrocellulose | Good', 'label': []}",irrelevant
+"{'data': 'viscosity at 23 °C ( ISO 3219 B ) | 4.0 – 7.0 Pa.', 'label': []}",irrelevant
+"{'data': 'Solvent composition Butanol / xylene ( 68 / 32 )', 'label': [[20, 48, 'qualitative_value']]}",Solvent type
+"{'data': 'Luwipal® 018 BX, which is a solution in an n - butanol/o - xylene blend, is a variant of Luwipal® 018 ( dissolved in n - butanol ) . Thinning with o - xylene results in a lower viscosity, which allows easier handling. The electrical resistance of Luwipal® 018 BX is practically the same as that of Luwipal® 018.', 'label': [[43, 54, 'qualitative_value'], [55, 65, 'qualitative_value'], [117, 128, 'qualitative_value']]}",Solvent type
+"{'data': 'Ketones | Complete', 'label': []}",irrelevant
+"{'data': 'Acrylic resins | Very good', 'label': []}",irrelevant
+"{'data': '• | ( * ) Compatibility with Ethanol | 1 Resin/ 20 Ethanol, min.', 'label': []}",irrelevant
+"{'data': 'Aromatic hydrocarbons | Partial', 'label': []}",irrelevant
+"{'data': 'acid value | 3 – 5 mg KOH/g', 'label': [[13, 14, 'min'], [17, 18, 'max'], [19, 27, 'unit']]}",Acid content
+"{'data': 'Esters | Complete', 'label': []}",irrelevant
+"{'data': '% Solids | 54.2', 'label': [[0, 1, 'unit'], [11, 15, 'mean']]}",Solid content
+"{'data': 'Appearance | Clear liquid | Visual', 'label': []}",irrelevant
+"{'data': '• Gardner Viscosity, at 25 °C | G – K', 'label': []}",irrelevant
+"{'data': 'Gardner Viscosity: | U – X', 'label': []}",irrelevant
+"{'data': 'Hydroxyl value ( as such ) | 260 - 290 | mg. KOH/g. | ISO 4629 <header> <Property> | <Value> | <Units> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'viscosity at 23 °C ( 73 °F ) | 1,4 – 1,7 Pa. s', 'label': []}",irrelevant
+"{'data': 'mPa.s', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde < 0.7 % | ISO 9020', 'label': [[20, 23, 'max'], [24, 25, 'unit'], [28, 36, 'method']]}",Monomer formaldehyde
+"{'data': 'Viscosity EN ISO 3219 - B Cone & Plate ( 23 °C ) ( 25 °C ) Gardner - Holdt 25 °C ( 435 - 1200 - 3 ) | [ mPas ] [ mPas ] | 1000 - 1800 600 - 1500 R - X', 'label': []}",irrelevant
+"{'data': '8.MTO Tolerance | | | | > 30 | | ml/gm | PCPL/ FTM / 029 <header> <PROPERTY> | <> | <> | <> | <LIMIT> | <> | <UNITS> | <TEST METHOD> </header>', 'label': []}",irrelevant
+"{'data': 'acid value ( EN ISO 3682 ) | 1 mg KOH/g', 'label': [[13, 24, 'method'], [29, 30, 'mean'], [31, 39, 'unit']]}",Acid content
+"{'data': 'Epoxy resins | Excellent', 'label': []}",irrelevant
+"{'data': 'Water | Insoluble', 'label': []}",irrelevant
+"{'data': 'Free Formaldehyde | % | | 0.20 - 0.50 <header> <Property> | <Unit> | <Test Method> | <Value> </header>', 'label': [[20, 21, 'unit'], [26, 30, 'min'], [33, 37, 'max']]}",Monomer formaldehyde
+"{'data': 'Non volatile content | ≥ 98 %', 'label': [[25, 27, 'min'], [28, 29, 'unit']]}",Solid content
+"{'data': 'Property | Range | Method <header> <Property> | <Range> | <Method> </header>', 'label': []}",header
+"{'data': ' | = thinnable = limited thinnability | = thinnable = limited thinnability | = thinnable = limited thinnability | = thinnable = limited thinnability | = thinnable = limited thinnability | | | | | | <header> <> | <> | <> | <> | <> | <> | <> | <> | <> | <> | <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'density ( ISO 2811 - 3 ) | 1.05 | g/cm³', 'label': []}",irrelevant
+"{'data': 'Methylation degree | : | 5.2 / 6 ( 86.7 % )', 'label': []}",irrelevant
+"{'data': 'non - volatile matter | non - volatile matter | non - volatile matter | non - volatile matter | non - volatile matter | non - volatile matter | 94 – 97 % | 94 – 97 %', 'label': [[144, 146, 'min'], [149, 151, 'max'], [152, 153, 'unit'], [156, 158, 'min'], [161, 163, 'max'], [164, 165, 'unit']]}",Solid content
+"{'data': 'Polyester resins | Very good', 'label': []}",irrelevant
+"{'data': 'Hazen color value ( DIN EN 1557 ) | 50 ≤ |', 'label': []}",irrelevant
+"{'data': 'Appearance | Clear Liquid | ASTM E 284 <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Iodine Colour Number DIN 6162', 'label': []}",irrelevant
+"{'data': 'Aromatic Hydrocarbons | Partial', 'label': []}",irrelevant
+"{'data': 'Appearance | clear, free of extraneous matter 017 A', 'label': []}",irrelevant
+"{'data': 'Color - Gardner | ≤ 1 | DIN EN ISO 4630 - 1 <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'saponification value | ~ 62 mg KOH/g | ~ 62 mg KOH/g', 'label': []}",irrelevant
+"{'data': 'Resimene 735 is a methylated melamine - formaldehyde resin, supplied at 78 - 82 % solids in isopropanol.', 'label': []}",irrelevant
+"{'data': 'Reactivity : 9211 - 60 - 5 > 9212 - 70 > 9216 - 60 - 1 > 9215 - 70 ; Compatibility: 9212 - 70 > 9216 - 60 - 1 > 9215 - 70 ; Hardness: 9211 - 60 - 5 > 9212 - 70 > 9216 - 60 - 1 > 9215 - 70', 'label': []}",irrelevant
+"{'data': 'Epoxy resins | Very good | <header> <APPLICATION AREAS> | <> | <BENEFITS> </header>', 'label': []}",irrelevant
+"{'data': 'CYMEL U - 93 - 210 resin is an n - butylated urea formaldehyde resin supplied in a mixture of n - butanol and xylene. It has excellent compatibility with epoxy resins and is recommended in primer formulations which are to be topcoated and rebaked.', 'label': [[94, 105, 'qualitative_value'], [110, 116, 'qualitative_value']]}",Solvent type
+"{'data': 'Acid value ( as such ) | max. 1.5 | mg KOH/g | 303 A 3682 | 303 A 3682 <header> <Property> | <Value> | <Units> | <Method SBM * ISO> | <Method SBM * ISO> </header>', 'label': [[13, 20, 'measuring_condition'], [30, 33, 'max'], [36, 44, 'unit'], [47, 52, 'method'], [53, 57, 'method'], [60, 65, 'method'], [66, 70, 'method']]}",Acid content
+"{'data': 'viscosity at 23 °C ( 73 °F ) | 3.0 – 5.0 Pa. s', 'label': []}",irrelevant
+"{'data': 'Gardner Impact Resistance ( Direct / Reverse ) | 40 / 40 <header> <Typical Properties> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Acid Value, KOH/g | ≤ 2 <header> <ITEM> | <STANDARD DATA> </header>', 'label': [[12, 17, 'unit'], [22, 23, 'max']]}",Acid content
+"{'data': 'CH 2 OR | CH 2 OR', 'label': []}",irrelevant
+"{'data': 'non - volatile fraction ( ISO 3251, weighted sample 2 g + 2 ml butanol, 2 h, 125 °C [ 257 °F ] , ) | 81 – 85 % | 81 – 85 %', 'label': [[26, 34, 'method'], [72, 94, 'measuring_condition'], [101, 103, 'min'], [106, 108, 'max'], [109, 110, 'unit'], [113, 115, 'min'], [118, 120, 'max'], [121, 122, 'unit'], [36, 70, 'measuring_condition']]}",Solid content
+"{'data': 'shear rate D | 82.6', 'label': []}",irrelevant
+"{'data': 'Density at 68 °F ( 20 °C ) , g/ml | 1.208', 'label': []}",irrelevant
+"{'data': 'Hazen colour value | <= 300', 'label': []}",irrelevant
+"{'data': 'Table 1', 'label': []}",irrelevant
+"{'data': 'PHYSICAL PROPERTIES', 'label': []}",irrelevant
+"{'data': 'Equivalent weight | approx. 326 | | <header> <Other data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Plastopal® H 73 IB', 'label': []}",irrelevant
+"{'data': 'Property | Range | Method <header> <Property> | <Range> | <Method> </header>', 'label': []}",header
+"{'data': 'Unlike some methylated urea resins, | CYMEL U - 65 resin | RHOPLEX E - 8684 | clear | clear <header> <CYMEL U - 65 resin is a methylated urea - formaldehyde resin, useful in water or organo - soluble systems as a crosslinking agent for a variety of polymers that contain hydroxyl functionality.> <ADVANTAGES> | <CYMEL U - 65 resin is a methylated urea - formaldehyde resin, useful in water or organo - soluble systems as a crosslinking agent for a variety of polymers that contain hydroxyl functionality.> <> | <Long Oil Alkyds> <REZYL 873 - 11 > | <Solution Clarity> <slight haze> | <Film Clarity 30 minutes at 300 °F ( 149 °C ) > <clear> </header>', 'label': []}",irrelevant
+"{'data': 'Epoxy resins | Very good', 'label': []}",irrelevant
+"{'data': 'Specification Property | Value | Unit of measurement | Method <header> <Specification Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",header
+"{'data': '063 | 1.2', 'label': []}",irrelevant
+"{'data': 'Form supplied | low - viscosity, solvent - free liquid <header> <Type> | <Aminofunctional co - reactant for polyisocyanates> </header>', 'label': []}",irrelevant
+"{'data': 'Density: | 0,96 g/ml <header> <Color:> | <Yellow> </header>', 'label': []}",irrelevant
+"{'data': 'Non - volatile, by wt. | 48 - 52 %', 'label': [[16, 21, 'measuring_condition'], [25, 27, 'min'], [30, 32, 'max'], [33, 34, 'unit']]}",Solid content
+"{'data': '• | GARDNER Viscosity, at 25 ℃ | ÷ Z 3 Z 4', 'label': []}",irrelevant
+"{'data': 'Color ( Gardner ) : 1 max', 'label': []}",irrelevant
+"{'data': 'Epoxy UF ratio | 66 : 34', 'label': []}",irrelevant
+"{'data': 'Color ( 71 % ) | max. 50 | APHA <header> <Property> | <Value> | <Unit> </header>', 'label': []}",irrelevant
+"{'data': 'Property | Typical Value | Method', 'label': []}",header
+"{'data': 'Hazen color value | ≤ 250 | | DIN EN 1557 <header> <Specification Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Volatile substances | 2.5 max %', 'label': [[22, 25, 'max'], [30, 31, 'unit']]}",Solvent type
+"{'data': 'Epoxy resins | Good', 'label': []}",irrelevant
+"{'data': 'Determination of turbitdity | 0 - 15 | NTU | 2269 <header> <Property> | <Range> | <Unit> | <TM> </header>', 'label': []}",irrelevant
+"{'data': 'pH, 10 % solution ( ISO 976, DIN 53785 ) | 7.5 – 8.5', 'label': []}",irrelevant
+"{'data': 'Ketones Complete | Ketones Complete <header> <Automotive OEM coating formulations General industrial baking applications> | <Very good film appearance Very good outdoor resistance properties Very good mar resistance> </header>', 'label': []}",irrelevant
+"{'data': 'Acid value | - < 3. <header> <Appearance> | < - Clear liquid.> </header>', 'label': [[17, 18, 'max']]}",Acid content
+"{'data': 'COMPATIBILITY | <header> <Property Typical Value Method of Analysis> | <Property Typical Value Method of Analysis> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance | clear and clean | clear and clean | 017 A | <header> <Property> | <Value Unit> | <Value Unit> | <Method STM*> | <ISO> </header>', 'label': []}",irrelevant
+"{'data': 'Color, APHA ( 435 - 1019 ) Haze, APHA ( 435 - 1019 ) 5 max.', 'label': []}",irrelevant
+"{'data': ' ( 435 - 1019 ) | | 30 max. <header> <> | <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Epoxy resins | Very good <header> <Property Typical Value Method of Analysis> | <Property Typical Value Method of Analysis> </header>', 'label': []}",irrelevant
+"{'data': 'Acid value ( as such ) | 0.5 - 1.5 | mg KOH/g | 303 A | 3682 <header> <Property> | <Value> | <Unit> | <Method STM*> | <ISO> </header>', 'label': [[13, 20, 'measuring_condition'], [25, 28, 'min'], [31, 34, 'max'], [37, 45, 'unit'], [48, 53, 'method'], [56, 60, 'method']]}",Acid content
+"{'data': 'Solvent | Toluene/n - Butanol', 'label': [[10, 29, 'qualitative_value']]}",Solvent type
+"{'data': 'Cellulose acetate butyrate | Good <header> <Alkyd resins> | <Very good> </header>', 'label': []}",irrelevant
+"{'data': 'Epoxy resins | Very good', 'label': []}",irrelevant
+"{'data': 'Synteko 1360 | 150 ÷ 250 | 40 ÷ 90 | 2,5 <header> <Parameter Unit Test Method> | <Viscosity at 20 °C mPa.s sol. 1 : 1 UNI EN 12092 > | <Gel time at 30 °C ÷ min. sol. 2 : 1 UNI 9059 > | <Moisture max. % UNI 9060 > </header>', 'label': []}",irrelevant
+"{'data': 'Colour, APHA | max. 70 | ISO 6271', 'label': []}",irrelevant
+"{'data': 'PHYSICAL PROPERTIES', 'label': []}",irrelevant
+"{'data': 'Viscosity | Gardner - Holdt at 25 ℃ | S - V | - <header> <PROPERTY> | <TEST METHOD> | <SPECIFICATIO N> | <UNITS> </header>', 'label': []}",irrelevant
+"{'data': 'Iodine Colour Number | DIN 6162', 'label': []}",irrelevant
+"{'data': 'Other properties Luwipal ® 066', 'label': []}",irrelevant
+"{'data': 'Viscosity, 23 °C | 12000 - 20000 mPa∙s | DIN EN ISO 3219 <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': '03. | pH at 25 oC ( 50 % solution in distilled water ) | 8 - 9 <header> <S/N> | <PARAMETER> | <VALUE> </header>', 'label': []}",irrelevant
+"{'data': 'Luwipal 073', 'label': []}",irrelevant
+"{'data': 'Percent solids, ± 2 % | 60', 'label': [[0, 7, 'unit'], [18, 19, 'std'], [20, 21, 'unit'], [24, 26, 'mean']]}",Solid content
+"{'data': 'Solvent included : | none', 'label': []}",irrelevant
+"{'data': 'Appearance | Clear.', 'label': []}",irrelevant
+"{'data': 'Dry Film Times ( 10 mil Thickness, 22 °C 50 % RH ) | Dry Film Times ( 10 mil Thickness, 22 °C 50 % RH ) <header> <Typical Properties> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Color, APHA ( 435 - 1019 ) | | max. 30 <header> <Viscosity DIN EN ISO 3219 - B ( 23 °C ) > | < [ mPas ] > | < 3300 - 10700 > </header>', 'label': []}",irrelevant
+"{'data': 'viscosity at 23 °C ( 73 °F ) shear rate D | 2,5 – 3,0 Pa. s – 1 41,3 s <header> <non - volatile fraction> | < 59 – 62 % > </header>', 'label': []}",irrelevant
+"{'data': 'Water | Partial', 'label': []}",irrelevant
+"{'data': 'viscosity at 23 °C ( 73 °F ) | 1,0 – 1,3 Pa. s', 'label': []}",irrelevant
+"{'data': 'Property | Range | Method <header> <Property> | <Range> | <Method> </header>', 'label': []}",header
+"{'data': 'Viscosity, 23 °C | 5000 - 17000 mPa∙s | Dynamic <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Flash point | 94 °C | ISO 3679 <header> <Property Typical Value Method> | <Property Typical Value Method> | <Property Typical Value Method> </header>', 'label': []}",irrelevant
+"{'data': 'Water reducible wood finishes | | REZYL 330 | clear | clear <header> <CYMEL U - 65 resin is a methylated urea - formaldehyde resin, useful in water or organo - soluble systems as a crosslinking agent for a variety of polymers that contain hydroxyl functionality.> <ADVANTAGES> | <CYMEL U - 65 resin is a methylated urea - formaldehyde resin, useful in water or organo - soluble systems as a crosslinking agent for a variety of polymers that contain hydroxyl functionality.> <> | <Long Oil Alkyds> <REZYL 873 - 11 > | <Solution Clarity> <slight haze> | <Film Clarity 30 minutes at 300 °F ( 149 °C ) > <clear> </header>', 'label': []}",irrelevant
+"{'data': 'Luwipal® 014', 'label': []}",irrelevant
+"{'data': 'Solvent BC/BDG= 2 / 1 * 2 | Solvent BC/BDG= 2 / 1 * 2', 'label': [[8, 25, 'qualitative_value'], [36, 53, 'qualitative_value']]}",Solvent type
+"{'data': 'shear rate D | – 1 20,6', 'label': []}",irrelevant
+"{'data': 'Determined per batch | Maprenal MF 821 / 84 B is a high solid, medium reactive , methylol - NH type of n - butylated MF, which shows a good compatibility to hydrocarbons, esters, ketons and alcohols such like propanol and butanol.', 'label': [[209, 217, 'qualitative_value'], [222, 229, 'qualitative_value']]}",Solvent type
+"{'data': 'Free formaldehyde | ~ 0.7 % | Sulfite Method <header> <Property> | <Range> | <Method> </header>', 'label': [[22, 25, 'mean'], [26, 27, 'unit'], [30, 44, 'method']]}",Monomer formaldehyde
+"{'data': 'Boiling point at 16.8 torr, °F ( °C ) | 392 ( 200 ) <header> <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Acid value | max. 1 | JIS K 5601 2 - 1 <header> <Item ( s ) > | <Specification> | <Test method> </header>', 'label': [[18, 19, 'max'], [22, 38, 'method']]}",Acid content
+"{'data': 'Dissolved 83 % in n - butanol', 'label': [[18, 29, 'qualitative_value']]}",Solvent type
+"{'data': 'Viscosity DIN EN ISO 3219 - B', 'label': []}",irrelevant
+"{'data': 'Non - volatile, % by weight ( 45 minutes at 45 ℃ ) ; minimum | 98', 'label': [[30, 48, 'measuring_condition'], [63, 65, 'min'], [16, 17, 'unit'], [18, 27, 'measuring_condition']]}",Solid content
+"{'data': 'Luwipal® 072', 'label': []}",irrelevant
+"{'data': '• Free formaldehyde | 0,6 % max', 'label': [[22, 25, 'max'], [26, 27, 'unit']]}",Monomer formaldehyde
+"{'data': 'SOLUBILITY | SOLUBILITY', 'label': []}",irrelevant
+"{'data': 'saponification value | ~ 62 mg KOH/g', 'label': []}",irrelevant
+"{'data': 'COMPATIBILITY | COMPATIBILITY', 'label': []}",irrelevant
+"{'data': 'Molecular weight distribution ( Mw/Mn ) ( GPC/PS I ) | | 2,60 <header> <Dynamic Viscosity DIN 53177 Cone & Plate ( 23 °C ) > | < [ mPa.s ] > | < 11000 - 29000 > </header>', 'label': []}",irrelevant
+"{'data': 'Density | : 0.98 | kg/dm 3', 'label': []}",irrelevant
+"{'data': 'Non - Volatile Matter DIN EN ISO 3251 | | <header> <Dynamic Viscosity DIN EN ISO 3219 - B Cone & Plate ( 23 °C ) > | < [ mPas ] > | < 1000 - 3000 > </header>', 'label': [[22, 37, 'method']]}",Solid content
+"{'data': 'S/N | PARAMETER | VALUE <header> <S/N> | <PARAMETER> | <VALUE> </header>', 'label': []}",header
+"{'data': 'Color, APHA | ≤ 50 | DIN EN ISO 6271 <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'shear rate D | 25 s– 1', 'label': []}",irrelevant
+"{'data': 'Solvent | n - Butanol', 'label': [[10, 21, 'qualitative_value']]}",Solvent type
+"{'data': 'Properties', 'label': []}",irrelevant
+"{'data': 'Non - volatile ( % ) | . 59.0 - 63.0', 'label': [[17, 18, 'unit'], [25, 29, 'min'], [32, 36, 'max']]}",Solid content
+"{'data': 'Specific gravity | 1.15', 'label': []}",irrelevant
+"{'data': 'Solvent | 2 - n - butoxy ethanol ( n - butyl cellosolve ) | 2 - n - butoxy ethanol ( n - butyl cellosolve ) <header> <Property> | <Range> | <Method> </header>', 'label': [[10, 57, 'qualitative_value'], [60, 107, 'qualitative_value']]}",Solvent type
+"{'data': 'Polyvinyl butyrate | Good', 'label': []}",irrelevant
+"{'data': 'PHYSICAL PROPERTIES', 'label': []}",irrelevant
+"{'data': 'Haze, APHA ( 435 - 1019 ) | | max. 5 <header> <Dynamic Viscosity DIN EN ISO 3219 - B Cone & Plate ( 23 °C ) > | < [ mPas ] > | < 1000 - 3000 > </header>', 'label': []}",irrelevant
+"{'data': 'Polyvinyl butyrate | Good', 'label': []}",irrelevant
+"{'data': '07. | Storage Life ( 25 °C ) | Minimum 1 Year <header> <S/N> | <PARAMETER> | <VALUE> </header>', 'label': []}",irrelevant
+"{'data': 'Vapor pressure at 68 °F ( 20 °C ) , mm Hg | < 0.01', 'label': []}",irrelevant
+"{'data': 'Hardness Development ( 22 °C 50 % RH ) | <header> <Typical Properties> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Water | Not dilutable', 'label': []}",irrelevant
+"{'data': 'shear rate D | 165.1 s– 1 | 165.1 s– 1', 'label': []}",irrelevant
+"{'data': 'Specific gravity, g/cc | 1.24 | Ethyl cellulose N - 10 | cloudy | very hazy <header> <CYMEL U - 65 resin is a methylated urea - formaldehyde resin, useful in water or organo - soluble systems as a crosslinking agent for a variety of polymers that contain hydroxyl functionality.> <ADVANTAGES> | <CYMEL U - 65 resin is a methylated urea - formaldehyde resin, useful in water or organo - soluble systems as a crosslinking agent for a variety of polymers that contain hydroxyl functionality.> <> | <Long Oil Alkyds> <REZYL 873 - 11 > | <Solution Clarity> <slight haze> | <Film Clarity 30 minutes at 300 °F ( 149 °C ) > <clear> </header>', 'label': []}",irrelevant
+"{'data': 'SOLUBILITY | SOLUBILITY', 'label': []}",irrelevant
+"{'data': 'Free formaldehyde | ≤ 3.5 % | Sulfite <header> <Property> | <Range> | <Method> </header>', 'label': [[22, 25, 'max'], [26, 27, 'unit'], [30, 37, 'measuring_condition']]}",Monomer formaldehyde
+"{'data': 'Appearance | Clear to hazy liquid | Visual <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Alkyd resins | Good', 'label': []}",irrelevant
+"{'data': 'viscosity at 23 °C ( 73 °F ) shear rate D | 1,4 – 1,7 Pa. s – 1 82,6 s', 'label': []}",irrelevant
+"{'data': 'Standard Tolerance ( 1 ) | ≥ 1000', 'label': []}",irrelevant
+"{'data': 'Uses | For the formulation of tough but flexible, lightfast and highly reactive two - component polyurethane spray coatings.', 'label': []}",irrelevant
+"{'data': '92 ºF |', 'label': []}",irrelevant
+"{'data': 'Nuplex Industries ( Aust ) Pty Limited ABN 25 000 045 572 | Nuplex Industries ( Aust ) Pty Limited ABN 25 000 045 572 | Nuplex Industries Limited', 'label': []}",irrelevant
+"{'data': 'Alkyd resins | Very good', 'label': []}",irrelevant
+"{'data': 'MS/ 20 ℃ | 8 ～ 20', 'label': []}",stray
+"{'data': 'Viscosity, 25 °C | 2400 - 3800 mPa·s | DIN EN ISO 3219 <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Hazen color value | ≤ 100 | | <header> <Characteristic data Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Color, APHA | 15 max | ISO 6271', 'label': []}",irrelevant
+"{'data': 'Acrylic resins | Good', 'label': []}",irrelevant
+"{'data': 'Solvents | n - butanol/xylene, ~ 3 / 1', 'label': [[11, 38, 'qualitative_value']]}",Solvent type
+"{'data': 'Appearance | Clear Liquid | Visual <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'platinum - cobalt color number | ≤ 50', 'label': []}",irrelevant
+"{'data': 'density | 1,00 – 1,01 g/cm³', 'label': []}",irrelevant
+"{'data': 'APPLICATION AREAS | | REZYL 92 - 5 | clear | clear <header> <CYMEL U - 65 resin is a methylated urea - formaldehyde resin, useful in water or organo - soluble systems as a crosslinking agent for a variety of polymers that contain hydroxyl functionality.> <ADVANTAGES> | <CYMEL U - 65 resin is a methylated urea - formaldehyde resin, useful in water or organo - soluble systems as a crosslinking agent for a variety of polymers that contain hydroxyl functionality.> <> | <Long Oil Alkyds> <REZYL 873 - 11 > | <Solution Clarity> <slight haze> | <Film Clarity 30 minutes at 300 °F ( 149 °C ) > <clear> </header>', 'label': []}",irrelevant
+"{'data': 'TYPICAL PRODUCT CHARACTERISTICS | TYPICAL PRODUCT CHARACTERISTICS | TYPICAL PRODUCT CHARACTERISTICS', 'label': []}",irrelevant
+"{'data': 'shear rate D | 41.3 s– 1 | 41.3 s– 1', 'label': []}",irrelevant
+"{'data': 'non - volatile fraction | 83 – 88 % <header> <non - volatile fraction> | < 59 – 62 % > </header>', 'label': [[26, 28, 'min'], [31, 33, 'max'], [34, 35, 'unit']]}",Solid content
+"{'data': 'Colour, Gardner | 1 maximum', 'label': []}",irrelevant
+"{'data': 'Flash point, ( PMCC ) , °F ( °C ) | 349 ( 176 ) <header> <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Tentative Specifications', 'label': []}",irrelevant
+"{'data': 'Property | Range | Method', 'label': []}",header
+"{'data': 'Non - volatile, % | 61 - 65 | Pan, 1 H/ 100 °C', 'label': [[16, 17, 'unit'], [20, 22, 'min'], [25, 27, 'max'], [30, 46, 'measuring_condition']]}",Solid content
+"{'data': 'Property Range | Method of Analysis', 'label': []}",header
+"{'data': 'Viscosity, 25 °C | Z 1 – Z 4 | Gardner Holdtz Method <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Form supplied | Form supplied is a low - viscosity, solvent - free liquid. <header> <Characterization> | <Desmophen NH 1520 is an aminofunctional co - reactant for polyisocyanates. It is suitable for use for the formulation of high - solids, two - component polyurethane topcoats and solvent - free coating materials.> </header>', 'label': []}",irrelevant
+"{'data': 'Formaldehyde, % | ≤ 1 <header> <ITEM> | <STANDARD DATA> </header>', 'label': [[14, 15, 'unit'], [20, 21, 'max']]}",Monomer formaldehyde
+"{'data': 'Water | Limited', 'label': []}",irrelevant
+"{'data': 'Alkyd resins | Very good | TEA, DMEA or 2 - AMP at a concentration of 0.5 - 1.0 % on <header> <APPLICATION AREAS> | <> | <BENEFITS> </header>', 'label': []}",irrelevant
+"{'data': 'Equivalent weight | approx. 290 | | <header> <Other data* Property> | <Value> | <Unit of measurement Method> | <Unit of measurement Method> </header>', 'label': []}",irrelevant
+"{'data': 'Molecular Weight Distribution ( Mw/Mn ) ( GPC/PS I ) | | 1,40 <header> <Dynamic Viscosity EN ISO 3219 B Cone & Plate ( 23 °C ) > | < [ mPa.s ] > | < 5000 - 10000 > </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity（ | cps LVDV - II+PRO', 'label': []}",irrelevant
+"{'data': 'Acid number | 1.0 - 4.0', 'label': [[14, 17, 'min'], [20, 23, 'max']]}",Acid content
+"{'data': 'Viscostiy ( Gardner - holdt, 25 ℃ ) | I - O', 'label': []}",irrelevant
+"{'data': 'Appearance | Clear Liquid | ASTM E 284 <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Typical Properties:', 'label': []}",irrelevant
+"{'data': 'Luwipal 015', 'label': []}",irrelevant
+"{'data': 'Property | Typical Value | Method of Analysis', 'label': []}",header
+"{'data': 'Alcohols | Complete', 'label': []}",irrelevant
+"{'data': 'methyol | 2 - 5 %', 'label': []}",irrelevant
+"{'data': 'free formaldehyde | ≤ 0,5 %', 'label': [[22, 25, 'max'], [26, 27, 'unit']]}",Monomer formaldehyde
+"{'data': 'DESCRIPTIVE DATA | DESCRIPTIVE DATA | DESCRIPTIVE DATA <header> <DESCRIPTIVE DATA> <Property> | <DESCRIPTIVE DATA> <Typical Value> | <DESCRIPTIVE DATA> <Method> </header>', 'label': []}",irrelevant
+"{'data': 'density | 0,99 g/cm³', 'label': []}",irrelevant
+"{'data': 'Esters | Complete', 'label': []}",irrelevant
+"{'data': 'aliphatic hydrocarbons | O O | O O', 'label': []}",irrelevant
+"{'data': ' [ °C ]', 'label': []}",irrelevant
+"{'data': 'Flash point | 70 °C | IS 0 3679', 'label': []}",irrelevant
+"{'data': 'Alkyd resins | Very good', 'label': []}",irrelevant
+"{'data': 'Acid value ( mg of KOH/gr. ) | - Max 3.', 'label': [[13, 25, 'unit'], [37, 38, 'max']]}",Acid content
+"{'data': 'CYMEL U - 216 - 8 resin is a partially n - butylated urea - formaldehyde crosslinking agent supplied in a blend of n - butanol and xylene. It possesses a lower molecular weight than most other butylated ureas, which contributes to its low bulk viscosity and high degree of hydrocarbon tolerance. CYMEL U - 216 - 8 resin displays excellent compatibility with most hydrophobic resins, such as epoxies, and can contribute to improved leveling and adhesion characteristics. CYMEL U - 216 - 8 resin is recommended as a crosslinking resin in primer coatings, can coatings, metal deco and wood cabinet finishes.', 'label': [[115, 126, 'qualitative_value'], [131, 137, 'qualitative_value']]}",Solvent type
+"{'data': 'Clear liquid | Visual', 'label': []}",irrelevant
+"{'data': 'Properties', 'label': []}",irrelevant
+"{'data': 'Color, APHA | < 15 | ISO 6271 <header> <Property> | <Range> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'flash point | [ ℃ ] > 150', 'label': []}",irrelevant
+"{'data': 'Polyester resins | Very good', 'label': []}",irrelevant
+"{'data': 'organic solvent | ≤ 35 %', 'label': [[0, 7, 'qualitative_value']]}",Solvent type
+"{'data': 'CYMEL 325 resin is a methylated high imino melamine crosslinker supplied in iso - butanol. CYMEL 325 resin is highly reactive and has a high tendency towards self - condensation providing films with very good hardness, gloss, chemical resistance and outdoor durability. CYMEL 325 resin is suitable for a wide range of solventborne or waterborne baking applications, such as coil and can coating formulations, automotive primers and topcoats, and general industrial coatings.', 'label': [[76, 89, 'qualitative_value']]}",Solvent type
+"{'data': 'free formaldehyde ( EN ISO 9020 ) | % 0.3', 'label': [[20, 31, 'method'], [36, 37, 'unit'], [38, 41, 'mean']]}",Monomer formaldehyde
+"{'data': 'Abrasion Resistance ( mg loss, 1000 cycles, 1 kg, CS 17 | wheel ) 48 <header> <Typical Properties> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Shore D – 6 hrs | 77 <header> <Typical Properties> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Acrylic resins | Good', 'label': []}",irrelevant
+"{'data': '48 - 52 |', 'label': []}",stray
+"{'data': 'butyl glycol | 12.0 %', 'label': []}",irrelevant
+"{'data': 'Polyvinyl butyrate | Good', 'label': []}",irrelevant
+"{'data': 'Caution on Quality side storage | Tightly sealed after use and away from water, acid, and foreign matters Store indoor and stay away from flamable material, high temp ., direct sun light', 'label': []}",irrelevant
+"{'data': 'shear rate D | – 1 41,3 s', 'label': []}",irrelevant
+"{'data': 'Viscosity: GARDNER 25 ℃ | U < - V | S~V <header> <ITEM> | <ANALYSIS RESULT> | <STANDARD SPECIFICATIO> </header>', 'label': []}",irrelevant
+"{'data': 'Non - volatile by wt. | 58 - 62 % | DIN EN ISO 3251 ( Pan, 2 hrs/ 120 °C ) <header> <Property> | <Range> | <Method> </header>', 'label': [[15, 20, 'measuring_condition'], [24, 26, 'min'], [29, 31, 'max'], [32, 33, 'unit'], [36, 51, 'method'], [54, 72, 'measuring_condition']]}",Solid content
+"{'data': 'hydroxyl value | ~ 40 mg KOH/g | ~ 40 mg KOH/g', 'label': []}",irrelevant
+"{'data': 'Viscosity, Emila | 450 - 650 | mPa.s | 2000 <header> <Property> | <Range> | <Unit> | <TM> </header>', 'label': []}",irrelevant
+"{'data': '1065 kg/m 3 | Density, 23 °C', 'label': []}",irrelevant
+"{'data': 'Acrylic resins | Very good', 'label': []}",irrelevant
+"{'data': 'Solids ( % ) | 60 <header> <Appearance:> | <Light amber liquid> </header>', 'label': [[9, 10, 'unit'], [15, 17, 'mean']]}",Solid content
+"{'data': 'free formaldehyde | ≤ 0,3 %', 'label': [[22, 25, 'max'], [26, 27, 'unit']]}",Monomer formaldehyde
+"{'data': 'Aromatic hydrocarbons Complete Aliphatic hydrocarbons Partial Water Not Dilutable RESIN COMPATIBILITY | FORMULATION STABILITY The stability of formulated systems containing CYMEL 683 resin can be enhanced by the addition of alcohols, amines or a combination of these. Low molecular weight primary alcohols such as methanol and n - butanol are most effective. Recommended amines are TEA, DMEA or 2 - AMP at a concentration of 0.5 - 1.0 % on total binder solids. <header> <Automotive OEM coating formulations General industrial baking applications> | <Very good film appearance Very good outdoor resistance properties Very good mar resistance> </header>', 'label': []}",irrelevant
+"{'data': 'Property | Range | Method <header> <Property> | <Range> | <Method> </header>', 'label': []}",header
+"{'data': 'density ( ISO 2811 - 3 ) | 1.00 | g/cm³', 'label': []}",irrelevant
+"{'data': 'ETERMINO® 9223 - 60 | 58 - 62 | iso - Butanol, Xylene | G - K | 2,2 % | 1 max | Good stability with epoxy and acrylic resins ; Meets F.D.A Regulations ( CFR 175.300 ) for food contact coatings | Industrial metal baking enamel', 'label': [[22, 24, 'min'], [27, 29, 'max'], [32, 53, 'qualitative_value'], [64, 67, 'max'], [68, 69, 'unit'], [72, 73, 'max']]}",multi
+"{'data': 'Specifications', 'label': []}",irrelevant
+"{'data': 'Non - volatile by wt. | ≥ 98 % | Foil, 45 min/ 45 °C <header> <Property> | <Range> | <Method> </header>', 'label': [[15, 21, 'measuring_condition'], [26, 28, 'min'], [29, 30, 'unit'], [33, 52, 'measuring_condition']]}",Solid content
+"{'data': '1 ) Appearance | Colorless Clear Liquid', 'label': []}",irrelevant
+"{'data': 'Property Range Appearance Clear liquid | Method Visual', 'label': []}",irrelevant
+"{'data': ' ( 1 ) 105 °C for 120 minutes', 'label': []}",irrelevant
+"{'data': '03. | pH at 25 oC ( 50 % solution in distilled water ) | 8.50 – 9.50 <header> <S/N> | <PARAMETER> | <VALUE> </header>', 'label': []}",irrelevant
+"{'data': 'Esters | Complete <header> <Property> | <Range Method> </header>', 'label': []}",irrelevant
+"{'data': 'Pour point, °F ( °C ) | 39 ( 4 ) <header> <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'PTSA ( 50 % in IPA ) ( Catalyst ) | : | 0 % or 0.5 %', 'label': [[15, 18, 'qualitative_value']]}",Solvent type

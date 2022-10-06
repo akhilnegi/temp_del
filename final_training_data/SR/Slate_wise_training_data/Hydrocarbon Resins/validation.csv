@@ -1,0 +1,212 @@
+text,label
+"{'data': 'Bulk specific density ( at 25 ℃ ) | 0.7 g/cm 3', 'label': []}",irrelevant
+"{'data': 'SOLIDS #: 1 % | 60 | 60 | 70 | 20 | | | <header> <RENIN> | <> | <> | <> | <> | <> | <> | <> </header>', 'label': [[12, 13, 'unit'], [16, 18, 'mean'], [21, 23, 'mean'], [26, 28, 'mean'], [31, 33, 'mean']]}",Solid content
+"{'data': 'Bromine Number ( Br.cg/g ) 20', 'label': [[17, 24, 'unit'], [27, 29, 'mean']]}",Bromine number
+"{'data': 'Colour, Gardner | 1 *', 'label': [[8, 15, 'unit'], [18, 19, 'mean']]}",Color
+"{'data': '重量平均分子量 Molecular Weight | | 1,100 | 1,500 | 1,800 | 2,100 | 2,600 | 3,000 | GPC法 GPC method <header> <項 目 Item> <外 観 Appearance> | <単 位 Units> <> | <代 表 値 Representative Values> <淡褐色ペレット Pale brown pellet> | <代 表 値 Representative Values> <淡黄色ペレット Pale yellow pellet> | <代 表 値 Representative Values> <淡黄色ペレット Pale yellow pellet> | <代 表 値 Representative Values> <淡黄色ペレット Pale yellow pellet> | <代 表 値 Representative Values> <淡黄色フレーク Pale yellow flake> | <代 表 値 Representative Values> <淡黄色フレーク Pale yellow flake> | <試 験 法 Test method> <目視 Visual> </header>', 'label': []}",irrelevant
+"{'data': 'Gyeonggi - Do, Korea 425 - 852 | H.P. | : + 82 - 10 - 4144 - 3498 <header> <Banwol Industrial Complex 10 - 49 > | <PHONE> | <: + 82 - 31 - 494 - 9060 > </header>', 'label': []}",irrelevant
+"{'data': 'Flash Point ºF ( COC ) ( ASTM D - 92 ) * | 330', 'label': []}",irrelevant
+"{'data': 'NEVCHEM® LR Resin Diluent | NEVCHEM® LR Resin Diluent | NEVCHEM® LR Resin Diluent <header> <NEVCHEM® LR Resin Diluent> <Physical Properties> | <NEVCHEM® LR Resin Diluent> <Typical Properties> | <NEVCHEM® LR Resin Diluent> <Specifications> </header>', 'label': []}",irrelevant
+"{'data': 'Molecular Weight, No Avg ., GPC ( ASTM D - 3536 ) * | 770 | - - - <header> <NEVCHEM 140 Resin> <Physical Properties> | <NEVCHEM 140 Resin> <Typical Properties> | <NEVCHEM 140 Resin> <Specifications> </header>', 'label': []}",irrelevant
+"{'data': 'Typical properties：', 'label': []}",irrelevant
+"{'data': 'Bromine Number | DIN 51 774, part 1 | g/ 100 g | 20 - 30', 'label': [[17, 35, 'method'], [38, 46, 'unit'], [49, 51, 'min'], [54, 56, 'max']]}",Bromine number
+"{'data': '< 0,1 | < 0,1', 'label': []}",stray
+"{'data': 'Viscosity ( 100 °C ) cSt | D - 445 | | | | | | | | | | | | <header> <SPECIFICATION PROPERTIES> | <ASTM> | <PB 6 > | <PB 8 > | <PB 10 > | <PB 12 > | <PB 16 > | <PB 18 > | <PB 20 > | <PB 24 > | <PB 32 > | <PB 122 > | <PB 124 > | <PB 128 > </header>', 'label': [[12, 18, 'measuring_condition'], [21, 24, 'unit'], [27, 34, 'method']]}",Viscosity
+"{'data': 'Liang is a manufacturer of ▄', 'label': []}",irrelevant
+"{'data': 'G.P.C', 'label': []}",irrelevant
+"{'data': 'Mw | Mw | Mw | Mw <header> <Property> | <Test Method> | <Typical Value> | <Specifications> </header>', 'label': []}",irrelevant
+"{'data': 'Typical Properties * | Method | Value | Value <header> <Specifications> | <Method> | <Value> | <Value> </header>', 'label': []}",header
+"{'data': 'Asphalt Modification | Asphalt Modification | . Provides Excellent Leafing Characteristics for Metallic Pigments | . Provides Excellent Leafing Characteristics for Metallic Pigments <header> <APPLICATIONS / END USES> | <APPLICATIONS / END USES> | <ATTRIBUTES / BENEFITS> | <ATTRIBUTES / BENEFITS> </header>', 'label': []}",irrelevant
+"{'data': '10 max.', 'label': []}",stray
+"{'data': 'NOVARES LA 700 P is a liquid hydrocarbon resin predominantly aromatic in character with non - reactive hydroxyl groups. NOVARES LA 700 P is used as a general - purpose modifier for epoxy, polyurethane and acrylic. It has a low Gardner Color. Therefore it can be used in both pale and light colored compositions. An additional advantage of NOVARES LA 700 P is its low volatile content combined with low viscosity. This low viscosity is of special importance for solventless paints and coatings.', 'label': []}",irrelevant
+"{'data': 'Softening Point ( Ring & Ball, ℃ ) | 90 - 100', 'label': [[18, 29, 'measuring_condition'], [31, 32, 'unit'], [37, 39, 'min'], [42, 45, 'max']]}",Softening point
+"{'data': 'DEGREE C - 5 | 100 - 140', 'label': [[15, 18, 'min'], [21, 24, 'max']]}",stray
+"{'data': '* Toluene ( % by weight ) | 10 <header> <PROPERTIES> <* Appearance> | <PROPERTIES> <Clear liquid> </header>', 'label': []}",irrelevant
+"{'data': 'Average Molecular Weight, GPC | | 350 | 460 | 510 | 540 | 670 | 700 | 856 | 950 | 1300 | 2225 | 2400 | 2600 <header> <SPECIFICATION PROPERTIES> | <ASTM> | <PB 6 > | <PB 8 > | <PB 10 > | <PB 12 > | <PB 16 > | <PB 18 > | <PB 20 > | <PB 24 > | <PB 32 > | <PB 122 > | <PB 124 > | <PB 128 > </header>', 'label': []}",irrelevant
+"{'data': 'Bromine Number ( Br.cg/g ) | 22', 'label': [[17, 24, 'unit'], [29, 31, 'mean']]}",Bromine number
+"{'data': '% Non - Volatile | 96 Min. | 105 ℃Ⅹ 2 gⅩ 1 HR <header> <Items> | <Specification> | <Comment> </header>', 'label': [[0, 1, 'unit'], [19, 21, 'min'], [29, 45, 'measuring_condition']]}",Solid content
+"{'data': 'Color | Gardner Max 8', 'label': [[8, 15, 'unit'], [20, 21, 'max']]}",Color
+"{'data': 'Molecular weight, Mn | ASTM D - 5296 | 258 | <header> <Property> | <Method> | <Typical value> | <Selling Specification> </header>', 'label': []}",irrelevant
+"{'data': 'HC 100 - 140 SOFTENING POINT RING AND BALL | HC 100 - 140 SOFTENING POINT RING AND BALL', 'label': [[3, 6, 'min'], [9, 12, 'max'], [29, 42, 'measuring_condition'], [48, 51, 'min'], [54, 57, 'max'], [74, 87, 'measuring_condition']]}",Softening point
+"{'data': 'ASTM D 3236', 'label': []}",stray
+"{'data': 'Viscosity at 25 º C DIN 53019 | mPa.s | 25000 - 30000 <header> <Product Specifications> <Viscosity at 25 º C DIN 53019 > | <Product Specifications> <mPa.s> | <Product Specifications> < 25000 - 30000 > </header>', 'label': [[10, 19, 'measuring_condition'], [20, 29, 'method'], [32, 37, 'unit'], [40, 45, 'min'], [48, 53, 'max']]}",Viscosity
+"{'data': 'Softening Point, R&B, °C | 85 - 95', 'label': [[17, 20, 'measuring_condition'], [22, 24, 'unit'], [27, 29, 'min'], [32, 34, 'max']]}",Softening point
+"{'data': 'Flash Point ( Cleveland ) | open cup. ISO 2592', 'label': []}",irrelevant
+"{'data': 'Softenning Point ( Ring& Ball,C ) | 110 - 120 | ASTM E 28 <header> <___Properties> | <Typical Value> | <Test Method> </header>', 'label': [[19, 29, 'measuring_condition'], [30, 31, 'unit'], [36, 39, 'min'], [42, 45, 'max'], [48, 57, 'method']]}",Softening point
+"{'data': 'Pour Point ( °C ) Min | D - 97 | - 40 | - 35 | - 30 | - 30 | - 20 | - 15 | - 10 | - 5 | 5 | 10 | 10 | 15 <header> <SPECIFICATION PROPERTIES> | <ASTM> | <PB 6 > | <PB 8 > | <PB 10 > | <PB 12 > | <PB 16 > | <PB 18 > | <PB 20 > | <PB 24 > | <PB 32 > | <PB 122 > | <PB 124 > | <PB 128 > </header>', 'label': []}",irrelevant
+"{'data': 'Adhesives | Water - borne Adhesives <header> <Fields of Application> | <Application Examples> </header>', 'label': []}",irrelevant
+"{'data': 'Melt Viscosity | | <header> <Property> | <Test Method> | <Typical Value, Units> </header>', 'label': [[0, 4, 'measuring_condition']]}",Viscosity
+"{'data': 'Typical Properties', 'label': []}",irrelevant
+"{'data': 'Melt Viscosity ( 200 ℃ mPa.s ) | - | 359 | ASTM D 3236 <header> <Item> | <Testing Index> | <Testing Result> | <Test Method> </header>', 'label': [[0, 4, 'measuring_condition'], [17, 22, 'measuring_condition'], [23, 28, 'unit'], [37, 40, 'mean'], [43, 54, 'method']]}",Viscosity
+"{'data': 'Visual Light Yellow Pastilles | N/A', 'label': [[7, 19, 'qualitative_value']]}",Color
+"{'data': 'Specific Gravity ( 20 / 20 oC ) | 1.08', 'label': []}",irrelevant
+"{'data': 'Bromine Number | Max 30', 'label': [[21, 23, 'max']]}",Bromine number
+"{'data': 'Range of soften point ℃ ( ball method ) | > 111 ~ 120 <header> <Specification: Item Quality Index Specifications> | <Specification: Item Quality Index Specifications> </header>', 'label': [[0, 8, 'measuring_condition'], [22, 23, 'unit'], [26, 37, 'measuring_condition'], [44, 47, 'min'], [50, 53, 'max']]}",Softening point
+"{'data': 'Bromine Number | | 15 g/ 100 g <header> <Property> | <Test Method> | <Typical Value, Units> </header>', 'label': [[19, 21, 'mean'], [22, 30, 'unit']]}",Bromine number
+"{'data': 'WHYGAL ... 1 # | 8.26 | 8.26 | 8.58 | 8.63 | 8.6.2 | 8.52 | <header> <RENIN> | <> | <> | <> | <> | <> | <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Ash | DIN 52 005', 'label': []}",irrelevant
+"{'data': 'use Level, [ phr ] | 5 - 15', 'label': []}",irrelevant
+"{'data': 'Softening Point ( R&B ) , ℃ | 120 +/ - 5 | ( ASTM E 28 )', 'label': [[18, 21, 'measuring_condition'], [26, 27, 'unit'], [30, 33, 'mean'], [39, 40, 'std'], [45, 54, 'method']]}",Softening point
+"{'data': 'Picco™ AR 100 Hydrcarbon Resin is a low molecular weight, modified aromatic hydrocarbon resin. This resin has a good solubility in aliphatic and aromatic hydrocarbons, and is compatible with a wide variety of thermoplastic and elastomeric polymers.', 'label': [[131, 166, 'qualitative_value']]}",Solvent type
+"{'data': 'Color, Pt - Co Scale Max | D - 5386 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 <header> <SPECIFICATION PROPERTIES> | <ASTM> | <PB 6 > | <PB 8 > | <PB 10 > | <PB 12 > | <PB 16 > | <PB 18 > | <PB 20 > | <PB 24 > | <PB 32 > | <PB 122 > | <PB 124 > | <PB 128 > </header>', 'label': [[27, 35, 'method'], [38, 41, 'max'], [44, 47, 'max'], [50, 53, 'max'], [56, 59, 'max'], [62, 65, 'max'], [68, 71, 'max'], [74, 77, 'max'], [80, 83, 'max'], [86, 89, 'max'], [92, 95, 'max'], [98, 101, 'max'], [104, 107, 'max'], [7, 14, 'unit']]}",Color
+"{'data': 'Color ( 50 % in Toluene, Gardner ) : 9 Max. | …………ASTM D - 1544', 'label': [[8, 23, 'measuring_condition'], [25, 32, 'unit'], [37, 38, 'max'], [50, 63, 'method']]}",Color
+"{'data': 'Adhesives and Sealants | Flooring Adhesives, Sealants, Jointing Compounds <header> <Fields of Application> | <Application Examples> </header>', 'label': []}",irrelevant
+"{'data': 'Acid Value（mgKOH/g） | ≤ 0.30 | 0.02 | ASTM D - 974 <header> <Item> | <Testing Index> | <Testing Result> | <Test Method> </header>', 'label': [[11, 18, 'unit'], [24, 28, 'max'], [38, 50, 'method']]}",Acid content
+"{'data': '項 目 Item | 単 位 Units | 代 表 値 Representative Values | 代 表 値 Representative Values | 代 表 値 Representative Values | 代 表 値 Representative Values | 代 表 値 Representative Values | 試 験 法 Test method <header> <項 目 Item> <外 観 Appearance> | <単 位 Units> <> | <代 表 値 Representative Values> <黄橙色フレーク Yellowish orange flake> | <代 表 値 Representative Values> <黄褐色フレーク Pale yellow flake> | <代 表 値 Representative Values> <淡褐色フレーク Pale brown flake> | <代 表 値 Representative Values> <淡黄色ペレット Pale yellow pellet> | <代 表 値 Representative Values> <淡黄色ペレット Pale yellow pellet> | <試 験 法 Test method> <目視 Visual> </header>', 'label': []}",header
+"{'data': 'Density at 20 °C | DIN 51 757 | 1,01 - 1,05 g/ml <header> <Specifications> | <Method> | <Value> </header>', 'label': []}",irrelevant
+"{'data': 'PETROTACK | 60 | Pale yellow Clear | 72 | 7 | 50 | 1000 | 3200 | Adhesives Paper sizing agent <header> <> <Testing Method> | <Grade> <Testing Method> | <Appearance> <Visual Examination> | <Softening ℃> <JIS K - 2207 > | <Color> <ASTM D - 1544 > | <Bromine Number Br 2 g/ 100 g> <Based on JIS K - 2543 > | <Average molecular weight Mn Mw> <GPC method> | <Average molecular weight Mn Mw> <GPC method> | <Applications> <GPC method> </header>', 'label': [[17, 34, 'qualitative_value'], [37, 39, 'mean'], [42, 43, 'mean'], [46, 48, 'mean'], [51, 55, 'mean'], [58, 62, 'mean']]}",multi
+"{'data': 'TYPICAL PROPERTIES', 'label': []}",irrelevant
+"{'data': '1,06 - 1,08', 'label': []}",stray
+"{'data': 'Product Speicifications | Product Speicifications | Product Speicifications | Product Speicifications', 'label': []}",irrelevant
+"{'data': '色相 ( ガードナー ) Color ( Gardner ) | | 7 | 8 | 7 | 2 | 1 | 2 g/ 25 mlトルエン溶液 2 g / 25 ml toluene solvent <header> <項 目 Item> <外 観 Appearance> | <単 位 Units> <> | <代 表 値 Representative Values> <黄橙色フレーク Yellowish orange flake> | <代 表 値 Representative Values> <黄褐色フレーク Pale yellow flake> | <代 表 値 Representative Values> <淡褐色フレーク Pale brown flake> | <代 表 値 Representative Values> <淡黄色ペレット Pale yellow pellet> | <代 表 値 Representative Values> <淡黄色ペレット Pale yellow pellet> | <試 験 法 Test method> <目視 Visual> </header>', 'label': [[21, 28, 'unit'], [35, 36, 'mean'], [39, 40, 'mean'], [43, 44, 'mean'], [47, 48, 'mean'], [51, 52, 'mean'], [55, 56, 'mean'], [57, 65, 'unit'], [72, 73, 'mean'], [74, 83, 'unit']]}",Color
+"{'data': 'Color ( 50 wt % Solution in Toluene, Ga.# ) | 4 | ASTM D 1544 <header> <Softening Point ( Ring & Ball, oC ) > | < 140 - 150 > | <ASTM E 28 > </header>', 'label': [[8, 41, 'measuring_condition'], [46, 47, 'mean'], [50, 61, 'method']]}",Color
+"{'data': 'Acid Value ( KOHmg/g ) | 0.04', 'label': [[13, 20, 'unit'], [25, 29, 'mean']]}",Acid content
+"{'data': 'Density ( 25 °C ) , g/cm³ | ASTM D - 70 | 1.01 | <header> <Property> | <Method> | <Typical value> | <Selling Specification> </header>', 'label': []}",irrelevant
+"{'data': '臭 素 価 Bromine Number | g/ 100 g | 25 | 25 | 25 | 25 | 25 | 30 | <header> <項 目 Item> <外 観 Appearance> | <単 位 Units> <> | <代 表 値 Representative Values> <淡褐色ペレット Pale brown pellet> | <代 表 値 Representative Values> <淡黄色ペレット Pale yellow pellet> | <代 表 値 Representative Values> <淡黄色ペレット Pale yellow pellet> | <代 表 値 Representative Values> <淡黄色ペレット Pale yellow pellet> | <代 表 値 Representative Values> <淡黄色フレーク Pale yellow flake> | <代 表 値 Representative Values> <淡黄色フレーク Pale yellow flake> | <試 験 法 Test method> <目視 Visual> </header>', 'label': [[23, 31, 'unit'], [34, 36, 'mean'], [39, 41, 'mean'], [44, 46, 'mean'], [49, 51, 'mean'], [54, 56, 'mean'], [59, 61, 'mean']]}",Bromine number
+"{'data': 'Color Stability ( @ 200 ℃, 3 hrs, Ga.# ) | 8', 'label': [[6, 40, 'measuring_condition'], [43, 44, 'mean']]}",Color
+"{'data': '2 / 6', 'label': []}",stray
+"{'data': '1. Color 50 % in Toluene ) | Gardner ASTM D - 544 - 58 T', 'label': [[9, 24, 'measuring_condition'], [29, 36, 'unit'], [37, 56, 'method']]}",Color
+"{'data': 'S 155', 'label': []}",irrelevant
+"{'data': 'Representative Values | E - 100', 'label': []}",irrelevant
+"{'data': 'Bromine ( Br.cg/g ) | < 130', 'label': [[10, 17, 'unit'], [24, 27, 'max']]}",Bromine number
+"{'data': 'Density, lb/gal | D - 1298 | 6.97 | 7.16 | 7.21 | 7.25 | 7.29 | 7.33 | 7.33 | 7.41 | 7.48 | 7.55 | 7.56 | 7.57 <header> <SPECIFICATION PROPERTIES> | <ASTM> | <PB 6 > | <PB 8 > | <PB 10 > | <PB 12 > | <PB 16 > | <PB 18 > | <PB 20 > | <PB 24 > | <PB 32 > | <PB 122 > | <PB 124 > | <PB 128 > </header>', 'label': []}",irrelevant
+"{'data': 'Colour Gardner, 50 % resin solids in toluene | Max', 'label': [[7, 14, 'unit'], [16, 44, 'measuring_condition']]}",Color
+"{'data': 'Ash % | | Max 0.1 | | DIN 52005 <header> <> | <MINIMUM> | <MAXIMUM> | <TYPICAL> | <TEST METHODS> </header>', 'label': []}",irrelevant
+"{'data': 'Colour , Gardner, 50 % resin solids in toluene | Max 8 | ASTM D 1544', 'label': [[9, 16, 'unit'], [18, 46, 'measuring_condition'], [53, 54, 'max'], [57, 68, 'method']]}",Color
+"{'data': 'KB Value ( ASTM D - 1133 ) * | 47.5 | - - - <header> <NEVCHEM® LR Resin Diluent> <Physical Properties> | <NEVCHEM® LR Resin Diluent> <Typical Properties> | <NEVCHEM® LR Resin Diluent> <Specifications> </header>', 'label': []}",irrelevant
+"{'data': 'Density at 20 ℃ | DIN 51 757 | g/ml | 1.01 - 1.05', 'label': []}",irrelevant
+"{'data': 'Paint, Varnish and Coatings | Floor Coatings, Casting Resins Sealing Compounds', 'label': []}",irrelevant
+"{'data': 'Brookfield Viscosity, cps @ 120 °C @ 160 °C | ASTM 3236 | 3,700 750 | NA <header> <Property> | <Test Method> | <Typical Value> | <Specifications> </header>', 'label': [[0, 10, 'measuring_condition'], [22, 25, 'unit'], [28, 34, 'measuring_condition'], [37, 43, 'measuring_condition'], [46, 55, 'method'], [58, 67, 'unclear_value']]}",Viscosity
+"{'data': '• Melt ViscosityBRF, @ 160 oC, cps | 4,000 | ASTM D 3236', 'label': [[2, 6, 'measuring_condition'], [16, 29, 'measuring_condition'], [31, 34, 'unit'], [37, 42, 'mean'], [45, 56, 'method']]}",Viscosity
+"{'data': 'Acid Number mg/KOH/g | | 0.1 | | DIN 53402 <header> <> | <MINIMUM> | <MAXIMUM> | <TYPICAL> | <TEST METHODS> </header>', 'label': [[12, 20, 'unit'], [25, 28, 'max'], [33, 42, 'method']]}",Acid content
+"{'data': 'Paint, Varnish and Coatings | Floor Coatings, Casting Resins, Sealing Compounds <header> <Fields of Application> | <Application Examples> </header>', 'label': []}",irrelevant
+"{'data': ' | Grade | Appearance | Softening ℃ | Color | Bromine Number Br 2 g/ 100 g | Average molecular weight Mn Mw | Average molecular weight Mn Mw | Applications <header> <> <Testing Method> | <Grade> <Testing Method> | <Appearance> <Visual Examination> | <Softening ℃> <JIS K - 2207 > | <Color> <ASTM D - 1544 > | <Bromine Number Br 2 g/ 100 g> <Based on JIS K - 2543 > | <Average molecular weight Mn Mw> <GPC method> | <Average molecular weight Mn Mw> <GPC method> | <Applications> <GPC method> </header>', 'label': []}",multi_header
+"{'data': 'PETROTACK | 100 V | Pale yellow Clear | 96 | 7 | 45 | 1100 | 3800 | Pressure Sensitive Adhesives Rubber Processing Aid <header> <> <Testing Method> | <Grade> <Testing Method> | <Appearance> <Visual Examination> | <Softening ℃> <JIS K - 2207 > | <Color> <ASTM D - 1544 > | <Bromine Number Br 2 g/ 100 g> <Based on JIS K - 2543 > | <Average molecular weight Mn Mw> <GPC method> | <Average molecular weight Mn Mw> <GPC method> | <Applications> <GPC method> </header>', 'label': [[20, 37, 'qualitative_value'], [40, 42, 'mean'], [45, 46, 'mean'], [49, 51, 'mean'], [54, 58, 'mean'], [61, 65, 'mean']]}",multi
+"{'data': 'Molecular Weight ( GPC, Mw ) | 1,200 | G.P.C', 'label': []}",irrelevant
+"{'data': 'Units | ド 160', 'label': []}",irrelevant
+"{'data': 'Testing Method | Testing Method | Visual Examination | JIS K - 2207 | ASTM D - 1544 | Based on JIS K - 2543 | GPC method | GPC method | GPC method <header> <> <Testing Method> | <Grade> <Testing Method> | <Appearance> <Visual Examination> | <Softening ℃> <JIS K - 2207 > | <Color> <ASTM D - 1544 > | <Bromine Number Br 2 g/ 100 g> <Based on JIS K - 2543 > | <Average molecular weight Mn Mw> <GPC method> | <Average molecular weight Mn Mw> <GPC method> | <Applications> <GPC method> </header>', 'label': []}",multi
+"{'data': 'Softening Point ( Ring & Ball ) Deg C D 3461 | 85 | 95 | | ASTM <header> <> | <MINIMUM> | <MAXIMUM> | <TYPICAL> | <TEST METHODS> </header>', 'label': [[18, 29, 'measuring_condition'], [32, 37, 'unit'], [47, 49, 'min'], [52, 54, 'max'], [59, 63, 'method']]}",Softening point
+"{'data': 'Property | Test Method | Typical Value, Units <header> <Property> | <Test Method> | <Typical Value, Units> </header>', 'label': []}",header
+"{'data': '@ 160 °C | | 310 cP <header> <Property> | <Test Method> | <Typical Value, Units> </header>', 'label': [[2, 8, 'measuring_condition'], [13, 16, 'mean'], [17, 19, 'unit']]}",Viscosity
+"{'data': 'Min | | 3.7 | 9.0 | 15.8 | 23 | 41 | 70 | 110 | 175 | 580 | 2200 | 2950 | 4000 <header> <SPECIFICATION PROPERTIES> | <ASTM> | <PB 6 > | <PB 8 > | <PB 10 > | <PB 12 > | <PB 16 > | <PB 18 > | <PB 20 > | <PB 24 > | <PB 32 > | <PB 122 > | <PB 124 > | <PB 128 > </header>', 'label': []}",stray
+"{'data': 'Acid Value ( KOHmg/g ) | Max.0.1', 'label': [[13, 20, 'unit'], [29, 32, 'max']]}",Acid content
+"{'data': '• Acid Value ( KOH mg/g ) | 0.04 | ASTM D 974', 'label': [[15, 23, 'unit'], [28, 32, 'mean'], [35, 45, 'method']]}",Acid content
+"{'data': 'Formula ( Parts by Weight ) | Control | Modified A | Modified B <header> <Cured Adhesive Performance Steel to Steel Bonds PSI @ 25 ℃ ( 77 ºF ) Curing Schedule Was 3 Days @ 73 ºF, 50 % Humidity> <Formula ( Parts by Weight ) > | <Cured Adhesive Performance Steel to Steel Bonds PSI @ 25 ℃ ( 77 ºF ) Curing Schedule Was 3 Days @ 73 ºF, 50 % Humidity> <Control> | <Cured Adhesive Performance Steel to Steel Bonds PSI @ 25 ℃ ( 77 ºF ) Curing Schedule Was 3 Days @ 73 ºF, 50 % Humidity> <Modified A> | <Cured Adhesive Performance Steel to Steel Bonds PSI @ 25 ℃ ( 77 ºF ) Curing Schedule Was 3 Days @ 73 ºF, 50 % Humidity> <Modified B> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity ( 20 °C ) , mPa.s | Brookfield | 700 | 500 - 800 <header> <Property> | <Method> | <Typical value> | <Selling Specification> </header>', 'label': [[12, 17, 'measuring_condition'], [22, 27, 'unit'], [30, 40, 'measuring_condition'], [49, 52, 'min'], [55, 58, 'max']]}",Viscosity
+"{'data': 'PRTR法第 1 種* 1 PRTR Type 1 | | | | 該当物質なし N/A | | | <header> <項 目 Item> <外 観 Appearance> | <単 位 Units> <> | <代 表 値 Representative Values> <黄橙色フレーク Yellowish orange flake> | <代 表 値 Representative Values> <黄褐色フレーク Pale yellow flake> | <代 表 値 Representative Values> <淡褐色フレーク Pale brown flake> | <代 表 値 Representative Values> <淡黄色ペレット Pale yellow pellet> | <代 表 値 Representative Values> <淡黄色ペレット Pale yellow pellet> | <試 験 法 Test method> <目視 Visual> </header>', 'label': []}",irrelevant
+"{'data': 'Specifications | Method | Value | Value <header> <Specifications> | <Method> | <Value> | <Value> </header>', 'label': []}",header
+"{'data': 'Acid Value ( KOH mg/g ) | Max.0.1 | ASTM D 974 <header> <Softening Point ( Ring & Ball, ℃ ) > | < 115 - 125 > | <ASTM E 28 > </header>', 'label': [[13, 21, 'unit'], [30, 33, 'max'], [36, 46, 'method']]}",Acid content
+"{'data': 'Iodine value | ASTM D - 1959 | 65 | <header> <Property> | <Method> | <Typical value> | <Selling Specification> </header>', 'label': []}",irrelevant
+"{'data': '4.Acid Value ASTM D 974', 'label': [[13, 23, 'method']]}",Acid content
+"{'data': 'Density at 20 °C | DIN 52 004 | 1,11 - 1,15 g/ml <header> <Specifications> | <Method> | <Value> </header>', 'label': []}",irrelevant
+"{'data': 'Colour ( Fe - Co scale ) | VI | 6 | VI | 6', 'label': [[9, 22, 'measuring_condition'], [32, 33, 'mean'], [41, 42, 'mean']]}",Color
+"{'data': ' | MINIMUM | MAXIMUM | TYPICAL | TEST METHODS <header> <> | <MINIMUM> | <MAXIMUM> | <TYPICAL> | <TEST METHODS> </header>', 'label': []}",header
+"{'data': 'Technical Specifications: Unidade Método de Análise', 'label': []}",irrelevant
+"{'data': '50 % resin solids in toluene', 'label': [[21, 28, 'qualitative_value']]}",multi
+"{'data': 'Viscosity ( 40 °C ) cSt | D - 445 | | | | | | | | | | | | <header> <SPECIFICATION PROPERTIES> | <ASTM> | <PB 6 > | <PB 8 > | <PB 10 > | <PB 12 > | <PB 16 > | <PB 18 > | <PB 20 > | <PB 24 > | <PB 32 > | <PB 122 > | <PB 124 > | <PB 128 > </header>', 'label': [[12, 17, 'measuring_condition'], [20, 23, 'unit'], [26, 33, 'method']]}",Viscosity
+"{'data': 'Color | Gardner ( 50 % in Toluene ASTM D - 1154 - 58 T', 'label': [[8, 15, 'unit'], [18, 33, 'measuring_condition'], [34, 54, 'method']]}",Color
+"{'data': 'Density at 20 °C | DIN 51 757 | 1,01 - 1,05 g/ml <header> <Specifications> | <Method> | <Value> </header>', 'label': []}",irrelevant
+"{'data': 'Color series no | 6 <header> <Specification: Item Quality Index Specifications> | <Specification: Item Quality Index Specifications> </header>', 'label': [[18, 19, 'mean']]}",Color
+"{'data': 'Softening point, Ring & Ball, °C | 120 - 130 | ASTM E 28', 'label': [[17, 28, 'measuring_condition'], [30, 32, 'unit'], [35, 38, 'min'], [41, 44, 'max'], [47, 56, 'method']]}",Softening point
+"{'data': 'Color ( 50 wt % Solution in Toluene, Ga.# ) | Max.7', 'label': [[8, 41, 'measuring_condition'], [50, 51, 'max']]}",Color
+"{'data': 'Molten Resin', 'label': []}",irrelevant
+"{'data': 'Appearance | Clear amber liquid <header> <Appearance> | <Clear amber liquid> </header>', 'label': []}",irrelevant
+"{'data': '▄ | Specific Gravity, @ 25 ℃ 1.05 ~ 1.10 ( ASTM D 71 )', 'label': []}",irrelevant
+"{'data': '* Acid value ( mgKOH/g ) | 4 max.', 'label': [[15, 22, 'unit'], [27, 28, 'max']]}",Acid content
+"{'data': 'Appearance | Clear liquid', 'label': []}",irrelevant
+"{'data': 'Color Stability ( @ 200 oC, 3 hrs, Ga.# ) | 8 | Molten Resin <header> <Softening Point ( Ring & Ball, oC ) > | < 140 - 150 > | <ASTM E 28 > </header>', 'label': [[6, 41, 'measuring_condition'], [44, 45, 'mean']]}",Color
+"{'data': 'グ レ ー ド Grade | | 160 | E - 100 | E - 130 | 130 S | S | <header> <項 目 Item> <外 観 Appearance> | <単 位 Units> <> | <代 表 値 Representative Values> <黄橙色フレーク Yellowish orange flake> | <代 表 値 Representative Values> <黄褐色フレーク Pale yellow flake> | <代 表 値 Representative Values> <淡褐色フレーク Pale brown flake> | <代 表 値 Representative Values> <淡黄色ペレット Pale yellow pellet> | <代 表 値 Representative Values> <淡黄色ペレット Pale yellow pellet> | <試 験 法 Test method> <目視 Visual> </header>', 'label': []}",irrelevant
+"{'data': 'Molecular Weight ( GPC, Mw ) | 1,800', 'label': []}",irrelevant
+"{'data': 'Mw/Mn | | 1.3 <header> <Property> | <Test Method> | <Typical Value, Units> </header>', 'label': []}",irrelevant
+"{'data': '1,06 - 1,08', 'label': []}",stray
+"{'data': 'Transparency | Clear | Clear <header> <Properties of Cured Epoxy Systems on Steel Q Panels> <Gel Time ( Minutes ) > | <Properties of Cured Epoxy Systems on Steel Q Panels> < - -> | <Properties of Cured Epoxy Systems on Steel Q Panels> < - - - > </header>', 'label': []}",irrelevant
+"{'data': 'modifier for systems based on epoxy and polyurethane.', 'label': []}",irrelevant
+"{'data': '* pure resin', 'label': []}",irrelevant
+"{'data': 'Pour Point ( °C ) Min | D - 97 | - 40 | - 35 | - 30 | - 30 | - 20 | - 15 | - 10 | - 5 | 5 | 10 | 10 | 15 <header> <SPECIFICATION PROPERTIES> | <ASTM> | <PB 6 > | <PB 8 > | <PB 10 > | <PB 12 > | <PB 16 > | <PB 18 > | <PB 20 > | <PB 24 > | <PB 32 > | <PB 122 > | <PB 124 > | <PB 128 > </header>', 'label': []}",irrelevant
+"{'data': 'Appearance | solid', 'label': []}",irrelevant
+"{'data': '785 - 2, Wonsi - Dong, Danwon - Gu, Ansan - City, | FAX | : + 82 - 31 - 494 - 9061 <header> <Banwol Industrial Complex 10 - 49 > | <PHONE> | <: + 82 - 31 - 494 - 9060 > </header>', 'label': []}",irrelevant
+"{'data': 'Color, Gardner | ASTM D - 1544 | 1 * | 2 * <header> <Property> | <Method> | <Typical value> | <Selling Specification> </header>', 'label': [[7, 14, 'unit'], [17, 30, 'method'], [33, 34, 'mean'], [39, 40, 'mean']]}",Color
+"{'data': 'Gardner Color, in 50 % toluene | 6.5', 'label': [[0, 7, 'unit'], [15, 30, 'measuring_condition'], [33, 36, 'mean']]}",Color
+"{'data': '@ 180 °C | @ 180 °C | 235 | 235 <header> <Property> | <Test Method> | <Typical Value> | <Specifications> </header>', 'label': [[2, 8, 'measuring_condition'], [13, 19, 'measuring_condition'], [22, 25, 'mean'], [28, 31, 'mean']]}",stray
+"{'data': 'SK - 120 B | Amber pellet | MAX. 12 | < 30 | 120 ± 5 | 1,100 | < 0.03 <header> <SUNTACK / PETRORESIN> | <APPERANCE> <> | <COLOR GARDNER> < ( 50 % IN TOLUENE ) > | <BROMINE NUMBER> < ( 50 % IN TOLUENE ) > | <SOFTENING POINT> <R & B ( ℃ ) > | <MOLECULAR WEIGHT> <Mn ( GPC ) > | <ACID VALUE> < ( mg KOH/g ) > </header>', 'label': [[13, 25, 'qualitative_value'], [33, 35, 'max'], [40, 42, 'max'], [45, 48, 'mean'], [51, 52, 'std'], [55, 60, 'mean'], [65, 69, 'max']]}",multi
+"{'data': 'Cloud Point b | | <header> <Property> | <Test Method> | <Typical Value, Units> </header>', 'label': []}",irrelevant
+"{'data': 'H - Rez C 5 Hydrocarbon Resin', 'label': []}",irrelevant
+"{'data': 'Bromine Number ( Br.cg/g ) | 18', 'label': [[17, 24, 'unit'], [29, 31, 'mean']]}",Bromine number
+"{'data': 'Saponification Number | DIN 53 401 | mg KOH/g | max. 1.0', 'label': []}",irrelevant
+"{'data': 'Typical Properties | Typical Properties | Typical Properties | Typical Properties', 'label': []}",header
+"{'data': '労働安全衛生法 施行令第 18 条の 2 別表第 9 名称等を通知すべき有害物 ( 632 物質 ) Industrial Safety and Health Law Enforcement Ordinance 18 - 2, Appendix 9 Hazardous Materials Requiring Notification ( 632 Materials ) | | | 該当物質なし N/A | 該当物質なし N/A | 該当物質なし N/A | | <header> <項 目 Item> <外 観 Appearance> | <単 位 Units> <> | <代 表 値 Representative Values> <黄橙色フレーク Yellowish orange flake> | <代 表 値 Representative Values> <黄褐色フレーク Pale yellow flake> | <代 表 値 Representative Values> <淡褐色フレーク Pale brown flake> | <代 表 値 Representative Values> <淡黄色ペレット Pale yellow pellet> | <代 表 値 Representative Values> <淡黄色ペレット Pale yellow pellet> | <試 験 法 Test method> <目視 Visual> </header>', 'label': []}",irrelevant
+"{'data': 'BRF, @ 200 ℃, cps | 30 | <header> <SPECIFICATIONS> <Softening Point ( Ring & Ball, ℃ ) > | <SPECIFICATIONS> < 90 - 100 > | <SPECIFICATIONS> <ASTM E 28 > </header>', 'label': [[0, 12, 'measuring_condition'], [14, 17, 'unit'], [20, 22, 'mean']]}",Viscosity
+"{'data': 'Water | Water | DIN 51 777, part 1 | max. 0,1 % | max. 0,1 % <header> <Typical Properties *> | <Typical Properties *> | <Method> | <Value> | <Value> </header>', 'label': []}",irrelevant
+"{'data': 'Hydroxyl content, % | ASTM E - 222 | 1.5 | <header> <Property> | <Method> | <Typical value> | <Selling Specification> </header>', 'label': []}",irrelevant
+"{'data': 'Brookfield Viscosity @ 20 ℃ ( 68 ºF ) | 29,250 | 15,250 | | * <header> <Formula ( Parts by Weight ) > | <Control Uncured> | <Modified Uncured> | <Control Cured> | <Modified Cured> </header>', 'label': [[0, 10, 'measuring_condition'], [23, 37, 'measuring_condition'], [40, 46, 'unclear_value'], [49, 55, 'unclear_value']]}",Viscosity
+"{'data': 'Iodine value ASTM D - 1959 | 41 | <header> <> | <Typical Properties> | <Selling> </header>', 'label': []}",irrelevant
+"{'data': 'Mn | | 650 <header> <Property> | <Test Method> | <Typical Value, Units> </header>', 'label': []}",irrelevant
+"{'data': '• Softening Point ( Ring & Ball, oC ) | 120 | ASTM E 28', 'label': [[20, 31, 'measuring_condition'], [33, 35, 'unit'], [40, 43, 'mean'], [46, 55, 'method']]}",Softening point
+"{'data': 'Mw | | 1150 <header> <Property> | <Test Method> | <Typical Value, Units> </header>', 'label': []}",irrelevant
+"{'data': 'Colour ( Gardner ) ( Undiluted ) | | 14 | | ISO 4630 <header> <> | <MINIMUM> | <MAXIMUM> | <TYPICAL> | <TEST METHODS> </header>', 'label': [[9, 16, 'unit'], [21, 30, 'measuring_condition'], [37, 39, 'max'], [44, 52, 'method']]}",Color
+"{'data': 'Property | Method | Typical value | Selling Specification <header> <Property> | <Method> | <Typical value> | <Selling Specification> </header>', 'label': []}",header
+"{'data': '@ 180 oC, cps | 125', 'label': [[2, 8, 'measuring_condition'], [10, 13, 'unit'], [16, 19, 'mean']]}",Viscosity
+"{'data': 'Viscosity at 25 ° C | DIN 51659 - 2 | 900 - 1300 mPa*s <header> <Specifications> | <Method> | <Value> </header>', 'label': [[13, 19, 'measuring_condition'], [22, 35, 'method'], [38, 41, 'min'], [44, 48, 'max'], [49, 54, 'unit']]}",Viscosity
+"{'data': 'Acid Value : | 0.3 Max. …………………..ASTM D 974', 'label': [[15, 18, 'max'], [33, 43, 'method']]}",Acid content
+"{'data': 'Specifications | Method | Value <header> <Specifications> | <Method> | <Value> </header>', 'label': []}",header
+"{'data': 'Acid Value | GB/T 6743 | mgKOH/g | ≤ 0.5 <header> <Testing item> | <Test Method> | <Unit> | <Specification> </header>', 'label': [[13, 22, 'method'], [25, 32, 'unit'], [37, 40, 'max']]}",Acid content
+"{'data': ' ( 3 ) By spectrophotometric analysis of a toluene solution containing 50 % resin, in YI ( Yellowness Index ) unit', 'label': []}",irrelevant
+"{'data': 'Softening point : ℃ ( R.B. ASTM E 28 ) | 78 - 88 | 88 - 98 | 99 - 109 | 110 - 120 | 120 - 130 | 130 - 140 | 140 - 150 | 150 - 160 <header> <Norsolène> | <S 85 > | <$ 95 > | <S 105 > | <S 115 > | <S 125 > | <S 135 > | <S 145, 1 > | <S 155 > </header>', 'label': [[18, 19, 'unit'], [27, 36, 'method'], [41, 43, 'min'], [46, 48, 'max'], [51, 53, 'min'], [56, 58, 'max'], [61, 63, 'min'], [66, 69, 'max'], [72, 75, 'min'], [78, 81, 'max'], [84, 87, 'min'], [90, 93, 'max'], [96, 99, 'min'], [102, 105, 'max'], [108, 111, 'min'], [114, 117, 'max'], [120, 123, 'min'], [126, 129, 'max']]}",Softening point
+"{'data': '2 / 6', 'label': []}",stray
+"{'data': 'Softening Point °C ( Ring &Ball ) | 110 - 120 oC', 'label': [[16, 18, 'unit'], [21, 31, 'measuring_condition'], [36, 39, 'min'], [42, 45, 'max'], [46, 48, 'unit']]}",Softening point
+"{'data': 'Colour , Gardner, 50 % resin solids in toluene | Max 8 | ASTM D 1544', 'label': [[9, 16, 'unit'], [18, 46, 'measuring_condition'], [53, 54, 'max'], [57, 68, 'method']]}",Color
+"{'data': 'ASTM D 974', 'label': []}",stray
+"{'data': 'General Properties', 'label': []}",irrelevant
+"{'data': 'Viscosity mPa.s | Max. 30', 'label': [[10, 15, 'unit'], [23, 25, 'max']]}",Viscosity
+"{'data': 'Specific Gravity ( at 25 ℃ ) | 0.89', 'label': []}",irrelevant
+"{'data': 'Softening point, Ring & Ball, °C | 120 - 130 E 28', 'label': [[17, 28, 'measuring_condition'], [30, 32, 'unit'], [35, 38, 'min'], [41, 44, 'max']]}",Softening point
+"{'data': 'OH - Content | RÜTGERS - Meth | 7,0 - 7,6 % | 7,0 - 7,6 % <header> <Specifications> | <Method> | <Value> | <Value> </header>', 'label': []}",irrelevant
+"{'data': 'Cloud Point ( 1 : 1 : 1 resin/EVA/wax ) , °C | 137', 'label': []}",irrelevant
+"{'data': 'Value | 1,01 - 1,05 g/ml', 'label': []}",stray
+"{'data': '* Referenced Test Method | * Referenced Test Method | * Referenced Test Method <header> <NEVCHEM 140 Resin> <Physical Properties> | <NEVCHEM 140 Resin> <Typical Properties> | <NEVCHEM 140 Resin> <Specifications> </header>', 'label': []}",irrelevant
+"{'data': 'Softening Point ( Ring & Ball, ℃ ) | 120 | ASTM E 28 <header> <Softening Point ( Ring & Ball, ℃ ) > | < 115 - 125 > | <ASTM E 28 > </header>', 'label': [[18, 29, 'measuring_condition'], [31, 32, 'unit'], [37, 40, 'mean'], [43, 52, 'method']]}",Softening point
+"{'data': 'Method | ISO 4630 DIN 53 019', 'label': []}",stray
+"{'data': 'Colour ( APHA ) | Clear liquid 100 max.', 'label': [[9, 13, 'unit'], [18, 30, 'qualitative_value'], [31, 34, 'max']]}",Color
+"{'data': 'Softening Point ( Ring & Ball, oC ) 98 ASTM E 28', 'label': [[18, 29, 'measuring_condition'], [31, 33, 'unit'], [36, 38, 'mean'], [39, 48, 'method']]}",Softening point
+"{'data': '. .', 'label': []}",irrelevant
+"{'data': 'Water | DIN 51 777, part 1 | % | max. 0.1', 'label': []}",irrelevant
+"{'data': 'Examination and Regulation of Manufacture, etc. of Chemical Substances | ( 6 ) - 1071 ( 6 ) - 1071 ( 6 ) - 1071 ( 6 ) - 1071 ( 6 ) - 1071 ( 6 ) - 1071', 'label': []}",irrelevant
+"{'data': 'Saponisation Number | DIN 53 401 | max. 0,5 mg KOH/g <header> <Specifications> | <Method> | <Value> </header>', 'label': []}",irrelevant
+"{'data': '2.Product specifications | 2.Product specifications | 2.Product specifications', 'label': []}",irrelevant
+"{'data': 'Bromine Number, Br g/ 100 g', 'label': [[16, 27, 'unit']]}",Bromine number
+"{'data': 'Bromine Number, Br g/ 100 g | 25 max. | ( ASTM D 1159 )', 'label': [[16, 27, 'unit'], [30, 32, 'max'], [42, 53, 'method']]}",Bromine number
+"{'data': 'Saponification Number mg KOH/g | | | Max 0.5 | DIN 53401 <header> <> | <MINIMUM> | <MAXIMUM> | <TYPICAL> | <TEST METHODS> </header>', 'label': []}",irrelevant
+"{'data': '3.Bromine Number | ASTM D 1159 - 57 T', 'label': [[19, 37, 'method']]}",Bromine number
+"{'data': '* Colour ( APHA ) | 100 max. <header> <PROPERTIES> <* Appearance> | <PROPERTIES> <Clear liquid> </header>', 'label': []}",irrelevant
+"{'data': 'content | < 0,1', 'label': []}",irrelevant
+"{'data': 'Density at 20 º ℃ | DIN 51 757 | g/ml | 1.00 - 1.06', 'label': []}",irrelevant
+"{'data': 'ACID VALUE | NI 1.', 'label': [[16, 18, 'mean']]}",Acid content
+"{'data': 'General Properties Softening Point 135 - 145 Color Gardner Max 7 Specific Gravity 1.00 - 1.05 Bromine Number Max 25 Acid Value Max 0.3 Physical Form Yellow Pellet', 'label': [[35, 38, 'min'], [41, 44, 'max'], [51, 58, 'unit'], [63, 64, 'max'], [113, 115, 'max'], [131, 134, 'max'], [149, 162, 'qualitative_value']]}",multi
+"{'data': 'products, including paints, ▄', 'label': []}",irrelevant
+"{'data': 'Curing Agent 2 | 28 | 28 | 25 <header> <Cured Adhesive Performance Steel to Steel Bonds PSI @ 25 ℃ ( 77 ºF ) Curing Schedule Was 3 Days @ 73 ºF, 50 % Humidity> <Formula ( Parts by Weight ) > | <Cured Adhesive Performance Steel to Steel Bonds PSI @ 25 ℃ ( 77 ºF ) Curing Schedule Was 3 Days @ 73 ºF, 50 % Humidity> <Control> | <Cured Adhesive Performance Steel to Steel Bonds PSI @ 25 ℃ ( 77 ºF ) Curing Schedule Was 3 Days @ 73 ºF, 50 % Humidity> <Modified A> | <Cured Adhesive Performance Steel to Steel Bonds PSI @ 25 ℃ ( 77 ºF ) Curing Schedule Was 3 Days @ 73 ºF, 50 % Humidity> <Modified B> </header>', 'label': []}",irrelevant
+"{'data': 'Density at 20 °C | DIN 51 757 | 1,01 - 1,05 g/ml <header> <Specifications> | <Method> | <Value> </header>', 'label': []}",irrelevant
+"{'data': 'Building and Construction Adhesives | Building and Construction Adhesives | Compatible with Medium and Long Oil Alkyds | Compatible with Medium and Long Oil Alkyds <header> <APPLICATIONS / END USES> | <APPLICATIONS / END USES> | <ATTRIBUTES / BENEFITS> | <ATTRIBUTES / BENEFITS> </header>', 'label': []}",irrelevant
+"{'data': 'Bromine Number ( Br.cg/g ) | 20', 'label': [[17, 24, 'unit'], [29, 31, 'mean']]}",Bromine number
+"{'data': 'Solvent Based Adhesives | Solvent Based Adhesives | Increased Cohesive Strength in SBC Based Adhesives | Increased Cohesive Strength in SBC Based Adhesives <header> <APPLICATIONS / END USES> | <APPLICATIONS / END USES> | <ATTRIBUTES / BENEFITS> | <ATTRIBUTES / BENEFITS> </header>', 'label': []}",irrelevant
+"{'data': 'Acid Number, mg KOH/g Max | D - 974 | 0.02 | 0.02 | 0.02 | 0.02 | 0.02 | 0.02 | 0.02 | 0.02 | 0.02 | 0.02 | 0.02 | 0.02 <header> <SPECIFICATION PROPERTIES> | <ASTM> | <PB 6 > | <PB 8 > | <PB 10 > | <PB 12 > | <PB 16 > | <PB 18 > | <PB 20 > | <PB 24 > | <PB 32 > | <PB 122 > | <PB 124 > | <PB 128 > </header>', 'label': [[13, 21, 'unit'], [28, 35, 'method'], [38, 42, 'max'], [45, 49, 'max'], [52, 56, 'max'], [59, 63, 'max'], [66, 70, 'max'], [73, 77, 'max'], [80, 84, 'max'], [87, 91, 'max'], [94, 98, 'max'], [101, 105, 'max'], [108, 112, 'max']]}",Acid content
+"{'data': ' ( ASTM E 28 )', 'label': []}",stray
+"{'data': 'Color ( 50 wt % Solution in Toluene, Ga.# ) | 8', 'label': [[8, 41, 'measuring_condition'], [46, 47, 'mean']]}",Color
+"{'data': 'Flash Point ( COC ) , °C Min | D - 92 | 110 | 120 | 120 | 120 | 120 | 120 | 120 | 190 | 200 | 200 | 200 | 200 <header> <SPECIFICATION PROPERTIES> | <ASTM> | <PB 6 > | <PB 8 > | <PB 10 > | <PB 12 > | <PB 16 > | <PB 18 > | <PB 20 > | <PB 24 > | <PB 32 > | <PB 122 > | <PB 124 > | <PB 128 > </header>', 'label': []}",irrelevant
+"{'data': 'Specific Gravity : 1.1', 'label': []}",irrelevant
+"{'data': 'Note :', 'label': []}",irrelevant
+"{'data': 'hydrocarbon resins, which are ▄ | ( ASTM E 28 )', 'label': []}",irrelevant
+"{'data': 'Volatiles, Wt. % ( EPA Method 24 ) | < 6 | - - - <header> <NEVCHEM® LR Resin Diluent> <Physical Properties> | <NEVCHEM® LR Resin Diluent> <Typical Properties> | <NEVCHEM® LR Resin Diluent> <Specifications> </header>', 'label': []}",irrelevant
+"{'data': '___Properties | Typical Value | Test Method <header> <___Properties> | <Typical Value> | <Test Method> </header>', 'label': []}",header
+"{'data': 'Supply Form: 200 1 - drums, road tankers', 'label': []}",irrelevant
+"{'data': 'Acid Value ( KOH mg/g ) | Max.0.1', 'label': [[13, 21, 'unit'], [30, 33, 'max']]}",Acid content
+"{'data': 'POLYSAT HC RESIN PROPERTIES', 'label': []}",irrelevant
+"{'data': 'Colour ( Gardner ) [ undiluted ] | ISO 4630 | max. 2 <header> <Specifications> | <Method> | <Value> </header>', 'label': [[9, 16, 'unit'], [21, 30, 'measuring_condition'], [35, 43, 'method'], [51, 52, 'max']]}",Color
+"{'data': 'Acid Value KOH mg/g | Max 0.2', 'label': [[11, 19, 'unit'], [26, 29, 'max']]}",Acid content
+"{'data': 'POLYSAT HC RESIN SOLUTION PROPERTIES', 'label': []}",irrelevant
+"{'data': 'Melt Viscosity ( at 150 ℃ ) | TM - E - 31 5 | mPa.s | 1600 <header> <Property> | <ExxonMobil Test Method ( 1 ) > | <Unit> | <Typical Value> </header>', 'label': [[0, 4, 'measuring_condition'], [17, 25, 'measuring_condition'], [30, 43, 'method'], [46, 51, 'unit'], [54, 58, 'mean']]}",Viscosity
+"{'data': 'Color a YID | | 4 <header> <Property> | <Test Method> | <Typical Value, Units> </header>', 'label': [[16, 17, 'mean']]}",Color
+"{'data': 'Property | Method | Typical value | Selling Specification <header> <Property> | <Method> | <Typical value> | <Selling Specification> </header>', 'label': []}",header
+"{'data': 'Color Stability ( @ 200 oC, 3 hrs, Ga.# ) | 10', 'label': [[6, 41, 'measuring_condition'], [44, 46, 'mean']]}",Color
+"{'data': 'OMS | | 36 / 32 °C <header> <Property> | <Test Method> | <Typical Value, Units> </header>', 'label': []}",irrelevant
+"{'data': 'Storage Stability | 6 months', 'label': []}",irrelevant
+"{'data': 'Gyeonggi - Do, Korea 425 - 852 | H.P. | : 019 - 668 - 7317 <header> <Banwol Industrial Complex 10 - 49 > | <PHONE> | <: + 82 - 31 - 494 - 9060 > </header>', 'label': []}",irrelevant

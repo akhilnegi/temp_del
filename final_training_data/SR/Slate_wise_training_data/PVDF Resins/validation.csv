@@ -1,0 +1,51 @@
+text,label
+"{'data': 'ETERFLON 41211 ( 50 % ) | 60 <header> <PART A:> | <wt> </header>', 'label': []}",irrelevant
+"{'data': 'Dispersion dans l’isophrone / Dispersion in isophrone Jauge de Hegman / Hegman Grind | ASTM D 1210 | - | 6.0 - .5.5 <header> <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <Valeurs typiques / Typical Values> </header>', 'label': []}",irrelevant
+"{'data': 'Cotton | 3 % - 5 %', 'label': []}",irrelevant
+"{'data': 'Odor | / | None | / <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Thermal decomposition,≥ | ℃ | 410 | TGA,1 % Wt.Loss,N 2 <header> <ITEM> | <UNIT> | <DS 201 > | <ASTM measurement> </header>', 'label': []}",irrelevant
+"{'data': 'Mass solid | > 50 <header> <Appearance> | <Clear, no impurity> </header>', 'label': [[0, 4, 'measuring_condition'], [15, 17, 'min']]}",Solid content
+"{'data': 'Typical Value Unit | 2900 to 3300 Pa·s', 'label': [[21, 25, 'min'], [29, 33, 'max'], [34, 38, 'unit']]}",Viscosity
+"{'data': 'Odor | | None <header> < 21 Typical Properties DG ( COATING ) > <Property> | < 21 Typical Properties DG ( COATING ) > <RMFI ASTM Method> | < 21 Typical Properties DG ( COATING ) > <Typical Values> </header>', 'label': []}",irrelevant
+"{'data': 'General Appearance | / | White powder | / <header> <PHYSICAL PROPERTIES> <Property> | <PHYSICAL PROPERTIES> <Unit> | <PHYSICAL PROPERTIES> <Typical Values> | <PHYSICAL PROPERTIES> <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': '% Solids ( by weight ) | 46', 'label': [[0, 1, 'unit'], [11, 20, 'measuring_condition'], [25, 27, 'mean']]}",Solid content
+"{'data': 'Features | • Clean/High Purity • Crystalline • Good Strength • Good Toughness • Good Weather Resistance | • High Molecular Weight • Low Odor • Radiation ( Gamma ) Resistant • UV Resistant', 'label': []}",irrelevant
+"{'data': 'Fluidité / Melt FlowIndex ( 230 °C, 21.6 Kg ) | ISO 1133 | g/ 10 mn | 4 <header> <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <Valeurs typiques / Typical Values> </header>', 'label': [[28, 43, 'measuring_condition'], [48, 56, 'method'], [59, 67, 'unit'], [70, 71, 'mean']]}",Melting point
+"{'data': 'Polyester | 3 % - 5 %', 'label': []}",irrelevant
+"{'data': 'Hegman Grind | / | 5.5 min. | D 1210, B <header> <PHYSICAL PROPERTIES> <Property> | <PHYSICAL PROPERTIES> <Unit> | <PHYSICAL PROPERTIES> <Typical Values> | <PHYSICAL PROPERTIES> <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Physical | Typical Value Unit | Test method <header> <Physical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",header
+"{'data': 'Moisture | % | 0.1 max. | Karl Fischer <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Standard relative density | g/cm 3 | 1.75 - 1.77 | D 792, @ 23 / 23 ℃ <header> <ITEM> | <UNIT> | <DS 201 > | <ASTM measurement> </header>', 'label': []}",irrelevant
+"{'data': 'SAFETY INFORMATION | SAFETY INFORMATION | SAFETY INFORMATION | SAFETY INFORMATION <header> <PHYSICAL PROPERTIES> <Property> | <PHYSICAL PROPERTIES> <Unit> | <PHYSICAL PROPERTIES> <Typical Values> | <PHYSICAL PROPERTIES> <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Solubility | / | Clear solution, no foreign matter | 1 g/ 10 mL 30 ℃, 1 hr NMP <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Hegman细度计 | - | - | ≥ 5.5 <header> <性质/PROPERITES> | <测试方法 /TEST METHOD> | <单位 /UNIT> | <指标> </header>', 'label': []}",irrelevant
+"{'data': 'Property | Unit | Typical Values | ASTM Method <header> <PHYSICAL PROPERTIES> <Property> | <PHYSICAL PROPERTIES> <Unit> | <PHYSICAL PROPERTIES> <Typical Values> | <PHYSICAL PROPERTIES> <ASTM Method> </header>', 'label': []}",header
+"{'data': 'Typical Value Unit | > 25', 'label': []}",irrelevant
+"{'data': '水含量/Water Absorption | ASTM D 570 | wt % | < 0.1 ( 0.03 ) <header> <性质/PROPERITES> | <测试方法 /TEST METHOD> | <单位 /UNIT> | <指标> </header>', 'label': []}",irrelevant
+"{'data': 'Melting point | ℃ | 156 ~ 165 | D 3418 <header> <ITEM> | <UNIT> | <DS 201 > | <ASTM measurement> </header>', 'label': [[16, 17, 'unit'], [20, 23, 'min'], [26, 29, 'max'], [32, 38, 'method']]}",Melting point
+"{'data': 'Appearance | • White |', 'label': []}",irrelevant
+"{'data': 'TYPICAL PROPERTIES | TYPICAL PROPERTIES', 'label': []}",irrelevant
+"{'data': 'Acid Value（mg KOH/g） | < 3', 'label': []}",irrelevant
+"{'data': 'Odor | 1 | Without | Without | 1 <header> <Item> | <Unit> | <DS 2011 > | <DS 203 > | <Test Method/Standards> </header>', 'label': []}",irrelevant
+"{'data': 'Purity - PVDF | > 99.5 % | <header> <Physical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': 'Uses | • Coating Applications | • Film', 'label': []}",irrelevant
+"{'data': 'Specific gravity ( at 25 ºC ) | 1.06', 'label': []}",irrelevant
+"{'data': 'OH Value（mg KOH/g） | 56 ± 5', 'label': [[9, 17, 'unit'], [21, 23, 'mean'], [26, 27, 'std']]}",Hydroxyl value
+"{'data': 'Decompose temperature ( C ) | 235 ~ 260', 'label': []}",irrelevant
+"{'data': 'Specific Gravity: | 0.82', 'label': []}",irrelevant
+"{'data': 'Melting Point | ISO 3416 C | °C | 155 - 165 <header> <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <Typical Values> </header>', 'label': [[16, 26, 'method'], [29, 31, 'unit'], [34, 37, 'min'], [40, 43, 'max']]}",Melting point
+"{'data': 'General Appearance | | White, free flowing powder, free from foreign matter <header> < 21 Typical Properties DG ( COATING ) > <Property> | < 21 Typical Properties DG ( COATING ) > <RMFI ASTM Method> | < 21 Typical Properties DG ( COATING ) > <Typical Values> </header>', 'label': []}",irrelevant
+"{'data': 'Point de fusion / Melting point | ISO 3416 C | °C | 158 <header> <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <Valeurs typiques / Typical Values> </header>', 'label': [[34, 44, 'method'], [47, 49, 'unit'], [52, 55, 'mean']]}",Melting point
+"{'data': 'Purity | % | 99.5 min. | PVDF <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Note: These are typical properties, not specifications', 'label': []}",irrelevant
+"{'data': 'Forms | • Powder |', 'label': []}",irrelevant
+"{'data': 'Melt Flow Index | g/ 10 min | 0 ~ 2.0 | D 1238 ， 230 ℃, 10 kg <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': [[18, 27, 'unit'], [30, 31, 'min'], [34, 37, 'max'], [40, 46, 'method'], [49, 61, 'measuring_condition']]}",Melting point
+"{'data': 'Acid value | 1.0 ~ 2.0', 'label': []}",irrelevant
+"{'data': 'Property | Value <header> <Property> | <Value> </header>', 'label': []}",header
+"{'data': 'Designation | ISO 12086', 'label': []}",irrelevant
+"{'data': 'Item | Unit | DS 2011 | DS 203 | Test Method/Standards <header> <Item> | <Unit> | <DS 2011 > | <DS 203 > | <Test Method/Standards> </header>', 'label': []}",header
+"{'data': 'Densité / Density at 23 °C | ISO R 1183 D | - | 1.76 <header> <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <Valeurs typiques / Typical Values> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity,（gardener） | P~U', 'label': [[11, 19, 'measuring_condition'], [23, 24, 'min'], [25, 26, 'max']]}",Viscosity
+"{'data': 'Viscosity ( Stokes ) ( at 25 ºC ) ( cm 2 | /s ) | 4', 'label': [[23, 31, 'measuring_condition'], [36, 40, 'measuring_condition'], [43, 45, 'measuring_condition'], [50, 51, 'mean'], [12, 18, 'measuring_condition']]}",Viscosity
+"{'data': '21 Typical Properties DG ( COATING ) | 21 Typical Properties DG ( COATING ) | 21 Typical Properties DG ( COATING ) <header> < 21 Typical Properties DG ( COATING ) > <Property> | < 21 Typical Properties DG ( COATING ) > <RMFI ASTM Method> | < 21 Typical Properties DG ( COATING ) > <Typical Values> </header>', 'label': []}",irrelevant
+"{'data': 'Reprise d ‘humidité / Water absorption | ASTM D 570 | % | 0.04 <header> <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <Valeurs typiques / Typical Values> </header>', 'label': []}",irrelevant

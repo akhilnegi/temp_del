@@ -1,0 +1,434 @@
+text,label
+"{'data': 'Specific Gravity at 25 °C | 1.08 <header> <Appearance ( CM 060 ) > | <Clear pale yellow liquid> </header>', 'label': []}",irrelevant
+"{'data': 'Cosolvent, % ( 2 ) | 12.4 | Viscosity, stokes | 0.3', 'label': []}",Solvent type
+"{'data': 'Solids ( % ) : | Solids ( % ) : | Solids ( % ) : | Solids ( % ) : | 40 - 42', 'label': [[9, 10, 'unit'], [26, 27, 'unit'], [43, 44, 'unit'], [60, 61, 'unit'], [68, 70, 'min'], [73, 75, 'max']]}",Solid content
+"{'data': 'Polymer : | Polyurethane acrylic', 'label': []}",irrelevant
+"{'data': 'pH - value: | 7,0 - 8,5', 'label': [[14, 17, 'min'], [20, 23, 'max']]}",pH
+"{'data': 'OH content | approx. 0.8 | % | <header> <Property> | < 26 Value> | <Unit of measurement> | <Method> </header>', 'label': [[21, 24, 'mean'], [27, 28, 'unit']]}",Hydroxyl value
+"{'data': 'Print date: | 27 Juny 2019', 'label': []}",irrelevant
+"{'data': 'non - volatile content | 34 +/ - 2 % <header> <appearance> | <transparent to colloidal> </header>', 'label': [[25, 27, 'mean'], [33, 34, 'std'], [35, 36, 'unit']]}",Solid content
+"{'data': 'Composition | | | <header> <Acrylic Copolymer Emulsion> | < 980 - 410 Date :> | < 980 - 410 Date :> | < 980 - 410 Date :> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity at 23 °C, approx. D = 82 s - 1 | 200 - 2,000 | mPa·s | DIN EN ISO 3219 /A.3 <header> <Specification Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Uses | Binder for the formulation of water - reducible coatings for plastic substrates and wood materials.', 'label': []}",irrelevant
+"{'data': 'Mean particle size | < 150 | nm | photon correlation spectroscopy <header> <Other data* Property Value> | <Other data* Property Value> | <Unit of measurement> | <Method> </header>', 'label': [[0, 4, 'measuring_condition'], [23, 26, 'max'], [29, 31, 'unit']]}",Particle size
+"{'data': 'Direct / Reverse | 160 / 160 | | <header> <Dry Time, hr:min> | <> | <Mandrel Bend, 1 / 8 ""> | <Pass> </header>', 'label': []}",irrelevant
+"{'data': 'Non - volatile, by weight. | 30 ± 2 | % | DIN EN ISO 3251 <header> <Property> | <Value> | <Units> | <Method *> </header>', 'label': [[16, 26, 'measuring_condition'], [29, 31, 'mean'], [34, 35, 'std'], [38, 39, 'unit'], [42, 57, 'method']]}",Solid content
+"{'data': 'Total solids w/w | 32.0 - 34.0 | % | 0001 <header> <Property> | <Range> | <Unit> | <GAP> </header>', 'label': [[13, 16, 'measuring_condition'], [19, 23, 'min'], [26, 30, 'max'], [33, 34, 'unit'], [37, 41, 'method']]}",Solid content
+"{'data': 'Appearance | Dispersion | | <header> <Other data** Property> | <Value> | <Unit of measurement Method> | <Unit of measurement Method> </header>', 'label': []}",Color
+"{'data': 'Colour / Appearance VLN 250', 'label': []}",irrelevant
+"{'data': 'pH - value | | 7.0 - 8.5 | ISO 976 <header> <Specification:> | <> | <> | <According to:> </header>', 'label': [[15, 18, 'min'], [21, 24, 'max'], [27, 34, 'method']]}",pH
+"{'data': 'Minimum film forming temperature ( MFT ) | 13 | °C | DIN ISO 2115 <header> <Other data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[43, 45, 'mean'], [48, 50, 'unit'], [53, 65, 'method']]}",Minimum film forming temperature
+"{'data': 'Triethylamine content | Approx. 1.13 | % | <header> <Property> | <Value> | <Unit> | <GAP> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity, Brookfield, 25 o C, cps | 300 <header> <Type Appearance> | <Aliphatic polyurethane Amber colored dispersion> </header>', 'label': []}",irrelevant
+"{'data': 'pH Value | 7.0 ～ 8.5 <header> <Appearance ( 25 °C ) > | <Milky - white> </header>', 'label': [[11, 14, 'min'], [17, 20, 'max']]}",pH
+"{'data': 'Organic solvent ( N - Ethyl - 2 - pyrrolidone ) | % ca. 4.8', 'label': []}",irrelevant
+"{'data': 'Non - volatile content ( 1 g/ 1 h 125 °C ) | 40 ± 1 | % | DIN EN ISO 3251 <header> <Specification Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[25, 40, 'measuring_condition'], [45, 47, 'mean'], [50, 51, 'std'], [54, 55, 'unit'], [58, 73, 'method']]}",Solid content
+"{'data': ' | | | <header> <> <Specification Property> | <> <Value> | <> <Unit of measurement> | <> <Method> </header>', 'label': []}",irrelevant
+"{'data': 'pH | 7.5', 'label': [[5, 8, 'mean']]}",pH
+"{'data': 'Viscosity at 23 °C, D = approx. 100 /s | RMFI < 100 DG | mPa·s | DIN EN ISO 3219 /A 3 <header> <Other data* Property> | < 27 Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': ' | | | |', 'label': []}",irrelevant
+"{'data': 'viscosity / Appearance | [ mPa.s ] 1200 VLN 250', 'label': []}",irrelevant
+"{'data': 'Film properties*: | | | According to: <header> <Specification:> | <> | <> | <According to:> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity, 23 °C * | 1200 - 1600 | mPa.s | 2013 <header> <Property> | <Range> | <Unit> | <TM> </header>', 'label': []}",irrelevant
+"{'data': 'Type | Aliphatic', 'label': [[7, 16, 'qualitative_value']]}",Solvent type
+"{'data': 'Property | Value | Unit of measurement 11 AM. NUL | Method <header> <Property> | <Value> | <Unit of measurement 11 AM. NUL> | <Method> </header>', 'label': []}",header
+"{'data': 'Delivery form: 40 % solids in water.', 'label': [[30, 35, 'qualitative_value']]}",multi
+"{'data': 'PH | 7,5 - 9', 'label': [[5, 8, 'min'], [11, 12, 'max']]}",pH
+"{'data': 'Viscosity, Stokes, at 25 °C | 0.3 – 1.5', 'label': []}",irrelevant
+"{'data': 'Appearance | Milky white liquid | Milky white liquid | 2265 <header> <Property> | <Range> | <Unit> | <TM> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance | Visual | liquid, yellowish translucent', 'label': [[22, 51, 'qualitative_value']]}",Color
+"{'data': 'pH 1 : 2.5 in demineralized water | 7 - 9 | | DIN ISO 976 <header> <Characteristic data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[3, 33, 'measuring_condition'], [46, 57, 'method'], [36, 37, 'min'], [40, 41, 'max']]}",pH
+"{'data': 'FLASH POINT | None', 'label': []}",irrelevant
+"{'data': 'Viscosity at 25 oC ( cps ) | 50 - 400', 'label': []}",irrelevant
+"{'data': 'Specification | Colour value ( HAZEN/APHA, 150 DIN EN 1557 ) * * 30 % in methyl ethyl ketone | Colour value ( HAZEN/APHA, 150 DIN EN 1557 ) * * 30 % in methyl ethyl ketone', 'label': [[31, 41, 'unit'], [43, 46, 'mean'], [47, 58, 'method'], [65, 92, 'measuring_condition'], [110, 120, 'unit'], [122, 125, 'mean'], [126, 137, 'method'], [144, 171, 'measuring_condition']]}",Color
+"{'data': 'Density ( 23 °C ) | 1.25 | g/cm 3 | ISO 2811 <header> <Property> | <Value> | <Units> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity at 23 ℃, ( D = 40 s 1 ) | 500 - 1,500 | mPa.s | DIN EN ISO 3219 /A.3 <header> <Characteristic data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Solvent Naphtha 100 | 4', 'label': [[0, 19, 'qualitative_value']]}",Solvent type
+"{'data': 'Solids, % by Weight | ...................... 35', 'label': [[8, 9, 'unit'], [10, 19, 'measuring_condition'], [45, 47, 'mean']]}",Solid content
+"{'data': 'Type | Aliphatic, hydroxyfunctional polyester polyurethane dispersion', 'label': []}",irrelevant
+"{'data': 'pH | 7 - 9 | | DIN ISO 976 <header> <Specification Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[5, 6, 'min'], [9, 10, 'max'], [15, 26, 'method']]}",pH
+"{'data': 'Mean particle size | approx. 60 | nm | photon correlation spectroscopy <header> <Other data** Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[39, 70, 'measuring_condition'], [34, 36, 'unit'], [29, 31, 'mean'], [0, 4, 'measuring_condition']]}",Particle size
+"{'data': 'Density, at 20 °C: | 8.33 lbs./gal', 'label': []}",irrelevant
+"{'data': 'Premix the next seven items before adding to letdown vessel | Premix the next seven items before adding to letdown vessel | Premix the next seven items before adding to letdown vessel | Premix the next seven items before adding to letdown vessel <header> <Material> | <Pounds> | <Gallons> | <Use> </header>', 'label': []}",irrelevant
+"{'data': 'Version: | 1.0', 'label': []}",irrelevant
+"{'data': 'Premix the next seven items before adding to letdown vessel 2009 | Premix the next seven items before adding to letdown vessel 2009 | Premix the next seven items before adding to letdown vessel 2009 | Premix the next seven items before adding to letdown vessel 2009 <header> <Material> | <Pounds> | <Gallons> | <Use> </header>', 'label': []}",irrelevant
+"{'data': 'Solids, % by Weight | 30.05', 'label': [[8, 9, 'unit'], [10, 19, 'measuring_condition'], [22, 27, 'mean']]}",Solid content
+"{'data': 'Weight Solids | 50 ± 1 | % | WHPU/T 011 - 571 - 2017 <header> <Property> | <Value> | <Unit> | <Method> </header>', 'label': [[16, 18, 'mean'], [21, 22, 'std'], [25, 26, 'unit'], [29, 52, 'method']]}",Solid content
+"{'data': 'Density | g/cm 3 | ca. 1.06 | ISO 2811 - 1 <header> <Specification:> | <> | <> | <According to:> </header>', 'label': []}",irrelevant
+"{'data': 'Property | Value | Units | Method * <header> <Property> | <Value> | <Units> | <Method *> </header>', 'label': []}",header
+"{'data': 'Viscosity | mPa*s | max 600', 'label': []}",irrelevant
+"{'data': 'Density at 20 °C | approx. 1.0', 'label': []}",irrelevant
+"{'data': 'Viscosity at 23 °C ( D = approx. 40 s - 1 ) | ≤ 1,200 | mPa∙s | <header> <Characteristic data Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'OH Equiv. Wt ., Avg. ( As Supplied ) | Approximately 1145 <header> <Property> | <Value> </header>', 'label': [[53, 57, 'mean'], [10, 20, 'measuring_condition']]}",Hydroxyl value
+"{'data': '*These values are provisional. Binding supply specifications will not be available until the final product data sheet is published.', 'label': []}",irrelevant
+"{'data': 'Non - volatile content ( 1 g/ 1 h/ 125 °C ) | 40 - 42 | % | DIN EN ISO 3251 <header> <Specification Property Value Unit of measurement Method> | <Specification Property Value Unit of measurement Method> | <Specification Property Value Unit of measurement Method> | <Specification Property Value Unit of measurement Method> </header>', 'label': [[25, 41, 'measuring_condition'], [60, 75, 'method'], [51, 53, 'max'], [46, 48, 'min'], [56, 57, 'unit']]}",Solid content
+"{'data': ' ( acetone )', 'label': []}",irrelevant
+"{'data': 'Density | g/cm 3 | ca. 1.04', 'label': []}",irrelevant
+"{'data': 'Type | Aqueous hydroxyfunctional polyacrylic dispersion | Aqueous hydroxyfunctional polyacrylic dispersion | Aqueous hydroxyfunctional polyacrylic dispersion | Aqueous hydroxyfunctional polyacrylic dispersion | Aqueous hydroxyfunctional polyacrylic dispersion <header> <Type> | <Aqueous hydroxyfunctional polyacrylic dispersion> | <Aqueous hydroxyfunctional polyacrylic dispersion> | <Aqueous hydroxyfunctional polyacrylic dispersion> | <Aqueous hydroxyfunctional polyacrylic dispersion> | <Aqueous hydroxyfunctional polyacrylic dispersion> </header>', 'label': []}",irrelevant
+"{'data': 'Density at 20 °C | approx. 1.10 | g/ml | DIN EN ISO 2811 - 2 <header> <Other data* Property Value Unit of measurement Method> | <Other data* Property Value Unit of measurement Method> | <Other data* Property Value Unit of measurement Method> | <Other data* Property Value Unit of measurement Method> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance | Translucent Liquid | Translucent Liquid | Translucent Liquid | Translucent Liquid <header> <Typical Properties* of SOLUCOTE 1073 > <Appearance> | <Typical Properties* of SOLUCOTE 1073 > <Translucent Liquid> | <Typical Properties* of SOLUCOTE 1073 > <Translucent Liquid> | <Typical Properties* of SOLUCOTE 1073 > <Translucent Liquid> | <Specifications> <Translucent Liquid> </header>', 'label': [[13, 31, 'qualitative_value'], [34, 52, 'qualitative_value'], [55, 73, 'qualitative_value'], [76, 94, 'qualitative_value']]}",Color
+"{'data': 'Solid content DIN 53216 : | 34 - 36 %', 'label': [[14, 23, 'method'], [28, 30, 'min'], [33, 35, 'max'], [36, 37, 'unit']]}",Solid content
+"{'data': 'pH 8.0 ( tested 10 % in demineralised water ) | pH 8.0 ( tested 10 % in demineralised water ) | | DIN ISO 976 <header> <Characteristic data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[3, 6, 'mean'], [9, 43, 'measuring_condition'], [51, 54, 'mean'], [57, 91, 'measuring_condition'], [98, 109, 'method']]}",pH
+"{'data': 'HO - Si - OH OH | HO - Si - OH OH <header> <> | <Water> </header>', 'label': []}",irrelevant
+"{'data': 'Units | g/cm 3 %', 'label': []}",irrelevant
+"{'data': 'Appearance | Amber colored dispersion', 'label': [[13, 37, 'qualitative_value']]}",Color
+"{'data': 'Viscosity（MPa･s.25 ℃） | 200', 'label': []}",irrelevant
+"{'data': 'pH ( 1 : 4 in demineralised water ) | 7.2 - 8.2 | | DIN ISO 976 <header> <Specification Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[5, 33, 'measuring_condition'], [52, 63, 'method'], [38, 41, 'min'], [44, 47, 'max']]}",pH
+"{'data': 'Pounds per Gallon, Solution | 8.7 – 8.8', 'label': []}",irrelevant
+"{'data': 'Specification Property | Value | Unit of measurement | Method <header> <Specification Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",header
+"{'data': 'Acid value | 6.5 - 8.5 | mg KOH/g | DIN EN ISO 2114 <header> <Specification Property Value Unit of measurement Method> | <Specification Property Value Unit of measurement Method> | <Specification Property Value Unit of measurement Method> | <Specification Property Value Unit of measurement Method> </header>', 'label': []}",irrelevant
+"{'data': 'Ultimate tensile strength | N/mm 2 | ca. 22', 'label': []}",irrelevant
+"{'data': 'Density, g/cm³ | approx. 1.06', 'label': []}",irrelevant
+"{'data': 'Color | Gardner 1', 'label': [[8, 15, 'unit'], [16, 17, 'mean']]}",Color
+"{'data': 'pH 1 : 2,5 in demin. water | 7 - 9 | | DIN ISO 976 <header> <Specification Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[3, 26, 'measuring_condition'], [29, 30, 'min'], [33, 34, 'max'], [39, 50, 'method']]}",pH
+"{'data': 'Other data* Property | Value | Unit of measurement | Method <header> <Other data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",header
+"{'data': 'V.O.C. RACT | 187 g/l | GLOSS ( 60 ° ) | NA <header> <TYPICAL PHYSICAL PROPERTIES*> <SOLIDS> | <TYPICAL PHYSICAL PROPERTIES*> < 40 % > | <TYPICAL PHYSICAL PROPERTIES*> <APPEARANCE> | <TYPICAL PHYSICAL PROPERTIES*> <Opaque> </header>', 'label': []}",irrelevant
+"{'data': 'solid content DINENISO 3251 ( 1 h, 140 °C ) : | 49 - 51 %', 'label': [[14, 27, 'method'], [30, 41, 'measuring_condition'], [48, 50, 'min'], [53, 55, 'max'], [56, 57, 'unit']]}",Solid content
+"{'data': 'freeze/thaw stable | no', 'label': []}",irrelevant
+"{'data': 'Property | Value | Unit | GAP <header> <Property> | <Value> | <Unit> | <GAP> </header>', 'label': []}",header
+"{'data': 'Viscosity，cps | < 500', 'label': []}",irrelevant
+"{'data': 'Property | Value | Unit | Test method <header> <Property> | <Value> | <Unit> | <Test method> </header>', 'label': []}",header
+"{'data': 'Appearance | Milky white liquid | Milky white liquid | 2265 <header> <Property> | <Range> | <Unit> | <TM> </header>', 'label': []}",irrelevant
+"{'data': 'Delivery form: 35 % solids in water.', 'label': [[30, 35, 'qualitative_value']]}",multi
+"{'data': 'Density at 20 ℃ | approx. 1.06 | g/ml | DIN EN ISO 2811 - 2 <header> <Property> | <Value> | <Unit of measurement 11 AM. NUL> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance | yellowish liquid | | 0059 <header> <Property> | <Range> | <Unit> | <GAP> </header>', 'label': [[13, 29, 'qualitative_value'], [34, 38, 'method']]}",Color
+"{'data': 'Efflux time at 23 °C, 4 mm cup | 10 - 30 | s | AFAM 2008 / 10503 <header> <Specification Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Solids, by weight, % | 42', 'label': [[8, 18, 'measuring_condition'], [19, 20, 'unit'], [23, 25, 'mean']]}",Solid content
+"{'data': 'Mechanical stability | Satisfactory <header> <Type Appearance> | <Aliphatic polyurethane Amber colored dispersion> </header>', 'label': []}",irrelevant
+"{'data': 'Volatiles | 4.8 % N - methyl pyrrolidone Water', 'label': []}",irrelevant
+"{'data': 'pH | 7.4 – 8.3 | | 0016 <header> <Property> | <Range> | <Unit> | <GAP> </header>', 'label': [[5, 8, 'min'], [11, 14, 'max'], [19, 23, 'method']]}",pH
+"{'data': '■ pH Value | 7.5 ± 0.5', 'label': [[13, 16, 'mean'], [19, 22, 'std']]}",pH
+"{'data': 'Additional data:', 'label': []}",irrelevant
+"{'data': 'pH ( 1 : 3 in demineralised water ) | 7 - 9 | | DIN ISO 976 <header> <Specification Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[5, 33, 'measuring_condition'], [48, 59, 'method'], [38, 39, 'min'], [42, 43, 'max']]}",pH
+"{'data': 'Polymer | : Polyurethane acrylic | : Polyurethane acrylic <header> <> <PU Acrylic Dispersion> | < 980 - 0155 Date :> <PU Acrylic Dispersion> | < 980 - 0155 Date :> <PU Acrylic Dispersion> </header>', 'label': []}",irrelevant
+"{'data': 'Particle Size | Colloidal', 'label': []}",Particle size
+"{'data': 'Solvent | : Demin Water / Dipropyleneglycol Dimethylether | : Demin Water / Dipropyleneglycol Dimethylether <header> <> <PU Acrylic Dispersion> | < 980 - 0155 Date :> <PU Acrylic Dispersion> | < 980 - 0155 Date :> <PU Acrylic Dispersion> </header>', 'label': [[12, 57, 'qualitative_value'], [62, 107, 'qualitative_value']]}",Solvent type
+"{'data': 'Flash Point ( CCCFP ) ASTM D 6450 flash point', 'label': []}",irrelevant
+"{'data': 'Non - volatile content ( 1 g/ 1 h/ 125 °C/convection oven ) | approx. 44.5 | % | DIN EN ISO 3251 <header> <Characteristic data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[25, 57, 'measuring_condition'], [70, 74, 'mean'], [77, 78, 'unit'], [81, 96, 'method']]}",Solid content
+"{'data': 'Neutralizing agent | TEA ( 0.7 % )', 'label': []}",irrelevant
+"{'data': 'The actual properties of UV cured products also depend on the selection of the other formulation components, such as reactive diluent ( s ) , additives and photoinitiators. | The actual properties of UV cured products also depend on the selection of the other formulation components, such as reactive diluent ( s ) , additives and photoinitiators. <header> <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Other data ** Property | Value | Unit of measurement | Method <header> <Other data ** Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",header
+"{'data': 'Stain Tests ( 0 =None - 5 =Severe ) | Stain Tests ( 0 =None - 5 =Severe ) | Stain Tests ( 0 =None - 5 =Severe ) | Stain Tests ( 0 =None - 5 =Severe ) | Stain Tests ( 0 =None - 5 =Severe ) <header> <Stain Tests ( 0 =None - 5 =Severe ) > <Ink> | <Stain Tests ( 0 =None - 5 =Severe ) > <Coffee> | <Stain Tests ( 0 =None - 5 =Severe ) > <Catsup> | <Stain Tests ( 0 =None - 5 =Severe ) > <Iodine> | <Stain Tests ( 0 =None - 5 =Severe ) > <Mustard> </header>', 'label': []}",irrelevant
+"{'data': 'Density, lb/gal | Density, lb/gal | Density, lb/gal | | 8.7', 'label': []}",irrelevant
+"{'data': 'pH ( 1 : 3 in demineralised water ) | 7.8 - 8.8 | | DIN ISO 976 <header> <Specification Property Value Unit of measurement Method> | <Specification Property Value Unit of measurement Method> | <Specification Property Value Unit of measurement Method> | <Specification Property Value Unit of measurement Method> </header>', 'label': [[5, 33, 'measuring_condition'], [52, 63, 'method'], [38, 41, 'min'], [44, 47, 'max']]}",pH
+"{'data': 'Particle Charge | Anionic <header> <Appearance> | <Translucent> </header>', 'label': []}",irrelevant
+"{'data': 'Visc. Brookfield 25 C O | Max. 400 | mPa.s | 0020 <header> <Property> | <Range> | <Unit> | <GAP> </header>', 'label': []}",irrelevant
+"{'data': 'Type | aliphatic polyurethane dispersion', 'label': []}",irrelevant
+"{'data': 'Solid（ % ）： 45 - 50', 'label': [[7, 8, 'unit'], [12, 14, 'min'], [17, 19, 'max']]}",Solid content
+"{'data': 'Kofler Melting Point ( B ) | Noveon | °C | 80 <header> <PHYSICAL PROPERTIES> | <TEST METHOD> | <UNIT> | <VALUE> </header>', 'label': []}",irrelevant
+"{'data': '- high flexibility and hardness - excellent adhesion on wood - outstanding wood wetting | The toxicological properties of this material have not been fully determined. Products of this type can be expected to be eye and skin irritant and have the potential to cause sensitization or other allergic responses. Appropriate precautions should be taken to avoid eye and skin contact and to avoid inhalation of the aerosols or vapours. <header> <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Property | Value | Units | Method * <header> <Property> | <Value> | <Units> | <Method *> </header>', 'label': []}",header
+"{'data': 'Solid content ( % ) : | 35 | Hardness ( König, seconds ) : | 78 <header> <Appearance:> | <Translucent liquid> | <MFFT ( ºC ) :> | << 5 > </header>', 'label': [[16, 17, 'unit'], [24, 26, 'mean']]}",Solid content
+"{'data': 'Property | Range | Unit | GAP <header> <Property> | <Range> | <Unit> | <GAP> </header>', 'label': []}",header
+"{'data': 'Weight per litre : | 1.046 kg', 'label': []}",irrelevant
+"{'data': 'G/L | 336 | <header> <MATERIALS> | <POUNDS> | <SH GALLONS> </header>', 'label': []}",irrelevant
+"{'data': 'Ph Value | 7 - 9', 'label': [[11, 12, 'min'], [15, 16, 'max']]}",pH
+"{'data': 'G/L | 324', 'label': []}",irrelevant
+"{'data': 'Solids, % weight | 30.5', 'label': [[8, 9, 'unit'], [10, 16, 'measuring_condition'], [19, 23, 'mean']]}",Solid content
+"{'data': 'Efflux time at 23 °C, 4 mm cup | 12 - 60 | s | AFAM 2008 / 10503 <header> <Characteristic data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Film test : | Pour on glass. Examine after 30 mins in a dust free environment. Film should be clear and virtually seed and bit free. | Pour on glass. Examine after 30 mins in a dust free environment. Film should be clear and virtually seed and bit free. | Pour on glass. Examine after 30 mins in a dust free environment. Film should be clear and virtually seed and bit free.', 'label': []}",irrelevant
+"{'data': 'Complete Tradename of the RM | NeoPacTM E - 225', 'label': []}",irrelevant
+"{'data': 'Typical data', 'label': []}",irrelevant
+"{'data': 'Viscosity ( Brookfield LV # 2, 60 rpm ) , cps | < 60', 'label': []}",irrelevant
+"{'data': 'Minimum film - forming temperature | < 5', 'label': [[39, 40, 'max']]}",Minimum film forming temperature
+"{'data': 'Spindle n° 2 | 100 - 200 mPa.s', 'label': []}",irrelevant
+"{'data': '1 | NeoPac E - 107 | 87,75 | binder <header> <No.> | <Ingredient> | <Parts by Weight> | <Type of material> </header>', 'label': []}",irrelevant
+"{'data': 'Effective ingredients（ % ） | ： 45 <header> <Appearance> | <： Milky white liquid> </header>', 'label': []}",irrelevant
+"{'data': 'QW - 18 - 1 0 | 1 | 0 | 2 | 1 <header> <Stain Tests ( 0 =None - 5 =Severe ) > <Ink> | <Stain Tests ( 0 =None - 5 =Severe ) > <Coffee> | <Stain Tests ( 0 =None - 5 =Severe ) > <Catsup> | <Stain Tests ( 0 =None - 5 =Severe ) > <Iodine> | <Stain Tests ( 0 =None - 5 =Severe ) > <Mustard> </header>', 'label': []}",irrelevant
+"{'data': 'Water/dipropylene glycol dimethyl ether ( 60 / 40 w/w ) | Solvent', 'label': [[0, 5, 'qualitative_value'], [6, 39, 'qualitative_value']]}",Solvent type
+"{'data': 'Appearance | Translucent to milky white | | <header> <Property> | <Value> | <Unit> | <Method> </header>', 'label': [[13, 39, 'qualitative_value']]}",Color
+"{'data': 'Elongation at break | | % | 290 <header> <PHYSICAL PROPERTIES> | <TEST METHOD> | <UNIT> | <VALUE> </header>', 'label': []}",irrelevant
+"{'data': '*These values are provisional. Binding supply specifications will not be available until the final product data sheet is published.', 'label': []}",irrelevant
+"{'data': 'Appearance | Translucent', 'label': [[13, 24, 'qualitative_value']]}",Color
+"{'data': 'Non - volatile content ( 1 g/ 1 h 125 °C ) | 39 - 41 | % | DIN EN ISO 3251 <header> <Specification Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[25, 40, 'measuring_condition'], [45, 47, 'min'], [50, 52, 'max'], [55, 56, 'unit'], [59, 74, 'method']]}",Solid content
+"{'data': 'Minimum film forming temperature ( MFT ) | 13 | °C | DIN ISO 2115 ( 1 h ) <header> <Other data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[43, 45, 'mean'], [48, 50, 'unit'], [53, 65, 'method']]}",Minimum film forming temperature
+"{'data': 'Viscosity : | 0.5 - 2.5', 'label': []}",irrelevant
+"{'data': 'Tego® Foamex 800 | 6.1 | 0.71 <header> <MATERIALS> | <POUNDS> | <SH GALLONS> </header>', 'label': []}",irrelevant
+"{'data': 'Type | Aqueous hydroxyfunctional polyacrylic dispersion <header> <Type> | <Aqueous hydroxyfunctional polyacrylic dispersion> </header>', 'label': []}",irrelevant
+"{'data': 'non - volatile matter | [ % ] 34 - 36', 'label': [[26, 27, 'unit'], [30, 32, 'min'], [35, 37, 'max']]}",Solid content
+"{'data': 'approx. ( 20 °C )', 'label': []}",irrelevant
+"{'data': 'VOC ( theoretical ) | ± 0.16 | % | <header> <Property> | <Value> | <Unit> | <GAP> </header>', 'label': []}",irrelevant
+"{'data': 'Typical Values | Viscosity ( mPa.s @ 25 ℃ ) | 200 | 20 | 20 | 20 | 30 <header> <TAKELACTM> | <TAKELACTM> | <WS - 6021 > | <WS - 5000 > | <WS - 5100 > | <WS - 4000 > | <WS - 4022 > </header>', 'label': []}",irrelevant
+"{'data': 'Apperance | - | Milky white <header> <Property> | <Unit> | <Value> </header>', 'label': [[16, 27, 'qualitative_value']]}",Color
+"{'data': 'Type : | Panther PU Acrylic Dispersion | Panther PU Acrylic Dispersion | Panther PU Acrylic Dispersion <header> <Acrylic Copolymer Emulsion> | < 980 - 410 Date :> | < 980 - 410 Date :> | < 980 - 410 Date :> </header>', 'label': []}",irrelevant
+"{'data': ' ( TEMP 120 °F time 30 days ) | ( TEMP 120 °F time 30 days ) | SOFTENING POINT | 365 °F <header> <TYPICAL PHYSICAL PROPERTIES*> <SOLIDS> | <TYPICAL PHYSICAL PROPERTIES*> < 40 % > | <TYPICAL PHYSICAL PROPERTIES*> <APPEARANCE> | <TYPICAL PHYSICAL PROPERTIES*> <Opaque> </header>', 'label': []}",irrelevant
+"{'data': 'Polyurethane Dispersion Type | Aliphatic, polyester, anionic', 'label': []}",irrelevant
+"{'data': 'Density, 23 °C | appr. 937 | kg/m³ | 2160 <header> <Property> | <Value> | <Unit> | <TM> </header>', 'label': []}",irrelevant
+"{'data': 'Delivery form: 35 % solids in water and N - methylpyrrolidone ( 13.5 % ) .', 'label': [[30, 35, 'qualitative_value'], [40, 61, 'qualitative_value']]}",multi
+"{'data': 'acid valueDIN 53402 ( solid ) : | 14 - 19 mg KOH / g', 'label': []}",irrelevant
+"{'data': 'Preservative GAP 0222 1,2 - benzisothiazolin - 3 - one ( BIT ) | Preservative GAP 0222 1,2 - benzisothiazolin - 3 - one ( BIT ) | ± 0.010 Value | % Unit <header> <Property> | <Value> | <Unit> | <GAP> </header>', 'label': []}",irrelevant
+"{'data': 'Property | Value | Unit | GAP <header> <Property> | <Value> | <Unit> | <GAP> </header>', 'label': []}",header
+"{'data': 'Total Solids by Weight, % | 29.9', 'label': [[13, 22, 'measuring_condition'], [24, 25, 'unit'], [28, 32, 'mean']]}",Solid content
+"{'data': 'Shelf life | 1 year <header> <Appearance> | <Amber colored dispersion Aliphatic polyurethane> </header>', 'label': []}",irrelevant
+"{'data': 'pH - Value DIN ISO 976 pH - value ( 10 % ) | 7 - 9', 'label': [[11, 22, 'method'], [36, 40, 'measuring_condition'], [45, 46, 'min'], [49, 50, 'max']]}",pH
+"{'data': 'Colour / Appearance | VLN 250', 'label': []}",irrelevant
+"{'data': 'Hard | 2 : 45 | 60 degree | 90 <header> <Dry Time, hr:min> | <> | <Mandrel Bend, 1 / 8 ""> | <Pass> </header>', 'label': []}",irrelevant
+"{'data': 'viscosity in mPas | 20 - 500 <header> <appearance> | <transparent to colloidal> </header>', 'label': []}",irrelevant
+"{'data': 'OH content ( % , on solids ) | 1.0', 'label': [[13, 14, 'unit'], [17, 26, 'measuring_condition'], [31, 34, 'mean']]}",Hydroxyl value
+"{'data': 'content | 38 +/ - 1 %', 'label': []}",irrelevant
+"{'data': 'Solids ( w/w % ) | 31.0', 'label': [[9, 12, 'measuring_condition'], [13, 14, 'unit'], [19, 23, 'mean']]}",Solid content
+"{'data': 'Hardness ( König, seconds ) : | 78', 'label': []}",irrelevant
+"{'data': 'dyn. viscosity ( delivery form ) Z 2 D/n - 1 = 1000 / 23 °C : | 10 - 500 mPas', 'label': []}",irrelevant
+"{'data': 'pH | 8.3 <header> <Type Appearance> | <Aliphatic polyurethane Amber colored dispersion> </header>', 'label': [[5, 8, 'mean']]}",pH
+"{'data': 'Minimum film forming temperature ( MFT ) | < 0 2115', 'label': [[45, 46, 'max'], [47, 51, 'method']]}",Minimum film forming temperature
+"{'data': 'MFFT | °C ca. 0', 'label': [[7, 9, 'unit'], [14, 15, 'mean']]}",Minimum film forming temperature
+"{'data': '5 | Aquacer 513 | 5,00 | wax <header> <No.> | <Ingredient> | <Parts by Weight> | <Type of material> </header>', 'label': []}",irrelevant
+"{'data': 'Minimum film forming temperature ( MFT ) | < 0 | °C | DIN ISO 2115 <header> <Other data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[45, 46, 'max'], [49, 51, 'unit'], [54, 66, 'method']]}",Minimum film forming temperature
+"{'data': '• | excellent clarity', 'label': []}",irrelevant
+"{'data': '* PMA : Propylene glycol monomethylether NCO/OH = 1.5', 'label': [[8, 40, 'qualitative_value']]}",Solvent type
+"{'data': 'Specification: | |', 'label': []}",irrelevant
+"{'data': 'Property | Value | Method <header> <Property> | <Value> | <Method> </header>', 'label': []}",header
+"{'data': ' ( as supplied ) ( in - house method AV - F - P 001 ) | <header> <appearance> | <transparent to colloidal> </header>', 'label': []}",irrelevant
+"{'data': ' | | |', 'label': []}",irrelevant
+"{'data': 'Lbs./Gal. | 2.7', 'label': []}",irrelevant
+"{'data': 'FLASH POINT | None | TSCA STATUS | Approved <header> <TYPICAL PHYSICAL PROPERTIES* DG ( WOOD ) > <SOLIDS> | <TYPICAL PHYSICAL PROPERTIES* DG ( WOOD ) > < 34 % > | <TYPICAL PHYSICAL PROPERTIES* DG ( WOOD ) > <APPEARANCE> | <TYPICAL PHYSICAL PROPERTIES* DG ( WOOD ) > <Translucent> </header>', 'label': []}",irrelevant
+"{'data': 'Acid number ( solvent free ) | ≤ 2 mg KOH/g', 'label': []}",irrelevant
+"{'data': 'pH | 7.5 - 8.5', 'label': [[5, 8, 'min'], [11, 14, 'max']]}",pH
+"{'data': 'pH | 7.5 – 8.5 | | 0016 <header> <Property> | <Range> | <Unit> | <GAP> </header>', 'label': [[5, 8, 'min'], [11, 14, 'max'], [19, 23, 'method']]}",pH
+"{'data': 'Non - volatile ( % ) | 40 ± 1 | 1 g/ 125 ℃/ 1 h <header> <Parameter index> | <AQUAPUD - 8112 > | <Detection method> </header>', 'label': [[17, 18, 'unit'], [23, 25, 'mean'], [28, 29, 'std'], [32, 47, 'measuring_condition']]}",Solid content
+"{'data': 'Specifications | Functional basis ( theoretical ) | 2 <header> <Specifications> | <Functional basis ( theoretical ) > | < 2 > </header>', 'label': [[52, 54, 'mean']]}",Functionality
+"{'data': 'Total solids w/w | GAP 001 | % | 35.5 | 34.5 | 36.5 | <header> <> <Test> | <Specification of the supplier> <Method> | <Specification of the supplier> <Units> | <Specification of the supplier> <Average value> | <Specification of the supplier> <Lower limit> | <Specification of the supplier> <Upper limit> | <Specification of the supplier> <Remarks> </header>', 'label': [[13, 16, 'measuring_condition'], [19, 26, 'method'], [40, 44, 'min'], [47, 51, 'max']]}",Solid content
+"{'data': 'pH : | 7.5 8.5', 'label': [[7, 10, 'min'], [11, 14, 'max']]}",pH
+"{'data': 'Typical properties:', 'label': []}",irrelevant
+"{'data': 'Viscosity | 30 - 400 <header> <Non - volatile content> | < 38 +/ - 1 % > </header>', 'label': []}",irrelevant
+"{'data': 'Specific gravity ( g/cm 3 20 °C ) | ： 1.05 ± 0.02 <header> <Appearance> | <： Milky white liquid> </header>', 'label': []}",irrelevant
+"{'data': 'Solids content | % | 34.0 - 36.0 | ISO 3251 0.5 g weighed quantity at 150 °C <header> <Specification:> | <> | <> | <According to:> </header>', 'label': [[17, 18, 'unit'], [21, 25, 'min'], [28, 32, 'max'], [35, 43, 'method'], [44, 76, 'measuring_condition']]}",Solid content
+"{'data': 'Solids content | 39.0 – 41.0 | % | 0002 <header> <Property> | <Range> | <Unit> | <GAP> </header>', 'label': [[17, 21, 'min'], [24, 28, 'max'], [31, 32, 'unit'], [35, 39, 'method']]}",Solid content
+"{'data': 'Typical properties |', 'label': []}",irrelevant
+"{'data': 'TSCA STATUS | Approved', 'label': []}",irrelevant
+"{'data': 'Non - volatile content ( 1 g / 1 h / 125 °C ) | 40 - 43 | % | DIN EN ISO 3251 <header> <Specification Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[25, 44, 'measuring_condition'], [62, 77, 'method'], [48, 50, 'min'], [53, 55, 'max'], [58, 59, 'unit']]}",Solid content
+"{'data': 'Ucecoat 7155 is an aliphatic urethane acrylate in 50 % water, developed for wood coatings, but can also be used for other applications. Ucecoat 7155 is radiation curable when formulated with an adapted photoinitiator system. | STORAGE AND HANDLING Care should be taken not to expose radiation curable products to temperatures exceeding 40 °C for prolonged periods or to direct sunlight. This might cause uncontrollable polymerization of the product with generation of heat. Due to presence of water, Ucecoat 7155 needs to be stored above freezing temperatures.', 'label': []}",irrelevant
+"{'data': 'pH | 7.4', 'label': [[5, 8, 'mean']]}",pH
+"{'data': 'Flash point | appr. 24 | °C | 2800 <header> <Property> | <Value> | <Unit> | <TM> </header>', 'label': []}",irrelevant
+"{'data': 'Tensile Strength, psi | Tensile Strength, psi | Tensile Strength, psi | Tensile Strength, psi | 4,000', 'label': []}",irrelevant
+"{'data': 'Hydroxyl content ( solvent free, calculated ) | approx. 3.9 | % | <header> <Other data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[56, 59, 'mean'], [62, 63, 'unit']]}",Hydroxyl value
+"{'data': 'N - Methyl 2 - pyrrolidone, % | 9.0 <header> <Appearance> | <Amber colored dispersion Aliphatic polyurethane> </header>', 'label': []}",irrelevant
+"{'data': 'Particle size | : 70 90 | nanometers <header> <> <PU Acrylic Dispersion> | < 980 - 0155 Date :> <PU Acrylic Dispersion> | < 980 - 0155 Date :> <PU Acrylic Dispersion> </header>', 'label': [[18, 20, 'min'], [21, 23, 'max']]}",Particle size
+"{'data': 'Acid value | 6.5 - 8.5 | mg KOH/g | DIN EN ISO 2114 <header> <Specification Property Value Unit of measurement Method> | <Specification Property Value Unit of measurement Method> | <Specification Property Value Unit of measurement Method> | <Specification Property Value Unit of measurement Method> </header>', 'label': []}",irrelevant
+"{'data': 'Solids content | % 39.0 - 41.0', 'label': [[17, 18, 'unit'], [19, 23, 'min'], [26, 30, 'max']]}",Solid content
+"{'data': 'Description | Value | Tolerance | Units | Method <header> <Description> | <Value> | <Tolerance> | <Units> | <Method> </header>', 'label': []}",header
+"{'data': 'Viscosity（MPa･s.25 ℃） | 200 <header> <TAKELAC> <Appearance> | <WS - 6021 > <Slightly opaque> </header>', 'label': []}",irrelevant
+"{'data': 'Specification Property | Value | Unit of measurement | Method <header> <Specification Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",header
+"{'data': 'Other data* Property | Value | Unit of measurement Method | Unit of measurement Method <header> <Other data* Property> | <Value> | <Unit of measurement Method> | <Unit of measurement Method> </header>', 'label': []}",header
+"{'data': 'Dynamic Viscosity | DIN EN ISO 3219', 'label': [[0, 7, 'measuring_condition'], [20, 35, 'method']]}",Viscosity
+"{'data': 'Density （g/cm³） | 0.938 ± 0.02', 'label': []}",irrelevant
+"{'data': 'Formulated UV curable products containing Ucecoat 7177 can be applied by spray and curtain coating methods. Ucecoat 7177 is recommended for use in : - wood primer - clear and pigmented wood coatings - top coat for wood furniture and doors - as binder in other industrial applications | Consult the relevant Safety Data Sheet for appropriate handling procedures and protective equipment prior to using this or any other material referred to in this bulletin. See Safety Data Sheet for emergency and first aid procedures. STATUTORY LABELLING <header> <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity（mPa.S 25 ℃） | ： 200 - 3300 <header> <Appearance> | <： Milky white liquid> </header>', 'label': []}",irrelevant
+"{'data': 'Other data** Property Value Unit of measurement Method | Other data** Property Value Unit of measurement Method | Other data** Property Value Unit of measurement Method | Other data** Property Value Unit of measurement Method <header> <Other data** Property Value Unit of measurement Method> | <Other data** Property Value Unit of measurement Method> | <Other data** Property Value Unit of measurement Method> | <Other data** Property Value Unit of measurement Method> </header>', 'label': []}",irrelevant
+"{'data': 'Visc. Physica 23 °C * | 100 - 500 | mPa.s | 2013 <header> <Property> | <Range> | <Unit> | <TM> </header>', 'label': []}",irrelevant
+"{'data': 'Delivery form 40.0 % resin solids in water | Description', 'label': [[37, 42, 'qualitative_value']]}",multi
+"{'data': 'Solids（ % ） | 30 <header> <TAKELAC> <Appearance> | <WS - 6021 > <Slightly opaque> </header>', 'label': [[8, 9, 'unit'], [14, 16, 'mean']]}",Solid content
+"{'data': 'Film properties: | | | <header> <Other data* Property> | < 27 Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'SWARD HARDNESS | 79', 'label': []}",irrelevant
+"{'data': 'Viscosity, 25 °C, cP, max. | 200 <header> <SPECIFICATIONS> | <VALUES> </header>', 'label': []}",irrelevant
+"{'data': 'Freeze / Thaw Stability | Pass 5 Cycles', 'label': []}",irrelevant
+"{'data': 'Ucecoat 7155 is characterized by : - appearance translucent to blueish to white/emulsion. - low viscosity. - a tacky coating after water evaporation and before UV curing. This tacky material is re - emulsifiable and can be reused after filtration. - very good compatibility and easy to formulate. | Storage and handling should be in stainless steel, amber glass, amber polyethylene or baked phenolic lined containers. Do not store this material under an oxygen free atmosphere.', 'label': []}",irrelevant
+"{'data': 'Density | 1.09 ± 0.01 g/cm³', 'label': []}",irrelevant
+"{'data': '35,0 | Solids %', 'label': [[0, 4, 'mean'], [14, 15, 'unit']]}",Solid content
+"{'data': 'Visc. Brookfield 25 °C | 60 - 150 | mPa.s | 0020 <header> <Property> | <Range> | <Unit> | <GAP> </header>', 'label': []}",irrelevant
+"{'data': 'Non - Volatile Matter | DIN EN ISO 3251', 'label': [[24, 39, 'method']]}",Solid content
+"{'data': 'WEIGHT/GAL | 8.86 lbs', 'label': []}",irrelevant
+"{'data': 'Visc. Brookfield 25 C O | 20 – 150 | mPa.s | 0020 <header> <Property> | <Range> | <Unit> | <GAP> </header>', 'label': []}",irrelevant
+"{'data': 'Flashpoint | 55 | ℃ | DIN EN ISO 13 376 <header> <Property> | <Value> | <Unit> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': 'Type | Non - saponifable polymer dispersion which dries by oxidation <header> <Type> | <Non - saponifable polymer dispersion which dries by oxidation> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance visual | milky, cloudy | | <header> <Other data* Property Value Unit of measurement Method> | <Other data* Property Value Unit of measurement Method> | <Other data* Property Value Unit of measurement Method> | <Other data* Property Value Unit of measurement Method> </header>', 'label': [[20, 33, 'qualitative_value']]}",Color
+"{'data': 'MFFT | 60 | O C | 0011 <header> <Property> | <Value> | <Unit> | <GAP> </header>', 'label': [[7, 9, 'mean'], [12, 15, 'unit'], [18, 22, 'method']]}",Minimum film forming temperature
+"{'data': 'PARTICLE CHARGE | Anionic', 'label': []}",irrelevant
+"{'data': 'Particle Charge ...................... | Anionic', 'label': []}",irrelevant
+"{'data': 'Acid value | approx. 9.4 | mg KOH/g | DIN EN ISO 3682 <header> <Other data* Property Value Unit of measurement Method> | <Other data* Property Value Unit of measurement Method> | <Other data* Property Value Unit of measurement Method> | <Other data* Property Value Unit of measurement Method> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity at 23 °C, D = approx. 40 s - 1 | approx. 1,000 | mPa·s | DIN EN ISO 3219 /A.3 <header> <Characteristic data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Density at 20 °C | approx. 1.06 | approx. 1.06 | g/ml | DIN EN ISO 2811 - 2 <header> <Other data* Property> | <Value Unit of measurement> | <Value Unit of measurement> | <Value Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Property | Value | Unit | GAP <header> <Property> | <Value> | <Unit> | <GAP> </header>', 'label': []}",header
+"{'data': 'Appearance | slight haze permitted, dirtfree | slight haze permitted, dirtfree | slight haze permitted, dirtfree | slight haze permitted, dirtfree | 017 A | <header> <Property> | <> | <> | <Value> | <Unit> | <Method STM*> | <ISO> </header>', 'label': [[12, 44, 'qualitative_value'], [47, 78, 'qualitative_value'], [81, 112, 'qualitative_value'], [115, 146, 'qualitative_value'], [149, 154, 'method']]}",Color
+"{'data': 'pH | 7', 'label': [[5, 6, 'mean']]}",pH
+"{'data': 'Viscosity : | 0.4 - 1.0', 'label': []}",irrelevant
+"{'data': 'Viscosity, cps @ 25 °C | 25 - 400', 'label': []}",irrelevant
+"{'data': 'König pendulum hardness | approx. 140 | s | DIN EN ISO 1522 <header> <Other data* Property> | < 27 Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Non - Volatiles | | | Min. 95 | % | 001 G | 3251 <header> <Property> | <> | <> | <Value> | <Unit> | <Method STM*> | <ISO> </header>', 'label': [[27, 29, 'min'], [36, 41, 'method'], [44, 48, 'method'], [32, 33, 'unit']]}",Solid content
+"{'data': 'Appearance | Blue emulsion | —— <header> <Property> | <Value> | <Method> </header>', 'label': [[13, 26, 'qualitative_value']]}",Color
+"{'data': 'Appearance | Blue/yellow, slightly hazy liquid | Blue/yellow, slightly hazy liquid | 0059 <header> <Property> | <Range> | <Unit> | <GAP> </header>', 'label': [[49, 82, 'qualitative_value'], [85, 89, 'method'], [13, 46, 'qualitative_value']]}",Color
+"{'data': 'Composition | | <header> <> <PU Acrylic Dispersion> | < 980 - 0155 Date :> <PU Acrylic Dispersion> | < 980 - 0155 Date :> <PU Acrylic Dispersion> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity（ 25 ℃，mPa.s）： | 60000 - 80000 <header> <Appearance> | <： Pale yellow transparent liquid> </header>', 'label': []}",irrelevant
+"{'data': 'Dipropyleneglycolbutoxyether ( 3.2 % )', 'label': [[0, 38, 'qualitative_value']]}",Solvent type
+"{'data': 'Appearance | semi transparent straw coloured | semi transparent straw coloured | 0059 <header> <Property> | <Range> | <Unit> | <GAP> </header>', 'label': [[13, 44, 'qualitative_value'], [47, 78, 'qualitative_value'], [81, 85, 'method']]}",Color
+"{'data': 'Non - volatile content ( 1 g/ 1 h/ 125 °C ) | 33.5 - 35.5 | % | DIN EN ISO 3251 <header> <Specification Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[25, 41, 'measuring_condition'], [46, 50, 'min'], [53, 57, 'max'], [60, 61, 'unit'], [64, 79, 'method']]}",Solid content
+"{'data': 'approx. 41 % in water/N - methyl pyrrolidone, neutralized with dimethyl ethanol amine, approx. 53.5 : 4.5 : 1.', 'label': [[16, 21, 'qualitative_value'], [22, 44, 'qualitative_value'], [63, 79, 'qualitative_value']]}",Solvent type
+"{'data': 'Property | Unit | Value <header> <Property> | <Unit> | <Value> </header>', 'label': []}",header
+"{'data': 'pH | 8.0 <header> <Appearance> | <Amber colored dispersion Aliphatic polyurethane> </header>', 'label': [[5, 8, 'mean']]}",pH
+"{'data': 'solvent free Applications: | 1 K or 2 K high performance plastic coating with excellent adhesion,scractch resistance, chemical resistance.', 'label': []}",irrelevant
+"{'data': 'pH | 7.0 - 9.0 | | GB 6920 - 1986 <header> <Property> | <Value> | <Unit> | <Method> </header>', 'label': [[5, 8, 'min'], [11, 14, 'max'], [19, 33, 'method']]}",pH
+"{'data': 'Minimum film forming temperature ( MFT ) | < 0 | °C | DIN ISO 2115 <header> <Other data** Property Value Unit of measurement Method> | <Other data** Property Value Unit of measurement Method> | <Other data** Property Value Unit of measurement Method> | <Other data** Property Value Unit of measurement Method> </header>', 'label': [[45, 46, 'max'], [49, 51, 'unit'], [54, 66, 'method']]}",Minimum film forming temperature
+"{'data': '1,2 - benzisothiazolin - 3 - one ( BIT ) | 1,2 - benzisothiazolin - 3 - one ( BIT ) | ± 0.046 | % <header> <Property> | <Value> | <Unit> | <GAP> </header>', 'label': []}",irrelevant
+"{'data': 'Specifications', 'label': []}",irrelevant
+"{'data': 'Solvent - free | | | <header> <Specification:> | <> | <> | <According to:> </header>', 'label': []}",Solvent type
+"{'data': 'Property | Value | Unit | GAP <header> <Property> | <Value> | <Unit> | <GAP> </header>', 'label': []}",header
+"{'data': 'SWARD HARDNESS | 50 | <header> <PHYSICAL PROPERTIES> | <PHYSICAL PROPERTIES> | <TENSILE PROPERTIES> </header>', 'label': []}",irrelevant
+"{'data': 'Density ( g/cm³ ) : | 1.04 - 1.06', 'label': []}",irrelevant
+"{'data': 'Solids content : | 38.5 % ± 1 % | 38.5 % ± 1 % | 38.5 % ± 1 % <header> <Acrylic Copolymer Emulsion> | < 980 - 410 Date :> | < 980 - 410 Date :> | < 980 - 410 Date :> </header>', 'label': [[19, 23, 'mean'], [24, 25, 'unit'], [28, 29, 'std'], [34, 38, 'mean'], [39, 40, 'unit'], [43, 44, 'std'], [45, 46, 'unit'], [49, 53, 'mean'], [54, 55, 'unit'], [58, 59, 'std'], [60, 61, 'unit']]}",Solid content
+"{'data': 'WEIGHT/GAL | 8.7 lbs', 'label': []}",irrelevant
+"{'data': 'Appearance | White bluesh transparent product | White bluesh transparent product | White bluesh transparent product <header> <Property> | <Value> | <Units> | <Method> </header>', 'label': [[13, 45, 'qualitative_value'], [48, 80, 'qualitative_value'], [83, 115, 'qualitative_value']]}",Color
+"{'data': 'Unit | %', 'label': []}",irrelevant
+"{'data': 'Form supplied | Approx. 40 % in water, neutralized with N - ethyldiiso - propylamine, approx. 59.0 : 1.0 <header> <Type> | <Aliphatic polyurethane resin dispersion> </header>', 'label': [[24, 104, 'qualitative_value']]}",Solvent type
+"{'data': 'dynamic viscosity | [ mPa.s ] 800 - 3200', 'label': []}",irrelevant
+"{'data': 'Viscosity（mPa.s） | ＜ 500 | GB/T 11175 - 2002 <header> <Property> | <Value> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'UTS ( MPa ) : | 13', 'label': []}",irrelevant
+"{'data': 'Dynamic Viscosity DIN EN ISO 3219 dynamic viscosity', 'label': []}",irrelevant
+"{'data': 'Hydroxyl content ( on solid resin, calculated ) | approx. 3.9 | % | <header> <Other data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[19, 45, 'measuring_condition'], [58, 61, 'mean'], [64, 65, 'unit']]}",Hydroxyl value
+"{'data': 'Uses | In the formulation of physically drying, waterborne UV - curing wood and plastic coatings. <header> <Type> | <Waterborne, UV - curing Polyurethane Dispersion.> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity, stokes | 0.3', 'label': []}",irrelevant
+"{'data': 'Appearance | White', 'label': []}",irrelevant
+"{'data': 'Solvent type & percentage | <header> <Appearance> | <Amber colored dispersion Aliphatic polyurethane> </header>', 'label': []}",Solvent type
+"{'data': 'Elongation, % | Elongation, % | Elongation, % | Elongation, % | 120', 'label': []}",irrelevant
+"{'data': 'PH | | | | 7.5 - 8.', 'label': [[17, 18, 'max'], [11, 14, 'min']]}",pH
+"{'data': 'Viscosity（mPa.S 25 ℃） | 200 - 3300', 'label': []}",irrelevant
+"{'data': 'Solvent : | Demin Water / Dipropyleneglycol Dimethylether', 'label': [[12, 57, 'qualitative_value']]}",Solvent type
+"{'data': 'Acid # | 7.7 | VOC, g/l ( calc. ) | 353', 'label': []}",irrelevant
+"{'data': 'PARTICLE CHARGE | Anionic', 'label': []}",irrelevant
+"{'data': 'pH 10 % | 7.25 + 0.25 | | DIN ISO 976 <header> <Specification Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[3, 7, 'measuring_condition'], [10, 14, 'mean'], [17, 21, 'std'], [26, 37, 'method']]}",pH
+"{'data': 'PH | 8.2 | Freeze / thaw, cycles passed | 5', 'label': [[5, 8, 'mean']]}",pH
+"{'data': 'in water INTRODUCTION | Density, g/cm³ approx. 1.06 pH 6.4 - 7.8 Polymer solids, % by weight approx. 50', 'label': []}",irrelevant
+"{'data': 'Polymer : | Polymer : | Polyurethane acrylic | <header> <Acrylic Copolymer Emulsion> | <Acrylic Copolymer Emulsion> | < 980 - 408 > | <Date :> </header>', 'label': []}",irrelevant
+"{'data': ' | Viscosity（CPS/ 60 ℃） | 300 - 1000 <header> <Specifications> | <Functional basis ( theoretical ) > | < 2 > </header>', 'label': []}",irrelevant
+"{'data': 'Non - volatile content ( 1 g/ 1 h/ 125 °C ) | 34 - 36 | % | <header> <Characteristic data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[25, 41, 'measuring_condition'], [46, 48, 'min'], [51, 53, 'max'], [56, 57, 'unit']]}",Solid content
+"{'data': 'Further typical data*: MFFT | °C | ca. 42 | According to: <header> <Specification:> | <> | <> | <According to:> </header>', 'label': [[30, 32, 'unit'], [39, 41, 'mean']]}",Minimum film forming temperature
+"{'data': 'VOC, g/l ( calc. ) | 353', 'label': []}",irrelevant
+"{'data': 'TSCA Status | All Components are listed on the TSCA inventory | All Components are listed on the TSCA inventory | All Components are listed on the TSCA inventory | All Components are listed on the TSCA inventory <header> <Typical Properties* of SOLUCOTE 1073 > <Appearance> | <Typical Properties* of SOLUCOTE 1073 > <Translucent Liquid> | <Typical Properties* of SOLUCOTE 1073 > <Translucent Liquid> | <Typical Properties* of SOLUCOTE 1073 > <Translucent Liquid> | <Specifications> <Translucent Liquid> </header>', 'label': []}",irrelevant
+"{'data': 'Characteristic data Property Value | Characteristic data Property Value | Characteristic data Property Value | Characteristic data Property Value | Unit of measurement | Method <header> <Form supplied Form supplied is a milky white dispersion in water.> <Characteristic data Property Value> | <Form supplied Form supplied is a milky white dispersion in water.> <Characteristic data Property Value> | <Form supplied Form supplied is a milky white dispersion in water.> <Characteristic data Property Value> | <Form supplied Form supplied is a milky white dispersion in water.> <Characteristic data Property Value> | <Form supplied Form supplied is a milky white dispersion in water.> <Unit of measurement> | <Form supplied Form supplied is a milky white dispersion in water.> <Method> </header>', 'label': []}",irrelevant
+"{'data': 'PH： | 7.2 - 8.5', 'label': [[6, 9, 'min'], [12, 15, 'max']]}",pH
+"{'data': 'Appearance | semi translucent grey/yellow liquid | semi translucent grey/yellow liquid | 0059 <header> <Property> | <Range> | <Unit> | <GAP> </header>', 'label': [[13, 48, 'qualitative_value'], [51, 86, 'qualitative_value'], [89, 93, 'method']]}",Color
+"{'data': 'Form supplied | Approx 35 % in water, neutralized with triethylamine, approx. 35 : 64 : 1', 'label': [[31, 36, 'qualitative_value']]}",Solvent type
+"{'data': 'Composition | | |', 'label': []}",irrelevant
+"{'data': 'Other data* Property | Value | Unit of measurement | Method <header> <Other data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",header
+"{'data': 'Delivery form: 35.5 % solids in water.', 'label': [[32, 37, 'qualitative_value']]}",multi
+"{'data': 'Thru | 1 : 00 | Gloss, 60 / 20 degrees | <header> <Dry Time, hr:min> | <> | <Mandrel Bend, 1 / 8 ""> | <Pass> </header>', 'label': []}",irrelevant
+"{'data': 'Properties and application: | POLURENE 60 T is a very versatile polyisocyanate used for the formulation of polyurethane sealers and topcoats, also in combination with rigid resins. Main characteristics of POLURENE 60 T are: - high flexibility - good compatibility with nitrocellulose - high compatibility with aromatic hydrocarbons It is recommended for the formulation of matt and high gloss coatings in order to avoid bubbling, when fast drying, dust free and fast solvent release are required. POLURENE 60 T can be used for hardening highly filled pigmented sealers, providing excellent flexibility of the film. | POLURENE 60 T is a very versatile polyisocyanate used for the formulation of polyurethane sealers and topcoats, also in combination with rigid resins. Main characteristics of POLURENE 60 T are: - high flexibility - good compatibility with nitrocellulose - high compatibility with aromatic hydrocarbons It is recommended for the formulation of matt and high gloss coatings in order to avoid bubbling, when fast drying, dust free and fast solvent release are required. POLURENE 60 T can be used for hardening highly filled pigmented sealers, providing excellent flexibility of the film.', 'label': []}",irrelevant
+"{'data': 'TYPICAL PROPERTIES | <header> <SPECIFICATIONS> | <VALUES> </header>', 'label': []}",irrelevant
+"{'data': 'Density ( g/ml ) , wet | 1.05 <header> <Property> | <Typical Values> </header>', 'label': []}",irrelevant
+"{'data': 'Polymer : | Polyurethane acrylic', 'label': []}",irrelevant
+"{'data': 'Solids : | 37.5 - 39.5 % ( 1 g, 1 hour at 150 °C )', 'label': [[27, 48, 'measuring_condition'], [11, 15, 'min'], [18, 22, 'max'], [23, 24, 'unit']]}",Solid content
+"{'data': 'Solids content | % 29.0 - 31.0', 'label': [[17, 18, 'unit'], [19, 23, 'min'], [26, 30, 'max']]}",Solid content
+"{'data': 'Characteristic data* Property | Value | Unit of measurement | Method <header> <Characteristic data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",header
+"{'data': 'Density, g/ml at 20 °C | 1.05 <header> <SPECIFICATIONS> | <VALUES> </header>', 'label': []}",irrelevant
+"{'data': 'Polymer | Polyurethane acrylic', 'label': []}",irrelevant
+"{'data': 'Density | 1.02', 'label': []}",irrelevant
+"{'data': 'Received 28 Ucecoat 7177 is characterized by : - appearance translucent to blueish to white / emulsion - very low viscosity - a tacky coating after water evaporation and before UV curing. This tacky material is re - emulsifiable and can be reused after filtration - very good compatibility and easy to formulate | Storage and handling should be in stainless steel, amber glass, amber polyethylene or baked phenolic lined containers. Do not store this material under an oxygen free atmosphere. Use dry air to displace material removed from the container. This material should not be stored for more than 1 year. <header> <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'Further typical data*: | | | According to: <header> <Specification:> | <> | <> | <According to:> </header>', 'label': []}",irrelevant
+"{'data': 'Dispersion Properties | Dispersion Properties', 'label': []}",irrelevant
+"{'data': 'OH - Value ( solid ) : | about 46 mg KOH / g', 'label': [[13, 18, 'measuring_condition'], [31, 33, 'mean'], [34, 44, 'unit']]}",Hydroxyl value
+"{'data': 'Co - solvent | 0 % ( co - solvent free )', 'label': []}",Solvent type
+"{'data': '100 % Modulus | 3100 psi', 'label': []}",irrelevant
+"{'data': 'Dynamic Viscosity | DIN EN ISO 3219', 'label': [[0, 7, 'measuring_condition'], [20, 35, 'method']]}",Viscosity
+"{'data': 'Appearance | White translucent liquid | White translucent liquid | 0059 <header> <Property> | <Range> | <Unit> | <GAP> </header>', 'label': [[13, 37, 'qualitative_value'], [40, 64, 'qualitative_value'], [67, 71, 'method']]}",Color
+"{'data': 'Xylene Butyal acetate Xylene, n - Butanol ( 50 / 50 ) 1 - Methoxy 2 - propyl acetate Methyl ethyl ketone n - Butanol Sec. butanol | complete complete almost complete insoluble insoluble insoluble insoluble', 'label': [[0, 6, 'qualitative_value'], [7, 28, 'qualitative_value'], [30, 41, 'qualitative_value'], [54, 84, 'qualitative_value'], [85, 104, 'qualitative_value'], [105, 129, 'qualitative_value']]}",Solvent type
+"{'data': 'Neutralizer, % ( 1 ) | 1.4 | Viscosity, cps ( 3 ) | 18', 'label': []}",irrelevant
+"{'data': 'Specification: | Value | Unit <header> <Specification:> | <Value> | <Unit> </header>', 'label': []}",header
+"{'data': 'Flash point | | | Min. 65 | °C | | DIN 53213 <header> <Property> | <> | <> | <Value> | <Unit> | <Method STM*> | <ISO> </header>', 'label': []}",irrelevant
+"{'data': 'Solids, wt. % | 43 - 47 <header> <Property> | <Value> </header>', 'label': [[8, 10, 'measuring_condition'], [12, 13, 'unit'], [16, 18, 'min'], [21, 23, 'max']]}",Solid content
+"{'data': 'Acid value | approx. 11.5 | mg KOH/g | DIN EN ISO 2114 <header> <Other data** Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'pH | 6.4 - 7.8', 'label': [[5, 8, 'min'], [11, 14, 'max']]}",pH
+"{'data': 'Solids Content ( % ) | 29 - 31', 'label': [[17, 18, 'unit'], [23, 25, 'min'], [28, 30, 'max']]}",Solid content
+"{'data': 'viscosity at 25 °C ( Brookfield ) | 250 mPa.s <header> <appearance> | <milky white dispersion> </header>', 'label': []}",irrelevant
+"{'data': 'Contamination ( powders ) | fungi | fungi | fungi | fungi | fungi | fungi <header> <Specification of the supplier> <Test> | <Specification of the supplier> <Method> | <Specification of the supplier> <Units> | <Specification of the supplier> <Average value> | <Specification of the supplier> <Lower limit> | <Specification of the supplier> <Upper limit> | <Specification of the supplier> <Remarks> </header>', 'label': []}",irrelevant
+"{'data': 'flash point | [ °C ] > 100 | At temperatures up to 25 °C storage stability packed in original containers amounts to at least 365 days. It is important to protect Daotan VTW 1250 from frost ; at low temperatures it has therefore to be stored under frostproof conditions. <header> <TYPE> | <TYPE> | <Neutralization agent> </header>', 'label': []}",irrelevant
+"{'data': 'Polyurethane dispersion modified with drying fatty acids | Polyurethane dispersion modified with drying fatty acids | 0.2 % ammonia, as salt <header> <TYPE> | <TYPE> | <Neutralization agent> </header>', 'label': []}",irrelevant
+"{'data': 'Preservative : | None', 'label': []}",irrelevant
+"{'data': 'Free monomer | Max. 1000 | ppm | 0118 <header> <Property> | <Value> | <Unit> | <GAP> </header>', 'label': []}",irrelevant
+"{'data': 'SOLUCOTE 1073 is a solvent free aliphatic waterborne polyurethane dispersion that can be used in a broad number of coating applications. This versatile resin finds use in rigid coatings for hard surfaces such as wood and concrete.', 'label': [[19, 31, 'qualitative_value']]}",Solvent type
+"{'data': 'BRV Visc# 2 @ 100 RPM 25 C 150 | BRV Visc# 2 @ 100 RPM 25 C 150 | BRV Visc# 2 @ 100 RPM 25 C 150 | 71 | CPS | | | | B | AM 622 <header> <LOWER LIMIT> | <UPPER LIMIT> | <NOMINAL VALUE> | <ACTUAL VALUE> | <UNIT> | <EXPANDED UNCERT.> | <NO REPS> <STD DEV> | <ANALYTICAL> <PHASE> | <ANALYTICAL> <FREQ> | <ANALYTICAL> <METHOD> </header>', 'label': []}",irrelevant
+"{'data': 'Flash point | > 100 | °C | DIN EN 22 719 <header> <Other data* Property Value> | <Other data* Property Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Chromatic number（mg.KOH/g） | ： ≤ 1 <header> <Appearance> | <： Pale yellow transparent liquid> </header>', 'label': []}",irrelevant
+"{'data': 'Material | Pounds | Gallons | Use <header> <Material> | <Pounds> | <Gallons> | <Use> </header>', 'label': []}",irrelevant
+"{'data': 'Specification Property | Value | Unit of measurement | Method <header> <> <Specification Property> | <> <Value> | <> <Unit of measurement> | <> <Method> </header>', 'label': []}",header
+"{'data': 'Contamination ( powders ) | 0.1 - 0.5 g | colonies/g | | | 100 for bacteria/yeast, 50 for funghi | BA MB SOP <header> <Specification of the supplier> <Test> | <Specification of the supplier> <Method> | <Specification of the supplier> <Units> | <Specification of the supplier> <Average value> | <Specification of the supplier> <Lower limit> | <Specification of the supplier> <Upper limit> | <Specification of the supplier> <Remarks> </header>', 'label': []}",irrelevant
+"{'data': 'STORAGE |', 'label': []}",irrelevant
+"{'data': 'KP - 140 | 7.25 September | 0.86 | Plasticizer <header> <Material> | <Pounds> | <Gallons> | <Use> </header>', 'label': []}",irrelevant
+"{'data': 'TAKELAC | WS - 6021 <header> <TAKELAC> <Appearance> | <WS - 6021 > <Slightly opaque> </header>', 'label': []}",irrelevant
+"{'data': '8 | Dehydran 1293 | 0.30 | defoamer <header> <No.> | <Ingredient> | <Parts by Weight> | <Type of material> </header>', 'label': []}",irrelevant
+"{'data': 'Water content ( K. Fischer, ISO 4317 ) | 0.5 % max.', 'label': []}",irrelevant
+"{'data': '1 ) Non volatile content | 60 ± 1 | % by weight | DIN EN ISO 3251 <header> <Property> | <Value> | <Unit> | <Test method> </header>', 'label': [[27, 29, 'mean'], [32, 33, 'std'], [36, 37, 'unit'], [38, 47, 'measuring_condition'], [50, 65, 'method']]}",Solid content
+"{'data': 'Property | Range | Unit | GAP <header> <Property> | <Range> | <Unit> | <GAP> </header>', 'label': []}",header
+"{'data': 'Density at 20 °C | approx. 1.06 | g/ml | DIN EN ISO 2811 <header> <Other data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance | light tan to amber liquid', 'label': [[13, 38, 'qualitative_value']]}",Color
+"{'data': 'Viscosity at 23 °C, D = approx. 40 s - 1 | 1,500 - 3,000 | mPa·s | DIN EN ISO 3219 /A.3 <header> <Specification Property Value Unit of measurement Method> | <Specification Property Value Unit of measurement Method> | <Specification Property Value Unit of measurement Method> | <Specification Property Value Unit of measurement Method> </header>', 'label': []}",irrelevant
+"{'data': 'Property | Range | Unit | GAP <header> <Property> | <Range> | <Unit> | <GAP> </header>', 'label': []}",header
+"{'data': 'Density： （g/cm³/ 20 ℃）： | 1.04 - 1.06', 'label': []}",irrelevant
+"{'data': 'Solid content（ % ） | ： 41 ± 2 <header> <Appearance> | <： Milky white liquid> </header>', 'label': [[15, 16, 'unit'], [23, 25, 'mean'], [28, 29, 'std']]}",Solid content
+"{'data': 'Form supplied | approx. 40 % in water <header> <Type> | <Aliphatic anionic polyurethane dispersion> </header>', 'label': [[24, 37, 'qualitative_value']]}",Solvent type
+"{'data': 'Viscosity ( MC 2, 23 °C, 100 s - 1 ) | 0,02 – 0,12 | Pa∙s | ISO 3219 <header> <Property> | <Value> | <Units> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance | milky, slightly colloidal | milky, slightly colloidal | | <header> <Other data* Property> | <Value Unit of measurement> | <Value Unit of measurement> | <Value Unit of measurement> | <Method> </header>', 'label': [[13, 38, 'qualitative_value'], [41, 66, 'qualitative_value']]}",Color
+"{'data': 'Density: | 8.30 + 0.10 lbs./gal', 'label': []}",irrelevant
+"{'data': 'Volatiles | 9 % N - methylpyrrolidone water', 'label': []}",irrelevant
+"{'data': 'FREEZE/THAW | 5 cycles', 'label': []}",irrelevant
+"{'data': 'Flash point ( No flash point up to initial boiling point ) | > 95 | °C | DIN EN ISO 2719 <header> <Other data* Property Value Unit of measurement Method> | <Other data* Property Value Unit of measurement Method> | <Other data* Property Value Unit of measurement Method> | <Other data* Property Value Unit of measurement Method> </header>', 'label': []}",irrelevant
+"{'data': 'PH | 7.5 - 10.0', 'label': [[5, 8, 'min'], [11, 15, 'max']]}",pH
+"{'data': 'OH content, solvent - free | approx. 2.5 | % | DIN 53 240 / 2 <header> <Other data* Property Value Unit of measurement Method> | <Other data* Property Value Unit of measurement Method> | <Other data* Property Value Unit of measurement Method> | <Other data* Property Value Unit of measurement Method> </header>', 'label': [[12, 26, 'measuring_condition'], [47, 61, 'method'], [37, 40, 'mean'], [43, 44, 'unit']]}",Hydroxyl value
+"{'data': 'Cosolvent, % ( 2 ) | 12.4', 'label': []}",Solvent type
+"{'data': '4 | Byk - 344 | 0,40 | mar/slip agent <header> <No.> | <Ingredient> | <Parts by Weight> | <Type of material> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity, 23 °C | Max 100 | mPas | 0020 <header> <Property> | <Range> | <Unit> | <GAP> </header>', 'label': []}",irrelevant
+"{'data': 'Other data* Property | Value | Unit of measurement | Method <header> <Other data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",header
+"{'data': 'appearance | cloudy', 'label': [[13, 19, 'qualitative_value']]}",Color
+"{'data': 'Properties | : | Excellent pigment binding and film forming properties. Very durability and toughness | Excellent pigment binding and film forming properties. Very durability and toughness <header> <Acrylic Copolymer Emulsion> | <Acrylic Copolymer Emulsion> | < 980 - 408 > | <Date :> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance： | Milky white liquid', 'label': [[14, 32, 'qualitative_value']]}",Color
+"{'data': 'Density | 1.07 | g/cm 3 | GB/T 4472 - 2011 <header> <Property> | <Value> | <Unit> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Determined per batch:', 'label': []}",irrelevant
+"{'data': 'Preservative : | Contains a biocide', 'label': []}",irrelevant
+"{'data': 'VISCOSITY | 425 cps max | PARTICLE CHARGE | Anionic <header> <TYPICAL PHYSICAL PROPERTIES* DG ( WOOD ) > <SOLIDS> | <TYPICAL PHYSICAL PROPERTIES* DG ( WOOD ) > < 34 % > | <TYPICAL PHYSICAL PROPERTIES* DG ( WOOD ) > <APPEARANCE> | <TYPICAL PHYSICAL PROPERTIES* DG ( WOOD ) > <Translucent> </header>', 'label': []}",irrelevant
+"{'data': 'Specification | Viscosity at 23 °C 800 ± 500 mPa s ( DIN EN ISO 3219 /A.3 ) * | Viscosity at 23 °C 800 ± 500 mPa s ( DIN EN ISO 3219 /A.3 ) *', 'label': []}",irrelevant
+"{'data': 'Tests Performed on Aluminum Panels ( 1 - Mil Dry Films ) Konig Hardness ( Seconds ) 1 Day, 7 Day | 90, 130 <header> <Tensile Strength, PSI> | < 4000 > </header>', 'label': []}",irrelevant
+"{'data': 'Amine number | 1.5 - 2.2 | mg KOH/g | 3001 <header> <Property> | <Range> | <Unit> | <TM> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance | Milky white liquid', 'label': []}",irrelevant
+"{'data': 'Particle size | ca. 75 nm', 'label': [[20, 22, 'mean'], [23, 25, 'unit']]}",Particle size
+"{'data': 'Neutralizing agent 2 - di - methylamino - ethanol | + 1.08 | % | <header> <Property> | <Value> | <Unit> | <GAP> </header>', 'label': []}",irrelevant
+"{'data': 'freeze/thaw stable | no <header> <appearance> | <milky white dispersion> </header>', 'label': []}",irrelevant
+"{'data': 'Ucecoat 7155 is characterized by : - appearance translucent to blueish to white/emulsion. - low viscosity. - a tacky coating after water evaporation and before UV curing. This tacky material is re - emulsifiable and can be reused after filtration. - very good compatibility and easy to formulate. | Use dry air to displace material removed from the container. This material should not be stored for more than 6 months. PRECAUTIONS', 'label': []}",irrelevant
+"{'data': 'Organic Solvent | % | 8 % proglyde DMM', 'label': [[22, 38, 'qualitative_value']]}",Solvent type
+"{'data': 'Co - solvent: % / Type | 0', 'label': []}",Solvent type
+"{'data': 'Density at 20 °C | approx. 1.06 | g/ml | DIN DIN EN ISO 2811 <header> <Other data* Property Value Unit of measurement Method> | <Other data* Property Value Unit of measurement Method> | <Other data* Property Value Unit of measurement Method> | <Other data* Property Value Unit of measurement Method> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity DIN 53211 4 mm, 25 °C : ( dilute to 50 % solid with butyl cellosolve ) | 55 - 75 sec', 'label': []}",irrelevant
+"{'data': 'OH Content, % ( As Supplied ) | Approximately 1.5', 'label': [[12, 13, 'unit'], [46, 49, 'mean']]}",Hydroxyl value
+"{'data': 'Typical Values | Solids ( % ) | 30 | 30 | 30 | 30 | 30 <header> <TAKELACTM> | <TAKELACTM> | <WS - 6021 > | <WS - 5000 > | <WS - 5100 > | <WS - 4000 > | <WS - 4022 > </header>', 'label': [[26, 27, 'unit'], [32, 34, 'mean'], [37, 39, 'mean'], [42, 44, 'mean'], [47, 49, 'mean'], [52, 54, 'mean']]}",Solid content
+"{'data': 'Density at 20 °C | approx. 1.06 | g/ml | DIN EN ISO 2811 <header> <Other data* Property> | < 10 SH Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Type | Aromatic, urethane acrylic copolymer dispersion', 'label': []}",irrelevant
+"{'data': 'Freeze - Thaw Stability Cycles | Freeze - Thaw Stability Cycles | Freeze - Thaw Stability Cycles | | 10 +', 'label': []}",irrelevant
+"{'data': 'Weight/Gal | 8.71 lbs. | 8.71 lbs. | 8.71 lbs. | <header> <Typical Properties* of SOLUCOTE 1073 > <Appearance> | <Typical Properties* of SOLUCOTE 1073 > <Translucent Liquid> | <Typical Properties* of SOLUCOTE 1073 > <Translucent Liquid> | <Typical Properties* of SOLUCOTE 1073 > <Translucent Liquid> | <Specifications> <Translucent Liquid> </header>', 'label': []}",irrelevant
+"{'data': ' ( As supplied ) , Haake Sp. 10 DIN 53018 / 20 °C/ mPas | <header> <Non - volatile content> | < 38 +/ - 1 % > </header>', 'label': []}",irrelevant
+"{'data': 'non - volatile matter [ % ] 38,5 - 41,5 ( 1 h ; 125 °C ; 1 g )', 'label': [[42, 60, 'measuring_condition'], [35, 39, 'max'], [28, 32, 'min'], [24, 25, 'unit']]}",Solid content
+"{'data': 'Radiation curable aliphatic urethane acrylate | 1 / 1 PHYSICAL PROPERTIES <header> <> | <> </header>', 'label': []}",irrelevant
+"{'data': 'pH Value | 7.0 ～ 8.5', 'label': [[11, 14, 'min'], [17, 20, 'max']]}",pH
+"{'data': 'VOC ( theoretical ) | ± 3.529 | % | <header> <Property> | <Range> | <Unit> | <TM> </header>', 'label': []}",irrelevant
+"{'data': 'Acid number | approx. 10.5 | SP mg KOH/g | DIN EN ISO 2114 <header> <Property> | < 26 Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Non - volatile content ( 1 g/ 1 h/ 125 °C/convection oven ) | 38.5 - 41.5 | % | DIN EN ISO 3251 <header> <Specification Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': [[25, 57, 'measuring_condition'], [62, 66, 'min'], [69, 73, 'max'], [76, 77, 'unit'], [80, 95, 'method']]}",Solid content
+"{'data': 'OH | % | 1.55 <header> <Property> | <Unit> | <Value> </header>', 'label': [[5, 6, 'unit'], [9, 13, 'mean']]}",Hydroxyl value
+"{'data': 'Appearance of supply form | turbid, brownish | | <header> <Other data* Property> | <Value> | <Unit of measurement Method> | <Unit of measurement Method> </header>', 'label': [[28, 44, 'qualitative_value']]}",Color
+"{'data': 'Viscosity | mPas 20 - 200', 'label': []}",irrelevant
+"{'data': 'Color ( APHA ) | ≤ 100', 'label': []}",irrelevant
+"{'data': 'Appearance | ： light yellow liquid', 'label': []}",irrelevant
+"{'data': 'Density, 23 °C Flash point | appr. 890 appr. 14 | kg/m³ °C | 2160 2800 <header> <Property> | <Value> | <Unit> | <TM> </header>', 'label': []}",irrelevant
+"{'data': 'pH | 7.3 – 8.5 | | 2200 <header> <Property> | <Range> | <Unit> | <TM> </header>', 'label': [[19, 23, 'method'], [11, 14, 'max'], [5, 8, 'min']]}",pH
+"{'data': 'Viscosity ( 77 ºF ) | W - Z | Gardner - Holdt | 2 - 1 <header> <Property> | <Value> | <Units> | <Method *> </header>', 'label': []}",irrelevant
+"{'data': 'dynamic viscosity ( 25 1 /s ; 23 °C ) Non - Volatile Matter DIN EN ISO 3251', 'label': [[60, 75, 'method']]}",Solid content
+"{'data': '• | excellent chemical resistance', 'label': []}",irrelevant
+"{'data': 'pH | 8.0', 'label': []}",irrelevant
+"{'data': 'VOC ( theoretical ) | + 1.15 | % | <header> <Property> | <Value> | <Unit> | <GAP> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity | mPas | 20 - 200', 'label': [[12, 16, 'unit'], [19, 21, 'min'], [24, 27, 'max']]}",Viscosity
+"{'data': 'Density at 20 °C | approx. 1.1 | g/ml | DIN EN ISO 2811 - 2 <header> <Other data* Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Range of use: | POLURENE 60 T is recommended for the formulation of pigmented and clear sealers, matt and gloss topcoats. | POLURENE 60 T is recommended for the formulation of pigmented and clear sealers, matt and gloss topcoats.', 'label': []}",irrelevant
+"{'data': 'Appearance | White bluesh transparent product', 'label': [[13, 45, 'qualitative_value']]}",Color
+"{'data': 'Other data* Property Value Unit of measurement Method | Other data* Property Value Unit of measurement Method | Other data* Property Value Unit of measurement Method | Other data* Property Value Unit of measurement Method <header> <Other data* Property Value Unit of measurement Method> | <Other data* Property Value Unit of measurement Method> | <Other data* Property Value Unit of measurement Method> | <Other data* Property Value Unit of measurement Method> </header>', 'label': []}",header
+"{'data': 'Acrylic Copolymer Emulsion | 980 - 406 Date : 31.05.16 | 980 - 406 Date : 31.05.16 | 980 - 406 Date : 31.05.16', 'label': []}",irrelevant
+"{'data': 'Appearance | Clear, viscous liquid', 'label': []}",irrelevant
+"{'data': 'Viscosity, cPs | 100', 'label': []}",irrelevant
+"{'data': 'Property | Range | Unit | TM <header> <Property> | <Range> | <Unit> | <TM> </header>', 'label': []}",header
+"{'data': 'Wt./Gallon | 8.75 lbs ± .1', 'label': []}",irrelevant
+"{'data': 'PHYSICAL PROPERTIES | PHYSICAL PROPERTIES | TENSILE PROPERTIES <header> <PHYSICAL PROPERTIES> | <PHYSICAL PROPERTIES> | <TENSILE PROPERTIES> </header>', 'label': []}",irrelevant
+"{'data': 'pH, typical value | 8.0', 'label': [[20, 23, 'mean']]}",pH
+"{'data': 'Viscosity at 23 °C, ( D = approx. 40 s - 1 ) | 700 - 2,500 | mPa·s | DIN EN ISO 3219 /A.3 <header> <Property> | <Value> | <Unit of measurement> | <Method> </header>', 'label': []}",irrelevant
+"{'data': 'Density solvent free | g/cm 3 | 1.0 - 1.1 | ISO 2811 - 1 <header> <Specification:> | <> | <> | <According to:> </header>', 'label': []}",irrelevant
+"{'data': 'Solid | % | 41 + 1 <header> <Property> | <Unit> | <Value> </header>', 'label': [[8, 9, 'unit'], [12, 14, 'mean'], [17, 18, 'std']]}",Solid content
+"{'data': 'viscosity at 25 °C ( Brookfield ) | 250 mPa.s', 'label': []}",irrelevant
+"{'data': '*These values are provisional. Binding supply specifications will not be available until the final product data sheet is published.', 'label': []}",irrelevant
+"{'data': 'pH : | 7.5 - 8.5', 'label': [[7, 10, 'min'], [13, 16, 'max']]}",pH
+"{'data': 'Appearance ( 25 °C ) | Milky - white', 'label': []}",irrelevant
+"{'data': 'Product Specifications', 'label': []}",irrelevant
+"{'data': 'Viscosity | 80 - 160 | mPa.s | 012 J* | 3219 <header> <Property> | <Value> | <Units> | <Method STM ISO> | <Method STM ISO> </header>', 'label': []}",irrelevant
+"{'data': 'Type of VOC | N - Methyl Pyrrolidone <header> <Type Appearance> | <Aliphatic polyurethane Amber colored dispersion> </header>', 'label': []}",irrelevant

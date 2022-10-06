@@ -1,0 +1,362 @@
+text,label
+"{'data': 'TEGO FLOW 300 | 0.4 <header> <PART A:> | <wt> </header>', 'label': []}",irrelevant
+"{'data': 'moisture，≤ | % | 0.10 | 110 ℃, - 0.09 Mpa 1.5 h <header> <ITEM> | <UNIT> | <DS 201 > | <ASTM measurement> </header>', 'label': []}",irrelevant
+"{'data': 'Melting Point | ℃ | 156 ~ 165 | D 3418 <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': [[16, 17, 'unit'], [20, 23, 'min'], [26, 29, 'max'], [32, 38, 'method']]}",Melting point
+"{'data': '密度 Density | ASTM D 792 | g/cm 3 | 1.75 ~ 1.77 ( 1.76 ) | 1.75 ~ 1.77 ( 1.76 ) <header> <性质 PROPERITES> | <测试方法 TEST METHOD> | <单位 /UNIT> | <T - 1 > <粉末 /POWDER> | <T - 1 W> <粉末 /POWDER> </header>', 'label': []}",irrelevant
+"{'data': 'OH Value（ OH Value（mg KOH/g） | 56 ± 5', 'label': [[19, 27, 'unit'], [31, 33, 'mean'], [36, 37, 'std']]}",Hydroxyl value
+"{'data': 'Thermal Decomposition | TGA | 720 - 740 ºF ( 382 - 393 ºC ) 1 % Wt. Loss in Air <header> < 21 Typical Properties DG ( COATING ) > <Property> | < 21 Typical Properties DG ( COATING ) > <RMFI ASTM Method> | < 21 Typical Properties DG ( COATING ) > <Typical Values> </header>', 'label': []}",irrelevant
+"{'data': 'Melting Temperature | 156 to 160 °C | ASTM D 3418 <header> <Physical> | <Typical Value Unit> | <Test method> </header>', 'label': [[22, 25, 'min'], [29, 32, 'max'], [33, 35, 'unit'], [38, 49, 'method']]}",Melting point
+"{'data': 'Purity, ≥ | % | 99.5 | PVDF <header> <ITEM> | <UNIT> | <DS 201 > | <ASTM measurement> </header>', 'label': []}",irrelevant
+"{'data': 'Melting Index | g/ 10 min | 0.5 - 2.0 | D 1238 ， 230 ℃， 10 Kg <header> <ITEM> | <UNIT> | <DS 201 > | <ASTM measurement> </header>', 'label': [[16, 25, 'unit'], [28, 31, 'min'], [34, 37, 'max'], [40, 46, 'method'], [49, 61, 'measuring_condition']]}",Melting point
+"{'data': 'OH Value（mg KOH/g） | 58 ± 3', 'label': [[9, 17, 'unit'], [21, 23, 'mean'], [26, 27, 'std']]}",Hydroxyl value
+"{'data': 'Typical Physical Properties', 'label': []}",irrelevant
+"{'data': 'Solvent: ( Minerals Spirits ) | 85 %', 'label': []}",irrelevant
+"{'data': 'Décomposition thermique / Thermale decomposition ( 1 % Wt loos in air ) | TGA | °C | 382 – 393 <header> <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <Valeurs typiques / Typical Values> </header>', 'label': []}",irrelevant
+"{'data': 'Melting Point | ℃ | 156 ~ 165 | D 3418 <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': [[16, 17, 'unit'], [20, 23, 'min'], [26, 29, 'max'], [32, 38, 'method']]}",Melting point
+"{'data': 'Scattered fineness, ≤ | μm | 25 | Hegman fineness gauge <header> <ITEM> | <UNIT> | <DS 201 > | <ASTM measurement> </header>', 'label': []}",irrelevant
+"{'data': 'Hegman Grind | / | 5.5 min. | D 1210,B <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity ( Brookfield 30 s - 1 ) | 100', 'label': [[12, 31, 'measuring_condition'], [36, 39, 'mean']]}",Viscosity
+"{'data': '细度计 /Hegman | | | ≥ 5.5 | ≥ 5.5 <header> <性质 PROPERITES> | <测试方法 TEST METHOD> | <单位 /UNIT> | <T - 1 > <粉末 /POWDER> | <T - 1 W> <粉末 /POWDER> </header>', 'label': []}",irrelevant
+"{'data': 'Water Absorption | D 570 | 0.04 % <header> < 21 Typical Properties DG ( COATING ) > <Property> | < 21 Typical Properties DG ( COATING ) > <RMFI ASTM Method> | < 21 Typical Properties DG ( COATING ) > <Typical Values> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance | 1 | White powder | White powder | 1 <header> <Item> | <Unit> | <DS 2011 > | <DS 203 > | <Test Method/Standards> </header>', 'label': []}",irrelevant
+"{'data': 'Melt Viscosity | D 3835', 'label': [[0, 4, 'measuring_condition'], [17, 23, 'method']]}",Viscosity
+"{'data': 'Appearance | Milky White, Fluid Emulsion <header> <Property> | <Value> </header>', 'label': []}",irrelevant
+"{'data': '熔点/Melting Point | ASTM D 3418 | ℃ | 156 - 165 ( 158 ) <header> <性质/PROPERITES> | <测试方法 /TEST METHOD> | <单位 /UNIT> | <指标> </header>', 'label': [[19, 30, 'method'], [33, 34, 'unit'], [37, 40, 'min'], [43, 46, 'max']]}",Melting point
+"{'data': '% Solids ( by weight ) | 46 <header> <Property> | <Value> </header>', 'label': [[0, 1, 'unit'], [11, 20, 'measuring_condition'], [25, 27, 'mean']]}",Solid content
+"{'data': 'Color | < 1', 'label': []}",irrelevant
+"{'data': 'Additional Information | Typical Value Unit | Test method <header> <Optical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",header
+"{'data': '*Values are indicated only for reference, and are not guaranteed.', 'label': []}",irrelevant
+"{'data': 'Density / Specific Gravity 1 | 1.75 to 1.77 | ASTM D 792 <header> <Physical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': 'Melt Flow Index ( 230 °C, 21.6 Kg ) | ISO 1133 | g/ 10 min | 2.5 - 5.5 <header> <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <Typical Values> </header>', 'label': [[18, 33, 'measuring_condition'], [38, 46, 'method'], [49, 58, 'unit'], [61, 64, 'min'], [67, 70, 'max']]}",Melting point
+"{'data': 'ITEM | UNIT | SPECIFICATIONS <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': []}",header
+"{'data': 'Polymer Density at 23 °C | ISO R 1183 D | - | 1.76 <header> <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <Typical Values> </header>', 'label': []}",irrelevant
+"{'data': 'Mass solid | > 50', 'label': [[0, 4, 'measuring_condition'], [15, 17, 'min']]}",Solid content
+"{'data': 'Dispersion in Isophorone Hegman Grind | ASTM D 1210 | - | > 5.5 <header> <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <Typical Values> </header>', 'label': []}",irrelevant
+"{'data': 'Tg ( ℃ ) | 25 ~ 35', 'label': []}",irrelevant
+"{'data': 'Fill Analysis | Typical Value Unit | Test method <header> <Optical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",header
+"{'data': 'Odor | / | None | / <header> <PHYSICAL PROPERTIES> <Property> | <PHYSICAL PROPERTIES> <Unit> | <PHYSICAL PROPERTIES> <Typical Values> | <PHYSICAL PROPERTIES> <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Optical | Typical Value Unit | Test method <header> <Optical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",header
+"{'data': 'Viscosity ( 25 ℃/s ) | 100 ~ 200', 'label': [[23, 26, 'min'], [29, 32, 'max'], [12, 16, 'measuring_condition'], [17, 18, 'unit']]}",Viscosity
+"{'data': 'ITEM | UNIT | DS 201 | ASTM measurement <header> <ITEM> | <UNIT> | <DS 201 > | <ASTM measurement> </header>', 'label': []}",header
+"{'data': 'Wet Density ( g/mL ) | 1.147 <header> <Property> | <Value> </header>', 'label': []}",irrelevant
+"{'data': 'Technical index', 'label': []}",irrelevant
+"{'data': 'Relative density | 1 | 1.75 - 1.77 | 1.77 - 1.79 | GB/T 1033 <header> <Item> | <Unit> | <DS 2011 > | <DS 203 > | <Test Method/Standards> </header>', 'label': []}",irrelevant
+"{'data': 'COLOR ( GARDNER ) | < 1', 'label': []}",irrelevant
+"{'data': '熔指/MFI @ 230 ℃, 10 kg | ASTMD 1238 | g/ 10 min | 0.5 ~ 2 <header> <性质/PROPERITES> | <测试方法 /TEST METHOD> | <单位 /UNIT> | <指标> </header>', 'label': []}",irrelevant
+"{'data': '密度/Density | ASTM D 792 | g/cm³ | 1.75 - 1.77 ( 1.76 ) <header> <性质/PROPERITES> | <测试方法 /TEST METHOD> | <单位 /UNIT> | <指标> </header>', 'label': []}",irrelevant
+"{'data': 'Gloss 60 º | D 523 | 25 min. <header> < 21 Typical Properties DG ( COATING ) > <Property> | < 21 Typical Properties DG ( COATING ) > <RMFI ASTM Method> | < 21 Typical Properties DG ( COATING ) > <Typical Values> </header>', 'label': []}",irrelevant
+"{'data': '极限氧指数/LOI | ASTM D 2683 | % | 43 <header> <性质/PROPERITES> | <测试方法 /TEST METHOD> | <单位 /UNIT> | <指标> </header>', 'label': []}",irrelevant
+"{'data': 'Wet Density ( g/mL ) | 1.147', 'label': []}",irrelevant
+"{'data': 'Color | < 1 <header> <Appearance> | <Clear, no impurity> </header>', 'label': []}",irrelevant
+"{'data': 'Melt Flow Index | g/ 10 min 0 ~ 2.0 D 1238, 10 Kg', 'label': [[18, 27, 'unit'], [28, 29, 'min'], [32, 35, 'max'], [36, 42, 'method'], [44, 49, 'measuring_condition']]}",Melting point
+"{'data': 'Acrylic | 3 % - 5 %', 'label': []}",irrelevant
+"{'data': 'Appearance | / | White power | / <header> <ITEM> | <UNIT> | <DS 201 > | <ASTM measurement> </header>', 'label': []}",irrelevant
+"{'data': 'Solubility | / | Clear solution, no foreign matter | 30 ℃, 1 hr 1 g/ 10 ml NMP <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Thermal Decomposition | ℃ | 382 ~ 393 | TGA, 1 % wt. Loss, Air <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': '性质 PROPERITES | 测试方法 TEST METHOD | 单位 /UNIT | T - 1 | T - 1 W <header> <性质 PROPERITES> | <测试方法 TEST METHOD> | <单位 /UNIT> | <T - 1 > <粉末 /POWDER> | <T - 1 W> <粉末 /POWDER> </header>', 'label': []}",header
+"{'data': 'Specific Gravity | / | 2008 1.74 ~ 1.77 | D 792, @ 23 / 23 ℃ <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Moisture | % | 0.1 max. | Karl Fischer <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Resin Properties | Resin Properties', 'label': []}",irrelevant
+"{'data': 'BAc | 12.7 <header> <PART A:> | <wt> </header>', 'label': []}",irrelevant
+"{'data': 'Purity | % | 99.5 min. | PVDF <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Molecular | 20000 ~ 30000', 'label': []}",irrelevant
+"{'data': 'General Appearance | 33000 White, free flowing powder, free from foreign matter', 'label': []}",irrelevant
+"{'data': 'Appearance | Clear, no impurity <header> <Appearance> | <Clear, no impurity> </header>', 'label': []}",irrelevant
+"{'data': 'Moisture Content 3 | < 0.50 % | <header> <Physical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': 'Thermal | Typical Value Unit | Test method <header> <Physical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",header
+"{'data': 'pH | 8.2 <header> <Property> | <Value> </header>', 'label': []}",irrelevant
+"{'data': 'Acid value | mg KOH/g | 1.5 - 2.5 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': []}",irrelevant
+"{'data': '% VOC ( as supplied ) | < 1', 'label': []}",irrelevant
+"{'data': 'Thermal decomposition, | ℃ | 380 | 380 | GB/T 33047 <header> <Item> | <Unit> | <DS 2011 > | <DS 203 > | <Test Method/Standards> </header>', 'label': []}",irrelevant
+"{'data': 'BYK - 2155 ( BYK ) | 0.7 <header> <PART A:> | <wt> </header>', 'label': []}",irrelevant
+"{'data': 'Melting Point | ℃ | 156 ~ 165 | D 3418 <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': [[16, 17, 'unit'], [20, 23, 'min'], [26, 29, 'max'], [32, 38, 'method']]}",Melting point
+"{'data': 'Viscosité / Melt viscosity ( 230 °C, 100 s - 1 ) | ASTM D 3835 | Pa.s | 3100 <header> <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <Valeurs typiques / Typical Values> </header>', 'label': [[12, 16, 'measuring_condition'], [29, 46, 'measuring_condition'], [51, 62, 'method'], [65, 69, 'unit'], [72, 76, 'mean']]}",Viscosity
+"{'data': 'Thermal Decomposition | ℃ | 382 ~ 393 | TGA, 1 % Wt. Loss, Air <header> <PHYSICAL PROPERTIES> <Property> | <PHYSICAL PROPERTIES> <Unit> | <PHYSICAL PROPERTIES> <Typical Values> | <PHYSICAL PROPERTIES> <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Wool/Silk | 3 % - 5 %', 'label': []}",irrelevant
+"{'data': 'Purity | % | 99.5 min. | PVDF <header> <PHYSICAL PROPERTIES> <Property> | <PHYSICAL PROPERTIES> <Unit> | <PHYSICAL PROPERTIES> <Typical Values> | <PHYSICAL PROPERTIES> <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Acid value | 1.0 ~ 2.0 <header> <Appearance> | <Clear, no impurity> </header>', 'label': []}",irrelevant
+"{'data': 'Non - Volatile, % （ 150 ℃ 30 min） × | 50 ± 1', 'label': [[16, 17, 'unit'], [20, 32, 'measuring_condition'], [38, 40, 'mean'], [43, 44, 'std']]}",Solid content
+"{'data': '% VOC ( as supplied ) | < 1 <header> <Property> | <Value> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance Appearance | Clean liquid', 'label': []}",irrelevant
+"{'data': 'PHYSICAL PROPERTIES | PHYSICAL PROPERTIES | PHYSICAL PROPERTIES | PHYSICAL PROPERTIES <header> <PHYSICAL PROPERTIES> <Property> | <PHYSICAL PROPERTIES> <Unit> | <PHYSICAL PROPERTIES> <Typical Values> | <PHYSICAL PROPERTIES> <ASTM Method> </header>', 'label': []}",header
+"{'data': 'PHYSICAL PROPERTIES PHYSICAL PROPERTIES', 'label': []}",irrelevant
+"{'data': 'Hydroxyl value ( mgKOH/g ) | 22 ~ 28 <header> <Appearance> | <Clear, no impurity> </header>', 'label': [[17, 24, 'unit'], [29, 31, 'min'], [34, 36, 'max']]}",Hydroxyl value
+"{'data': 'Specific Gravity（ 25 ℃） | | 1.04 - 1.08 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': []}",irrelevant
+"{'data': 'General Appearance | / | White powder | / <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity ( Brookfield 30 s - 1 ) | 100 <header> <Property> | <Value> </header>', 'label': [[12, 31, 'measuring_condition'], [36, 39, 'mean']]}",Viscosity
+"{'data': 'Nature & Designation | ISO 12086 | - | PVDF - E, H 1 DN, O.5 E 8.F.D.D.C.0.1,, <header> <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <Typical Values> </header>', 'label': []}",irrelevant
+"{'data': 'Solubility | / | RMFI Clear solution, no foreign matter | 30 ℃, 1 hr 1 g/ 10 ml NMP <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': '平均颗粒大小 /Mean Particle Size | 激光粒度 /Laser sizer | um | < 12 | < 12 <header> <性质 PROPERITES> | <测试方法 TEST METHOD> | <单位 /UNIT> | <T - 1 > <粉末 /POWDER> | <T - 1 W> <粉末 /POWDER> </header>', 'label': []}",irrelevant
+"{'data': '* 1 Designed value', 'label': []}",irrelevant
+"{'data': 'Nylon | 3 % - 5 %', 'label': []}",irrelevant
+"{'data': 'Melting Point, min. | D 3418', 'label': [[22, 28, 'method']]}",Melting point
+"{'data': 'Odor | / | none | / <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'PMA | 11.2 <header> <PART A:> | <wt> </header>', 'label': []}",irrelevant
+"{'data': 'TYPICAL PROPERTIES | TYPICAL PROPERTIES', 'label': []}",irrelevant
+"{'data': 'Property | RMFI ASTM Method | Typical Values <header> < 21 Typical Properties DG ( COATING ) > <Property> | < 21 Typical Properties DG ( COATING ) > <RMFI ASTM Method> | < 21 Typical Properties DG ( COATING ) > <Typical Values> </header>', 'label': []}",header
+"{'data': 'Melt Viscosity 232 ºC ( 450 ºF ) @ 100 sec - 1 | Received D 3835 | 29000 - 33000 poise <header> < 21 Typical Properties DG ( COATING ) > <Property> | < 21 Typical Properties DG ( COATING ) > <RMFI ASTM Method> | < 21 Typical Properties DG ( COATING ) > <Typical Values> </header>', 'label': [[0, 4, 'measuring_condition'], [15, 32, 'measuring_condition'], [35, 46, 'measuring_condition'], [58, 64, 'method'], [67, 72, 'min'], [75, 80, 'max'], [81, 86, 'unit']]}",Viscosity
+"{'data': 'PFOA 含量 PFOA Content | GC | ppm | < 100 | 0 <header> <性质 PROPERITES> | <测试方法 TEST METHOD> | <单位 /UNIT> | <T - 1 > <粉末 /POWDER> | <T - 1 W> <粉末 /POWDER> </header>', 'label': []}",irrelevant
+"{'data': '1 % wt Loss ( TGA ) 2 | 382 to 393 °C | TGA <header> <Physical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': 'Specific Gravity | / | 1.74 ~ 1.77 | D 792, @ 23 / 23 ℃ <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Hegman Grind - Dispersion | 5.50 to 6.00 | ASTM D 1210 <header> <Optical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': 'Gloss ( 60 ° ) | > 25 | ASTM D 2457 <header> <Optical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': ' |', 'label': []}",irrelevant
+"{'data': 'Non - Volatile Volatile Volatile , % （ 150 ℃× 30 min） | 60 ± 1', 'label': [[35, 36, 'unit'], [39, 52, 'measuring_condition'], [56, 58, 'mean'], [61, 62, 'std']]}",Solid content
+"{'data': 'Melt Viscosity ( 232 °C, 100 sec^ - 1 ) | 2900 to 3300 Pa·s | ASTM D 3835 <header> <Optical> | <Typical Value Unit> | <Test method> </header>', 'label': [[0, 4, 'measuring_condition'], [17, 37, 'measuring_condition'], [42, 46, 'min'], [50, 54, 'max'], [55, 59, 'unit'], [62, 73, 'method']]}",Viscosity
+"{'data': 'Melt Flow Index | g/ 10 min | DEC 0 ~ 2.0 | D 1238 ， 230 ℃, 10 kg <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': [[18, 27, 'unit'], [34, 35, 'min'], [38, 41, 'max'], [44, 50, 'method'], [53, 65, 'measuring_condition']]}",Melting point
+"{'data': 'Decompose temperature ( C ) | 235 ~ 260 <header> <Appearance> | <Clear, no impurity> </header>', 'label': []}",irrelevant
+"{'data': 'Test method | ASTM D 2457', 'label': []}",irrelevant
+"{'data': 'R - 706 ( TiO 2 ) | 18.4 <header> <PART A:> | <wt> </header>', 'label': []}",irrelevant
+"{'data': 'Purity | % | 99.5 min. | PVDF <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Nature & Désignation | ISO 12086 | - | PVDF - E, H 1 DN, O.5 E 8.F.D.D.C.0.1,, <header> <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <Valeurs typiques / Typical Values> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity ( 25 ℃/s ) | 100 ~ 200 <header> <Appearance> | <Clear, no impurity> </header>', 'label': [[23, 26, 'min'], [29, 32, 'max'], [12, 16, 'measuring_condition'], [17, 18, 'unit']]}",Viscosity
+"{'data': 'Thermal Decomposition | ℃ 382 ~ 393 TGA, 1 % wt. Loss, Air / Clear solution, no 1 g/ 10 mL 30 ℃, 1 hr', 'label': []}",irrelevant
+"{'data': 'Moisture | Karl Fischer | 0.5 % max., non - hygroscopic <header> < 21 Typical Properties DG ( COATING ) > <Property> | < 21 Typical Properties DG ( COATING ) > <RMFI ASTM Method> | < 21 Typical Properties DG ( COATING ) > <Typical Values> </header>', 'label': []}",irrelevant
+"{'data': 'OH value ( mgKOH/g - polymer ) | 53 * 1', 'label': [[11, 18, 'unit'], [33, 39, 'unclear_value']]}",Hydroxyl value
+"{'data': 'Acid value ( mgKOH/g - polymer ) | * 1 5', 'label': []}",irrelevant
+"{'data': 'Odor | Mild/Neutral', 'label': []}",irrelevant
+"{'data': 'Melting point | | 156 - 165 | 165 - 175 | GB/T 28724 <header> <Item> | <Unit> | <DS 2011 > | <DS 203 > | <Test Method/Standards> </header>', 'label': [[18, 21, 'min'], [24, 27, 'max'], [30, 33, 'min'], [36, 39, 'max'], [42, 52, 'method']]}",Melting point
+"{'data': 'PART A: | wt <header> <PART A:> | <wt> </header>', 'label': []}",irrelevant
+"{'data': 'Tg ( ℃ ) | 25 ~ 35 <header> <Appearance> | <Clear, no impurity> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity , Viscosity, （gardener gardener gardener） | X～Z', 'label': [[24, 50, 'measuring_condition'], [54, 55, 'min'], [56, 57, 'max']]}",Viscosity
+"{'data': 'Water Absorption ( Equilibrium ) | 0.040 % | ASTM D 570 <header> <Physical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",irrelevant
+"{'data': 'Nonvolatile | % | 39.0 - 41.0 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[14, 15, 'unit'], [18, 22, 'min'], [25, 29, 'max']]}",Solid content
+"{'data': 'Fluoropolymer/Acrylic Resin Ratio | 50 : 50', 'label': []}",irrelevant
+"{'data': 'Appearance: | Light yellow, transparent solution', 'label': []}",irrelevant
+"{'data': 'Odor | Mild/Neutral <header> <Property> | <Value> </header>', 'label': []}",irrelevant
+"{'data': 'Hydroxyl value ( mgKOH/g ) | 22 ~ 28', 'label': [[17, 24, 'unit'], [29, 31, 'min'], [34, 36, 'max']]}",Hydroxyl value
+"{'data': 'Appearance | Clean liquid', 'label': []}",irrelevant
+"{'data': 'Solid Content: | 15 %', 'label': [[17, 19, 'mean'], [20, 21, 'unit']]}",Solid content
+"{'data': 'Hegman Grind | / | JS 5.5 min. | D 1210, B <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': '性质/PROPERITES | 测试方法 /TEST METHOD | 单位 /UNIT | 指标 <header> <性质/PROPERITES> | <测试方法 /TEST METHOD> | <单位 /UNIT> | <指标> </header>', 'label': []}",header
+"{'data': 'Présentation / Appearance Pureté / Purity | - | - | Poudre fine blanche /Fine, white powder 99.5 min PVDF <header> <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <Valeurs typiques / Typical Values> </header>', 'label': []}",irrelevant
+"{'data': 'Moisture | Received % | 0.1 max. | Karl Fischer <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'General Appearance | / | White powder | / <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Specific Gravity | / | 1.74 ~ 1.77 | D 792, @ 23 / 23 ℃ <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Solubility | / | Clear solution, no foreign matter | 30 ℃, 1 hr 1 g/ 10 ml NMP <header> <PHYSICAL PROPERTIES> <Property> | <PHYSICAL PROPERTIES> <Unit> | <PHYSICAL PROPERTIES> <Typical Values> | <PHYSICAL PROPERTIES> <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Volatile | 60 ± 1', 'label': []}",irrelevant
+"{'data': 'Fill Analysis | Melt Viscosity ( 232 °C, 100 sec^ - 1 )', 'label': [[16, 20, 'measuring_condition'], [33, 53, 'measuring_condition']]}",Viscosity
+"{'data': 'Appearance | | Transparency No Foreign Matters <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': []}",irrelevant
+"{'data': 'Property | Unit | Typical Values | ASTM Method <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",header
+"{'data': 'Appearance | Milky White,', 'label': []}",irrelevant
+"{'data': 'Melting Index | g/ 10 min | 0.5 - 2.0 | 5 - 15 ( 2.16 kg ) | GB/T 3682 <header> <Item> | <Unit> | <DS 2011 > | <DS 203 > | <Test Method/Standards> </header>', 'label': [[16, 25, 'unit'], [28, 31, 'min'], [34, 37, 'max'], [40, 41, 'min'], [44, 46, 'max'], [49, 56, 'measuring_condition'], [61, 70, 'method']]}",Melting point
+"{'data': 'Thermal decomposition ( 1 % mass loss in air ) | TGA | °C | > 380 <header> <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <Typical Values> </header>', 'label': []}",irrelevant
+"{'data': 'Melt viscosity ( 230 °C, 100 s - 1 ) | ASTM D 3835 | Pa.s | 2900 - 3300 <header> <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <Typical Values> </header>', 'label': [[0, 4, 'measuring_condition'], [17, 34, 'measuring_condition'], [39, 50, 'method'], [53, 57, 'unit'], [60, 64, 'min'], [67, 71, 'max']]}",Viscosity
+"{'data': 'Thermal Decomposition | ℃ | 5 382 ~ 393 | TGA, 1 % Wt. Loss, Air <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Solvent', 'label': []}",irrelevant
+"{'data': 'PROPRIETES GENERALES / GENERAL PROPERTIES | PROPRIETES GENERALES / GENERAL PROPERTIES | PROPRIETES GENERALES / GENERAL PROPERTIES | Valeurs typiques / Typical Values <header> <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <Valeurs typiques / Typical Values> </header>', 'label': []}",header
+"{'data': 'PFOA含量PFOA content | GC | ppm | 0 <header> <性质/PROPERITES> | <测试方法 /TEST METHOD> | <单位 /UNIT> | <指标> </header>', 'label': []}",irrelevant
+"{'data': 'Scattered fineness, ≤ | um | 25 | | GB/T 6753.1 - 2007 <header> <Item> | <Unit> | <DS 2011 > | <DS 203 > | <Test Method/Standards> </header>', 'label': []}",irrelevant
+"{'data': 'Humidité / Moisture | Karl Fischer | % | 0.5 max ( non hygroscopic ) <header> <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <Valeurs typiques / Typical Values> </header>', 'label': []}",irrelevant
+"{'data': '性质 PROPERITES | 测试方法 TEST METHOD | 单位 /UNIT | 粉末 /POWDER | 粉末 /POWDER <header> <性质 PROPERITES> | <测试方法 TEST METHOD> | <单位 /UNIT> | <T - 1 > <粉末 /POWDER> | <T - 1 W> <粉末 /POWDER> </header>', 'label': []}",header
+"{'data': '水含量 Water Absorption | ASTM D 570 | wt % | < 0.1 ( 0.03 ) | < 0.1 ( 0.03 ) <header> <性质 PROPERITES> | <测试方法 TEST METHOD> | <单位 /UNIT> | <T - 1 > <粉末 /POWDER> | <T - 1 W> <粉末 /POWDER> </header>', 'label': []}",irrelevant
+"{'data': 'Processing Method | • Coating |', 'label': []}",irrelevant
+"{'data': 'Specific Gravity | / | 1.74 ~ 1.77 | D 792, @ 23 / 23 ℃ <header> <PHYSICAL PROPERTIES> <Property> | <PHYSICAL PROPERTIES> <Unit> | <PHYSICAL PROPERTIES> <Typical Values> | <PHYSICAL PROPERTIES> <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Melt Flow Index | g/ 10 min | 0 ~ 2.0 | D 1238, 230 ℃, 10 Kg <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': [[18, 27, 'unit'], [30, 31, 'min'], [34, 37, 'max'], [40, 46, 'method'], [48, 60, 'measuring_condition']]}",Melting point
+"{'data': 'Melt Flow Index | g/ 10 min | 0 ~ 2.0 | D 1238 ， 230 ℃, 10 kg <header> <PHYSICAL PROPERTIES> <Property> | <PHYSICAL PROPERTIES> <Unit> | <PHYSICAL PROPERTIES> <Typical Values> | <PHYSICAL PROPERTIES> <ASTM Method> </header>', 'label': [[18, 27, 'unit'], [30, 31, 'min'], [34, 37, 'max'], [40, 46, 'method'], [49, 61, 'measuring_condition']]}",Melting point
+"{'data': 'Odor | / | None | / <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Dibutyl Tin Dilaurate ( 1 % ) | 0.1 <header> <PART A:> | <wt> </header>', 'label': []}",irrelevant
+"{'data': 'Fluoropolymer/Acrylic Resin Ratio | 50 : 50 <header> <Property> | <Value> </header>', 'label': []}",irrelevant
+"{'data': 'General Appearance | / | White powder | / <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Color No. ( Gardner ) | | 2 max. <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': []}",irrelevant
+"{'data': 'GENERAL PROPERTIES | GENERAL PROPERTIES | GENERAL PROPERTIES | Typical Values <header> <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <Typical Values> </header>', 'label': []}",header
+"{'data': 'BYK - 141 ( BYK ) | 0.3 <header> <PART A:> | <wt> </header>', 'label': []}",irrelevant
+"{'data': 'Melting Point | ℃ | 156 ~ 165 | D 3418 <header> <PHYSICAL PROPERTIES> <Property> | <PHYSICAL PROPERTIES> <Unit> | <PHYSICAL PROPERTIES> <Typical Values> | <PHYSICAL PROPERTIES> <ASTM Method> </header>', 'label': [[16, 17, 'measuring_condition'], [20, 23, 'min'], [26, 29, 'max'], [32, 38, 'method']]}",Melting point
+"{'data': '熔点 /Melting Point | ASTM D 3418 | | 156 ~ 165 ( 158 ) | 156 ~ 165 ( 158 ) <header> <性质 PROPERITES> | <测试方法 TEST METHOD> | <单位 /UNIT> | <T - 1 > <粉末 /POWDER> | <T - 1 W> <粉末 /POWDER> </header>', 'label': [[20, 31, 'method'], [36, 39, 'min'], [42, 45, 'max'], [56, 59, 'min'], [62, 65, 'max']]}",Melting point
+"{'data': 'Melting Point, min. | D 3418 | 156 - 160 ºC <header> < 21 Typical Properties DG ( COATING ) > <Property> | < 21 Typical Properties DG ( COATING ) > <RMFI ASTM Method> | < 21 Typical Properties DG ( COATING ) > <Typical Values> </header>', 'label': [[22, 28, 'method'], [31, 34, 'min'], [37, 40, 'max'], [41, 43, 'unit']]}",Melting point
+"{'data': 'Aromatic hydrocarbons | Cyclohexanone', 'label': []}",irrelevant
+"{'data': 'OH value | mg KOH/g | 18 - 24 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[11, 19, 'unit'], [22, 24, 'min'], [27, 29, 'max']]}",Hydroxyl value
+"{'data': 'Appearance | Clear, no impurity', 'label': []}",irrelevant
+"{'data': 'Property | Unit | Typical Values | ASTM Method <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",header
+"{'data': 'Property | Unit | Typical Values | ASTM Method <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",header
+"{'data': 'General | General | General', 'label': []}",irrelevant
+"{'data': 'MFFT ( °C ) | 12 <header> <Property> | <Value> </header>', 'label': []}",irrelevant
+"{'data': 'Varnish Properties', 'label': []}",irrelevant
+"{'data': 'Viscosity ( Stokes ) ( at 25 ºC ) ( cm 2 /s ) | 4', 'label': [[23, 31, 'measuring_condition'], [36, 43, 'measuring_condition'], [48, 49, 'mean'], [12, 18, 'measuring_condition']]}",Viscosity
+"{'data': 'Hegman Grind ( Dispersion ) | D 1210 | 5.5 B <header> < 21 Typical Properties DG ( COATING ) > <Property> | < 21 Typical Properties DG ( COATING ) > <RMFI ASTM Method> | < 21 Typical Properties DG ( COATING ) > <Typical Values> </header>', 'label': []}",irrelevant
+"{'data': 'Optical | Gloss ( 60 ° )', 'label': []}",irrelevant
+"{'data': 'Molecular | 20000 ~ 30000 <header> <Appearance> | <Clear, no impurity> </header>', 'label': []}",irrelevant
+"{'data': 'Hegman Grind | / | 5.5 min. | D 1210, B <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Purity | | 99.5 % min., polyvinylidene fluoride <header> < 21 Typical Properties DG ( COATING ) > <Property> | < 21 Typical Properties DG ( COATING ) > <RMFI ASTM Method> | < 21 Typical Properties DG ( COATING ) > <Typical Values> </header>', 'label': []}",irrelevant
+"{'data': 'Residual Moisture | Karl Fischer | % | 0.5 max （non hygroscopic） <header> <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <Typical Values> </header>', 'label': []}",irrelevant
+"{'data': 'Material Status | • Commercial: Active |', 'label': []}",irrelevant
+"{'data': 'Thermal Decomposition | ℃ | 382 ~ 393 | TGA, 1 % Wt. Loss, Air <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': '平均颗粒大小/Mean Particle Size | 激光粒度 /Laser sizer | um | < 12 <header> <性质/PROPERITES> | <测试方法 /TEST METHOD> | <单位 /UNIT> | <指标> </header>', 'label': []}",irrelevant
+"{'data': 'Viscosity ( Stokes ) ( at 25 ℃ ) | cm 2 /s | 2.4 - 4.8 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[12, 18, 'measuring_condition'], [23, 30, 'measuring_condition'], [35, 42, 'measuring_condition'], [45, 48, 'min'], [51, 54, 'max']]}",Viscosity
+"{'data': '极限氧指数 /LO | ASTM D 2683 | % | 43 | 43 <header> <性质 PROPERITES> | <测试方法 TEST METHOD> | <单位 /UNIT> | <T - 1 > <粉末 /POWDER> | <T - 1 W> <粉末 /POWDER> </header>', 'label': []}",irrelevant
+"{'data': 'Specific Gravity | D 792 | 1.75 - 1.76 ( @ 23 / 23 ºC ) <header> < 21 Typical Properties DG ( COATING ) > <Property> | < 21 Typical Properties DG ( COATING ) > <RMFI ASTM Method> | < 21 Typical Properties DG ( COATING ) > <Typical Values> </header>', 'label': []}",irrelevant
+"{'data': 'Appearance / Purity | | | Fine, white powder （ 99.5 min PVDF） <header> <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <Typical Values> </header>', 'label': []}",irrelevant
+"{'data': 'Availability | • Europe | • North America', 'label': []}",irrelevant
+"{'data': 'moisture, ≤ | % | 0.10 | 0.10 | GB/T 6284 <header> <Item> | <Unit> | <DS 2011 > | <DS 203 > | <Test Method/Standards> </header>', 'label': []}",irrelevant
+"{'data': 'Moisture | % | 0.1 max. | Karl Fischer <header> <PHYSICAL PROPERTIES> <Property> | <PHYSICAL PROPERTIES> <Unit> | <PHYSICAL PROPERTIES> <Typical Values> | <PHYSICAL PROPERTIES> <ASTM Method> </header>', 'label': []}",irrelevant
+"{'data': 'Typical properties', 'label': []}",irrelevant
+"{'data': '嫁指 /MFI @ 230 ℃, 10 kg | ASTM D 1238 | g/ 10 min | 0.5 ~ 2 | 0.5 ~ 2 <header> <性质 PROPERITES> | <测试方法 TEST METHOD> | <单位 /UNIT> | <T - 1 > <粉末 /POWDER> | <T - 1 W> <粉末 /POWDER> </header>', 'label': []}",irrelevant
+"{'data': 'Odor | / | Without | / <header> <ITEM> | <UNIT> | <DS 201 > | <ASTM measurement> </header>', 'label': []}",irrelevant
+"{'data': 'Nonvolatile ( % ) | 40', 'label': [[14, 15, 'unit'], [20, 22, 'mean']]}",Solid content
+"{'data': 'MFFT ( °C ) | 12', 'label': []}",irrelevant
+"{'data': 'gardener） | gardener X～Z', 'label': [[12, 20, 'measuring_condition'], [21, 22, 'min'], [23, 24, 'max']]}",Viscosity
+"{'data': 'OH value | mg KOH/g | 18 - 24 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[11, 19, 'unit'], [22, 24, 'min'], [27, 29, 'max']]}",Hydroxyl value
+"{'data': 'OH value ( mgKOH/g - polymer ) | 53 * 1', 'label': [[11, 18, 'unit'], [33, 39, 'unclear_value']]}",Hydroxyl value
+"{'data': 'Hydroxyl value ( mgKOH/g ) | 22 ~ 28', 'label': [[17, 24, 'unit'], [29, 31, 'min'], [34, 36, 'max']]}",Hydroxyl value
+"{'data': 'OH Value（ OH Value（mg KOH/g） | 56 ± 5', 'label': [[19, 27, 'unit'], [31, 33, 'mean'], [36, 37, 'std']]}",Hydroxyl value
+"{'data': 'OH Value（mg KOH/g） | 58 ± 3', 'label': [[9, 17, 'unit'], [21, 23, 'mean'], [26, 27, 'std']]}",Hydroxyl value
+"{'data': 'OH value ( mgKOH/g - polymer ) | 53 * 1', 'label': [[11, 18, 'unit'], [33, 39, 'unclear_value']]}",Hydroxyl value
+"{'data': 'OH value | mg KOH/g | 18 - 24 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[11, 19, 'unit'], [22, 24, 'min'], [27, 29, 'max']]}",Hydroxyl value
+"{'data': 'OH Value（ OH Value（mg KOH/g） | 56 ± 5', 'label': [[19, 27, 'unit'], [31, 33, 'mean'], [36, 37, 'std']]}",Hydroxyl value
+"{'data': 'OH Value（ OH Value（mg KOH/g） | 56 ± 5', 'label': [[19, 27, 'unit'], [31, 33, 'mean'], [36, 37, 'std']]}",Hydroxyl value
+"{'data': 'OH Value（mg KOH/g） | 58 ± 3', 'label': [[9, 17, 'unit'], [21, 23, 'mean'], [26, 27, 'std']]}",Hydroxyl value
+"{'data': 'Hydroxyl value ( mgKOH/g ) | 22 ~ 28', 'label': [[17, 24, 'unit'], [29, 31, 'min'], [34, 36, 'max']]}",Hydroxyl value
+"{'data': 'OH value | mg KOH/g | 18 - 24 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[11, 19, 'unit'], [22, 24, 'min'], [27, 29, 'max']]}",Hydroxyl value
+"{'data': 'Hydroxyl value ( mgKOH/g ) | 22 ~ 28', 'label': [[17, 24, 'unit'], [29, 31, 'min'], [34, 36, 'max']]}",Hydroxyl value
+"{'data': 'OH Value（mg KOH/g） | 58 ± 3', 'label': [[9, 17, 'unit'], [21, 23, 'mean'], [26, 27, 'std']]}",Hydroxyl value
+"{'data': 'Hydroxyl value ( mgKOH/g ) | 22 ~ 28 <header> <Appearance> | <Clear, no impurity> </header>', 'label': [[17, 24, 'unit'], [29, 31, 'min'], [34, 36, 'max']]}",Hydroxyl value
+"{'data': 'Hydroxyl value ( mgKOH/g ) | 22 ~ 28', 'label': [[17, 24, 'unit'], [29, 31, 'min'], [34, 36, 'max']]}",Hydroxyl value
+"{'data': 'OH value | mg KOH/g | 18 - 24 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[11, 19, 'unit'], [22, 24, 'min'], [27, 29, 'max']]}",Hydroxyl value
+"{'data': 'Hydroxyl value ( mgKOH/g ) | 22 ~ 28 <header> <Appearance> | <Clear, no impurity> </header>', 'label': [[17, 24, 'unit'], [29, 31, 'min'], [34, 36, 'max']]}",Hydroxyl value
+"{'data': 'Hydroxyl value ( mgKOH/g ) | 22 ~ 28', 'label': [[17, 24, 'unit'], [29, 31, 'min'], [34, 36, 'max']]}",Hydroxyl value
+"{'data': 'OH value ( mgKOH/g - polymer ) | 53 * 1', 'label': [[11, 18, 'unit'], [33, 39, 'unclear_value']]}",Hydroxyl value
+"{'data': 'Hydroxyl value ( mgKOH/g ) | 22 ~ 28', 'label': [[17, 24, 'unit'], [29, 31, 'min'], [34, 36, 'max']]}",Hydroxyl value
+"{'data': 'Hydroxyl value ( mgKOH/g ) | 22 ~ 28 <header> <Appearance> | <Clear, no impurity> </header>', 'label': [[17, 24, 'unit'], [29, 31, 'min'], [34, 36, 'max']]}",Hydroxyl value
+"{'data': 'Hydroxyl value ( mgKOH/g ) | 22 ~ 28', 'label': [[17, 24, 'unit'], [29, 31, 'min'], [34, 36, 'max']]}",Hydroxyl value
+"{'data': 'OH value | mg KOH/g | 18 - 24 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[11, 19, 'unit'], [22, 24, 'min'], [27, 29, 'max']]}",Hydroxyl value
+"{'data': 'Hydroxyl value ( mgKOH/g ) | 22 ~ 28 <header> <Appearance> | <Clear, no impurity> </header>', 'label': [[17, 24, 'unit'], [29, 31, 'min'], [34, 36, 'max']]}",Hydroxyl value
+"{'data': 'Hydroxyl value ( mgKOH/g ) | 22 ~ 28', 'label': [[17, 24, 'unit'], [29, 31, 'min'], [34, 36, 'max']]}",Hydroxyl value
+"{'data': 'OH Value（mg KOH/g） | 58 ± 3', 'label': [[9, 17, 'unit'], [21, 23, 'mean'], [26, 27, 'std']]}",Hydroxyl value
+"{'data': 'OH Value（mg KOH/g） | 58 ± 3', 'label': [[9, 17, 'unit'], [21, 23, 'mean'], [26, 27, 'std']]}",Hydroxyl value
+"{'data': 'OH Value（ OH Value（mg KOH/g） | 56 ± 5', 'label': [[19, 27, 'unit'], [31, 33, 'mean'], [36, 37, 'std']]}",Hydroxyl value
+"{'data': 'OH value | mg KOH/g | 18 - 24 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[11, 19, 'unit'], [22, 24, 'min'], [27, 29, 'max']]}",Hydroxyl value
+"{'data': 'OH Value（mg KOH/g） | 58 ± 3', 'label': [[9, 17, 'unit'], [21, 23, 'mean'], [26, 27, 'std']]}",Hydroxyl value
+"{'data': 'OH Value（mg KOH/g） | 58 ± 3', 'label': [[9, 17, 'unit'], [21, 23, 'mean'], [26, 27, 'std']]}",Hydroxyl value
+"{'data': 'OH value | mg KOH/g | 18 - 24 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[11, 19, 'unit'], [22, 24, 'min'], [27, 29, 'max']]}",Hydroxyl value
+"{'data': 'OH Value（mg KOH/g） | 58 ± 3', 'label': [[9, 17, 'unit'], [21, 23, 'mean'], [26, 27, 'std']]}",Hydroxyl value
+"{'data': 'OH Value（mg KOH/g） | 58 ± 3', 'label': [[9, 17, 'unit'], [21, 23, 'mean'], [26, 27, 'std']]}",Hydroxyl value
+"{'data': 'OH Value（ OH Value（mg KOH/g） | 56 ± 5', 'label': [[19, 27, 'unit'], [31, 33, 'mean'], [36, 37, 'std']]}",Hydroxyl value
+"{'data': 'Hydroxyl value ( mgKOH/g ) | 22 ~ 28', 'label': [[17, 24, 'unit'], [29, 31, 'min'], [34, 36, 'max']]}",Hydroxyl value
+"{'data': 'OH Value（mg KOH/g） | 58 ± 3', 'label': [[9, 17, 'unit'], [21, 23, 'mean'], [26, 27, 'std']]}",Hydroxyl value
+"{'data': 'OH Value（ OH Value（mg KOH/g） | 56 ± 5', 'label': [[19, 27, 'unit'], [31, 33, 'mean'], [36, 37, 'std']]}",Hydroxyl value
+"{'data': 'Melt Flow Index | g/ 10 min | 0 ~ 2.0 | D 1238 ， 230 ℃, 10 kg <header> <PHYSICAL PROPERTIES> <Property> | <PHYSICAL PROPERTIES> <Unit> | <PHYSICAL PROPERTIES> <Typical Values> | <PHYSICAL PROPERTIES> <ASTM Method> </header>', 'label': [[18, 27, 'unit'], [30, 31, 'min'], [34, 37, 'max'], [40, 46, 'method'], [49, 61, 'measuring_condition']]}",Melting point
+"{'data': '熔点 /Melting Point | ASTM D 3418 | | 156 ~ 165 ( 158 ) | 156 ~ 165 ( 158 ) <header> <性质 PROPERITES> | <测试方法 TEST METHOD> | <单位 /UNIT> | <T - 1 > <粉末 /POWDER> | <T - 1 W> <粉末 /POWDER> </header>', 'label': [[20, 31, 'method'], [36, 39, 'min'], [42, 45, 'max'], [56, 59, 'min'], [62, 65, 'max']]}",Melting point
+"{'data': 'Melting point | | 156 - 165 | 165 - 175 | GB/T 28724 <header> <Item> | <Unit> | <DS 2011 > | <DS 203 > | <Test Method/Standards> </header>', 'label': [[18, 21, 'min'], [24, 27, 'max'], [30, 33, 'min'], [36, 39, 'max'], [42, 52, 'method']]}",Melting point
+"{'data': 'Melting Point, min. | D 3418', 'label': [[22, 28, 'method']]}",Melting point
+"{'data': 'Melting Point | ℃ | 156 ~ 165 | D 3418 <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': [[16, 17, 'unit'], [20, 23, 'min'], [26, 29, 'max'], [32, 38, 'method']]}",Melting point
+"{'data': 'Melting Point | ℃ | 156 ~ 165 | D 3418 <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': [[16, 17, 'unit'], [20, 23, 'min'], [26, 29, 'max'], [32, 38, 'method']]}",Melting point
+"{'data': 'Melt Flow Index | g/ 10 min 0 ~ 2.0 D 1238, 10 Kg', 'label': [[18, 27, 'unit'], [28, 29, 'min'], [32, 35, 'max'], [36, 42, 'method'], [44, 49, 'measuring_condition']]}",Melting point
+"{'data': 'Melting Point | ℃ | 156 ~ 165 | D 3418 <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': [[16, 17, 'unit'], [20, 23, 'min'], [26, 29, 'max'], [32, 38, 'method']]}",Melting point
+"{'data': '熔点/Melting Point | ASTM D 3418 | ℃ | 156 - 165 ( 158 ) <header> <性质/PROPERITES> | <测试方法 /TEST METHOD> | <单位 /UNIT> | <指标> </header>', 'label': [[19, 30, 'method'], [33, 34, 'unit'], [37, 40, 'min'], [43, 46, 'max']]}",Melting point
+"{'data': 'Melting Index | g/ 10 min | 0.5 - 2.0 | 5 - 15 ( 2.16 kg ) | GB/T 3682 <header> <Item> | <Unit> | <DS 2011 > | <DS 203 > | <Test Method/Standards> </header>', 'label': [[16, 25, 'unit'], [28, 31, 'min'], [34, 37, 'max'], [40, 41, 'min'], [44, 46, 'max'], [49, 56, 'measuring_condition'], [61, 70, 'method']]}",Melting point
+"{'data': 'Melt Flow Index | g/ 10 min | 0 ~ 2.0 | D 1238, 230 ℃, 10 Kg <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': [[18, 27, 'unit'], [30, 31, 'min'], [34, 37, 'max'], [40, 46, 'method'], [48, 60, 'measuring_condition']]}",Melting point
+"{'data': 'Melting Point, min. | D 3418 | 156 - 160 ºC <header> < 21 Typical Properties DG ( COATING ) > <Property> | < 21 Typical Properties DG ( COATING ) > <RMFI ASTM Method> | < 21 Typical Properties DG ( COATING ) > <Typical Values> </header>', 'label': [[22, 28, 'method'], [31, 34, 'min'], [37, 40, 'max'], [41, 43, 'unit']]}",Melting point
+"{'data': 'Melt Flow Index | g/ 10 min | 0 ~ 2.0 | D 1238 ， 230 ℃, 10 kg <header> <PHYSICAL PROPERTIES> <Property> | <PHYSICAL PROPERTIES> <Unit> | <PHYSICAL PROPERTIES> <Typical Values> | <PHYSICAL PROPERTIES> <ASTM Method> </header>', 'label': [[18, 27, 'unit'], [30, 31, 'min'], [34, 37, 'max'], [40, 46, 'method'], [49, 61, 'measuring_condition']]}",Melting point
+"{'data': 'Melt Flow Index | g/ 10 min | DEC 0 ~ 2.0 | D 1238 ， 230 ℃, 10 kg <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': [[18, 27, 'unit'], [34, 35, 'min'], [38, 41, 'max'], [44, 50, 'method'], [53, 65, 'measuring_condition']]}",Melting point
+"{'data': '熔点 /Melting Point | ASTM D 3418 | | 156 ~ 165 ( 158 ) | 156 ~ 165 ( 158 ) <header> <性质 PROPERITES> | <测试方法 TEST METHOD> | <单位 /UNIT> | <T - 1 > <粉末 /POWDER> | <T - 1 W> <粉末 /POWDER> </header>', 'label': [[20, 31, 'method'], [36, 39, 'min'], [42, 45, 'max'], [56, 59, 'min'], [62, 65, 'max']]}",Melting point
+"{'data': 'Melting Point | ℃ | 156 ~ 165 | D 3418 <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': [[16, 17, 'unit'], [20, 23, 'min'], [26, 29, 'max'], [32, 38, 'method']]}",Melting point
+"{'data': '熔点/Melting Point | ASTM D 3418 | ℃ | 156 - 165 ( 158 ) <header> <性质/PROPERITES> | <测试方法 /TEST METHOD> | <单位 /UNIT> | <指标> </header>', 'label': [[19, 30, 'method'], [33, 34, 'unit'], [37, 40, 'min'], [43, 46, 'max']]}",Melting point
+"{'data': '熔点 /Melting Point | ASTM D 3418 | | 156 ~ 165 ( 158 ) | 156 ~ 165 ( 158 ) <header> <性质 PROPERITES> | <测试方法 TEST METHOD> | <单位 /UNIT> | <T - 1 > <粉末 /POWDER> | <T - 1 W> <粉末 /POWDER> </header>', 'label': [[20, 31, 'method'], [36, 39, 'min'], [42, 45, 'max'], [56, 59, 'min'], [62, 65, 'max']]}",Melting point
+"{'data': 'Melting Index | g/ 10 min | 0.5 - 2.0 | D 1238 ， 230 ℃， 10 Kg <header> <ITEM> | <UNIT> | <DS 201 > | <ASTM measurement> </header>', 'label': [[16, 25, 'unit'], [28, 31, 'min'], [34, 37, 'max'], [40, 46, 'method'], [49, 61, 'measuring_condition']]}",Melting point
+"{'data': 'Melting Point | ℃ | 156 ~ 165 | D 3418 <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': [[16, 17, 'unit'], [20, 23, 'min'], [26, 29, 'max'], [32, 38, 'method']]}",Melting point
+"{'data': 'Melting Point, min. | D 3418', 'label': [[22, 28, 'method']]}",Melting point
+"{'data': 'Melt Flow Index | g/ 10 min | DEC 0 ~ 2.0 | D 1238 ， 230 ℃, 10 kg <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': [[18, 27, 'unit'], [34, 35, 'min'], [38, 41, 'max'], [44, 50, 'method'], [53, 65, 'measuring_condition']]}",Melting point
+"{'data': 'Melting Point | ℃ | 156 ~ 165 | D 3418 <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': [[16, 17, 'unit'], [20, 23, 'min'], [26, 29, 'max'], [32, 38, 'method']]}",Melting point
+"{'data': 'Melting Point | ℃ | 156 ~ 165 | D 3418 <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': [[16, 17, 'unit'], [20, 23, 'min'], [26, 29, 'max'], [32, 38, 'method']]}",Melting point
+"{'data': '熔点/Melting Point | ASTM D 3418 | ℃ | 156 - 165 ( 158 ) <header> <性质/PROPERITES> | <测试方法 /TEST METHOD> | <单位 /UNIT> | <指标> </header>', 'label': [[19, 30, 'method'], [33, 34, 'unit'], [37, 40, 'min'], [43, 46, 'max']]}",Melting point
+"{'data': 'Melt Flow Index ( 230 °C, 21.6 Kg ) | ISO 1133 | g/ 10 min | 2.5 - 5.5 <header> <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <Typical Values> </header>', 'label': [[18, 33, 'measuring_condition'], [38, 46, 'method'], [49, 58, 'unit'], [61, 64, 'min'], [67, 70, 'max']]}",Melting point
+"{'data': 'Melt Flow Index | g/ 10 min 0 ~ 2.0 D 1238, 10 Kg', 'label': [[18, 27, 'unit'], [28, 29, 'min'], [32, 35, 'max'], [36, 42, 'method'], [44, 49, 'measuring_condition']]}",Melting point
+"{'data': 'Melting Point, min. | D 3418', 'label': [[22, 28, 'method']]}",Melting point
+"{'data': '% Solids ( by weight ) | 46 <header> <Property> | <Value> </header>', 'label': [[0, 1, 'unit'], [11, 20, 'measuring_condition'], [25, 27, 'mean']]}",Solid content
+"{'data': 'Non - Volatile, % （ 150 ℃ 30 min） × | 50 ± 1', 'label': [[16, 17, 'unit'], [20, 32, 'measuring_condition'], [38, 40, 'mean'], [43, 44, 'std']]}",Solid content
+"{'data': 'Non - Volatile, % （ 150 ℃ 30 min） × | 50 ± 1', 'label': [[16, 17, 'unit'], [20, 32, 'measuring_condition'], [38, 40, 'mean'], [43, 44, 'std']]}",Solid content
+"{'data': 'Mass solid | > 50', 'label': [[0, 4, 'measuring_condition'], [15, 17, 'min']]}",Solid content
+"{'data': 'Non - Volatile Volatile Volatile , % （ 150 ℃× 30 min） | 60 ± 1', 'label': [[35, 36, 'unit'], [39, 52, 'measuring_condition'], [56, 58, 'mean'], [61, 62, 'std']]}",Solid content
+"{'data': 'Nonvolatile | % | 39.0 - 41.0 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[14, 15, 'unit'], [18, 22, 'min'], [25, 29, 'max']]}",Solid content
+"{'data': 'Non - Volatile, % （ 150 ℃ 30 min） × | 50 ± 1', 'label': [[16, 17, 'unit'], [20, 32, 'measuring_condition'], [38, 40, 'mean'], [43, 44, 'std']]}",Solid content
+"{'data': 'Nonvolatile ( % ) | 40', 'label': [[14, 15, 'unit'], [20, 22, 'mean']]}",Solid content
+"{'data': 'Nonvolatile ( % ) | 40', 'label': [[14, 15, 'unit'], [20, 22, 'mean']]}",Solid content
+"{'data': '% Solids ( by weight ) | 46 <header> <Property> | <Value> </header>', 'label': [[0, 1, 'unit'], [11, 20, 'measuring_condition'], [25, 27, 'mean']]}",Solid content
+"{'data': '% Solids ( by weight ) | 46 <header> <Property> | <Value> </header>', 'label': [[0, 1, 'unit'], [11, 20, 'measuring_condition'], [25, 27, 'mean']]}",Solid content
+"{'data': 'Mass solid | > 50', 'label': [[0, 4, 'measuring_condition'], [15, 17, 'min']]}",Solid content
+"{'data': 'Mass solid | > 50', 'label': [[0, 4, 'measuring_condition'], [15, 17, 'min']]}",Solid content
+"{'data': 'Solid Content: | 15 %', 'label': [[17, 19, 'mean'], [20, 21, 'unit']]}",Solid content
+"{'data': 'Non - Volatile Volatile Volatile , % （ 150 ℃× 30 min） | 60 ± 1', 'label': [[35, 36, 'unit'], [39, 52, 'measuring_condition'], [56, 58, 'mean'], [61, 62, 'std']]}",Solid content
+"{'data': '% Solids ( by weight ) | 46 <header> <Property> | <Value> </header>', 'label': [[0, 1, 'unit'], [11, 20, 'measuring_condition'], [25, 27, 'mean']]}",Solid content
+"{'data': '% Solids ( by weight ) | 46 <header> <Property> | <Value> </header>', 'label': [[0, 1, 'unit'], [11, 20, 'measuring_condition'], [25, 27, 'mean']]}",Solid content
+"{'data': 'Solid Content: | 15 %', 'label': [[17, 19, 'mean'], [20, 21, 'unit']]}",Solid content
+"{'data': 'Solid Content: | 15 %', 'label': [[17, 19, 'mean'], [20, 21, 'unit']]}",Solid content
+"{'data': 'Nonvolatile ( % ) | 40', 'label': [[14, 15, 'unit'], [20, 22, 'mean']]}",Solid content
+"{'data': 'Nonvolatile | % | 39.0 - 41.0 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[14, 15, 'unit'], [18, 22, 'min'], [25, 29, 'max']]}",Solid content
+"{'data': 'Solid Content: | 15 %', 'label': [[17, 19, 'mean'], [20, 21, 'unit']]}",Solid content
+"{'data': 'Nonvolatile ( % ) | 40', 'label': [[14, 15, 'unit'], [20, 22, 'mean']]}",Solid content
+"{'data': 'Non - Volatile, % （ 150 ℃ 30 min） × | 50 ± 1', 'label': [[16, 17, 'unit'], [20, 32, 'measuring_condition'], [38, 40, 'mean'], [43, 44, 'std']]}",Solid content
+"{'data': 'Nonvolatile | % | 39.0 - 41.0 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[14, 15, 'unit'], [18, 22, 'min'], [25, 29, 'max']]}",Solid content
+"{'data': 'Non - Volatile Volatile Volatile , % （ 150 ℃× 30 min） | 60 ± 1', 'label': [[35, 36, 'unit'], [39, 52, 'measuring_condition'], [56, 58, 'mean'], [61, 62, 'std']]}",Solid content
+"{'data': 'Solid Content: | 15 %', 'label': [[17, 19, 'mean'], [20, 21, 'unit']]}",Solid content
+"{'data': 'Non - Volatile Volatile Volatile , % （ 150 ℃× 30 min） | 60 ± 1', 'label': [[35, 36, 'unit'], [39, 52, 'measuring_condition'], [56, 58, 'mean'], [61, 62, 'std']]}",Solid content
+"{'data': 'Solid Content: | 15 %', 'label': [[17, 19, 'mean'], [20, 21, 'unit']]}",Solid content
+"{'data': '% Solids ( by weight ) | 46 <header> <Property> | <Value> </header>', 'label': [[0, 1, 'unit'], [11, 20, 'measuring_condition'], [25, 27, 'mean']]}",Solid content
+"{'data': 'Non - Volatile Volatile Volatile , % （ 150 ℃× 30 min） | 60 ± 1', 'label': [[35, 36, 'unit'], [39, 52, 'measuring_condition'], [56, 58, 'mean'], [61, 62, 'std']]}",Solid content
+"{'data': 'Nonvolatile | % | 39.0 - 41.0 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[14, 15, 'unit'], [18, 22, 'min'], [25, 29, 'max']]}",Solid content
+"{'data': 'Non - Volatile Volatile Volatile , % （ 150 ℃× 30 min） | 60 ± 1', 'label': [[35, 36, 'unit'], [39, 52, 'measuring_condition'], [56, 58, 'mean'], [61, 62, 'std']]}",Solid content
+"{'data': 'Nonvolatile | % | 39.0 - 41.0 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[14, 15, 'unit'], [18, 22, 'min'], [25, 29, 'max']]}",Solid content
+"{'data': 'Nonvolatile ( % ) | 40', 'label': [[14, 15, 'unit'], [20, 22, 'mean']]}",Solid content
+"{'data': 'Nonvolatile | % | 39.0 - 41.0 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[14, 15, 'unit'], [18, 22, 'min'], [25, 29, 'max']]}",Solid content
+"{'data': 'Solid Content: | 15 %', 'label': [[17, 19, 'mean'], [20, 21, 'unit']]}",Solid content
+"{'data': 'Nonvolatile | % | 39.0 - 41.0 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[14, 15, 'unit'], [18, 22, 'min'], [25, 29, 'max']]}",Solid content
+"{'data': 'Fill Analysis | Melt Viscosity ( 232 °C, 100 sec^ - 1 )', 'label': [[16, 20, 'measuring_condition'], [33, 53, 'measuring_condition']]}",Viscosity
+"{'data': 'Viscosity ( Brookfield 30 s - 1 ) | 100', 'label': [[12, 31, 'measuring_condition'], [36, 39, 'mean']]}",Viscosity
+"{'data': 'Viscosity ( Stokes ) ( at 25 ℃ ) | cm 2 /s | 2.4 - 4.8 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[12, 18, 'measuring_condition'], [23, 30, 'measuring_condition'], [35, 42, 'measuring_condition'], [45, 48, 'min'], [51, 54, 'max']]}",Viscosity
+"{'data': 'Viscosity ( 25 ℃/s ) | 100 ~ 200', 'label': [[23, 26, 'min'], [29, 32, 'max'], [12, 16, 'measuring_condition'], [17, 18, 'unit']]}",Viscosity
+"{'data': 'Viscosity ( Brookfield 30 s - 1 ) | 100', 'label': [[12, 31, 'measuring_condition'], [36, 39, 'mean']]}",Viscosity
+"{'data': 'gardener） | gardener X～Z', 'label': [[12, 20, 'measuring_condition'], [21, 22, 'min'], [23, 24, 'max']]}",Viscosity
+"{'data': 'Melt viscosity ( 230 °C, 100 s - 1 ) | ASTM D 3835 | Pa.s | 2900 - 3300 <header> <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <Typical Values> </header>', 'label': [[0, 4, 'measuring_condition'], [17, 34, 'measuring_condition'], [39, 50, 'method'], [53, 57, 'unit'], [60, 64, 'min'], [67, 71, 'max']]}",Viscosity
+"{'data': 'Viscosity ( 25 ℃/s ) | 100 ~ 200 <header> <Appearance> | <Clear, no impurity> </header>', 'label': [[23, 26, 'min'], [29, 32, 'max'], [12, 16, 'measuring_condition'], [17, 18, 'unit']]}",Viscosity
+"{'data': 'Viscosity ( Stokes ) ( at 25 ℃ ) | cm 2 /s | 2.4 - 4.8 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[12, 18, 'measuring_condition'], [23, 30, 'measuring_condition'], [35, 42, 'measuring_condition'], [45, 48, 'min'], [51, 54, 'max']]}",Viscosity
+"{'data': 'Melt Viscosity | D 3835', 'label': [[0, 4, 'measuring_condition'], [17, 23, 'method']]}",Viscosity
+"{'data': 'Viscosity ( 25 ℃/s ) | 100 ~ 200 <header> <Appearance> | <Clear, no impurity> </header>', 'label': [[23, 26, 'min'], [29, 32, 'max'], [12, 16, 'measuring_condition'], [17, 18, 'unit']]}",Viscosity
+"{'data': 'Fill Analysis | Melt Viscosity ( 232 °C, 100 sec^ - 1 )', 'label': [[16, 20, 'measuring_condition'], [33, 53, 'measuring_condition']]}",Viscosity
+"{'data': 'Viscosity , Viscosity, （gardener gardener gardener） | X～Z', 'label': [[24, 50, 'measuring_condition'], [54, 55, 'min'], [56, 57, 'max']]}",Viscosity
+"{'data': 'Melt viscosity ( 230 °C, 100 s - 1 ) | ASTM D 3835 | Pa.s | 2900 - 3300 <header> <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <Typical Values> </header>', 'label': [[0, 4, 'measuring_condition'], [17, 34, 'measuring_condition'], [39, 50, 'method'], [53, 57, 'unit'], [60, 64, 'min'], [67, 71, 'max']]}",Viscosity
+"{'data': 'Viscosity ( Stokes ) ( at 25 ℃ ) | cm 2 /s | 2.4 - 4.8 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[12, 18, 'measuring_condition'], [23, 30, 'measuring_condition'], [35, 42, 'measuring_condition'], [45, 48, 'min'], [51, 54, 'max']]}",Viscosity
+"{'data': 'Viscosity ( Brookfield 30 s - 1 ) | 100 <header> <Property> | <Value> </header>', 'label': [[12, 31, 'measuring_condition'], [36, 39, 'mean']]}",Viscosity
+"{'data': 'Viscosity ( Brookfield 30 s - 1 ) | 100', 'label': [[12, 31, 'measuring_condition'], [36, 39, 'mean']]}",Viscosity
+"{'data': 'Viscosity ( Stokes ) ( at 25 ℃ ) | cm 2 /s | 2.4 - 4.8 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[12, 18, 'measuring_condition'], [23, 30, 'measuring_condition'], [35, 42, 'measuring_condition'], [45, 48, 'min'], [51, 54, 'max']]}",Viscosity
+"{'data': 'Melt Viscosity | D 3835', 'label': [[0, 4, 'measuring_condition'], [17, 23, 'method']]}",Viscosity
+"{'data': 'Viscosity ( Stokes ) ( at 25 ℃ ) | cm 2 /s | 2.4 - 4.8 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[12, 18, 'measuring_condition'], [23, 30, 'measuring_condition'], [35, 42, 'measuring_condition'], [45, 48, 'min'], [51, 54, 'max']]}",Viscosity
+"{'data': 'Fill Analysis | Melt Viscosity ( 232 °C, 100 sec^ - 1 )', 'label': [[16, 20, 'measuring_condition'], [33, 53, 'measuring_condition']]}",Viscosity
+"{'data': 'Viscosity , Viscosity, （gardener gardener gardener） | X～Z', 'label': [[24, 50, 'measuring_condition'], [54, 55, 'min'], [56, 57, 'max']]}",Viscosity
+"{'data': 'Viscosity ( 25 ℃/s ) | 100 ~ 200', 'label': [[23, 26, 'min'], [29, 32, 'max'], [12, 16, 'measuring_condition'], [17, 18, 'unit']]}",Viscosity
+"{'data': 'Viscosité / Melt viscosity ( 230 °C, 100 s - 1 ) | ASTM D 3835 | Pa.s | 3100 <header> <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <PROPRIETES GENERALES / GENERAL PROPERTIES> | <Valeurs typiques / Typical Values> </header>', 'label': [[12, 16, 'measuring_condition'], [29, 46, 'measuring_condition'], [51, 62, 'method'], [65, 69, 'unit'], [72, 76, 'mean']]}",Viscosity
+"{'data': 'Melt Viscosity | D 3835', 'label': [[0, 4, 'measuring_condition'], [17, 23, 'method']]}",Viscosity
+"{'data': 'Viscosity ( 25 ℃/s ) | 100 ~ 200', 'label': [[23, 26, 'min'], [29, 32, 'max'], [12, 16, 'measuring_condition'], [17, 18, 'unit']]}",Viscosity
+"{'data': 'Viscosity ( Stokes ) ( at 25 ℃ ) | cm 2 /s | 2.4 - 4.8 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[12, 18, 'measuring_condition'], [23, 30, 'measuring_condition'], [35, 42, 'measuring_condition'], [45, 48, 'min'], [51, 54, 'max']]}",Viscosity
+"{'data': 'Viscosity ( Stokes ) ( at 25 ℃ ) | cm 2 /s | 2.4 - 4.8 <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': [[12, 18, 'measuring_condition'], [23, 30, 'measuring_condition'], [35, 42, 'measuring_condition'], [45, 48, 'min'], [51, 54, 'max']]}",Viscosity
+"{'data': 'Viscosity ( 25 ℃/s ) | 100 ~ 200 <header> <Appearance> | <Clear, no impurity> </header>', 'label': [[23, 26, 'min'], [29, 32, 'max'], [12, 16, 'measuring_condition'], [17, 18, 'unit']]}",Viscosity
+"{'data': 'Viscosity ( 25 ℃/s ) | 100 ~ 200', 'label': [[23, 26, 'min'], [29, 32, 'max'], [12, 16, 'measuring_condition'], [17, 18, 'unit']]}",Viscosity
+"{'data': 'Melt viscosity ( 230 °C, 100 s - 1 ) | ASTM D 3835 | Pa.s | 2900 - 3300 <header> <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <Typical Values> </header>', 'label': [[0, 4, 'measuring_condition'], [17, 34, 'measuring_condition'], [39, 50, 'method'], [53, 57, 'unit'], [60, 64, 'min'], [67, 71, 'max']]}",Viscosity
+"{'data': 'Thermal | Typical Value Unit | Test method <header> <Physical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",header
+"{'data': 'Additional Information | Typical Value Unit | Test method <header> <Optical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",header
+"{'data': '性质/PROPERITES | 测试方法 /TEST METHOD | 单位 /UNIT | 指标 <header> <性质/PROPERITES> | <测试方法 /TEST METHOD> | <单位 /UNIT> | <指标> </header>', 'label': []}",header
+"{'data': 'Fill Analysis | Typical Value Unit | Test method <header> <Optical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",header
+"{'data': 'Thermal | Typical Value Unit | Test method <header> <Physical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",header
+"{'data': 'Thermal | Typical Value Unit | Test method <header> <Physical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",header
+"{'data': 'Fill Analysis | Typical Value Unit | Test method <header> <Optical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",header
+"{'data': 'PHYSICAL PROPERTIES | PHYSICAL PROPERTIES | PHYSICAL PROPERTIES | PHYSICAL PROPERTIES <header> <PHYSICAL PROPERTIES> <Property> | <PHYSICAL PROPERTIES> <Unit> | <PHYSICAL PROPERTIES> <Typical Values> | <PHYSICAL PROPERTIES> <ASTM Method> </header>', 'label': []}",header
+"{'data': 'PHYSICAL PROPERTIES | PHYSICAL PROPERTIES | PHYSICAL PROPERTIES | PHYSICAL PROPERTIES <header> <PHYSICAL PROPERTIES> <Property> | <PHYSICAL PROPERTIES> <Unit> | <PHYSICAL PROPERTIES> <Typical Values> | <PHYSICAL PROPERTIES> <ASTM Method> </header>', 'label': []}",header
+"{'data': 'Additional Information | Typical Value Unit | Test method <header> <Optical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",header
+"{'data': 'Thermal | Typical Value Unit | Test method <header> <Physical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",header
+"{'data': 'Property | Unit | Typical Values | ASTM Method <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",header
+"{'data': '性质 PROPERITES | 测试方法 TEST METHOD | 单位 /UNIT | T - 1 | T - 1 W <header> <性质 PROPERITES> | <测试方法 TEST METHOD> | <单位 /UNIT> | <T - 1 > <粉末 /POWDER> | <T - 1 W> <粉末 /POWDER> </header>', 'label': []}",header
+"{'data': 'ITEM | UNIT | SPECIFICATIONS <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': []}",header
+"{'data': 'Property | Unit | Typical Values | ASTM Method <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",header
+"{'data': 'ITEM | UNIT | DS 201 | ASTM measurement <header> <ITEM> | <UNIT> | <DS 201 > | <ASTM measurement> </header>', 'label': []}",header
+"{'data': 'Thermal | Typical Value Unit | Test method <header> <Physical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",header
+"{'data': 'Additional Information | Typical Value Unit | Test method <header> <Optical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",header
+"{'data': 'Thermal | Typical Value Unit | Test method <header> <Physical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",header
+"{'data': '性质 PROPERITES | 测试方法 TEST METHOD | 单位 /UNIT | T - 1 | T - 1 W <header> <性质 PROPERITES> | <测试方法 TEST METHOD> | <单位 /UNIT> | <T - 1 > <粉末 /POWDER> | <T - 1 W> <粉末 /POWDER> </header>', 'label': []}",header
+"{'data': 'GENERAL PROPERTIES | GENERAL PROPERTIES | GENERAL PROPERTIES | Typical Values <header> <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <GENERAL PROPERTIES> | <Typical Values> </header>', 'label': []}",header
+"{'data': 'ITEM | UNIT | SPECIFICATIONS <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': []}",header
+"{'data': 'Fill Analysis | Typical Value Unit | Test method <header> <Optical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",header
+"{'data': 'ITEM | UNIT | SPECIFICATIONS <header> <ITEM> | <UNIT> | <SPECIFICATIONS> </header>', 'label': []}",header
+"{'data': '性质 PROPERITES | 测试方法 TEST METHOD | 单位 /UNIT | T - 1 | T - 1 W <header> <性质 PROPERITES> | <测试方法 TEST METHOD> | <单位 /UNIT> | <T - 1 > <粉末 /POWDER> | <T - 1 W> <粉末 /POWDER> </header>', 'label': []}",header
+"{'data': 'ITEM | UNIT | DS 201 | ASTM measurement <header> <ITEM> | <UNIT> | <DS 201 > | <ASTM measurement> </header>', 'label': []}",header
+"{'data': 'Property | Unit | Typical Values | ASTM Method <header> <Property> | <Unit> | <Typical Values> | <ASTM Method> </header>', 'label': []}",header
+"{'data': 'Additional Information | Typical Value Unit | Test method <header> <Optical> | <Typical Value Unit> | <Test method> </header>', 'label': []}",header
+"{'data': 'PHYSICAL PROPERTIES | PHYSICAL PROPERTIES | PHYSICAL PROPERTIES | PHYSICAL PROPERTIES <header> <PHYSICAL PROPERTIES> <Property> | <PHYSICAL PROPERTIES> <Unit> | <PHYSICAL PROPERTIES> <Typical Values> | <PHYSICAL PROPERTIES> <ASTM Method> </header>', 'label': []}",header
